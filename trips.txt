@@ -1,0 +1,3737 @@
+route_id,service_id,trip_id,trip_headsign,direction_id
+1,1,10001001,Rossmoor,0
+1,2,10002002,Rossmoor,0
+1,3,10003003,Rossmoor,0
+1,1,10001004,Rossmoor,0
+1,2,10002005,Rossmoor,0
+1,3,10003006,Rossmoor,0
+1,1,10001007,Rossmoor via BART Walnut Creek,0
+1,2,10002008,Rossmoor via BART Walnut Creek,0
+1,3,10003009,Rossmoor via BART Walnut Creek,0
+1,1,10001010,Rossmoor via BART Walnut Creek,0
+1,2,10002011,Rossmoor via BART Walnut Creek,0
+1,3,10003012,Rossmoor via BART Walnut Creek,0
+1,1,10001013,Rossmoor via BART Walnut Creek,0
+1,2,10002014,Rossmoor via BART Walnut Creek,0
+1,3,10003015,Rossmoor via BART Walnut Creek,0
+1,1,10001016,Rossmoor via BART Walnut Creek,0
+1,2,10002017,Rossmoor via BART Walnut Creek,0
+1,3,10003018,Rossmoor via BART Walnut Creek,0
+1,1,10001019,Rossmoor via BART Walnut Creek,0
+1,2,10002020,Rossmoor via BART Walnut Creek,0
+1,3,10003021,Rossmoor via BART Walnut Creek,0
+1,1,10001022,Rossmoor via BART Walnut Creek,0
+1,2,10002023,Rossmoor via BART Walnut Creek,0
+1,3,10003024,Rossmoor via BART Walnut Creek,0
+1,1,10001025,Rossmoor via BART Walnut Creek,0
+1,2,10002026,Rossmoor via BART Walnut Creek,0
+1,3,10003027,Rossmoor via BART Walnut Creek,0
+1,1,10001028,Rossmoor via BART Walnut Creek,0
+1,2,10002029,Rossmoor via BART Walnut Creek,0
+1,3,10003030,Rossmoor via BART Walnut Creek,0
+1,1,10001031,Rossmoor via BART Walnut Creek,0
+1,2,10002032,Rossmoor via BART Walnut Creek,0
+1,3,10003033,Rossmoor via BART Walnut Creek,0
+1,1,10001034,Rossmoor via BART Walnut Creek,0
+1,2,10002035,Rossmoor via BART Walnut Creek,0
+1,3,10003036,Rossmoor via BART Walnut Creek,0
+1,1,10001037,Rossmoor via BART Walnut Creek,0
+1,2,10002038,Rossmoor via BART Walnut Creek,0
+1,3,10003039,Rossmoor via BART Walnut Creek,0
+1,1,10001040,Rossmoor via BART Walnut Creek,0
+1,2,10002041,Rossmoor via BART Walnut Creek,0
+1,3,10003042,Rossmoor via BART Walnut Creek,0
+1,1,11001001,Shadelands Via BART Walnut Creek,1
+1,2,11002002,Shadelands Via BART Walnut Creek,1
+1,3,11003003,Shadelands Via BART Walnut Creek,1
+1,1,11001004,Shadelands Via BART Walnut Creek,1
+1,2,11002005,Shadelands Via BART Walnut Creek,1
+1,3,11003006,Shadelands Via BART Walnut Creek,1
+1,1,11001007,Shadelands Via BART Walnut Creek,1
+1,2,11002008,Shadelands Via BART Walnut Creek,1
+1,3,11003009,Shadelands Via BART Walnut Creek,1
+1,1,11001010,Shadelands Via BART Walnut Creek,1
+1,2,11002011,Shadelands Via BART Walnut Creek,1
+1,3,11003012,Shadelands Via BART Walnut Creek,1
+1,1,11001013,Shadelands Via BART Walnut Creek,1
+1,2,11002014,Shadelands Via BART Walnut Creek,1
+1,3,11003015,Shadelands Via BART Walnut Creek,1
+1,1,11001016,Shadelands Via BART Walnut Creek,1
+1,2,11002017,Shadelands Via BART Walnut Creek,1
+1,3,11003018,Shadelands Via BART Walnut Creek,1
+1,1,11001019,Shadelands Via BART Walnut Creek,1
+1,2,11002020,Shadelands Via BART Walnut Creek,1
+1,3,11003021,Shadelands Via BART Walnut Creek,1
+1,1,11001022,Shadelands Via BART Walnut Creek,1
+1,2,11002023,Shadelands Via BART Walnut Creek,1
+1,3,11003024,Shadelands Via BART Walnut Creek,1
+1,1,11001025,Shadelands Via BART Walnut Creek,1
+1,2,11002026,Shadelands Via BART Walnut Creek,1
+1,3,11003027,Shadelands Via BART Walnut Creek,1
+1,1,11001028,Shadelands Via BART Walnut Creek,1
+1,2,11002029,Shadelands Via BART Walnut Creek,1
+1,3,11003030,Shadelands Via BART Walnut Creek,1
+1,1,11001031,Shadelands Via BART Walnut Creek,1
+1,2,11002032,Shadelands Via BART Walnut Creek,1
+1,3,11003033,Shadelands Via BART Walnut Creek,1
+1,1,11001034,Shadelands Via BART Walnut Creek,1
+1,2,11002035,Shadelands Via BART Walnut Creek,1
+1,3,11003036,Shadelands Via BART Walnut Creek,1
+1,1,11001037,Shadelands Via BART Walnut Creek,1
+1,2,11002038,Shadelands Via BART Walnut Creek,1
+1,3,11003039,Shadelands Via BART Walnut Creek,1
+1,1,11001040,BART Walnut Creek,1
+1,2,11002041,BART Walnut Creek,1
+1,3,11003042,BART Walnut Creek,1
+2,1,20001001,Clayton,0
+2,2,20002002,Clayton,0
+2,3,20003003,Clayton,0
+2,1,20001004,Clayton,0
+2,2,20002005,Clayton,0
+2,3,20003006,Clayton,0
+2,1,20001007,Clayton,0
+2,2,20002008,Clayton,0
+2,3,20003009,Clayton,0
+2,1,20001010,Clayton,0
+2,2,20002011,Clayton,0
+2,3,20003012,Clayton,0
+2,1,20001013,Clayton,0
+2,2,20002014,Clayton,0
+2,3,20003015,Clayton,0
+2,1,20001016,Clayton,0
+2,2,20002017,Clayton,0
+2,3,20003018,Clayton,0
+2,1,20001019,Clayton,0
+2,2,20002020,Clayton,0
+2,3,20003021,Clayton,0
+2,1,20001022,Clayton,0
+2,2,20002023,Clayton,0
+2,3,20003024,Clayton,0
+2,1,20001025,Clayton,0
+2,2,20002026,Clayton,0
+2,3,20003027,Clayton,0
+2,1,20001028,Clayton,0
+2,2,20002029,Clayton,0
+2,3,20003030,Clayton,0
+2,1,20001031,Clayton,0
+2,2,20002032,Clayton,0
+2,3,20003033,Clayton,0
+2,1,20001034,Clayton,0
+2,2,20002035,Clayton,0
+2,3,20003036,Clayton,0
+2,1,20001037,Clayton,0
+2,2,20002038,Clayton,0
+2,3,20003039,Clayton,0
+2,1,20001040,Clayton,0
+2,2,20002041,Clayton,0
+2,3,20003042,Clayton,0
+2,1,20001043,Clayton,0
+2,2,20002044,Clayton,0
+2,3,20003045,Clayton,0
+2,1,20001046,Clayton,0
+2,2,20002047,Clayton,0
+2,3,20003048,Clayton,0
+2,1,20001049,Clayton,0
+2,2,20002050,Clayton,0
+2,3,20003051,Clayton,0
+2,1,20001052,Clayton,0
+2,2,20002053,Clayton,0
+2,3,20003054,Clayton,0
+2,1,20001055,Clayton,0
+2,2,20002056,Clayton,0
+2,3,20003057,Clayton,0
+2,1,20001058,Clayton,0
+2,2,20002059,Clayton,0
+2,3,20003060,Clayton,0
+2,1,20001061,Clayton,0
+2,2,20002062,Clayton,0
+2,3,20003063,Clayton,0
+2,1,20001064,Clayton,0
+2,2,20002065,Clayton,0
+2,3,20003066,Clayton,0
+2,1,20001067,Clayton,0
+2,2,20002068,Clayton,0
+2,3,20003069,Clayton,0
+2,1,20001070,Clayton,0
+2,2,20002071,Clayton,0
+2,3,20003072,Clayton,0
+2,1,20001073,Clayton,0
+2,2,20002074,Clayton,0
+2,3,20003075,Clayton,0
+2,1,20001076,Clayton,0
+2,2,20002077,Clayton,0
+2,3,20003078,Clayton,0
+2,1,20001079,Clayton,0
+2,2,20002080,Clayton,0
+2,3,20003081,Clayton,0
+2,1,20001082,Clayton,0
+2,2,20002083,Clayton,0
+2,3,20003084,Clayton,0
+2,1,20001085,Clayton,0
+2,2,20002086,Clayton,0
+2,3,20003087,Clayton,0
+2,1,20001088,Clayton,0
+2,2,20002089,Clayton,0
+2,3,20003090,Clayton,0
+2,1,20001091,Clayton,0
+2,2,20002092,Clayton,0
+2,3,20003093,Clayton,0
+2,1,20001094,Clayton,0
+2,2,20002095,Clayton,0
+2,3,20003096,Clayton,0
+2,1,20001097,Clayton,0
+2,2,20002098,Clayton,0
+2,3,20003099,Clayton,0
+2,1,20001100,Clayton,0
+2,2,20002101,Clayton,0
+2,3,20003102,Clayton,0
+2,1,20001103,Clayton,0
+2,2,20002104,Clayton,0
+2,3,20003105,Clayton,0
+2,1,20001106,Clayton,0
+2,2,20002107,Clayton,0
+2,3,20003108,Clayton,0
+2,1,20001109,Kirker Pass via Clayton Rd and Ayers,0
+2,2,20002110,Kirker Pass via Clayton Rd and Ayers,0
+2,3,20003111,Kirker Pass via Clayton Rd and Ayers,0
+2,1,20001112,Kirker Pass via Clayton Rd and Ayers,0
+2,2,20002113,Kirker Pass via Clayton Rd and Ayers,0
+2,3,20003114,Kirker Pass via Clayton Rd and Ayers,0
+2,1,20001115,Kirker Pass via Clayton Rd and Ayers,0
+2,2,20002116,Kirker Pass via Clayton Rd and Ayers,0
+2,3,20003117,Kirker Pass via Clayton Rd and Ayers,0
+2,1,21001001,BART Concord,1
+2,2,21002002,BART Concord,1
+2,3,21003003,BART Concord,1
+2,1,21001004,BART Concord,1
+2,2,21002005,BART Concord,1
+2,3,21003006,BART Concord,1
+2,1,21001007,BART Concord,1
+2,2,21002008,BART Concord,1
+2,3,21003009,BART Concord,1
+2,1,21001010,BART Concord,1
+2,2,21002011,BART Concord,1
+2,3,21003012,BART Concord,1
+2,1,21001013,BART Concord,1
+2,2,21002014,BART Concord,1
+2,3,21003015,BART Concord,1
+2,1,21001016,BART Concord,1
+2,2,21002017,BART Concord,1
+2,3,21003018,BART Concord,1
+2,1,21001019,BART Concord,1
+2,2,21002020,BART Concord,1
+2,3,21003021,BART Concord,1
+2,1,21001022,BART Concord,1
+2,2,21002023,BART Concord,1
+2,3,21003024,BART Concord,1
+2,1,21001025,BART Concord,1
+2,2,21002026,BART Concord,1
+2,3,21003027,BART Concord,1
+2,1,21001028,BART Concord,1
+2,2,21002029,BART Concord,1
+2,3,21003030,BART Concord,1
+2,1,21001031,BART Concord,1
+2,2,21002032,BART Concord,1
+2,3,21003033,BART Concord,1
+2,1,21001034,BART Concord,1
+2,2,21002035,BART Concord,1
+2,3,21003036,BART Concord,1
+2,1,21001037,BART Concord,1
+2,2,21002038,BART Concord,1
+2,3,21003039,BART Concord,1
+2,1,21001040,BART Concord,1
+2,2,21002041,BART Concord,1
+2,3,21003042,BART Concord,1
+2,1,21001043,BART Concord,1
+2,2,21002044,BART Concord,1
+2,3,21003045,BART Concord,1
+2,1,21001046,BART Concord,1
+2,2,21002047,BART Concord,1
+2,3,21003048,BART Concord,1
+2,1,21001049,BART Concord,1
+2,2,21002050,BART Concord,1
+2,3,21003051,BART Concord,1
+2,1,21001052,BART Concord,1
+2,2,21002053,BART Concord,1
+2,3,21003054,BART Concord,1
+2,1,21001055,BART Concord,1
+2,2,21002056,BART Concord,1
+2,3,21003057,BART Concord,1
+2,1,21001058,BART Concord,1
+2,2,21002059,BART Concord,1
+2,3,21003060,BART Concord,1
+2,1,21001061,BART Concord,1
+2,2,21002062,BART Concord,1
+2,3,21003063,BART Concord,1
+2,1,21001064,BART Concord,1
+2,2,21002065,BART Concord,1
+2,3,21003066,BART Concord,1
+2,1,21001067,BART Concord,1
+2,2,21002068,BART Concord,1
+2,3,21003069,BART Concord,1
+2,1,21001070,BART Concord,1
+2,2,21002071,BART Concord,1
+2,3,21003072,BART Concord,1
+2,1,21001073,BART Concord,1
+2,2,21002074,BART Concord,1
+2,3,21003075,BART Concord,1
+2,1,21001076,BART Concord,1
+2,2,21002077,BART Concord,1
+2,3,21003078,BART Concord,1
+2,1,21001079,BART Concord,1
+2,2,21002080,BART Concord,1
+2,3,21003081,BART Concord,1
+2,1,21001082,BART Concord,1
+2,2,21002083,BART Concord,1
+2,3,21003084,BART Concord,1
+2,1,21001085,BART Concord,1
+2,2,21002086,BART Concord,1
+2,3,21003087,BART Concord,1
+2,1,21001088,BART Concord,1
+2,2,21002089,BART Concord,1
+2,3,21003090,BART Concord,1
+2,1,21001091,BART Concord,1
+2,2,21002092,BART Concord,1
+2,3,21003093,BART Concord,1
+2,1,21001094,BART Concord,1
+2,2,21002095,BART Concord,1
+2,3,21003096,BART Concord,1
+2,1,21001097,BART Concord,1
+2,2,21002098,BART Concord,1
+2,3,21003099,BART Concord,1
+2,1,21001100,BART Concord,1
+2,2,21002101,BART Concord,1
+2,3,21003102,BART Concord,1
+2,1,21001103,BART Concord,1
+2,2,21002104,BART Concord,1
+2,3,21003105,BART Concord,1
+2,1,21001106,BART Concord,1
+2,2,21002107,BART Concord,1
+2,3,21003108,BART Concord,1
+2,1,21001109,BART Concord,1
+2,2,21002110,BART Concord,1
+2,3,21003111,BART Concord,1
+2,1,21001112,BART Concord,1
+2,2,21002113,BART Concord,1
+2,3,21003114,BART Concord,1
+2,1,21001115,BART Concord,1
+2,2,21002116,BART Concord,1
+2,3,21003117,BART Concord,1
+2,1,21001118,BART Concord,1
+2,2,21002119,BART Concord,1
+2,3,21003120,BART Concord,1
+2,1,21001121,BART Concord,1
+2,2,21002122,BART Concord,1
+2,3,21003123,BART Concord,1
+3,1,30001001,BART Concord,0
+3,2,30002002,BART Concord,0
+3,3,30003003,BART Concord,0
+3,1,30001004,BART Concord,0
+3,2,30002005,BART Concord,0
+3,3,30003006,BART Concord,0
+3,1,30001007,BART Concord,0
+3,2,30002008,BART Concord,0
+3,3,30003009,BART Concord,0
+3,1,30001010,BART Concord,0
+3,2,30002011,BART Concord,0
+3,3,30003012,BART Concord,0
+3,1,30001013,BART Concord,0
+3,2,30002014,BART Concord,0
+3,3,30003015,BART Concord,0
+3,1,30001016,BART Concord,0
+3,2,30002017,BART Concord,0
+3,3,30003018,BART Concord,0
+3,1,30001019,BART Concord,0
+3,2,30002020,BART Concord,0
+3,3,30003021,BART Concord,0
+3,1,30001022,BART Concord,0
+3,2,30002023,BART Concord,0
+3,3,30003024,BART Concord,0
+3,1,30001025,BART Concord,0
+3,2,30002026,BART Concord,0
+3,3,30003027,BART Concord,0
+3,1,30001028,BART Concord,0
+3,2,30002029,BART Concord,0
+3,3,30003030,BART Concord,0
+3,1,30001031,BART Concord,0
+3,2,30002032,BART Concord,0
+3,3,30003033,BART Concord,0
+3,1,30001034,BART Concord,0
+3,2,30002035,BART Concord,0
+3,3,30003036,BART Concord,0
+3,1,31001001,BART Pleasant Hill,1
+3,2,31002002,BART Pleasant Hill,1
+3,3,31003003,BART Pleasant Hill,1
+3,1,31001004,BART Pleasant Hill,1
+3,2,31002005,BART Pleasant Hill,1
+3,3,31003006,BART Pleasant Hill,1
+3,1,31001007,BART Pleasant Hill,1
+3,2,31002008,BART Pleasant Hill,1
+3,3,31003009,BART Pleasant Hill,1
+3,1,31001010,BART Pleasant Hill,1
+3,2,31002011,BART Pleasant Hill,1
+3,3,31003012,BART Pleasant Hill,1
+3,1,31001013,BART Pleasant Hill,1
+3,2,31002014,BART Pleasant Hill,1
+3,3,31003015,BART Pleasant Hill,1
+3,1,31001016,BART Pleasant Hill,1
+3,2,31002017,BART Pleasant Hill,1
+3,3,31003018,BART Pleasant Hill,1
+3,1,31001019,BART Pleasant Hill,1
+3,2,31002020,BART Pleasant Hill,1
+3,3,31003021,BART Pleasant Hill,1
+3,1,31001022,BART Pleasant Hill,1
+3,2,31002023,BART Pleasant Hill,1
+3,3,31003024,BART Pleasant Hill,1
+3,1,31001025,BART Pleasant Hill,1
+3,2,31002026,BART Pleasant Hill,1
+3,3,31003027,BART Pleasant Hill,1
+3,1,31001028,BART Pleasant Hill,1
+3,2,31002029,BART Pleasant Hill,1
+3,3,31003030,BART Pleasant Hill,1
+3,1,31001031,BART Pleasant Hill,1
+3,2,31002032,BART Pleasant Hill,1
+3,3,31003033,BART Pleasant Hill,1
+3,1,31001034,BART Pleasant Hill,1
+3,2,31002035,BART Pleasant Hill,1
+3,3,31003036,BART Pleasant Hill,1
+3,1,31001037,BART Pleasant Hill,1
+3,2,31002038,BART Pleasant Hill,1
+3,3,31003039,BART Pleasant Hill,1
+4,1,40001001,BART Pleasant Hill,0
+4,2,40002002,BART Pleasant Hill,0
+4,3,40003003,BART Pleasant Hill,0
+4,1,40001004,BART Pleasant Hill,0
+4,2,40002005,BART Pleasant Hill,0
+4,3,40003006,BART Pleasant Hill,0
+4,1,40001007,BART Pleasant Hill,0
+4,2,40002008,BART Pleasant Hill,0
+4,3,40003009,BART Pleasant Hill,0
+4,1,40001010,BART Pleasant Hill,0
+4,2,40002011,BART Pleasant Hill,0
+4,3,40003012,BART Pleasant Hill,0
+4,1,40001013,BART Pleasant Hill,0
+4,2,40002014,BART Pleasant Hill,0
+4,3,40003015,BART Pleasant Hill,0
+4,1,40001016,BART Pleasant Hill,0
+4,2,40002017,BART Pleasant Hill,0
+4,3,40003018,BART Pleasant Hill,0
+4,1,40001019,BART Pleasant Hill,0
+4,2,40002020,BART Pleasant Hill,0
+4,3,40003021,BART Pleasant Hill,0
+4,1,40001022,BART Pleasant Hill,0
+4,2,40002023,BART Pleasant Hill,0
+4,3,40003024,BART Pleasant Hill,0
+4,1,40001025,BART Pleasant Hill,0
+4,2,40002026,BART Pleasant Hill,0
+4,3,40003027,BART Pleasant Hill,0
+4,1,40001028,BART Pleasant Hill,0
+4,2,40002029,BART Pleasant Hill,0
+4,3,40003030,BART Pleasant Hill,0
+4,1,40001031,BART Pleasant Hill,0
+4,2,40002032,BART Pleasant Hill,0
+4,3,40003033,BART Pleasant Hill,0
+4,1,40001034,BART Pleasant Hill,0
+4,2,40002035,BART Pleasant Hill,0
+4,3,40003036,BART Pleasant Hill,0
+4,1,40001037,BART Pleasant Hill,0
+4,2,40002038,BART Pleasant Hill,0
+4,3,40003039,BART Pleasant Hill,0
+4,1,40001040,BART Pleasant Hill,0
+4,2,40002041,BART Pleasant Hill,0
+4,3,40003042,BART Pleasant Hill,0
+4,1,40001043,BART Pleasant Hill,0
+4,2,40002044,BART Pleasant Hill,0
+4,3,40003045,BART Pleasant Hill,0
+4,1,40001046,BART Pleasant Hill,0
+4,2,40002047,BART Pleasant Hill,0
+4,3,40003048,BART Pleasant Hill,0
+4,1,40001049,BART Pleasant Hill,0
+4,2,40002050,BART Pleasant Hill,0
+4,3,40003051,BART Pleasant Hill,0
+4,1,40001052,BART Pleasant Hill,0
+4,2,40002053,BART Pleasant Hill,0
+4,3,40003054,BART Pleasant Hill,0
+4,1,40001055,BART Pleasant Hill,0
+4,2,40002056,BART Pleasant Hill,0
+4,3,40003057,BART Pleasant Hill,0
+4,1,40001058,BART Pleasant Hill,0
+4,2,40002059,BART Pleasant Hill,0
+4,3,40003060,BART Pleasant Hill,0
+4,1,40001061,BART Pleasant Hill,0
+4,2,40002062,BART Pleasant Hill,0
+4,3,40003063,BART Pleasant Hill,0
+4,1,40001064,BART Pleasant Hill,0
+4,2,40002065,BART Pleasant Hill,0
+4,3,40003066,BART Pleasant Hill,0
+4,1,40001067,BART Pleasant Hill,0
+4,2,40002068,BART Pleasant Hill,0
+4,3,40003069,BART Pleasant Hill,0
+4,1,41001001,BART Concord,1
+4,2,41002002,BART Concord,1
+4,3,41003003,BART Concord,1
+4,1,41001004,BART Concord,1
+4,2,41002005,BART Concord,1
+4,3,41003006,BART Concord,1
+4,1,41001007,BART Concord,1
+4,2,41002008,BART Concord,1
+4,3,41003009,BART Concord,1
+4,1,41001010,BART Concord,1
+4,2,41002011,BART Concord,1
+4,3,41003012,BART Concord,1
+4,1,41001013,BART Concord,1
+4,2,41002014,BART Concord,1
+4,3,41003015,BART Concord,1
+4,1,41001016,BART Concord,1
+4,2,41002017,BART Concord,1
+4,3,41003018,BART Concord,1
+4,1,41001019,BART Concord,1
+4,2,41002020,BART Concord,1
+4,3,41003021,BART Concord,1
+4,1,41001022,BART Concord,1
+4,2,41002023,BART Concord,1
+4,3,41003024,BART Concord,1
+4,1,41001025,BART Concord,1
+4,2,41002026,BART Concord,1
+4,3,41003027,BART Concord,1
+4,1,41001028,BART Concord,1
+4,2,41002029,BART Concord,1
+4,3,41003030,BART Concord,1
+4,1,41001031,BART Concord,1
+4,2,41002032,BART Concord,1
+4,3,41003033,BART Concord,1
+4,1,41001034,BART Concord,1
+4,2,41002035,BART Concord,1
+4,3,41003036,BART Concord,1
+4,1,41001037,BART Concord,1
+4,2,41002038,BART Concord,1
+4,3,41003039,BART Concord,1
+4,1,41001040,BART Concord,1
+4,2,41002041,BART Concord,1
+4,3,41003042,BART Concord,1
+4,1,41001043,BART Concord,1
+4,2,41002044,BART Concord,1
+4,3,41003045,BART Concord,1
+4,1,41001046,BART Concord,1
+4,2,41002047,BART Concord,1
+4,3,41003048,BART Concord,1
+4,1,41001049,BART Concord,1
+4,2,41002050,BART Concord,1
+4,3,41003051,BART Concord,1
+4,1,41001052,BART Concord,1
+4,2,41002053,BART Concord,1
+4,3,41003054,BART Concord,1
+4,1,41001055,BART Concord,1
+4,2,41002056,BART Concord,1
+4,3,41003057,BART Concord,1
+4,1,41001058,BART Concord,1
+4,2,41002059,BART Concord,1
+4,3,41003060,BART Concord,1
+4,1,41001061,BART Concord,1
+4,2,41002062,BART Concord,1
+4,3,41003063,BART Concord,1
+4,1,41001064,BART Concord,1
+4,2,41002065,BART Concord,1
+4,3,41003066,BART Concord,1
+4,1,41001067,BART Concord,1
+4,2,41002068,BART Concord,1
+4,3,41003069,BART Concord,1
+4,1,41001070,BART Concord,1
+4,2,41002071,BART Concord,1
+4,3,41003072,BART Concord,1
+5,1,50001001,BART Concord Via BART Pleasant Hill,0
+5,2,50002002,BART Concord Via BART Pleasant Hill,0
+5,3,50003003,BART Concord Via BART Pleasant Hill,0
+5,1,50001004,BART Concord Via BART Pleasant Hill,0
+5,2,50002005,BART Concord Via BART Pleasant Hill,0
+5,3,50003006,BART Concord Via BART Pleasant Hill,0
+5,1,50001007,BART Concord Via BART Pleasant Hill,0
+5,2,50002008,BART Concord Via BART Pleasant Hill,0
+5,3,50003009,BART Concord Via BART Pleasant Hill,0
+5,1,50001010,BART Concord Via BART Pleasant Hill,0
+5,2,50002011,BART Concord Via BART Pleasant Hill,0
+5,3,50003012,BART Concord Via BART Pleasant Hill,0
+5,1,50001013,BART Concord Via BART Pleasant Hill,0
+5,2,50002014,BART Concord Via BART Pleasant Hill,0
+5,3,50003015,BART Concord Via BART Pleasant Hill,0
+5,1,50001016,BART Concord Via BART Pleasant Hill,0
+5,2,50002017,BART Concord Via BART Pleasant Hill,0
+5,3,50003018,BART Concord Via BART Pleasant Hill,0
+5,1,50001019,BART Concord Via BART Pleasant Hill,0
+5,2,50002020,BART Concord Via BART Pleasant Hill,0
+5,3,50003021,BART Concord Via BART Pleasant Hill,0
+5,1,50001022,BART Concord Via BART Pleasant Hill,0
+5,2,50002023,BART Concord Via BART Pleasant Hill,0
+5,3,50003024,BART Concord Via BART Pleasant Hill,0
+5,1,50001025,BART Concord Via BART Pleasant Hill,0
+5,2,50002026,BART Concord Via BART Pleasant Hill,0
+5,3,50003027,BART Concord Via BART Pleasant Hill,0
+5,1,50001028,BART Concord Via BART Pleasant Hill,0
+5,2,50002029,BART Concord Via BART Pleasant Hill,0
+5,3,50003030,BART Concord Via BART Pleasant Hill,0
+5,1,50001031,BART Concord Via BART Pleasant Hill,0
+5,2,50002032,BART Concord Via BART Pleasant Hill,0
+5,3,50003033,BART Concord Via BART Pleasant Hill,0
+5,1,50001034,BART Concord Via BART Pleasant Hill,0
+5,2,50002035,BART Concord Via BART Pleasant Hill,0
+5,3,50003036,BART Concord Via BART Pleasant Hill,0
+5,1,50001037,BART Concord Via BART Pleasant Hill,0
+5,2,50002038,BART Concord Via BART Pleasant Hill,0
+5,3,50003039,BART Concord Via BART Pleasant Hill,0
+5,1,51001001,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002002,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003003,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001004,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002005,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003006,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001007,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002008,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003009,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001010,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002011,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003012,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001013,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002014,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003015,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001016,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002017,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003018,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001019,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002020,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003021,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001022,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002023,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003024,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001025,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002026,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003027,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001028,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002029,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003030,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001031,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002032,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003033,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001034,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002035,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003036,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001037,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002038,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003039,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001040,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002041,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003042,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001043,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002044,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003045,BART Walnut Creek Via BART Pleasant Hill,1
+5,1,51001046,BART Walnut Creek Via BART Pleasant Hill,1
+5,2,51002047,BART Walnut Creek Via BART Pleasant Hill,1
+5,3,51003048,BART Walnut Creek Via BART Pleasant Hill,1
+6,1,60001001,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002002,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003003,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001004,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002005,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003006,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001007,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002008,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003009,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001010,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002011,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003012,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001013,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002014,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003015,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001016,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002017,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003018,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001019,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002020,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003021,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001022,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002023,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003024,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001025,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002026,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003027,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001028,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002029,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003030,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001031,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002032,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003033,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001034,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002035,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003036,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001037,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002038,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003039,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001040,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002041,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003042,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001043,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002044,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003045,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001046,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002047,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003048,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001049,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002050,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003051,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001052,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002053,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003054,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001055,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002056,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003057,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001058,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002059,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003060,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001061,AMTRAK Via Downtown Pleasant Hill,0
+6,2,60002062,AMTRAK Via Downtown Pleasant Hill,0
+6,3,60003063,AMTRAK Via Downtown Pleasant Hill,0
+6,1,60001064,Downtown Pleasant Hill,0
+6,2,60002065,Downtown Pleasant Hill,0
+6,3,60003066,Downtown Pleasant Hill,0
+6,1,60001067,Downtown Pleasant Hill,0
+6,2,60002068,Downtown Pleasant Hill,0
+6,3,60003069,Downtown Pleasant Hill,0
+6,1,61001001,BART Concord,1
+6,2,61002002,BART Concord,1
+6,3,61003003,BART Concord,1
+6,1,61001004,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002005,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003006,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001007,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002008,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003009,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001010,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002011,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003012,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001013,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002014,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003015,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001016,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002017,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003018,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001019,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002020,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003021,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001022,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002023,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003024,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001025,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002026,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003027,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001028,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002029,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003030,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001031,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002032,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003033,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001034,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002035,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003036,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001037,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002038,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003039,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001040,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002041,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003042,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001043,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002044,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003045,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001046,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002047,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003048,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001049,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002050,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003051,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001052,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002053,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003054,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001055,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002056,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003057,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001058,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002059,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003060,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001061,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002062,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003063,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001064,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002065,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003066,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001067,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002068,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003069,BART Concord Via Downtown Pleasant Hill,1
+6,1,61001070,BART Concord Via Downtown Pleasant Hill,1
+6,2,61002071,BART Concord Via Downtown Pleasant Hill,1
+6,3,61003072,BART Concord Via Downtown Pleasant Hill,1
+7,1,70001001,BART North Concord via John Muir Medical Center,0
+7,2,70002002,BART North Concord via John Muir Medical Center,0
+7,3,70003003,BART North Concord via John Muir Medical Center,0
+7,1,70001004,BART North Concord via John Muir Medical Center,0
+7,2,70002005,BART North Concord via John Muir Medical Center,0
+7,3,70003006,BART North Concord via John Muir Medical Center,0
+7,1,70001007,BART North Concord via John Muir Medical Center,0
+7,2,70002008,BART North Concord via John Muir Medical Center,0
+7,3,70003009,BART North Concord via John Muir Medical Center,0
+7,1,70001010,BART North Concord via John Muir Medical Center,0
+7,2,70002011,BART North Concord via John Muir Medical Center,0
+7,3,70003012,BART North Concord via John Muir Medical Center,0
+7,1,70001013,BART North Concord via John Muir Medical Center,0
+7,2,70002014,BART North Concord via John Muir Medical Center,0
+7,3,70003015,BART North Concord via John Muir Medical Center,0
+7,1,70001016,BART North Concord via John Muir Medical Center,0
+7,2,70002017,BART North Concord via John Muir Medical Center,0
+7,3,70003018,BART North Concord via John Muir Medical Center,0
+7,1,70001019,BART North Concord via John Muir Medical Center,0
+7,2,70002020,BART North Concord via John Muir Medical Center,0
+7,3,70003021,BART North Concord via John Muir Medical Center,0
+7,1,70001022,BART North Concord via John Muir Medical Center,0
+7,2,70002023,BART North Concord via John Muir Medical Center,0
+7,3,70003024,BART North Concord via John Muir Medical Center,0
+7,1,70001025,BART North Concord via John Muir Medical Center,0
+7,2,70002026,BART North Concord via John Muir Medical Center,0
+7,3,70003027,BART North Concord via John Muir Medical Center,0
+7,1,70001028,BART North Concord via John Muir Medical Center,0
+7,2,70002029,BART North Concord via John Muir Medical Center,0
+7,3,70003030,BART North Concord via John Muir Medical Center,0
+7,1,70001031,BART North Concord via John Muir Medical Center,0
+7,2,70002032,BART North Concord via John Muir Medical Center,0
+7,3,70003033,BART North Concord via John Muir Medical Center,0
+7,1,70001034,BART North Concord via John Muir Medical Center,0
+7,2,70002035,BART North Concord via John Muir Medical Center,0
+7,3,70003036,BART North Concord via John Muir Medical Center,0
+7,1,70001037,BART North Concord via John Muir Medical Center,0
+7,2,70002038,BART North Concord via John Muir Medical Center,0
+7,3,70003039,BART North Concord via John Muir Medical Center,0
+7,1,70001040,BART North Concord via John Muir Medical Center,0
+7,2,70002041,BART North Concord via John Muir Medical Center,0
+7,3,70003042,BART North Concord via John Muir Medical Center,0
+7,1,70001043,BART North Concord via John Muir Medical Center,0
+7,2,70002044,BART North Concord via John Muir Medical Center,0
+7,3,70003045,BART North Concord via John Muir Medical Center,0
+7,1,70001046,BART North Concord via John Muir Medical Center,0
+7,2,70002047,BART North Concord via John Muir Medical Center,0
+7,3,70003048,BART North Concord via John Muir Medical Center,0
+7,1,71001001,BART Concord via John Muir Medical Center,1
+7,2,71002002,BART Concord via John Muir Medical Center,1
+7,3,71003003,BART Concord via John Muir Medical Center,1
+7,1,71001004,BART Concord via John Muir Medical Center,1
+7,2,71002005,BART Concord via John Muir Medical Center,1
+7,3,71003006,BART Concord via John Muir Medical Center,1
+7,1,71001007,BART Concord via John Muir Medical Center,1
+7,2,71002008,BART Concord via John Muir Medical Center,1
+7,3,71003009,BART Concord via John Muir Medical Center,1
+7,1,71001010,BART Concord via John Muir Medical Center,1
+7,2,71002011,BART Concord via John Muir Medical Center,1
+7,3,71003012,BART Concord via John Muir Medical Center,1
+7,1,71001013,BART Concord via John Muir Medical Center,1
+7,2,71002014,BART Concord via John Muir Medical Center,1
+7,3,71003015,BART Concord via John Muir Medical Center,1
+7,1,71001016,BART Concord via John Muir Medical Center,1
+7,2,71002017,BART Concord via John Muir Medical Center,1
+7,3,71003018,BART Concord via John Muir Medical Center,1
+7,1,71001019,BART Concord via John Muir Medical Center,1
+7,2,71002020,BART Concord via John Muir Medical Center,1
+7,3,71003021,BART Concord via John Muir Medical Center,1
+7,1,71001022,BART Concord via John Muir Medical Center,1
+7,2,71002023,BART Concord via John Muir Medical Center,1
+7,3,71003024,BART Concord via John Muir Medical Center,1
+7,1,71001025,BART Concord via John Muir Medical Center,1
+7,2,71002026,BART Concord via John Muir Medical Center,1
+7,3,71003027,BART Concord via John Muir Medical Center,1
+7,1,71001028,BART Concord via John Muir Medical Center,1
+7,2,71002029,BART Concord via John Muir Medical Center,1
+7,3,71003030,BART Concord via John Muir Medical Center,1
+7,1,71001031,BART Concord via John Muir Medical Center,1
+7,2,71002032,BART Concord via John Muir Medical Center,1
+7,3,71003033,BART Concord via John Muir Medical Center,1
+7,1,71001034,BART Concord via John Muir Medical Center,1
+7,2,71002035,BART Concord via John Muir Medical Center,1
+7,3,71003036,BART Concord via John Muir Medical Center,1
+7,1,71001037,BART Concord via John Muir Medical Center,1
+7,2,71002038,BART Concord via John Muir Medical Center,1
+7,3,71003039,BART Concord via John Muir Medical Center,1
+7,1,71001040,BART Concord via John Muir Medical Center,1
+7,2,71002041,BART Concord via John Muir Medical Center,1
+7,3,71003042,BART Concord via John Muir Medical Center,1
+8,1,80001001,BART Pleasant Hill,0
+8,2,80002002,BART Pleasant Hill,0
+8,3,80003003,BART Pleasant Hill,0
+8,1,80001004,BART Pleasant Hill,0
+8,2,80002005,BART Pleasant Hill,0
+8,3,80003006,BART Pleasant Hill,0
+8,1,80001007,BART Pleasant Hill,0
+8,2,80002008,BART Pleasant Hill,0
+8,3,80003009,BART Pleasant Hill,0
+8,1,80001010,BART Pleasant Hill,0
+8,2,80002011,BART Pleasant Hill,0
+8,3,80003012,BART Pleasant Hill,0
+8,1,80001013,BART Pleasant Hill,0
+8,2,80002014,BART Pleasant Hill,0
+8,3,80003015,BART Pleasant Hill,0
+8,1,80001016,BART Pleasant Hill,0
+8,2,80002017,BART Pleasant Hill,0
+8,3,80003018,BART Pleasant Hill,0
+8,1,80001019,BART Pleasant Hill,0
+8,2,80002020,BART Pleasant Hill,0
+8,3,80003021,BART Pleasant Hill,0
+8,1,80001022,BART Pleasant Hill,0
+8,2,80002023,BART Pleasant Hill,0
+8,3,80003024,BART Pleasant Hill,0
+8,1,80001025,BART Pleasant Hill,0
+8,2,80002026,BART Pleasant Hill,0
+8,3,80003027,BART Pleasant Hill,0
+8,1,80001028,BART Pleasant Hill,0
+8,2,80002029,BART Pleasant Hill,0
+8,3,80003030,BART Pleasant Hill,0
+8,1,80001031,BART Pleasant Hill,0
+8,2,80002032,BART Pleasant Hill,0
+8,3,80003033,BART Pleasant Hill,0
+8,1,80001034,BART Pleasant Hill,0
+8,2,80002035,BART Pleasant Hill,0
+8,3,80003036,BART Pleasant Hill,0
+8,1,81001001,Martinez AMTRAK,1
+8,2,81002002,Martinez AMTRAK,1
+8,3,81003003,Martinez AMTRAK,1
+8,1,81001004,Martinez AMTRAK,1
+8,2,81002005,Martinez AMTRAK,1
+8,3,81003006,Martinez AMTRAK,1
+8,1,81001007,Martinez AMTRAK,1
+8,2,81002008,Martinez AMTRAK,1
+8,3,81003009,Martinez AMTRAK,1
+8,1,81001010,Martinez AMTRAK,1
+8,2,81002011,Martinez AMTRAK,1
+8,3,81003012,Martinez AMTRAK,1
+8,1,81001013,Martinez AMTRAK,1
+8,2,81002014,Martinez AMTRAK,1
+8,3,81003015,Martinez AMTRAK,1
+8,1,81001016,Martinez AMTRAK,1
+8,2,81002017,Martinez AMTRAK,1
+8,3,81003018,Martinez AMTRAK,1
+8,1,81001019,Martinez AMTRAK,1
+8,2,81002020,Martinez AMTRAK,1
+8,3,81003021,Martinez AMTRAK,1
+8,1,81001022,Martinez AMTRAK,1
+8,2,81002023,Martinez AMTRAK,1
+8,3,81003024,Martinez AMTRAK,1
+8,1,81001025,Martinez AMTRAK,1
+8,2,81002026,Martinez AMTRAK,1
+8,3,81003027,Martinez AMTRAK,1
+8,1,81001028,Martinez AMTRAK,1
+8,2,81002029,Martinez AMTRAK,1
+8,3,81003030,Martinez AMTRAK,1
+8,1,81001031,Martinez AMTRAK,1
+8,2,81002032,Martinez AMTRAK,1
+8,3,81003033,Martinez AMTRAK,1
+8,1,81001034,Martinez AMTRAK,1
+8,2,81002035,Martinez AMTRAK,1
+8,3,81003036,Martinez AMTRAK,1
+9,1,90001001,BART Concord,0
+9,2,90002002,BART Concord,0
+9,3,90003003,BART Concord,0
+9,1,90001004,BART Concord,0
+9,2,90002005,BART Concord,0
+9,3,90003006,BART Concord,0
+9,1,90001007,BART Concord,0
+9,2,90002008,BART Concord,0
+9,3,90003009,BART Concord,0
+9,1,90001010,BART Concord,0
+9,2,90002011,BART Concord,0
+9,3,90003012,BART Concord,0
+9,1,90001013,BART Concord,0
+9,2,90002014,BART Concord,0
+9,3,90003015,BART Concord,0
+9,1,90001016,BART Concord,0
+9,2,90002017,BART Concord,0
+9,3,90003018,BART Concord,0
+9,1,90001019,BART Concord,0
+9,2,90002020,BART Concord,0
+9,3,90003021,BART Concord,0
+9,1,91001001,Martinez AMTRAK,1
+9,2,91002002,Martinez AMTRAK,1
+9,3,91003003,Martinez AMTRAK,1
+9,1,91001004,Martinez AMTRAK,1
+9,2,91002005,Martinez AMTRAK,1
+9,3,91003006,Martinez AMTRAK,1
+9,1,91001007,Martinez AMTRAK,1
+9,2,91002008,Martinez AMTRAK,1
+9,3,91003009,Martinez AMTRAK,1
+9,1,91001010,Martinez AMTRAK,1
+9,2,91002011,Martinez AMTRAK,1
+9,3,91003012,Martinez AMTRAK,1
+9,1,91001013,Martinez AMTRAK,1
+9,2,91002014,Martinez AMTRAK,1
+9,3,91003015,Martinez AMTRAK,1
+9,1,91001016,Martinez AMTRAK,1
+9,2,91002017,Martinez AMTRAK,1
+9,3,91003018,Martinez AMTRAK,1
+9,1,91001019,Martinez AMTRAK,1
+9,2,91002020,Martinez AMTRAK,1
+9,3,91003021,Martinez AMTRAK,1
+10,1,100001001,John Muir Med Ctr,0
+10,2,100002002,John Muir Med Ctr,0
+10,3,100003003,John Muir Med Ctr,0
+10,1,100001004,John Muir Med Ctr,0
+10,2,100002005,John Muir Med Ctr,0
+10,3,100003006,John Muir Med Ctr,0
+10,1,100001007,John Muir Med Ctr,0
+10,2,100002008,John Muir Med Ctr,0
+10,3,100003009,John Muir Med Ctr,0
+10,1,100001010,John Muir Med Ctr,0
+10,2,100002011,John Muir Med Ctr,0
+10,3,100003012,John Muir Med Ctr,0
+10,1,100001013,John Muir Med Ctr,0
+10,2,100002014,John Muir Med Ctr,0
+10,3,100003015,John Muir Med Ctr,0
+10,1,100001016,John Muir Med Ctr,0
+10,2,100002017,John Muir Med Ctr,0
+10,3,100003018,John Muir Med Ctr,0
+10,1,100001019,John Muir Med Ctr,0
+10,2,100002020,John Muir Med Ctr,0
+10,3,100003021,John Muir Med Ctr,0
+10,1,100001022,John Muir Med Ctr,0
+10,2,100002023,John Muir Med Ctr,0
+10,3,100003024,John Muir Med Ctr,0
+10,1,100001025,John Muir Med Ctr,0
+10,2,100002026,John Muir Med Ctr,0
+10,3,100003027,John Muir Med Ctr,0
+10,1,101001001,BART Walnut Creek Via Marchbanks,1
+10,2,101002002,BART Walnut Creek Via Marchbanks,1
+10,3,101003003,BART Walnut Creek Via Marchbanks,1
+10,1,101001004,BART Walnut Creek Via Marchbanks,1
+10,2,101002005,BART Walnut Creek Via Marchbanks,1
+10,3,101003006,BART Walnut Creek Via Marchbanks,1
+10,1,101001007,BART Walnut Creek Via Marchbanks,1
+10,2,101002008,BART Walnut Creek Via Marchbanks,1
+10,3,101003009,BART Walnut Creek Via Marchbanks,1
+10,1,101001010,BART Walnut Creek Via Marchbanks,1
+10,2,101002011,BART Walnut Creek Via Marchbanks,1
+10,3,101003012,BART Walnut Creek Via Marchbanks,1
+10,1,101001013,BART Walnut Creek Via Marchbanks,1
+10,2,101002014,BART Walnut Creek Via Marchbanks,1
+10,3,101003015,BART Walnut Creek Via Marchbanks,1
+10,1,101001016,BART Walnut Creek Via Marchbanks,1
+10,2,101002017,BART Walnut Creek Via Marchbanks,1
+10,3,101003018,BART Walnut Creek Via Marchbanks,1
+10,1,101001019,BART Walnut Creek Via Marchbanks,1
+10,2,101002020,BART Walnut Creek Via Marchbanks,1
+10,3,101003021,BART Walnut Creek Via Marchbanks,1
+10,1,101001022,BART Walnut Creek Via Marchbanks,1
+10,2,101002023,BART Walnut Creek Via Marchbanks,1
+10,3,101003024,BART Walnut Creek Via Marchbanks,1
+10,1,101001025,BART Walnut Creek Via Marchbanks,1
+10,2,101002026,BART Walnut Creek Via Marchbanks,1
+10,3,101003027,BART Walnut Creek Via Marchbanks,1
+11,1,110001001,Trotter Way,0
+11,2,110002002,Trotter Way,0
+11,3,110003003,Trotter Way,0
+11,1,110001004,Trotter Way,0
+11,2,110002005,Trotter Way,0
+11,3,110003006,Trotter Way,0
+11,1,110001007,Trotter Way,0
+11,2,110002008,Trotter Way,0
+11,3,110003009,Trotter Way,0
+11,1,110001010,Trotter Way,0
+11,2,110002011,Trotter Way,0
+11,3,110003012,Trotter Way,0
+11,1,111001001,BART Walnut Creek,1
+11,2,111002002,BART Walnut Creek,1
+11,3,111003003,BART Walnut Creek,1
+11,1,111001004,BART Walnut Creek,1
+11,2,111002005,BART Walnut Creek,1
+11,3,111003006,BART Walnut Creek,1
+11,1,111001007,BART Walnut Creek,1
+11,2,111002008,BART Walnut Creek,1
+11,3,111003009,BART Walnut Creek,1
+11,1,111001010,BART Walnut Creek,1
+11,2,111002011,BART Walnut Creek,1
+11,3,111003012,BART Walnut Creek,1
+12,1,120001001,BART Concord,0
+12,2,120002002,BART Concord,0
+12,3,120003003,BART Concord,0
+12,1,120001004,BART Concord,0
+12,2,120002005,BART Concord,0
+12,3,120003006,BART Concord,0
+12,1,120001007,BART Concord,0
+12,2,120002008,BART Concord,0
+12,3,120003009,BART Concord,0
+12,1,120001010,BART Concord,0
+12,2,120002011,BART Concord,0
+12,3,120003012,BART Concord,0
+12,1,120001013,BART Concord,0
+12,2,120002014,BART Concord,0
+12,3,120003015,BART Concord,0
+12,1,120001016,BART Concord,0
+12,2,120002017,BART Concord,0
+12,3,120003018,BART Concord,0
+12,1,120001019,BART Concord,0
+12,2,120002020,BART Concord,0
+12,3,120003021,BART Concord,0
+12,1,120001022,BART Concord,0
+12,2,120002023,BART Concord,0
+12,3,120003024,BART Concord,0
+12,1,120001025,BART Concord,0
+12,2,120002026,BART Concord,0
+12,3,120003027,BART Concord,0
+12,1,120001028,BART Concord,0
+12,2,120002029,BART Concord,0
+12,3,120003030,BART Concord,0
+12,1,120001031,BART Concord,0
+12,2,120002032,BART Concord,0
+12,3,120003033,BART Concord,0
+12,1,120001034,BART Concord,0
+12,2,120002035,BART Concord,0
+12,3,120003036,BART Concord,0
+12,1,120001037,BART Concord,0
+12,2,120002038,BART Concord,0
+12,3,120003039,BART Concord,0
+12,1,120001040,BART Concord,0
+12,2,120002041,BART Concord,0
+12,3,120003042,BART Concord,0
+12,1,120001043,BART Concord,0
+12,2,120002044,BART Concord,0
+12,3,120003045,BART Concord,0
+12,1,120001046,BART Concord,0
+12,2,120002047,BART Concord,0
+12,3,120003048,BART Concord,0
+12,1,120001049,BART Concord,0
+12,2,120002050,BART Concord,0
+12,3,120003051,BART Concord,0
+12,1,120001052,BART Concord,0
+12,2,120002053,BART Concord,0
+12,3,120003054,BART Concord,0
+12,1,120001055,BART Concord,0
+12,2,120002056,BART Concord,0
+12,3,120003057,BART Concord,0
+12,1,120001058,BART Concord,0
+12,2,120002059,BART Concord,0
+12,3,120003060,BART Concord,0
+12,1,120001061,BART Concord,0
+12,2,120002062,BART Concord,0
+12,3,120003063,BART Concord,0
+12,1,120001064,BART Concord,0
+12,2,120002065,BART Concord,0
+12,3,120003066,BART Concord,0
+12,1,120001067,BART Concord,0
+12,2,120002068,BART Concord,0
+12,3,120003069,BART Concord,0
+12,1,120001070,BART Concord,0
+12,2,120002071,BART Concord,0
+12,3,120003072,BART Concord,0
+12,1,120001073,BART Concord,0
+12,2,120002074,BART Concord,0
+12,3,120003075,BART Concord,0
+12,1,120001076,BART Concord,0
+12,2,120002077,BART Concord,0
+12,3,120003078,BART Concord,0
+12,1,120001079,BART Concord,0
+12,2,120002080,BART Concord,0
+12,3,120003081,BART Concord,0
+12,1,120001082,BART Concord,0
+12,2,120002083,BART Concord,0
+12,3,120003084,BART Concord,0
+12,1,120001085,BART Concord,0
+12,2,120002086,BART Concord,0
+12,3,120003087,BART Concord,0
+12,1,120001088,BART Concord,0
+12,2,120002089,BART Concord,0
+12,3,120003090,BART Concord,0
+12,1,120001091,BART Concord,0
+12,2,120002092,BART Concord,0
+12,3,120003093,BART Concord,0
+12,1,120001094,BART Concord,0
+12,2,120002095,BART Concord,0
+12,3,120003096,BART Concord,0
+12,1,120001097,BART Concord,0
+12,2,120002098,BART Concord,0
+12,3,120003099,BART Concord,0
+12,1,120001100,BART Concord,0
+12,2,120002101,BART Concord,0
+12,3,120003102,BART Concord,0
+12,1,120001103,BART Concord,0
+12,2,120002104,BART Concord,0
+12,3,120003105,BART Concord,0
+12,1,120001106,BART Concord,0
+12,2,120002107,BART Concord,0
+12,3,120003108,BART Concord,0
+12,1,120001109,BART Concord,0
+12,2,120002110,BART Concord,0
+12,3,120003111,BART Concord,0
+12,1,120001112,BART Concord,0
+12,2,120002113,BART Concord,0
+12,3,120003114,BART Concord,0
+12,1,120001115,BART Concord,0
+12,2,120002116,BART Concord,0
+12,3,120003117,BART Concord,0
+12,1,120001118,BART Concord,0
+12,2,120002119,BART Concord,0
+12,3,120003120,BART Concord,0
+12,1,121001001,Diablo Valley College,1
+12,2,121002002,Diablo Valley College,1
+12,3,121003003,Diablo Valley College,1
+12,1,121001004,Diablo Valley College,1
+12,2,121002005,Diablo Valley College,1
+12,3,121003006,Diablo Valley College,1
+12,1,121001007,Diablo Valley College,1
+12,2,121002008,Diablo Valley College,1
+12,3,121003009,Diablo Valley College,1
+12,1,121001010,Diablo Valley College,1
+12,2,121002011,Diablo Valley College,1
+12,3,121003012,Diablo Valley College,1
+12,1,121001013,Diablo Valley College,1
+12,2,121002014,Diablo Valley College,1
+12,3,121003015,Diablo Valley College,1
+12,1,121001016,Diablo Valley College,1
+12,2,121002017,Diablo Valley College,1
+12,3,121003018,Diablo Valley College,1
+12,1,121001019,Diablo Valley College,1
+12,2,121002020,Diablo Valley College,1
+12,3,121003021,Diablo Valley College,1
+12,1,121001022,Diablo Valley College,1
+12,2,121002023,Diablo Valley College,1
+12,3,121003024,Diablo Valley College,1
+12,1,121001025,Diablo Valley College,1
+12,2,121002026,Diablo Valley College,1
+12,3,121003027,Diablo Valley College,1
+12,1,121001028,Diablo Valley College,1
+12,2,121002029,Diablo Valley College,1
+12,3,121003030,Diablo Valley College,1
+12,1,121001031,Diablo Valley College,1
+12,2,121002032,Diablo Valley College,1
+12,3,121003033,Diablo Valley College,1
+12,1,121001034,Diablo Valley College,1
+12,2,121002035,Diablo Valley College,1
+12,3,121003036,Diablo Valley College,1
+12,1,121001037,Diablo Valley College,1
+12,2,121002038,Diablo Valley College,1
+12,3,121003039,Diablo Valley College,1
+12,1,121001040,Diablo Valley College,1
+12,2,121002041,Diablo Valley College,1
+12,3,121003042,Diablo Valley College,1
+12,1,121001043,Diablo Valley College,1
+12,2,121002044,Diablo Valley College,1
+12,3,121003045,Diablo Valley College,1
+12,1,121001046,Diablo Valley College,1
+12,2,121002047,Diablo Valley College,1
+12,3,121003048,Diablo Valley College,1
+12,1,121001049,Diablo Valley College,1
+12,2,121002050,Diablo Valley College,1
+12,3,121003051,Diablo Valley College,1
+12,1,121001052,Diablo Valley College,1
+12,2,121002053,Diablo Valley College,1
+12,3,121003054,Diablo Valley College,1
+12,1,121001055,Diablo Valley College,1
+12,2,121002056,Diablo Valley College,1
+12,3,121003057,Diablo Valley College,1
+12,1,121001058,Diablo Valley College,1
+12,2,121002059,Diablo Valley College,1
+12,3,121003060,Diablo Valley College,1
+12,1,121001061,Diablo Valley College,1
+12,2,121002062,Diablo Valley College,1
+12,3,121003063,Diablo Valley College,1
+12,1,121001064,Diablo Valley College,1
+12,2,121002065,Diablo Valley College,1
+12,3,121003066,Diablo Valley College,1
+12,1,121001067,Diablo Valley College,1
+12,2,121002068,Diablo Valley College,1
+12,3,121003069,Diablo Valley College,1
+12,1,121001070,Diablo Valley College,1
+12,2,121002071,Diablo Valley College,1
+12,3,121003072,Diablo Valley College,1
+12,1,121001073,Diablo Valley College,1
+12,2,121002074,Diablo Valley College,1
+12,3,121003075,Diablo Valley College,1
+12,1,121001076,Diablo Valley College,1
+12,2,121002077,Diablo Valley College,1
+12,3,121003078,Diablo Valley College,1
+12,1,121001079,Diablo Valley College,1
+12,2,121002080,Diablo Valley College,1
+12,3,121003081,Diablo Valley College,1
+12,1,121001082,Diablo Valley College,1
+12,2,121002083,Diablo Valley College,1
+12,3,121003084,Diablo Valley College,1
+12,1,121001085,Diablo Valley College,1
+12,2,121002086,Diablo Valley College,1
+12,3,121003087,Diablo Valley College,1
+12,1,121001088,Diablo Valley College,1
+12,2,121002089,Diablo Valley College,1
+12,3,121003090,Diablo Valley College,1
+12,1,121001091,Diablo Valley College,1
+12,2,121002092,Diablo Valley College,1
+12,3,121003093,Diablo Valley College,1
+12,1,121001094,Diablo Valley College,1
+12,2,121002095,Diablo Valley College,1
+12,3,121003096,Diablo Valley College,1
+12,1,121001097,Diablo Valley College,1
+12,2,121002098,Diablo Valley College,1
+12,3,121003099,Diablo Valley College,1
+12,1,121001100,Diablo Valley College,1
+12,2,121002101,Diablo Valley College,1
+12,3,121003102,Diablo Valley College,1
+12,1,121001103,Diablo Valley College,1
+12,2,121002104,Diablo Valley College,1
+12,3,121003105,Diablo Valley College,1
+12,1,121001106,Diablo Valley College,1
+12,2,121002107,Diablo Valley College,1
+12,3,121003108,Diablo Valley College,1
+12,1,121001109,Diablo Valley College,1
+12,2,121002110,Diablo Valley College,1
+12,3,121003111,Diablo Valley College,1
+13,1,130001001,San Ramon Transit Center,0
+13,2,130002002,San Ramon Transit Center,0
+13,3,130003003,San Ramon Transit Center,0
+13,1,130001004,San Ramon Transit Center,0
+13,2,130002005,San Ramon Transit Center,0
+13,3,130003006,San Ramon Transit Center,0
+13,1,130001007,San Ramon Transit Center,0
+13,2,130002008,San Ramon Transit Center,0
+13,3,130003009,San Ramon Transit Center,0
+13,1,130001010,San Ramon Transit Center,0
+13,2,130002011,San Ramon Transit Center,0
+13,3,130003012,San Ramon Transit Center,0
+13,1,130001013,San Ramon Transit Center,0
+13,2,130002014,San Ramon Transit Center,0
+13,3,130003015,San Ramon Transit Center,0
+13,1,130001016,San Ramon Transit Center,0
+13,2,130002017,San Ramon Transit Center,0
+13,3,130003018,San Ramon Transit Center,0
+13,1,130001019,San Ramon Transit Center,0
+13,2,130002020,San Ramon Transit Center,0
+13,3,130003021,San Ramon Transit Center,0
+13,1,130001022,San Ramon Transit Center,0
+13,2,130002023,San Ramon Transit Center,0
+13,3,130003024,San Ramon Transit Center,0
+13,1,130001025,San Ramon Transit Center,0
+13,2,130002026,San Ramon Transit Center,0
+13,3,130003027,San Ramon Transit Center,0
+13,1,130001028,San Ramon Transit Center,0
+13,2,130002029,San Ramon Transit Center,0
+13,3,130003030,San Ramon Transit Center,0
+13,1,130001031,San Ramon Transit Center,0
+13,2,130002032,San Ramon Transit Center,0
+13,3,130003033,San Ramon Transit Center,0
+13,1,130001034,San Ramon Transit Center,0
+13,2,130002035,San Ramon Transit Center,0
+13,3,130003036,San Ramon Transit Center,0
+13,1,130001037,San Ramon Transit Center,0
+13,2,130002038,San Ramon Transit Center,0
+13,3,130003039,San Ramon Transit Center,0
+13,1,130001040,San Ramon Transit Center,0
+13,2,130002041,San Ramon Transit Center,0
+13,3,130003042,San Ramon Transit Center,0
+13,1,130001043,San Ramon Transit Center,0
+13,2,130002044,San Ramon Transit Center,0
+13,3,130003045,San Ramon Transit Center,0
+13,1,130001046,San Ramon Transit Center,0
+13,2,130002047,San Ramon Transit Center,0
+13,3,130003048,San Ramon Transit Center,0
+13,1,130001049,San Ramon Transit Center,0
+13,2,130002050,San Ramon Transit Center,0
+13,3,130003051,San Ramon Transit Center,0
+13,1,130001052,San Ramon Transit Center,0
+13,2,130002053,San Ramon Transit Center,0
+13,3,130003054,San Ramon Transit Center,0
+13,1,130001055,San Ramon Transit Center,0
+13,2,130002056,San Ramon Transit Center,0
+13,3,130003057,San Ramon Transit Center,0
+13,1,130001058,San Ramon Transit Center,0
+13,2,130002059,San Ramon Transit Center,0
+13,3,130003060,San Ramon Transit Center,0
+13,1,130001061,San Ramon Transit Center,0
+13,2,130002062,San Ramon Transit Center,0
+13,3,130003063,San Ramon Transit Center,0
+13,1,130001064,San Ramon Transit Center,0
+13,2,130002065,San Ramon Transit Center,0
+13,3,130003066,San Ramon Transit Center,0
+13,1,130001067,San Ramon Transit Center,0
+13,2,130002068,San Ramon Transit Center,0
+13,3,130003069,San Ramon Transit Center,0
+13,1,130001070,San Ramon Transit Center,0
+13,2,130002071,San Ramon Transit Center,0
+13,3,130003072,San Ramon Transit Center,0
+13,1,130001073,San Ramon Transit Center,0
+13,2,130002074,San Ramon Transit Center,0
+13,3,130003075,San Ramon Transit Center,0
+13,1,131001001,BART Walnut Creek,1
+13,2,131002002,BART Walnut Creek,1
+13,3,131003003,BART Walnut Creek,1
+13,1,131001004,BART Walnut Creek,1
+13,2,131002005,BART Walnut Creek,1
+13,3,131003006,BART Walnut Creek,1
+13,1,131001007,BART Walnut Creek,1
+13,2,131002008,BART Walnut Creek,1
+13,3,131003009,BART Walnut Creek,1
+13,1,131001010,BART Walnut Creek,1
+13,2,131002011,BART Walnut Creek,1
+13,3,131003012,BART Walnut Creek,1
+13,1,131001013,BART Walnut Creek,1
+13,2,131002014,BART Walnut Creek,1
+13,3,131003015,BART Walnut Creek,1
+13,1,131001016,BART Walnut Creek,1
+13,2,131002017,BART Walnut Creek,1
+13,3,131003018,BART Walnut Creek,1
+13,1,131001019,BART Walnut Creek,1
+13,2,131002020,BART Walnut Creek,1
+13,3,131003021,BART Walnut Creek,1
+13,1,131001022,BART Walnut Creek,1
+13,2,131002023,BART Walnut Creek,1
+13,3,131003024,BART Walnut Creek,1
+13,1,131001025,BART Walnut Creek,1
+13,2,131002026,BART Walnut Creek,1
+13,3,131003027,BART Walnut Creek,1
+13,1,131001028,BART Walnut Creek,1
+13,2,131002029,BART Walnut Creek,1
+13,3,131003030,BART Walnut Creek,1
+13,1,131001031,BART Walnut Creek,1
+13,2,131002032,BART Walnut Creek,1
+13,3,131003033,BART Walnut Creek,1
+13,1,131001034,BART Walnut Creek,1
+13,2,131002035,BART Walnut Creek,1
+13,3,131003036,BART Walnut Creek,1
+13,1,131001037,BART Walnut Creek,1
+13,2,131002038,BART Walnut Creek,1
+13,3,131003039,BART Walnut Creek,1
+13,1,131001040,BART Walnut Creek,1
+13,2,131002041,BART Walnut Creek,1
+13,3,131003042,BART Walnut Creek,1
+13,1,131001043,BART Walnut Creek,1
+13,2,131002044,BART Walnut Creek,1
+13,3,131003045,BART Walnut Creek,1
+13,1,131001046,BART Walnut Creek,1
+13,2,131002047,BART Walnut Creek,1
+13,3,131003048,BART Walnut Creek,1
+13,1,131001049,BART Walnut Creek,1
+13,2,131002050,BART Walnut Creek,1
+13,3,131003051,BART Walnut Creek,1
+13,1,131001052,BART Walnut Creek,1
+13,2,131002053,BART Walnut Creek,1
+13,3,131003054,BART Walnut Creek,1
+13,1,131001055,BART Walnut Creek,1
+13,2,131002056,BART Walnut Creek,1
+13,3,131003057,BART Walnut Creek,1
+13,1,131001058,BART Walnut Creek,1
+13,2,131002059,BART Walnut Creek,1
+13,3,131003060,BART Walnut Creek,1
+13,1,131001061,BART Walnut Creek,1
+13,2,131002062,BART Walnut Creek,1
+13,3,131003063,BART Walnut Creek,1
+13,1,131001064,BART Walnut Creek,1
+13,2,131002065,BART Walnut Creek,1
+13,3,131003066,BART Walnut Creek,1
+13,1,131001067,BART Walnut Creek,1
+13,2,131002068,BART Walnut Creek,1
+13,3,131003069,BART Walnut Creek,1
+13,1,131001070,BART Walnut Creek,1
+13,2,131002071,BART Walnut Creek,1
+13,3,131003072,BART Walnut Creek,1
+14,1,140001001,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002002,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003003,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001004,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002005,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003006,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001007,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002008,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003009,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001010,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002011,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003012,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001013,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002014,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003015,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001016,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002017,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003018,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001019,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002020,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003021,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001022,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002023,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003024,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001025,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002026,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003027,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,140001028,BART Walnut Creek via Mount Diablo Blvd,0
+14,2,140002029,BART Walnut Creek via Mount Diablo Blvd,0
+14,3,140003030,BART Walnut Creek via Mount Diablo Blvd,0
+14,1,141001001,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002002,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003003,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001004,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002005,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003006,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001007,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002008,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003009,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001010,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002011,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003012,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001013,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002014,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003015,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001016,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002017,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003018,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001019,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002020,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003021,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001022,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002023,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003024,BART Lafayette via Mount Diablo Blvd,1
+14,1,141001025,BART Lafayette via Mount Diablo Blvd,1
+14,2,141002026,BART Lafayette via Mount Diablo Blvd,1
+14,3,141003027,BART Lafayette via Mount Diablo Blvd,1
+16,7,160007001,,0
+16,7,160007002,,0
+16,7,160007003,,0
+16,7,160007004,,0
+16,7,160007005,,0
+16,7,160007006,,0
+16,7,160007007,,0
+16,7,160007008,,0
+16,7,160007009,,0
+16,7,161007001,,1
+16,7,161007002,,1
+16,7,161007003,,1
+16,7,161007004,,1
+16,7,161007005,,1
+16,7,161007006,,1
+16,7,161007007,,1
+16,7,161007008,,1
+16,7,161007009,,1
+17,1,170001001,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002002,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003003,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001004,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002005,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003006,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001007,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002008,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003009,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001010,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002011,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003012,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001013,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002014,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003015,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001016,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002017,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003018,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001019,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002020,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003021,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001022,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002023,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003024,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001025,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002026,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003027,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001028,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,2,170002029,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,3,170003030,BART North Concord Via VA Clinic/Diablo Valley College,0
+17,1,170001031,BART North Concord,0
+17,2,170002032,BART North Concord,0
+17,3,170003033,BART North Concord,0
+17,1,170001034,BART North Concord,0
+17,2,170002035,BART North Concord,0
+17,3,170003036,BART North Concord,0
+17,1,171001001,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002002,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003003,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001004,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002005,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003006,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001007,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002008,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003009,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001010,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002011,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003012,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001013,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002014,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003015,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001016,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002017,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003018,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001019,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002020,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003021,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001022,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002023,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003024,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001025,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002026,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003027,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001028,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,2,171002029,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,3,171003030,Martinez AMTRAK Via Diablo Valley College/VA Clinic,1
+17,1,171001031,Martinez AMTRAK,1
+17,2,171002032,Martinez AMTRAK,1
+17,3,171003033,Martinez AMTRAK,1
+17,1,171001034,Martinez AMTRAK,1
+17,2,171002035,Martinez AMTRAK,1
+17,3,171003036,Martinez AMTRAK,1
+18,1,180001001,Martinez Shuttle,0
+18,2,180002002,Martinez Shuttle,0
+18,3,180003003,Martinez Shuttle,0
+18,1,180001004,Martinez Shuttle,0
+18,2,180002005,Martinez Shuttle,0
+18,3,180003006,Martinez Shuttle,0
+18,1,180001007,Martinez Shuttle,0
+18,2,180002008,Martinez Shuttle,0
+18,3,180003009,Martinez Shuttle,0
+18,1,180001010,Martinez Shuttle,0
+18,2,180002011,Martinez Shuttle,0
+18,3,180003012,Martinez Shuttle,0
+18,1,180001013,Martinez Shuttle,0
+18,2,180002014,Martinez Shuttle,0
+18,3,180003015,Martinez Shuttle,0
+18,1,180001016,Martinez Shuttle,0
+18,2,180002017,Martinez Shuttle,0
+18,3,180003018,Martinez Shuttle,0
+18,1,180001019,Martinez Shuttle,0
+18,2,180002020,Martinez Shuttle,0
+18,3,180003021,Martinez Shuttle,0
+18,1,180001022,Martinez Shuttle,0
+18,2,180002023,Martinez Shuttle,0
+18,3,180003024,Martinez Shuttle,0
+18,1,180001025,Martinez Shuttle,0
+18,2,180002026,Martinez Shuttle,0
+18,3,180003027,Martinez Shuttle,0
+18,1,180001028,Martinez Shuttle,0
+18,2,180002029,Martinez Shuttle,0
+18,3,180003030,Martinez Shuttle,0
+18,1,180001031,Martinez Shuttle,0
+18,2,180002032,Martinez Shuttle,0
+18,3,180003033,Martinez Shuttle,0
+18,1,180001034,Martinez Shuttle,0
+18,2,180002035,Martinez Shuttle,0
+18,3,180003036,Martinez Shuttle,0
+18,1,180001037,Martinez Shuttle,0
+18,2,180002038,Martinez Shuttle,0
+18,3,180003039,Martinez Shuttle,0
+18,1,180001040,Martinez Shuttle,0
+18,2,180002041,Martinez Shuttle,0
+18,3,180003042,Martinez Shuttle,0
+18,1,180001043,Martinez Shuttle,0
+18,2,180002044,Martinez Shuttle,0
+18,3,180003045,Martinez Shuttle,0
+19,4,190004001,Rossmoor,0
+19,5,190005002,Rossmoor Via BART Walnut Creek,0
+19,5,190005003,Rossmoor Via BART Walnut Creek,0
+19,4,190004004,Rossmoor Via BART Walnut Creek,0
+19,4,190004005,Rossmoor Via BART Walnut Creek,0
+19,5,190005006,Rossmoor Via BART Walnut Creek,0
+19,5,190005007,Rossmoor Via BART Walnut Creek,0
+19,4,190004008,Rossmoor,0
+19,4,190004009,Rossmoor Via BART Walnut Creek,0
+19,5,190005010,Rossmoor Via BART Walnut Creek,0
+19,5,190005011,Rossmoor Via BART Walnut Creek,0
+19,4,190004012,Rossmoor Via BART Walnut Creek,0
+19,4,190004013,Rossmoor Via BART Walnut Creek,0
+19,5,190005014,Rossmoor Via BART Walnut Creek,0
+19,4,191004001,John Muir Medical Center Via BART Walnut Creek,1
+19,5,191005002,John Muir Medical Center Via BART Walnut Creek,1
+19,5,191005003,John Muir Medical Center Via BART Walnut Creek,1
+19,4,191004004,John Muir Medical Center Via BART Walnut Creek,1
+19,4,191004005,John Muir Medical Center Via BART Walnut Creek,1
+19,5,191005006,John Muir Medical Center Via BART Walnut Creek,1
+19,5,191005007,John Muir Medical Center Via BART Walnut Creek,1
+19,4,191004008,John Muir Medical Center Via BART Walnut Creek,1
+19,4,191004009,John Muir Medical Center Via BART Walnut Creek,1
+19,5,191005010,John Muir Medical Center Via BART Walnut Creek,1
+19,5,191005011,John Muir Medical Center Via BART Walnut Creek,1
+19,4,191004012,John Muir Medical Center Via BART Walnut Creek,1
+20,4,200004001,BART Concord,0
+20,5,200005002,BART Concord,0
+20,5,200005003,BART Concord,0
+20,4,200004004,BART Concord,0
+20,4,200004005,BART Concord,0
+20,5,200005006,BART Concord,0
+20,5,200005007,BART Concord,0
+20,4,200004008,BART Concord,0
+20,4,200004009,BART Concord,0
+20,5,200005010,BART Concord,0
+20,5,200005011,BART Concord,0
+20,4,200004012,BART Concord,0
+20,4,200004013,BART Concord,0
+20,5,200005014,BART Concord,0
+20,5,200005015,BART Concord,0
+20,4,200004016,BART Concord,0
+20,4,200004017,BART Concord,0
+20,5,200005018,BART Concord,0
+20,5,200005019,BART Concord,0
+20,4,200004020,BART Concord,0
+20,4,200004021,BART Concord,0
+20,5,200005022,BART Concord,0
+20,5,200005023,BART Concord,0
+20,4,200004024,BART Concord,0
+20,4,200004025,BART Concord,0
+20,5,200005026,BART Concord,0
+20,5,200005027,BART Concord,0
+20,4,200004028,BART Concord,0
+20,4,200004029,BART Concord,0
+20,5,200005030,BART Concord,0
+20,5,200005031,BART Concord,0
+20,4,200004032,BART Concord,0
+20,4,200004033,BART Concord,0
+20,5,200005034,BART Concord,0
+20,5,200005035,BART Concord,0
+20,4,200004036,BART Concord,0
+20,4,200004037,BART Concord,0
+20,5,200005038,BART Concord,0
+20,5,200005039,BART Concord,0
+20,4,200004040,BART Concord,0
+20,5,200005041,BART Concord,0
+20,4,200004042,BART Concord,0
+20,5,200005043,BART Concord,0
+20,4,200004044,BART Concord,0
+20,4,201004001,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005002,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005003,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004004,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004005,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005006,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005007,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004008,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004009,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005010,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005011,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004012,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004013,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005014,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005015,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004016,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004017,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005018,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005019,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004020,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004021,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005022,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005023,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004024,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004025,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005026,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005027,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004028,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004029,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005030,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005031,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004032,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004033,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005034,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005035,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004036,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004037,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005038,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005039,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004040,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005041,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004042,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,5,201005043,Kirker Pass Rd via Clayton Rd and Ayers,1
+20,4,201004044,Kirker Pass Rd via Clayton Rd and Ayers,1
+21,4,210004001,BART Concord Via BART Pleasant Hill,0
+21,5,210005002,BART Concord Via BART Pleasant Hill,0
+21,5,210005003,BART Concord Via BART Pleasant Hill,0
+21,4,210004004,BART Concord Via BART Pleasant Hill,0
+21,4,210004005,BART Concord Via BART Pleasant Hill,0
+21,5,210005006,BART Concord Via BART Pleasant Hill,0
+21,5,210005007,BART Concord Via BART Pleasant Hill,0
+21,4,210004008,BART Concord Via BART Pleasant Hill,0
+21,4,210004009,BART Concord Via BART Pleasant Hill,0
+21,5,210005010,BART Concord Via BART Pleasant Hill,0
+21,5,210005011,BART Concord Via BART Pleasant Hill,0
+21,4,210004012,BART Concord Via BART Pleasant Hill,0
+21,4,210004013,BART Concord Via BART Pleasant Hill,0
+21,5,210005014,BART Concord Via BART Pleasant Hill,0
+21,5,210005015,BART Concord Via BART Pleasant Hill,0
+21,4,210004016,BART Concord Via BART Pleasant Hill,0
+21,4,211004001,BART Walnut Creek Via BART Pleasant Hill,1
+21,5,211005002,BART Walnut Creek Via BART Pleasant Hill,1
+21,5,211005003,BART Walnut Creek Via BART Pleasant Hill,1
+21,4,211004004,BART Walnut Creek Via BART Pleasant Hill,1
+21,4,211004005,BART Walnut Creek Via BART Pleasant Hill,1
+21,5,211005006,BART Walnut Creek Via BART Pleasant Hill,1
+21,5,211005007,BART Walnut Creek Via BART Pleasant Hill,1
+21,4,211004008,BART Walnut Creek Via BART Pleasant Hill,1
+21,4,211004009,BART Walnut Creek Via BART Pleasant Hill,1
+21,5,211005010,BART Walnut Creek Via BART Pleasant Hill,1
+21,5,211005011,BART Walnut Creek Via BART Pleasant Hill,1
+21,4,211004012,BART Walnut Creek Via BART Pleasant Hill,1
+21,4,211004013,BART Walnut Creek Via BART Pleasant Hill,1
+21,5,211005014,BART Walnut Creek Via BART Pleasant Hill,1
+22,4,220004001,Diablo Valley College Via Monument,0
+22,5,220005002,Diablo Valley College Via Monument,0
+22,5,220005003,Diablo Valley College Via Monument,0
+22,4,220004004,Diablo Valley College Via Monument,0
+22,4,220004005,Diablo Valley College Via Monument,0
+22,5,220005006,Diablo Valley College Via Monument,0
+22,5,220005007,Diablo Valley College Via Monument,0
+22,4,220004008,Diablo Valley College Via Monument,0
+22,4,220004009,Diablo Valley College Via Monument,0
+22,5,220005010,Diablo Valley College Via Monument,0
+22,5,220005011,Diablo Valley College Via Monument,0
+22,4,220004012,Diablo Valley College Via Monument,0
+22,4,220004013,Diablo Valley College Via Monument,0
+22,5,220005014,Diablo Valley College Via Monument,0
+22,5,220005015,Diablo Valley College Via Monument,0
+22,4,220004016,Diablo Valley College Via Monument,0
+22,4,220004017,Diablo Valley College Via Monument,0
+22,5,220005018,Diablo Valley College Via Monument,0
+22,5,220005019,Diablo Valley College Via Monument,0
+22,4,220004020,Diablo Valley College Via Monument,0
+22,4,220004021,Diablo Valley College Via Monument,0
+22,5,220005022,Diablo Valley College Via Monument,0
+22,5,220005023,Diablo Valley College Via Monument,0
+22,4,220004024,Diablo Valley College Via Monument,0
+22,4,220004025,Diablo Valley College Via Monument,0
+22,5,220005026,Diablo Valley College Via Monument,0
+22,5,220005027,Diablo Valley College Via Monument,0
+22,4,220004028,Diablo Valley College Via Monument,0
+22,4,220004029,Diablo Valley College Via Monument,0
+22,5,220005030,Diablo Valley College Via Monument,0
+22,5,220005031,Diablo Valley College Via Monument,0
+22,4,220004032,Diablo Valley College Via Monument,0
+22,4,220004033,Diablo Valley College Via Monument,0
+22,5,220005034,Diablo Valley College Via Monument,0
+22,5,220005035,Diablo Valley College Via Monument,0
+22,4,220004036,Diablo Valley College Via Monument,0
+22,4,221004001,BART Concord,1
+22,5,221005002,BART Concord,1
+22,5,221005003,BART Concord,1
+22,4,221004004,BART Concord,1
+22,4,221004005,BART Concord,1
+22,5,221005006,BART Concord,1
+22,5,221005007,BART Concord,1
+22,4,221004008,BART Concord,1
+22,4,221004009,BART Concord,1
+22,5,221005010,BART Concord,1
+22,5,221005011,BART Concord,1
+22,4,221004012,BART Concord,1
+22,4,221004013,BART Concord,1
+22,5,221005014,BART Concord,1
+22,5,221005015,BART Concord,1
+22,4,221004016,BART Concord,1
+22,4,221004017,BART Concord,1
+22,5,221005018,BART Concord,1
+22,5,221005019,BART Concord,1
+22,4,221004020,BART Concord,1
+22,4,221004021,BART Concord,1
+22,5,221005022,BART Concord,1
+22,5,221005023,BART Concord,1
+22,4,221004024,BART Concord,1
+22,4,221004025,BART Concord,1
+22,5,221005026,BART Concord,1
+22,5,221005027,BART Concord,1
+22,4,221004028,BART Concord,1
+22,4,221004029,BART Concord,1
+22,5,221005030,BART Concord,1
+22,4,221004031,BART Concord,1
+22,5,221005032,BART Concord,1
+22,5,221005033,BART Concord,1
+22,4,221004034,BART Concord,1
+22,4,221004035,BART Concord,1
+22,5,221005036,BART Concord,1
+23,4,230004001,BART Concord,0
+23,5,230005002,BART Concord,0
+23,5,230005003,BART Concord,0
+23,4,230004004,BART Concord,0
+23,4,230004005,BART Concord,0
+23,5,230005006,BART Concord,0
+23,5,230005007,BART Concord,0
+23,4,230004008,BART Concord,0
+23,4,230004009,BART Concord,0
+23,5,230005010,BART Concord,0
+23,5,230005011,BART Concord,0
+23,4,230004012,BART Concord,0
+23,4,230004013,BART Concord,0
+23,5,230005014,BART Concord,0
+23,4,231004001,Clayton/Treat,1
+23,5,231005002,Clayton/Treat,1
+23,5,231005003,Clayton/Treat,1
+23,4,231004004,Clayton/Treat,1
+23,4,231004005,Clayton/Treat,1
+23,5,231005006,Clayton/Treat,1
+23,5,231005007,Clayton/Treat,1
+23,4,231004008,Clayton/Treat,1
+23,4,231004009,Clayton/Treat,1
+23,5,231005010,Clayton/Treat,1
+23,5,231005011,Clayton/Treat,1
+23,4,231004012,Clayton/Treat,1
+23,4,231004013,Clayton/Treat,1
+23,5,231005014,Clayton/Treat,1
+24,4,240004001,Martinez via Downtown Pleasant Hill,0
+24,5,240005002,Martinez via Downtown Pleasant Hill,0
+24,5,240005003,Martinez via Downtown Pleasant Hill,0
+24,4,240004004,Martinez via Downtown Pleasant Hill,0
+24,4,240004005,Martinez via Downtown Pleasant Hill,0
+24,5,240005006,Martinez via Downtown Pleasant Hill,0
+24,5,240005007,Martinez via Downtown Pleasant Hill,0
+24,4,240004008,Martinez via Downtown Pleasant Hill,0
+24,4,240004009,Martinez via Downtown Pleasant Hill,0
+24,5,240005010,Martinez via Downtown Pleasant Hill,0
+24,5,240005011,Martinez via Downtown Pleasant Hill,0
+24,4,240004012,Martinez via Downtown Pleasant Hill,0
+24,4,240004013,Martinez via Downtown Pleasant Hill,0
+24,5,240005014,Martinez via Downtown Pleasant Hill,0
+24,5,240005015,Martinez via Downtown Pleasant Hill,0
+24,4,240004016,Martinez via Downtown Pleasant Hill,0
+24,4,241004001,BART Pleasant Hill Via AMTRAK,1
+24,5,241005002,BART Pleasant Hill Via AMTRAK,1
+24,5,241005003,BART Pleasant Hill Via AMTRAK,1
+24,4,241004004,BART Pleasant Hill Via AMTRAK,1
+24,4,241004005,BART Pleasant Hill Via AMTRAK,1
+24,5,241005006,BART Pleasant Hill Via AMTRAK,1
+24,5,241005007,BART Pleasant Hill Via AMTRAK,1
+24,4,241004008,BART Pleasant Hill Via AMTRAK,1
+24,4,241004009,BART Pleasant Hill Via AMTRAK,1
+24,5,241005010,BART Pleasant Hill Via AMTRAK,1
+24,5,241005011,BART Pleasant Hill Via AMTRAK,1
+24,4,241004012,BART Pleasant Hill Via AMTRAK,1
+24,4,241004013,BART Pleasant Hill Via AMTRAK,1
+24,5,241005014,BART Pleasant Hill Via AMTRAK,1
+24,5,241005015,BART Pleasant Hill Via AMTRAK,1
+24,4,241004016,BART Pleasant Hill Via AMTRAK,1
+25,4,250004001,BART Concord Via Diamond Blvd,0
+25,5,250005002,BART Concord Via Diamond Blvd,0
+25,5,250005003,BART Concord Via Diamond Blvd,0
+25,4,250004004,BART Concord Via Diamond Blvd,0
+25,4,250004005,BART Concord Via Diamond Blvd,0
+25,5,250005006,BART Concord Via Diamond Blvd,0
+25,5,250005007,BART Concord Via Diamond Blvd,0
+25,4,250004008,BART Concord Via Diamond Blvd,0
+25,4,250004009,BART Concord Via Diamond Blvd,0
+25,5,250005010,BART Concord Via Diamond Blvd,0
+25,5,250005011,BART Concord Via Diamond Blvd,0
+25,4,250004012,BART Concord Via Diamond Blvd,0
+25,4,250004013,BART Concord Via Diamond Blvd,0
+25,5,250005014,BART Concord Via Diamond Blvd,0
+25,4,250004015,BART Concord Via Diamond Blvd,0
+25,5,250005016,BART Concord Via Diamond Blvd,0
+25,5,250005017,BART Concord Via Diamond Blvd,0
+25,4,250004018,BART Concord Via Diamond Blvd,0
+25,4,250004019,BART Concord Via Diamond Blvd,0
+25,5,250005020,BART Concord Via Diamond Blvd,0
+25,5,250005021,BART Concord Via Diamond Blvd,0
+25,4,250004022,BART Concord Via Diamond Blvd,0
+25,4,250004023,BART Concord Via Diamond Blvd,0
+25,5,250005024,BART Concord Via Diamond Blvd,0
+25,5,250005025,BART Concord Via Diamond Blvd,0
+25,4,250004026,BART Concord Via Diamond Blvd,0
+25,4,250004027,BART Concord Via Diamond Blvd,0
+25,5,250005028,BART Concord Via Diamond Blvd,0
+25,4,251004001,Diablo Valley College Via Diamond Blvd,1
+25,5,251005002,Diablo Valley College Via Diamond Blvd,1
+25,5,251005003,Diablo Valley College Via Diamond Blvd,1
+25,4,251004004,Diablo Valley College Via Diamond Blvd,1
+25,4,251004005,Diablo Valley College Via Diamond Blvd,1
+25,5,251005006,Diablo Valley College Via Diamond Blvd,1
+25,5,251005007,Diablo Valley College Via Diamond Blvd,1
+25,4,251004008,Diablo Valley College Via Diamond Blvd,1
+25,4,251004009,Diablo Valley College Via Diamond Blvd,1
+25,5,251005010,Diablo Valley College Via Diamond Blvd,1
+25,5,251005011,Diablo Valley College Via Diamond Blvd,1
+25,4,251004012,Diablo Valley College Via Diamond Blvd,1
+25,4,251004013,Diablo Valley College Via Diamond Blvd,1
+25,5,251005014,Diablo Valley College Via Diamond Blvd,1
+25,4,251004015,Diablo Valley College Via Diamond Blvd,1
+25,5,251005016,Diablo Valley College Via Diamond Blvd,1
+25,5,251005017,Diablo Valley College Via Diamond Blvd,1
+25,4,251004018,Diablo Valley College Via Diamond Blvd,1
+25,4,251004019,Diablo Valley College Via Diamond Blvd,1
+25,5,251005020,Diablo Valley College Via Diamond Blvd,1
+25,5,251005021,Diablo Valley College Via Diamond Blvd,1
+25,4,251004022,Diablo Valley College Via Diamond Blvd,1
+25,4,251004023,Diablo Valley College Via Diamond Blvd,1
+25,5,251005024,Diablo Valley College Via Diamond Blvd,1
+25,5,251005025,Diablo Valley College Via Diamond Blvd,1
+25,4,251004026,Diablo Valley College Via Diamond Blvd,1
+26,4,260004001,San Ramon,0
+26,5,260005002,San Ramon,0
+26,4,260004003,San Ramon,0
+26,5,260005004,San Ramon,0
+26,4,260004005,San Ramon,0
+26,5,260005006,San Ramon,0
+26,5,260005007,San Ramon,0
+26,4,260004008,San Ramon,0
+26,4,260004009,San Ramon,0
+26,5,260005010,San Ramon,0
+26,5,260005011,San Ramon,0
+26,4,260004012,San Ramon,0
+26,4,260004013,San Ramon,0
+26,5,260005014,San Ramon,0
+26,5,260005015,San Ramon,0
+26,4,260004016,San Ramon,0
+26,4,260004017,San Ramon,0
+26,5,260005018,San Ramon,0
+26,5,260005019,San Ramon,0
+26,4,260004020,San Ramon,0
+26,4,260004021,San Ramon,0
+26,5,260005022,San Ramon,0
+26,4,261004001,BART Walnut Creek,1
+26,5,261005002,BART Walnut Creek,1
+26,5,261005003,BART Walnut Creek,1
+26,4,261004004,BART Walnut Creek,1
+26,4,261004005,BART Walnut Creek,1
+26,5,261005006,BART Walnut Creek,1
+26,5,261005007,BART Walnut Creek,1
+26,4,261004008,BART Walnut Creek,1
+26,4,261004009,BART Walnut Creek,1
+26,5,261005010,BART Walnut Creek,1
+26,5,261005011,BART Walnut Creek,1
+26,4,261004012,BART Walnut Creek,1
+26,4,261004013,BART Walnut Creek,1
+26,5,261005014,BART Walnut Creek,1
+26,5,261005015,BART Walnut Creek,1
+26,4,261004016,BART Walnut Creek,1
+26,4,261004017,BART Walnut Creek,1
+26,5,261005018,BART Walnut Creek,1
+26,5,261005019,BART Walnut Creek,1
+26,4,261004020,BART Walnut Creek,1
+27,1,270001001,BART Dublin Via Bollinger Canyon,0
+27,2,270002002,BART Dublin Via Bollinger Canyon,0
+27,3,270003003,BART Dublin Via Bollinger Canyon,0
+27,1,270001004,BART Dublin Via Bollinger Canyon,0
+27,2,270002005,BART Dublin Via Bollinger Canyon,0
+27,3,270003006,BART Dublin Via Bollinger Canyon,0
+27,1,270001007,BART Dublin Via Bollinger Canyon,0
+27,2,270002008,BART Dublin Via Bollinger Canyon,0
+27,3,270003009,BART Dublin Via Bollinger Canyon,0
+27,1,270001010,BART Dublin Via Bollinger Canyon,0
+27,2,270002011,BART Dublin Via Bollinger Canyon,0
+27,3,270003012,BART Dublin Via Bollinger Canyon,0
+27,1,270001013,BART Dublin Via Bollinger Canyon,0
+27,2,270002014,BART Dublin Via Bollinger Canyon,0
+27,3,270003015,BART Dublin Via Bollinger Canyon,0
+27,1,270001016,BART Dublin Via Bollinger Canyon,0
+27,2,270002017,BART Dublin Via Bollinger Canyon,0
+27,3,270003018,BART Dublin Via Bollinger Canyon,0
+27,1,270001019,BART Dublin Via Bollinger Canyon,0
+27,2,270002020,BART Dublin Via Bollinger Canyon,0
+27,3,270003021,BART Dublin Via Bollinger Canyon,0
+27,1,270001022,BART Dublin Via Bollinger Canyon,0
+27,2,270002023,BART Dublin Via Bollinger Canyon,0
+27,3,270003024,BART Dublin Via Bollinger Canyon,0
+27,1,270001025,BART Dublin Via Windemere Pkwy,0
+27,2,270002026,BART Dublin Via Windemere Pkwy,0
+27,3,270003027,BART Dublin Via Windemere Pkwy,0
+27,1,270001028,BART Dublin Via Windemere Pkwy,0
+27,2,270002029,BART Dublin Via Windemere Pkwy,0
+27,3,270003030,BART Dublin Via Windemere Pkwy,0
+27,1,270001031,BART Dublin Via Windemere Pkwy,0
+27,2,270002032,BART Dublin Via Windemere Pkwy,0
+27,3,270003033,BART Dublin Via Windemere Pkwy,0
+27,1,270001034,BART Dublin Via Windemere Pkwy,0
+27,2,270002035,BART Dublin Via Windemere Pkwy,0
+27,3,270003036,BART Dublin Via Windemere Pkwy,0
+27,1,270001037,BART Dublin Via Windemere Pkwy,0
+27,2,270002038,BART Dublin Via Windemere Pkwy,0
+27,3,270003039,BART Dublin Via Windemere Pkwy,0
+27,1,270001040,BART Dublin Via Windemere Pkwy,0
+27,2,270002041,BART Dublin Via Windemere Pkwy,0
+27,3,270003042,BART Dublin Via Windemere Pkwy,0
+27,1,270001043,BART Dublin Via Bollinger Canyon,0
+27,2,270002044,BART Dublin Via Bollinger Canyon,0
+27,3,270003045,BART Dublin Via Bollinger Canyon,0
+27,1,270001046,BART Dublin Via Bollinger Canyon,0
+27,2,270002047,BART Dublin Via Bollinger Canyon,0
+27,3,270003048,BART Dublin Via Bollinger Canyon,0
+27,1,270001049,BART Dublin Via Bollinger Canyon,0
+27,2,270002050,BART Dublin Via Bollinger Canyon,0
+27,3,270003051,BART Dublin Via Bollinger Canyon,0
+27,1,270001052,BART Dublin Via Bollinger Canyon,0
+27,2,270002053,BART Dublin Via Bollinger Canyon,0
+27,3,270003054,BART Dublin Via Bollinger Canyon,0
+27,1,270001055,BART Dublin Via Bollinger Canyon,0
+27,2,270002056,BART Dublin Via Bollinger Canyon,0
+27,3,270003057,BART Dublin Via Bollinger Canyon,0
+27,1,270001058,BART Dublin Via Bollinger Canyon,0
+27,2,270002059,BART Dublin Via Bollinger Canyon,0
+27,3,270003060,BART Dublin Via Bollinger Canyon,0
+27,1,270001061,BART Dublin Via Bollinger Canyon,0
+27,2,270002062,BART Dublin Via Bollinger Canyon,0
+27,3,270003063,BART Dublin Via Bollinger Canyon,0
+27,1,271001001,San Ramon Via Bollinger Canyon,1
+27,2,271002002,San Ramon Via Bollinger Canyon,1
+27,3,271003003,San Ramon Via Bollinger Canyon,1
+27,1,271001004,San Ramon Via Bollinger Canyon,1
+27,2,271002005,San Ramon Via Bollinger Canyon,1
+27,3,271003006,San Ramon Via Bollinger Canyon,1
+27,1,271001007,San Ramon Via Bollinger Canyon,1
+27,2,271002008,San Ramon Via Bollinger Canyon,1
+27,3,271003009,San Ramon Via Bollinger Canyon,1
+27,1,271001010,San Ramon Via Bollinger Canyon,1
+27,2,271002011,San Ramon Via Bollinger Canyon,1
+27,3,271003012,San Ramon Via Bollinger Canyon,1
+27,1,271001013,San Ramon Via Bollinger Canyon,1
+27,2,271002014,San Ramon Via Bollinger Canyon,1
+27,3,271003015,San Ramon Via Bollinger Canyon,1
+27,1,271001016,San Ramon Via Bollinger Canyon,1
+27,2,271002017,San Ramon Via Bollinger Canyon,1
+27,3,271003018,San Ramon Via Bollinger Canyon,1
+27,1,271001019,San Ramon Via Bollinger Canyon,1
+27,2,271002020,San Ramon Via Bollinger Canyon,1
+27,3,271003021,San Ramon Via Bollinger Canyon,1
+27,1,271001022,San Ramon Via Bollinger Canyon,1
+27,2,271002023,San Ramon Via Bollinger Canyon,1
+27,3,271003024,San Ramon Via Bollinger Canyon,1
+27,1,271001025,San Ramon Transit Center Via Windemere Parkway,1
+27,2,271002026,San Ramon Transit Center Via Windemere Parkway,1
+27,3,271003027,San Ramon Transit Center Via Windemere Parkway,1
+27,1,271001028,San Ramon Transit Center Via Windemere Parkway,1
+27,2,271002029,San Ramon Transit Center Via Windemere Parkway,1
+27,3,271003030,San Ramon Transit Center Via Windemere Parkway,1
+27,1,271001031,San Ramon Transit Center Via Windemere Parkway,1
+27,2,271002032,San Ramon Transit Center Via Windemere Parkway,1
+27,3,271003033,San Ramon Transit Center Via Windemere Parkway,1
+27,1,271001034,San Ramon Transit Center Via Windemere Parkway,1
+27,2,271002035,San Ramon Transit Center Via Windemere Parkway,1
+27,3,271003036,San Ramon Transit Center Via Windemere Parkway,1
+27,1,271001037,San Ramon Transit Center Via Windemere Parkway,1
+27,2,271002038,San Ramon Transit Center Via Windemere Parkway,1
+27,3,271003039,San Ramon Transit Center Via Windemere Parkway,1
+27,1,271001040,San Ramon Transit Center Via Windemere Parkway,1
+27,2,271002041,San Ramon Transit Center Via Windemere Parkway,1
+27,3,271003042,San Ramon Transit Center Via Windemere Parkway,1
+27,1,271001043,San Ramon Via Bollinger Canyon,1
+27,2,271002044,San Ramon Via Bollinger Canyon,1
+27,3,271003045,San Ramon Via Bollinger Canyon,1
+27,1,271001046,San Ramon Via Bollinger Canyon,1
+27,2,271002047,San Ramon Via Bollinger Canyon,1
+27,3,271003048,San Ramon Via Bollinger Canyon,1
+27,1,271001049,San Ramon Via Bollinger Canyon,1
+27,2,271002050,San Ramon Via Bollinger Canyon,1
+27,3,271003051,San Ramon Via Bollinger Canyon,1
+27,1,271001052,San Ramon Via Bollinger Canyon,1
+27,2,271002053,San Ramon Via Bollinger Canyon,1
+27,3,271003054,San Ramon Via Bollinger Canyon,1
+27,1,271001055,San Ramon Via Bollinger Canyon,1
+27,2,271002056,San Ramon Via Bollinger Canyon,1
+27,3,271003057,San Ramon Via Bollinger Canyon,1
+27,1,271001058,San Ramon Via Bollinger Canyon,1
+27,2,271002059,San Ramon Via Bollinger Canyon,1
+27,3,271003060,San Ramon Via Bollinger Canyon,1
+27,1,271001061,San Ramon Via Bollinger Canyon,1
+27,2,271002062,San Ramon Via Bollinger Canyon,1
+27,3,271003063,San Ramon Via Bollinger Canyon,1
+27,1,271001064,San Ramon Via Bollinger Canyon,1
+27,2,271002065,San Ramon Via Bollinger Canyon,1
+27,3,271003066,San Ramon Via Bollinger Canyon,1
+28,1,280001001,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002002,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003003,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001004,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002005,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003006,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001007,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002008,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003009,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001010,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002011,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003012,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001013,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002014,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003015,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001016,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002017,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003018,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001019,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002020,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003021,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001022,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002023,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003024,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001025,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002026,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003027,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001028,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002029,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003030,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001031,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002032,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003033,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001034,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002035,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003036,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001037,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002038,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003039,BART Dublin via San Ramon Valley Blvd,0
+28,1,280001040,BART Dublin via San Ramon Valley Blvd,0
+28,2,280002041,BART Dublin via San Ramon Valley Blvd,0
+28,3,280003042,BART Dublin via San Ramon Valley Blvd,0
+28,1,281001001,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002002,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003003,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001004,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002005,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003006,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001007,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002008,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003009,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001010,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002011,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003012,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001013,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002014,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003015,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001016,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002017,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003018,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001019,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002020,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003021,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001022,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002023,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003024,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001025,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002026,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003027,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001028,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002029,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003030,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001031,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002032,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003033,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001034,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002035,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003036,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001037,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002038,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003039,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,1,281001040,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,2,281002041,San Ramon Transit Center Via San Ramon Valley Blvd,1
+28,3,281003042,San Ramon Transit Center Via San Ramon Valley Blvd,1
+29,1,290001001,Broadway Plaza,0
+29,2,290002002,Broadway Plaza,0
+29,3,290003003,Broadway Plaza,0
+29,1,290001004,Broadway Plaza,0
+29,2,290002005,Broadway Plaza,0
+29,3,290003006,Broadway Plaza,0
+29,1,290001007,Broadway Plaza,0
+29,2,290002008,Broadway Plaza,0
+29,3,290003009,Broadway Plaza,0
+29,1,290001010,Broadway Plaza,0
+29,2,290002011,Broadway Plaza,0
+29,3,290003012,Broadway Plaza,0
+29,1,290001013,Broadway Plaza,0
+29,2,290002014,Broadway Plaza,0
+29,3,290003015,Broadway Plaza,0
+29,1,290001016,Broadway Plaza,0
+29,2,290002017,Broadway Plaza,0
+29,3,290003018,Broadway Plaza,0
+29,4,290004019,Broadway Plaza,0
+29,5,290005020,Broadway Plaza,0
+29,1,290001021,Broadway Plaza,0
+29,2,290002022,Broadway Plaza,0
+29,3,290003023,Broadway Plaza,0
+29,1,290001024,Broadway Plaza,0
+29,2,290002025,Broadway Plaza,0
+29,3,290003026,Broadway Plaza,0
+29,5,290005027,Broadway Plaza,0
+29,4,290004028,Broadway Plaza,0
+29,1,290001029,Broadway Plaza,0
+29,2,290002030,Broadway Plaza,0
+29,3,290003031,Broadway Plaza,0
+29,4,290004032,Broadway Plaza,0
+29,5,290005033,Broadway Plaza,0
+29,1,290001034,Broadway Plaza,0
+29,2,290002035,Broadway Plaza,0
+29,3,290003036,Broadway Plaza,0
+29,5,290005037,Broadway Plaza,0
+29,4,290004038,Broadway Plaza,0
+29,1,290001039,Broadway Plaza,0
+29,2,290002040,Broadway Plaza,0
+29,3,290003041,Broadway Plaza,0
+29,1,290001042,Broadway Plaza,0
+29,2,290002043,Broadway Plaza,0
+29,3,290003044,Broadway Plaza,0
+29,4,290004045,Broadway Plaza,0
+29,5,290005046,Broadway Plaza,0
+29,1,290001047,Broadway Plaza,0
+29,2,290002048,Broadway Plaza,0
+29,3,290003049,Broadway Plaza,0
+29,5,290005050,Broadway Plaza,0
+29,4,290004051,Broadway Plaza,0
+29,1,290001052,Broadway Plaza,0
+29,2,290002053,Broadway Plaza,0
+29,3,290003054,Broadway Plaza,0
+29,4,290004055,Broadway Plaza,0
+29,5,290005056,Broadway Plaza,0
+29,1,290001057,Broadway Plaza,0
+29,2,290002058,Broadway Plaza,0
+29,3,290003059,Broadway Plaza,0
+29,1,290001060,Broadway Plaza,0
+29,2,290002061,Broadway Plaza,0
+29,3,290003062,Broadway Plaza,0
+29,5,290005063,Broadway Plaza,0
+29,4,290004064,Broadway Plaza,0
+29,1,290001065,Broadway Plaza,0
+29,2,290002066,Broadway Plaza,0
+29,3,290003067,Broadway Plaza,0
+29,4,290004068,Broadway Plaza,0
+29,5,290005069,Broadway Plaza,0
+29,1,290001070,Broadway Plaza,0
+29,2,290002071,Broadway Plaza,0
+29,3,290003072,Broadway Plaza,0
+29,5,290005073,Broadway Plaza,0
+29,4,290004074,Broadway Plaza,0
+29,1,290001075,Broadway Plaza,0
+29,2,290002076,Broadway Plaza,0
+29,3,290003077,Broadway Plaza,0
+29,1,290001078,Broadway Plaza,0
+29,2,290002079,Broadway Plaza,0
+29,3,290003080,Broadway Plaza,0
+29,4,290004081,Broadway Plaza,0
+29,5,290005082,Broadway Plaza,0
+29,1,290001083,Broadway Plaza,0
+29,2,290002084,Broadway Plaza,0
+29,3,290003085,Broadway Plaza,0
+29,5,290005086,Broadway Plaza,0
+29,4,290004087,Broadway Plaza,0
+29,1,290001088,Broadway Plaza,0
+29,2,290002089,Broadway Plaza,0
+29,3,290003090,Broadway Plaza,0
+29,4,290004091,Broadway Plaza,0
+29,5,290005092,Broadway Plaza,0
+29,1,290001093,Broadway Plaza,0
+29,2,290002094,Broadway Plaza,0
+29,3,290003095,Broadway Plaza,0
+29,1,290001096,Broadway Plaza,0
+29,2,290002097,Broadway Plaza,0
+29,3,290003098,Broadway Plaza,0
+29,5,290005099,Broadway Plaza,0
+29,4,290004100,Broadway Plaza,0
+29,1,290001101,Broadway Plaza,0
+29,2,290002102,Broadway Plaza,0
+29,3,290003103,Broadway Plaza,0
+29,4,290004104,Broadway Plaza,0
+29,5,290005105,Broadway Plaza,0
+29,1,290001106,Broadway Plaza,0
+29,2,290002107,Broadway Plaza,0
+29,3,290003108,Broadway Plaza,0
+29,5,290005109,Broadway Plaza,0
+29,4,290004110,Broadway Plaza,0
+29,1,290001111,Broadway Plaza,0
+29,2,290002112,Broadway Plaza,0
+29,3,290003113,Broadway Plaza,0
+29,1,290001114,Broadway Plaza,0
+29,2,290002115,Broadway Plaza,0
+29,3,290003116,Broadway Plaza,0
+29,4,290004117,Broadway Plaza,0
+29,5,290005118,Broadway Plaza,0
+29,1,290001119,Broadway Plaza,0
+29,2,290002120,Broadway Plaza,0
+29,3,290003121,Broadway Plaza,0
+29,5,290005122,Broadway Plaza,0
+29,4,290004123,Broadway Plaza,0
+29,1,290001124,Broadway Plaza,0
+29,2,290002125,Broadway Plaza,0
+29,3,290003126,Broadway Plaza,0
+29,4,290004127,Broadway Plaza,0
+29,5,290005128,Broadway Plaza,0
+29,1,290001129,Broadway Plaza,0
+29,2,290002130,Broadway Plaza,0
+29,3,290003131,Broadway Plaza,0
+29,1,290001132,Broadway Plaza,0
+29,2,290002133,Broadway Plaza,0
+29,3,290003134,Broadway Plaza,0
+29,5,290005135,Broadway Plaza,0
+29,4,290004136,Broadway Plaza,0
+29,1,290001137,Broadway Plaza,0
+29,2,290002138,Broadway Plaza,0
+29,3,290003139,Broadway Plaza,0
+29,4,290004140,Broadway Plaza,0
+29,5,290005141,Broadway Plaza,0
+29,1,290001142,Broadway Plaza,0
+29,2,290002143,Broadway Plaza,0
+29,3,290003144,Broadway Plaza,0
+29,5,290005145,Broadway Plaza,0
+29,4,290004146,Broadway Plaza,0
+29,1,290001147,Broadway Plaza,0
+29,2,290002148,Broadway Plaza,0
+29,3,290003149,Broadway Plaza,0
+29,1,290001150,Broadway Plaza,0
+29,2,290002151,Broadway Plaza,0
+29,3,290003152,Broadway Plaza,0
+29,4,290004153,Broadway Plaza,0
+29,5,290005154,Broadway Plaza,0
+29,1,290001155,Broadway Plaza,0
+29,2,290002156,Broadway Plaza,0
+29,3,290003157,Broadway Plaza,0
+29,5,290005158,Broadway Plaza,0
+29,4,290004159,Broadway Plaza,0
+29,1,290001160,Broadway Plaza,0
+29,2,290002161,Broadway Plaza,0
+29,3,290003162,Broadway Plaza,0
+29,4,290004163,Broadway Plaza,0
+29,5,290005164,Broadway Plaza,0
+29,1,290001165,Broadway Plaza,0
+29,2,290002166,Broadway Plaza,0
+29,3,290003167,Broadway Plaza,0
+29,1,290001168,Broadway Plaza,0
+29,2,290002169,Broadway Plaza,0
+29,3,290003170,Broadway Plaza,0
+29,5,290005171,Broadway Plaza,0
+29,4,290004172,Broadway Plaza,0
+29,1,290001173,Broadway Plaza,0
+29,2,290002174,Broadway Plaza,0
+29,3,290003175,Broadway Plaza,0
+29,4,290004176,Broadway Plaza,0
+29,5,290005177,Broadway Plaza,0
+29,1,290001178,Broadway Plaza,0
+29,2,290002179,Broadway Plaza,0
+29,3,290003180,Broadway Plaza,0
+29,5,290005181,Broadway Plaza,0
+29,4,290004182,Broadway Plaza,0
+29,1,290001183,Broadway Plaza,0
+29,2,290002184,Broadway Plaza,0
+29,3,290003185,Broadway Plaza,0
+29,1,290001186,Broadway Plaza,0
+29,2,290002187,Broadway Plaza,0
+29,3,290003188,Broadway Plaza,0
+29,1,290001189,Broadway Plaza,0
+29,2,290002190,Broadway Plaza,0
+29,3,290003191,Broadway Plaza,0
+29,1,290001192,Broadway Plaza,0
+29,2,290002193,Broadway Plaza,0
+29,3,290003194,Broadway Plaza,0
+29,1,290001195,Broadway Plaza,0
+29,2,290002196,Broadway Plaza,0
+29,3,290003197,Broadway Plaza,0
+29,1,290001198,Broadway Plaza,0
+29,2,290002199,Broadway Plaza,0
+29,3,290003200,Broadway Plaza,0
+29,1,290001201,Broadway Plaza,0
+29,2,290002202,Broadway Plaza,0
+29,3,290003203,Broadway Plaza,0
+29,1,291001001,BART Walnut Creek,1
+29,2,291002002,BART Walnut Creek,1
+29,3,291003003,BART Walnut Creek,1
+29,1,291001004,BART Walnut Creek,1
+29,2,291002005,BART Walnut Creek,1
+29,3,291003006,BART Walnut Creek,1
+29,1,291001007,BART Walnut Creek,1
+29,2,291002008,BART Walnut Creek,1
+29,3,291003009,BART Walnut Creek,1
+29,1,291001010,BART Walnut Creek,1
+29,2,291002011,BART Walnut Creek,1
+29,3,291003012,BART Walnut Creek,1
+29,1,291001013,BART Walnut Creek,1
+29,2,291002014,BART Walnut Creek,1
+29,3,291003015,BART Walnut Creek,1
+29,1,291001016,BART Walnut Creek,1
+29,2,291002017,BART Walnut Creek,1
+29,3,291003018,BART Walnut Creek,1
+29,4,291004019,BART Walnut Creek,1
+29,5,291005020,BART Walnut Creek,1
+29,1,291001021,BART Walnut Creek,1
+29,2,291002022,BART Walnut Creek,1
+29,3,291003023,BART Walnut Creek,1
+29,5,291005024,BART Walnut Creek,1
+29,4,291004025,BART Walnut Creek,1
+29,1,291001026,BART Walnut Creek,1
+29,2,291002027,BART Walnut Creek,1
+29,3,291003028,BART Walnut Creek,1
+29,1,291001029,BART Walnut Creek,1
+29,2,291002030,BART Walnut Creek,1
+29,3,291003031,BART Walnut Creek,1
+29,4,291004032,BART Walnut Creek,1
+29,5,291005033,BART Walnut Creek,1
+29,1,291001034,BART Walnut Creek,1
+29,2,291002035,BART Walnut Creek,1
+29,3,291003036,BART Walnut Creek,1
+29,5,291005037,BART Walnut Creek,1
+29,4,291004038,BART Walnut Creek,1
+29,1,291001039,BART Walnut Creek,1
+29,2,291002040,BART Walnut Creek,1
+29,3,291003041,BART Walnut Creek,1
+29,4,291004042,BART Walnut Creek,1
+29,5,291005043,BART Walnut Creek,1
+29,1,291001044,BART Walnut Creek,1
+29,2,291002045,BART Walnut Creek,1
+29,3,291003046,BART Walnut Creek,1
+29,1,291001047,BART Walnut Creek,1
+29,2,291002048,BART Walnut Creek,1
+29,3,291003049,BART Walnut Creek,1
+29,5,291005050,BART Walnut Creek,1
+29,4,291004051,BART Walnut Creek,1
+29,1,291001052,BART Walnut Creek,1
+29,2,291002053,BART Walnut Creek,1
+29,3,291003054,BART Walnut Creek,1
+29,4,291004055,BART Walnut Creek,1
+29,5,291005056,BART Walnut Creek,1
+29,1,291001057,BART Walnut Creek,1
+29,2,291002058,BART Walnut Creek,1
+29,3,291003059,BART Walnut Creek,1
+29,5,291005060,BART Walnut Creek,1
+29,4,291004061,BART Walnut Creek,1
+29,1,291001062,BART Walnut Creek,1
+29,2,291002063,BART Walnut Creek,1
+29,3,291003064,BART Walnut Creek,1
+29,1,291001065,BART Walnut Creek,1
+29,2,291002066,BART Walnut Creek,1
+29,3,291003067,BART Walnut Creek,1
+29,4,291004068,BART Walnut Creek,1
+29,5,291005069,BART Walnut Creek,1
+29,1,291001070,BART Walnut Creek,1
+29,2,291002071,BART Walnut Creek,1
+29,3,291003072,BART Walnut Creek,1
+29,5,291005073,BART Walnut Creek,1
+29,4,291004074,BART Walnut Creek,1
+29,1,291001075,BART Walnut Creek,1
+29,2,291002076,BART Walnut Creek,1
+29,3,291003077,BART Walnut Creek,1
+29,4,291004078,BART Walnut Creek,1
+29,5,291005079,BART Walnut Creek,1
+29,1,291001080,BART Walnut Creek,1
+29,2,291002081,BART Walnut Creek,1
+29,3,291003082,BART Walnut Creek,1
+29,1,291001083,BART Walnut Creek,1
+29,2,291002084,BART Walnut Creek,1
+29,3,291003085,BART Walnut Creek,1
+29,5,291005086,BART Walnut Creek,1
+29,4,291004087,BART Walnut Creek,1
+29,1,291001088,BART Walnut Creek,1
+29,2,291002089,BART Walnut Creek,1
+29,3,291003090,BART Walnut Creek,1
+29,4,291004091,BART Walnut Creek,1
+29,5,291005092,BART Walnut Creek,1
+29,1,291001093,BART Walnut Creek,1
+29,2,291002094,BART Walnut Creek,1
+29,3,291003095,BART Walnut Creek,1
+29,5,291005096,BART Walnut Creek,1
+29,4,291004097,BART Walnut Creek,1
+29,1,291001098,BART Walnut Creek,1
+29,2,291002099,BART Walnut Creek,1
+29,3,291003100,BART Walnut Creek,1
+29,1,291001101,BART Walnut Creek,1
+29,2,291002102,BART Walnut Creek,1
+29,3,291003103,BART Walnut Creek,1
+29,4,291004104,BART Walnut Creek,1
+29,5,291005105,BART Walnut Creek,1
+29,1,291001106,BART Walnut Creek,1
+29,2,291002107,BART Walnut Creek,1
+29,3,291003108,BART Walnut Creek,1
+29,5,291005109,BART Walnut Creek,1
+29,4,291004110,BART Walnut Creek,1
+29,1,291001111,BART Walnut Creek,1
+29,2,291002112,BART Walnut Creek,1
+29,3,291003113,BART Walnut Creek,1
+29,4,291004114,BART Walnut Creek,1
+29,5,291005115,BART Walnut Creek,1
+29,1,291001116,BART Walnut Creek,1
+29,2,291002117,BART Walnut Creek,1
+29,3,291003118,BART Walnut Creek,1
+29,1,291001119,BART Walnut Creek,1
+29,2,291002120,BART Walnut Creek,1
+29,3,291003121,BART Walnut Creek,1
+29,5,291005122,BART Walnut Creek,1
+29,4,291004123,BART Walnut Creek,1
+29,1,291001124,BART Walnut Creek,1
+29,2,291002125,BART Walnut Creek,1
+29,3,291003126,BART Walnut Creek,1
+29,4,291004127,BART Walnut Creek,1
+29,5,291005128,BART Walnut Creek,1
+29,1,291001129,BART Walnut Creek,1
+29,2,291002130,BART Walnut Creek,1
+29,3,291003131,BART Walnut Creek,1
+29,5,291005132,BART Walnut Creek,1
+29,4,291004133,BART Walnut Creek,1
+29,1,291001134,BART Walnut Creek,1
+29,2,291002135,BART Walnut Creek,1
+29,3,291003136,BART Walnut Creek,1
+29,1,291001137,BART Walnut Creek,1
+29,2,291002138,BART Walnut Creek,1
+29,3,291003139,BART Walnut Creek,1
+29,4,291004140,BART Walnut Creek,1
+29,5,291005141,BART Walnut Creek,1
+29,1,291001142,BART Walnut Creek,1
+29,2,291002143,BART Walnut Creek,1
+29,3,291003144,BART Walnut Creek,1
+29,5,291005145,BART Walnut Creek,1
+29,4,291004146,BART Walnut Creek,1
+29,1,291001147,BART Walnut Creek,1
+29,2,291002148,BART Walnut Creek,1
+29,3,291003149,BART Walnut Creek,1
+29,4,291004150,BART Walnut Creek,1
+29,5,291005151,BART Walnut Creek,1
+29,1,291001152,BART Walnut Creek,1
+29,2,291002153,BART Walnut Creek,1
+29,3,291003154,BART Walnut Creek,1
+29,1,291001155,BART Walnut Creek,1
+29,2,291002156,BART Walnut Creek,1
+29,3,291003157,BART Walnut Creek,1
+29,5,291005158,BART Walnut Creek,1
+29,4,291004159,BART Walnut Creek,1
+29,1,291001160,BART Walnut Creek,1
+29,2,291002161,BART Walnut Creek,1
+29,3,291003162,BART Walnut Creek,1
+29,4,291004163,BART Walnut Creek,1
+29,5,291005164,BART Walnut Creek,1
+29,1,291001165,BART Walnut Creek,1
+29,2,291002166,BART Walnut Creek,1
+29,3,291003167,BART Walnut Creek,1
+29,5,291005168,BART Walnut Creek,1
+29,4,291004169,BART Walnut Creek,1
+29,1,291001170,BART Walnut Creek,1
+29,2,291002171,BART Walnut Creek,1
+29,3,291003172,BART Walnut Creek,1
+29,1,291001173,BART Walnut Creek,1
+29,2,291002174,BART Walnut Creek,1
+29,3,291003175,BART Walnut Creek,1
+29,4,291004176,BART Walnut Creek,1
+29,5,291005177,BART Walnut Creek,1
+29,1,291001178,BART Walnut Creek,1
+29,2,291002179,BART Walnut Creek,1
+29,3,291003180,BART Walnut Creek,1
+29,5,291005181,BART Walnut Creek,1
+29,4,291004182,BART Walnut Creek,1
+29,1,291001183,BART Walnut Creek,1
+29,2,291002184,BART Walnut Creek,1
+29,3,291003185,BART Walnut Creek,1
+29,1,291001186,BART Walnut Creek,1
+29,2,291002187,BART Walnut Creek,1
+29,3,291003188,BART Walnut Creek,1
+29,1,291001189,BART Walnut Creek,1
+29,2,291002190,BART Walnut Creek,1
+29,3,291003191,BART Walnut Creek,1
+29,1,291001192,BART Walnut Creek,1
+29,2,291002193,BART Walnut Creek,1
+29,3,291003194,BART Walnut Creek,1
+29,1,291001195,BART Walnut Creek,1
+29,2,291002196,BART Walnut Creek,1
+29,3,291003197,BART Walnut Creek,1
+29,1,291001198,BART Walnut Creek,1
+29,2,291002199,BART Walnut Creek,1
+29,3,291003200,BART Walnut Creek,1
+29,1,291001201,BART Walnut Creek,1
+29,2,291002202,BART Walnut Creek,1
+29,3,291003203,BART Walnut Creek,1
+30,1,300001001,Creekside,0
+30,2,300002002,Creekside,0
+30,3,300003003,Creekside,0
+30,1,300001004,Creekside,0
+30,2,300002005,Creekside,0
+30,3,300003006,Creekside,0
+30,1,300001007,Creekside,0
+30,2,300002008,Creekside,0
+30,3,300003009,Creekside,0
+30,1,300001010,Creekside,0
+30,2,300002011,Creekside,0
+30,3,300003012,Creekside,0
+30,1,300001013,Creekside,0
+30,2,300002014,Creekside,0
+30,3,300003015,Creekside,0
+30,1,300001016,Creekside,0
+30,2,300002017,Creekside,0
+30,3,300003018,Creekside,0
+30,1,300001019,Creekside,0
+30,2,300002020,Creekside,0
+30,3,300003021,Creekside,0
+30,1,300001022,Creekside,0
+30,2,300002023,Creekside,0
+30,3,300003024,Creekside,0
+30,1,300001025,Creekside,0
+30,2,300002026,Creekside,0
+30,3,300003027,Creekside,0
+30,1,300001028,Creekside,0
+30,2,300002029,Creekside,0
+30,3,300003030,Creekside,0
+30,1,300001031,Creekside,0
+30,2,300002032,Creekside,0
+30,3,300003033,Creekside,0
+30,1,300001034,Creekside,0
+30,2,300002035,Creekside,0
+30,3,300003036,Creekside,0
+30,1,300001037,Creekside,0
+30,2,300002038,Creekside,0
+30,3,300003039,Creekside,0
+30,1,300001040,Creekside,0
+30,2,300002041,Creekside,0
+30,3,300003042,Creekside,0
+30,1,300001043,Creekside,0
+30,2,300002044,Creekside,0
+30,3,300003045,Creekside,0
+30,1,300001046,Creekside,0
+30,2,300002047,Creekside,0
+30,3,300003048,Creekside,0
+30,1,300001049,Creekside,0
+30,2,300002050,Creekside,0
+30,3,300003051,Creekside,0
+30,1,300001052,Creekside,0
+30,2,300002053,Creekside,0
+30,3,300003054,Creekside,0
+30,1,300001055,Creekside,0
+30,2,300002056,Creekside,0
+30,3,300003057,Creekside,0
+30,1,300001058,Creekside,0
+30,2,300002059,Creekside,0
+30,3,300003060,Creekside,0
+30,1,300001061,Creekside,0
+30,2,300002062,Creekside,0
+30,3,300003063,Creekside,0
+30,1,300001064,Creekside,0
+30,2,300002065,Creekside,0
+30,3,300003066,Creekside,0
+30,1,300001067,Creekside,0
+30,2,300002068,Creekside,0
+30,3,300003069,Creekside,0
+30,1,300001070,Creekside,0
+30,2,300002071,Creekside,0
+30,3,300003072,Creekside,0
+30,1,300001073,Creekside,0
+30,2,300002074,Creekside,0
+30,3,300003075,Creekside,0
+30,1,300001076,Creekside,0
+30,2,300002077,Creekside,0
+30,3,300003078,Creekside,0
+30,1,300001079,Creekside,0
+30,2,300002080,Creekside,0
+30,3,300003081,Creekside,0
+30,1,300001082,Creekside,0
+30,2,300002083,Creekside,0
+30,3,300003084,Creekside,0
+30,1,301001001,BART Walnut Creek,1
+30,2,301002002,BART Walnut Creek,1
+30,3,301003003,BART Walnut Creek,1
+30,1,301001004,BART Walnut Creek,1
+30,2,301002005,BART Walnut Creek,1
+30,3,301003006,BART Walnut Creek,1
+30,1,301001007,BART Walnut Creek,1
+30,2,301002008,BART Walnut Creek,1
+30,3,301003009,BART Walnut Creek,1
+30,1,301001010,BART Walnut Creek,1
+30,2,301002011,BART Walnut Creek,1
+30,3,301003012,BART Walnut Creek,1
+30,1,301001013,BART Walnut Creek,1
+30,2,301002014,BART Walnut Creek,1
+30,3,301003015,BART Walnut Creek,1
+30,1,301001016,BART Walnut Creek,1
+30,2,301002017,BART Walnut Creek,1
+30,3,301003018,BART Walnut Creek,1
+30,1,301001019,BART Walnut Creek,1
+30,2,301002020,BART Walnut Creek,1
+30,3,301003021,BART Walnut Creek,1
+30,1,301001022,BART Walnut Creek,1
+30,2,301002023,BART Walnut Creek,1
+30,3,301003024,BART Walnut Creek,1
+30,1,301001025,BART Walnut Creek,1
+30,2,301002026,BART Walnut Creek,1
+30,3,301003027,BART Walnut Creek,1
+30,1,301001028,BART Walnut Creek,1
+30,2,301002029,BART Walnut Creek,1
+30,3,301003030,BART Walnut Creek,1
+30,1,301001031,BART Walnut Creek,1
+30,2,301002032,BART Walnut Creek,1
+30,3,301003033,BART Walnut Creek,1
+30,1,301001034,BART Walnut Creek,1
+30,2,301002035,BART Walnut Creek,1
+30,3,301003036,BART Walnut Creek,1
+30,1,301001037,BART Walnut Creek,1
+30,2,301002038,BART Walnut Creek,1
+30,3,301003039,BART Walnut Creek,1
+30,1,301001040,BART Walnut Creek,1
+30,2,301002041,BART Walnut Creek,1
+30,3,301003042,BART Walnut Creek,1
+30,1,301001043,BART Walnut Creek,1
+30,2,301002044,BART Walnut Creek,1
+30,3,301003045,BART Walnut Creek,1
+30,1,301001046,BART Walnut Creek,1
+30,2,301002047,BART Walnut Creek,1
+30,3,301003048,BART Walnut Creek,1
+30,1,301001049,BART Walnut Creek,1
+30,2,301002050,BART Walnut Creek,1
+30,3,301003051,BART Walnut Creek,1
+30,1,301001052,BART Walnut Creek,1
+30,2,301002053,BART Walnut Creek,1
+30,3,301003054,BART Walnut Creek,1
+30,1,301001055,BART Walnut Creek,1
+30,2,301002056,BART Walnut Creek,1
+30,3,301003057,BART Walnut Creek,1
+30,1,301001058,BART Walnut Creek,1
+30,2,301002059,BART Walnut Creek,1
+30,3,301003060,BART Walnut Creek,1
+30,1,301001061,BART Walnut Creek,1
+30,2,301002062,BART Walnut Creek,1
+30,3,301003063,BART Walnut Creek,1
+30,1,301001064,BART Walnut Creek,1
+30,2,301002065,BART Walnut Creek,1
+30,3,301003066,BART Walnut Creek,1
+30,1,301001067,BART Walnut Creek,1
+30,2,301002068,BART Walnut Creek,1
+30,3,301003069,BART Walnut Creek,1
+30,1,301001070,BART Walnut Creek,1
+30,2,301002071,BART Walnut Creek,1
+30,3,301003072,BART Walnut Creek,1
+30,1,301001073,BART Walnut Creek,1
+30,2,301002074,BART Walnut Creek,1
+30,3,301003075,BART Walnut Creek,1
+30,1,301001076,BART Walnut Creek,1
+30,2,301002077,BART Walnut Creek,1
+30,3,301003078,BART Walnut Creek,1
+30,1,301001079,BART Walnut Creek,1
+30,2,301002080,BART Walnut Creek,1
+30,3,301003081,BART Walnut Creek,1
+30,1,301001082,BART Walnut Creek,1
+30,2,301002083,BART Walnut Creek,1
+30,3,301003084,BART Walnut Creek,1
+31,1,310001001,BART Lafayette via Saint Mary's College,0
+31,2,310002002,BART Lafayette via Saint Mary's College,0
+31,3,310003003,BART Lafayette via Saint Mary's College,0
+31,1,310001004,BART Lafayette via Saint Mary's College,0
+31,2,310002005,BART Lafayette via Saint Mary's College,0
+31,3,310003006,BART Lafayette via Saint Mary's College,0
+31,1,310001007,BART Lafayette via Saint Mary's College,0
+31,2,310002008,BART Lafayette via Saint Mary's College,0
+31,3,310003009,BART Lafayette via Saint Mary's College,0
+31,1,310001010,BART Lafayette via Saint Mary's College,0
+31,2,310002011,BART Lafayette via Saint Mary's College,0
+31,3,310003012,BART Lafayette via Saint Mary's College,0
+31,1,310001013,BART Lafayette via Saint Mary's College,0
+31,2,310002014,BART Lafayette via Saint Mary's College,0
+31,3,310003015,BART Lafayette via Saint Mary's College,0
+31,4,310004016,BART Lafayette via Saint Mary's College,0
+31,5,310005017,BART Lafayette via Saint Mary's College,0
+31,5,310005018,BART Lafayette via Saint Mary's College,0
+31,4,310004019,BART Lafayette via Saint Mary's College,0
+31,1,310001020,BART Lafayette via Saint Mary's College,0
+31,2,310002021,BART Lafayette via Saint Mary's College,0
+31,3,310003022,BART Lafayette via Saint Mary's College,0
+31,4,310004023,BART Lafayette via Saint Mary's College,0
+31,5,310005024,BART Lafayette via Saint Mary's College,0
+31,1,310001025,BART Lafayette via Saint Mary's College,0
+31,2,310002026,BART Lafayette via Saint Mary's College,0
+31,3,310003027,BART Lafayette via Saint Mary's College,0
+31,1,310001028,BART Lafayette via Saint Mary's College,0
+31,2,310002029,BART Lafayette via Saint Mary's College,0
+31,3,310003030,BART Lafayette via Saint Mary's College,0
+31,5,310005031,BART Lafayette via Saint Mary's College,0
+31,4,310004032,BART Lafayette via Saint Mary's College,0
+31,1,310001033,BART Lafayette via Saint Mary's College,0
+31,2,310002034,BART Lafayette via Saint Mary's College,0
+31,3,310003035,BART Lafayette via Saint Mary's College,0
+31,1,310001036,BART Lafayette via Saint Mary's College,0
+31,2,310002037,BART Lafayette via Saint Mary's College,0
+31,3,310003038,BART Lafayette via Saint Mary's College,0
+31,4,310004039,BART Lafayette via Saint Mary's College,0
+31,5,310005040,BART Lafayette via Saint Mary's College,0
+31,1,310001041,BART Lafayette via Saint Mary's College,0
+31,2,310002042,BART Lafayette via Saint Mary's College,0
+31,3,310003043,BART Lafayette via Saint Mary's College,0
+31,1,310001044,BART Lafayette via Saint Mary's College,0
+31,2,310002045,BART Lafayette via Saint Mary's College,0
+31,3,310003046,BART Lafayette via Saint Mary's College,0
+31,5,310005047,BART Lafayette via Saint Mary's College,0
+31,4,310004048,BART Lafayette via Saint Mary's College,0
+31,1,310001049,BART Lafayette via Saint Mary's College,0
+31,2,310002050,BART Lafayette via Saint Mary's College,0
+31,3,310003051,BART Lafayette via Saint Mary's College,0
+31,1,310001052,BART Lafayette via Saint Mary's College,0
+31,2,310002053,BART Lafayette via Saint Mary's College,0
+31,3,310003054,BART Lafayette via Saint Mary's College,0
+31,1,310001055,BART Lafayette via Saint Mary's College,0
+31,2,310002056,BART Lafayette via Saint Mary's College,0
+31,3,310003057,BART Lafayette via Saint Mary's College,0
+31,1,310001058,BART Lafayette via Saint Mary's College,0
+31,2,310002059,BART Lafayette via Saint Mary's College,0
+31,3,310003060,BART Lafayette via Saint Mary's College,0
+31,1,311001001,BART Orinda via Saint Mary's College,1
+31,2,311002002,BART Orinda via Saint Mary's College,1
+31,3,311003003,BART Orinda via Saint Mary's College,1
+31,1,311001004,BART Orinda via Saint Mary's College,1
+31,2,311002005,BART Orinda via Saint Mary's College,1
+31,3,311003006,BART Orinda via Saint Mary's College,1
+31,1,311001007,BART Orinda via Saint Mary's College,1
+31,2,311002008,BART Orinda via Saint Mary's College,1
+31,3,311003009,BART Orinda via Saint Mary's College,1
+31,1,311001010,BART Orinda via Saint Mary's College,1
+31,2,311002011,BART Orinda via Saint Mary's College,1
+31,3,311003012,BART Orinda via Saint Mary's College,1
+31,1,311001013,BART Orinda via Saint Mary's College,1
+31,2,311002014,BART Orinda via Saint Mary's College,1
+31,3,311003015,BART Orinda via Saint Mary's College,1
+31,1,311001016,BART Orinda via Saint Mary's College,1
+31,2,311002017,BART Orinda via Saint Mary's College,1
+31,3,311003018,BART Orinda via Saint Mary's College,1
+31,1,311001019,BART Orinda via Saint Mary's College,1
+31,2,311002020,BART Orinda via Saint Mary's College,1
+31,3,311003021,BART Orinda via Saint Mary's College,1
+31,5,311005022,BART Orinda via Saint Mary's College,1
+31,4,311004023,BART Orinda via Saint Mary's College,1
+31,1,311001024,BART Orinda via Saint Mary's College,1
+31,2,311002025,BART Orinda via Saint Mary's College,1
+31,3,311003026,BART Orinda via Saint Mary's College,1
+31,4,311004027,BART Orinda via Saint Mary's College,1
+31,5,311005028,BART Orinda via Saint Mary's College,1
+31,1,311001029,BART Orinda via Saint Mary's College,1
+31,2,311002030,BART Orinda via Saint Mary's College,1
+31,3,311003031,BART Orinda via Saint Mary's College,1
+31,4,311004032,BART Orinda via Saint Mary's College,1
+31,5,311005033,BART Orinda via Saint Mary's College,1
+31,1,311001034,BART Orinda via Saint Mary's College,1
+31,2,311002035,BART Orinda via Saint Mary's College,1
+31,3,311003036,BART Orinda via Saint Mary's College,1
+31,1,311001037,BART Orinda via Saint Mary's College,1
+31,2,311002038,BART Orinda via Saint Mary's College,1
+31,3,311003039,BART Orinda via Saint Mary's College,1
+31,1,311001040,BART Orinda via Saint Mary's College,1
+31,2,311002041,BART Orinda via Saint Mary's College,1
+31,3,311003042,BART Orinda via Saint Mary's College,1
+31,5,311005043,BART Orinda via Saint Mary's College,1
+31,4,311004044,BART Orinda via Saint Mary's College,1
+31,1,311001045,BART Orinda via Saint Mary's College,1
+31,2,311002046,BART Orinda via Saint Mary's College,1
+31,3,311003047,BART Orinda via Saint Mary's College,1
+31,4,311004048,BART Orinda via Saint Mary's College,1
+31,5,311005049,BART Orinda via Saint Mary's College,1
+31,1,311001050,BART Orinda via Saint Mary's College,1
+31,2,311002051,BART Orinda via Saint Mary's College,1
+31,3,311003052,BART Orinda via Saint Mary's College,1
+31,1,311001053,BART Orinda via Saint Mary's College,1
+31,2,311002054,BART Orinda via Saint Mary's College,1
+31,3,311003055,BART Orinda via Saint Mary's College,1
+31,1,311001056,BART Orinda via Saint Mary's College,1
+31,2,311002057,BART Orinda via Saint Mary's College,1
+31,3,311003058,BART Orinda via Saint Mary's College,1
+31,4,311004059,BART Orinda via Saint Mary's College,1
+31,5,311005060,BART Orinda via Saint Mary's College,1
+31,1,311001061,BART Orinda via Saint Mary's College,1
+31,2,311002062,BART Orinda via Saint Mary's College,1
+31,3,311003063,BART Orinda via Saint Mary's College,1
+31,1,311001064,BART Orinda via Saint Mary's College,1
+31,2,311002065,BART Orinda via Saint Mary's College,1
+31,3,311003066,BART Orinda via Saint Mary's College,1
+31,1,311001067,BART Orinda via Saint Mary's College,1
+31,2,311002068,BART Orinda via Saint Mary's College,1
+31,3,311003069,BART Orinda via Saint Mary's College,1
+31,1,311001070,BART Orinda via Saint Mary's College,1
+31,2,311002071,BART Orinda via Saint Mary's College,1
+31,3,311003072,BART Orinda via Saint Mary's College,1
+32,1,320001001,Clockwise,0
+32,2,320002002,Clockwise,0
+32,3,320003003,Clockwise,0
+32,1,320001004,Clockwise,0
+32,2,320002005,Clockwise,0
+32,3,320003006,Clockwise,0
+32,1,320001007,Clockwise,0
+32,2,320002008,Clockwise,0
+32,3,320003009,Clockwise,0
+32,1,320001010,Clockwise,0
+32,2,320002011,Clockwise,0
+32,3,320003012,Clockwise,0
+32,1,320001013,Clockwise,0
+32,2,320002014,Clockwise,0
+32,3,320003015,Clockwise,0
+32,1,320001016,Clockwise,0
+32,2,320002017,Clockwise,0
+32,3,320003018,Clockwise,0
+32,1,320001019,Clockwise,0
+32,2,320002020,Clockwise,0
+32,3,320003021,Clockwise,0
+32,1,320001022,Clockwise,0
+32,2,320002023,Clockwise,0
+32,3,320003024,Clockwise,0
+32,1,320001025,Clockwise,0
+32,2,320002026,Clockwise,0
+32,3,320003027,Clockwise,0
+32,1,320001028,Clockwise,0
+32,2,320002029,Clockwise,0
+32,3,320003030,Clockwise,0
+32,1,320001031,Clockwise,0
+32,2,320002032,Clockwise,0
+32,3,320003033,Clockwise,0
+32,1,320001034,Clockwise,0
+32,2,320002035,Clockwise,0
+32,3,320003036,Clockwise,0
+32,1,320001037,Clockwise,0
+32,2,320002038,Clockwise,0
+32,3,320003039,Clockwise,0
+32,1,320001040,Clockwise,0
+32,2,320002041,Clockwise,0
+32,3,320003042,Clockwise,0
+32,1,320001043,Clockwise,0
+32,2,320002044,Clockwise,0
+32,3,320003045,Clockwise,0
+32,1,320001046,Clockwise,0
+32,2,320002047,Clockwise,0
+32,3,320003048,Clockwise,0
+32,1,320001049,Clockwise,0
+32,2,320002050,Clockwise,0
+32,3,320003051,Clockwise,0
+32,1,320001052,Clockwise,0
+32,2,320002053,Clockwise,0
+32,3,320003054,Clockwise,0
+32,1,320001055,Clockwise,0
+32,2,320002056,Clockwise,0
+32,3,320003057,Clockwise,0
+32,1,320001058,Clockwise,0
+32,2,320002059,Clockwise,0
+32,3,320003060,Clockwise,0
+32,1,320001061,Clockwise,0
+32,2,320002062,Clockwise,0
+32,3,320003063,Clockwise,0
+32,1,320001064,Clockwise,0
+32,2,320002065,Clockwise,0
+32,3,320003066,Clockwise,0
+32,1,320001067,Clockwise,0
+32,2,320002068,Clockwise,0
+32,3,320003069,Clockwise,0
+32,1,320001070,Clockwise,0
+32,2,320002071,Clockwise,0
+32,3,320003072,Clockwise,0
+32,1,320001073,Clockwise,0
+32,2,320002074,Clockwise,0
+32,3,320003075,Clockwise,0
+32,1,320001076,Clockwise,0
+32,2,320002077,Clockwise,0
+32,3,320003078,Clockwise,0
+32,1,320001079,Clockwise,0
+32,2,320002080,Clockwise,0
+32,3,320003081,Clockwise,0
+32,1,320001082,Clockwise,0
+32,2,320002083,Clockwise,0
+32,3,320003084,Clockwise,0
+32,1,320001085,Clockwise,0
+32,2,320002086,Clockwise,0
+32,3,320003087,Clockwise,0
+32,1,320001088,Clockwise,0
+32,2,320002089,Clockwise,0
+32,3,320003090,Clockwise,0
+32,1,321001001,Counterclockwise,1
+32,2,321002002,Counterclockwise,1
+32,3,321003003,Counterclockwise,1
+32,1,321001004,Counterclockwise,1
+32,2,321002005,Counterclockwise,1
+32,3,321003006,Counterclockwise,1
+32,1,321001007,Counterclockwise,1
+32,2,321002008,Counterclockwise,1
+32,3,321003009,Counterclockwise,1
+32,1,321001010,Counterclockwise,1
+32,2,321002011,Counterclockwise,1
+32,3,321003012,Counterclockwise,1
+32,1,321001013,Counterclockwise,1
+32,2,321002014,Counterclockwise,1
+32,3,321003015,Counterclockwise,1
+32,1,321001016,Counterclockwise,1
+32,2,321002017,Counterclockwise,1
+32,3,321003018,Counterclockwise,1
+32,1,321001019,Counterclockwise,1
+32,2,321002020,Counterclockwise,1
+32,3,321003021,Counterclockwise,1
+32,1,321001022,Counterclockwise,1
+32,2,321002023,Counterclockwise,1
+32,3,321003024,Counterclockwise,1
+32,1,321001025,Counterclockwise,1
+32,2,321002026,Counterclockwise,1
+32,3,321003027,Counterclockwise,1
+32,1,321001028,Counterclockwise,1
+32,2,321002029,Counterclockwise,1
+32,3,321003030,Counterclockwise,1
+32,1,321001031,Counterclockwise,1
+32,2,321002032,Counterclockwise,1
+32,3,321003033,Counterclockwise,1
+32,1,321001034,Counterclockwise,1
+32,2,321002035,Counterclockwise,1
+32,3,321003036,Counterclockwise,1
+32,1,321001037,Counterclockwise,1
+32,2,321002038,Counterclockwise,1
+32,3,321003039,Counterclockwise,1
+32,1,321001040,Counterclockwise,1
+32,2,321002041,Counterclockwise,1
+32,3,321003042,Counterclockwise,1
+32,1,321001043,Counterclockwise,1
+32,2,321002044,Counterclockwise,1
+32,3,321003045,Counterclockwise,1
+32,1,321001046,Counterclockwise,1
+32,2,321002047,Counterclockwise,1
+32,3,321003048,Counterclockwise,1
+32,1,321001049,Counterclockwise,1
+32,2,321002050,Counterclockwise,1
+32,3,321003051,Counterclockwise,1
+32,1,321001052,Counterclockwise,1
+32,2,321002053,Counterclockwise,1
+32,3,321003054,Counterclockwise,1
+32,1,321001055,Counterclockwise,1
+32,2,321002056,Counterclockwise,1
+32,3,321003057,Counterclockwise,1
+32,1,321001058,Counterclockwise,1
+32,2,321002059,Counterclockwise,1
+32,3,321003060,Counterclockwise,1
+32,1,321001061,Counterclockwise,1
+32,2,321002062,Counterclockwise,1
+32,3,321003063,Counterclockwise,1
+32,1,321001064,Counterclockwise,1
+32,2,321002065,Counterclockwise,1
+32,3,321003066,Counterclockwise,1
+32,1,321001067,Counterclockwise,1
+32,2,321002068,Counterclockwise,1
+32,3,321003069,Counterclockwise,1
+32,1,321001070,Counterclockwise,1
+32,2,321002071,Counterclockwise,1
+32,3,321003072,Counterclockwise,1
+32,1,321001073,Counterclockwise,1
+32,2,321002074,Counterclockwise,1
+32,3,321003075,Counterclockwise,1
+32,1,321001076,Counterclockwise,1
+32,2,321002077,Counterclockwise,1
+32,3,321003078,Counterclockwise,1
+32,1,321001079,Counterclockwise,1
+32,2,321002080,Counterclockwise,1
+32,3,321003081,Counterclockwise,1
+32,1,321001082,Counterclockwise,1
+32,2,321002083,Counterclockwise,1
+32,3,321003084,Counterclockwise,1
+32,1,321001085,Counterclockwise,1
+32,2,321002086,Counterclockwise,1
+32,3,321003087,Counterclockwise,1
+32,1,321001088,Counterclockwise,1
+32,2,321002089,Counterclockwise,1
+32,3,321003090,Counterclockwise,1
+33,1,330001001,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002002,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003003,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001004,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002005,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003006,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001007,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002008,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003009,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001010,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002011,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003012,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001013,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002014,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003015,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001016,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002017,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003018,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001019,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002020,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003021,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001022,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002023,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003024,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001025,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002026,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003027,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001028,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002029,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003030,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001031,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002032,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003033,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001034,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002035,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003036,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001037,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002038,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003039,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001040,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002041,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003042,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001043,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002044,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003045,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001046,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002047,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003048,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001049,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002050,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003051,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001052,BART Walnut Creek Via BART Pleasant Hill,0
+33,2,330002053,BART Walnut Creek Via BART Pleasant Hill,0
+33,3,330003054,BART Walnut Creek Via BART Pleasant Hill,0
+33,1,330001055,BART WC Via BART PH,0
+33,2,330002056,BART WC Via BART PH,0
+33,3,330003057,BART WC Via BART PH,0
+33,1,331001001,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002002,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003003,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001004,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002005,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003006,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001007,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002008,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003009,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001010,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002011,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003012,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001013,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002014,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003015,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001016,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002017,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003018,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001019,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002020,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003021,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001022,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002023,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003024,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001025,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002026,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003027,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001028,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002029,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003030,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001031,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002032,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003033,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001034,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002035,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003036,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001037,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002038,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003039,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001040,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002041,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003042,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001043,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002044,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003045,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001046,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002047,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003048,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001049,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002050,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003051,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001052,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002053,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003054,Diablo Valley College via BART Pleasant Hill,1
+33,1,331001055,Diablo Valley College via BART Pleasant Hill,1
+33,2,331002056,Diablo Valley College via BART Pleasant Hill,1
+33,3,331003057,Diablo Valley College via BART Pleasant Hill,1
+34,1,340001001,Airport Plaza,0
+34,2,340002002,Airport Plaza,0
+34,3,340003003,Airport Plaza,0
+34,1,340001004,Airport Plaza,0
+34,2,340002005,Airport Plaza,0
+34,3,340003006,Airport Plaza,0
+34,1,340001007,Airport Plaza,0
+34,2,340002008,Airport Plaza,0
+34,3,340003009,Airport Plaza,0
+34,1,340001010,Airport Plaza,0
+34,2,340002011,Airport Plaza,0
+34,3,340003012,Airport Plaza,0
+34,1,340001013,Airport Plaza,0
+34,2,340002014,Airport Plaza,0
+34,3,340003015,Airport Plaza,0
+34,1,340001016,Airport Plaza,0
+34,2,340002017,Airport Plaza,0
+34,3,340003018,Airport Plaza,0
+34,1,340001019,Airport Plaza,0
+34,2,340002020,Airport Plaza,0
+34,3,340003021,Airport Plaza,0
+34,1,340001022,ACE Train Station,0
+34,2,340002023,ACE Train Station,0
+34,3,340003024,ACE Train Station,0
+34,1,340001025,ACE Train Station,0
+34,2,340002026,ACE Train Station,0
+34,3,340003027,ACE Train Station,0
+34,1,340001028,ACE Train Station,0
+34,2,340002029,ACE Train Station,0
+34,3,340003030,ACE Train Station,0
+35,1,350001001,ACE Train Station,0
+35,2,350002002,ACE Train Station,0
+35,3,350003003,ACE Train Station,0
+35,1,350001004,ACE Train Station,0
+35,2,350002005,ACE Train Station,0
+35,3,350003006,ACE Train Station,0
+35,1,350001007,ACE Train Station,0
+35,2,350002008,ACE Train Station,0
+35,3,350003009,ACE Train Station,0
+35,1,350001010,ACE Train Station,0
+35,2,350002011,ACE Train Station,0
+35,3,350003012,ACE Train Station,0
+35,1,350001013,ACE Train,0
+35,2,350002014,ACE Train,0
+35,3,350003015,ACE Train,0
+35,1,350001016,ACE Train,0
+35,2,350002017,ACE Train,0
+35,3,350003018,ACE Train,0
+35,1,351001001,San Ramon,1
+35,2,351002002,San Ramon,1
+35,3,351003003,San Ramon,1
+35,1,351001004,San Ramon,1
+35,2,351002005,San Ramon,1
+35,3,351003006,San Ramon,1
+35,1,351001007,San Ramon,1
+35,2,351002008,San Ramon,1
+35,3,351003009,San Ramon,1
+35,1,351001010,San Ramon,1
+35,2,351002011,San Ramon,1
+35,3,351003012,San Ramon,1
+35,1,351001013,San Ramon,1
+35,2,351002014,San Ramon,1
+35,3,351003015,San Ramon,1
+35,1,351001016,San Ramon,1
+35,2,351002017,San Ramon,1
+35,3,351003018,San Ramon,1
+36,1,360001001,Hillcrest Park and Ride,0
+36,2,360002002,Hillcrest Park and Ride,0
+36,3,360003003,Hillcrest Park and Ride,0
+36,1,360001004,Hillcrest Park and Ride,0
+36,2,360002005,Hillcrest Park and Ride,0
+36,3,360003006,Hillcrest Park and Ride,0
+36,1,360001007,Hillcrest Park and Ride,0
+36,2,360002008,Hillcrest Park and Ride,0
+36,3,360003009,Hillcrest Park and Ride,0
+36,1,360001010,Hillcrest Park and Ride,0
+36,2,360002011,Hillcrest Park and Ride,0
+36,3,360003012,Hillcrest Park and Ride,0
+36,1,360001013,Hillcrest Park and Ride,0
+36,2,360002014,Hillcrest Park and Ride,0
+36,3,360003015,Hillcrest Park and Ride,0
+36,1,360001016,Hillcrest Park and Ride,0
+36,2,360002017,Hillcrest Park and Ride,0
+36,3,360003018,Hillcrest Park and Ride,0
+36,1,360001019,Hillcrest Park and Ride,0
+36,2,360002020,Hillcrest Park and Ride,0
+36,3,360003021,Hillcrest Park and Ride,0
+36,1,361001001,BART Walnut Creek,1
+36,2,361002002,BART Walnut Creek,1
+36,3,361003003,BART Walnut Creek,1
+36,1,361001004,BART Walnut Creek,1
+36,2,361002005,BART Walnut Creek,1
+36,3,361003006,BART Walnut Creek,1
+36,1,361001007,BART Walnut Creek,1
+36,2,361002008,BART Walnut Creek,1
+36,3,361003009,BART Walnut Creek,1
+36,1,361001010,BART Walnut Creek,1
+36,2,361002011,BART Walnut Creek,1
+36,3,361003012,BART Walnut Creek,1
+36,1,361001013,BART Walnut Creek,1
+36,2,361002014,BART Walnut Creek,1
+36,3,361003015,BART Walnut Creek,1
+36,1,361001016,BART Walnut Creek,1
+36,2,361002017,BART Walnut Creek,1
+36,3,361003018,BART Walnut Creek,1
+37,1,370001001,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002002,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003003,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,370001004,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002005,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003006,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,370001007,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002008,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003009,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,370001010,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002011,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003012,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,370001013,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002014,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003015,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,370001016,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002017,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003018,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,370001019,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002020,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003021,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,370001022,San Ramon Transit Center Via Danville Park and Ride,0
+37,2,370002023,San Ramon Transit Center Via Danville Park and Ride,0
+37,3,370003024,San Ramon Transit Center Via Danville Park and Ride,0
+37,1,371001001,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002002,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003003,BART Walnut Creek Via Danville Park and Ride,1
+37,1,371001004,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002005,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003006,BART Walnut Creek Via Danville Park and Ride,1
+37,1,371001007,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002008,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003009,BART Walnut Creek Via Danville Park and Ride,1
+37,1,371001010,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002011,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003012,BART Walnut Creek Via Danville Park and Ride,1
+37,1,371001013,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002014,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003015,BART Walnut Creek Via Danville Park and Ride,1
+37,1,371001016,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002017,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003018,BART Walnut Creek Via Danville Park and Ride,1
+37,1,371001019,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002020,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003021,BART Walnut Creek Via Danville Park and Ride,1
+37,1,371001022,BART Walnut Creek Via Danville Park and Ride,1
+37,2,371002023,BART Walnut Creek Via Danville Park and Ride,1
+37,3,371003024,BART Walnut Creek Via Danville Park and Ride,1
+38,1,380001001,San Ramon Transit Center ,0
+38,2,380002002,San Ramon Transit Center ,0
+38,3,380003003,San Ramon Transit Center ,0
+38,1,380001004,San Ramon Transit Center ,0
+38,2,380002005,San Ramon Transit Center ,0
+38,3,380003006,San Ramon Transit Center ,0
+38,1,380001007,San Ramon Transit Center ,0
+38,2,380002008,San Ramon Transit Center ,0
+38,3,380003009,San Ramon Transit Center ,0
+38,1,380001010,San Ramon Transit Center ,0
+38,2,380002011,San Ramon Transit Center ,0
+38,3,380003012,San Ramon Transit Center ,0
+38,1,380001013,San Ramon Transit Center ,0
+38,2,380002014,San Ramon Transit Center ,0
+38,3,380003015,San Ramon Transit Center ,0
+38,1,380001016,San Ramon Transit Center ,0
+38,2,380002017,San Ramon Transit Center ,0
+38,3,380003018,San Ramon Transit Center ,0
+38,1,380001019,San Ramon Transit Center ,0
+38,2,380002020,San Ramon Transit Center ,0
+38,3,380003021,San Ramon Transit Center ,0
+38,1,380001022,San Ramon Transit Center ,0
+38,2,380002023,San Ramon Transit Center ,0
+38,3,380003024,San Ramon Transit Center ,0
+38,1,380001025,San Ramon Transit Center ,0
+38,2,380002026,San Ramon Transit Center ,0
+38,3,380003027,San Ramon Transit Center ,0
+38,1,380001028,San Ramon Transit Center ,0
+38,2,380002029,San Ramon Transit Center ,0
+38,3,380003030,San Ramon Transit Center ,0
+38,1,380001031,San Ramon Transit Center ,0
+38,2,380002032,San Ramon Transit Center ,0
+38,3,380003033,San Ramon Transit Center ,0
+38,1,380001034,San Ramon Transit Center ,0
+38,2,380002035,San Ramon Transit Center ,0
+38,3,380003036,San Ramon Transit Center ,0
+38,1,380001037,San Ramon Transit Center ,0
+38,2,380002038,San Ramon Transit Center ,0
+38,3,380003039,San Ramon Transit Center ,0
+38,1,380001040,San Ramon Transit Center,0
+38,2,380002041,San Ramon Transit Center,0
+38,3,380003042,San Ramon Transit Center,0
+38,1,380001043,San Ramon Transit Center ,0
+38,2,380002044,San Ramon Transit Center ,0
+38,3,380003045,San Ramon Transit Center ,0
+38,1,380001046,San Ramon Transit Center,0
+38,2,380002047,San Ramon Transit Center,0
+38,3,380003048,San Ramon Transit Center,0
+38,1,380001049,San Ramon Transit Center,0
+38,2,380002050,San Ramon Transit Center,0
+38,3,380003051,San Ramon Transit Center,0
+38,1,380001052,San Ramon Transit Center,0
+38,2,380002053,San Ramon Transit Center,0
+38,3,380003054,San Ramon Transit Center,0
+38,1,380001055,San Ramon Transit Center ,0
+38,2,380002056,San Ramon Transit Center ,0
+38,3,380003057,San Ramon Transit Center ,0
+38,1,380001058,San Ramon Transit Center ,0
+38,2,380002059,San Ramon Transit Center ,0
+38,3,380003060,San Ramon Transit Center ,0
+38,1,380001061,San Ramon Transit Center ,0
+38,2,380002062,San Ramon Transit Center ,0
+38,3,380003063,San Ramon Transit Center ,0
+38,1,380001064,San Ramon Transit Center ,0
+38,2,380002065,San Ramon Transit Center ,0
+38,3,380003066,San Ramon Transit Center ,0
+38,1,380001067,San Ramon Transit Center ,0
+38,2,380002068,San Ramon Transit Center ,0
+38,3,380003069,San Ramon Transit Center ,0
+38,1,380001070,San Ramon Transit Center ,0
+38,2,380002071,San Ramon Transit Center ,0
+38,3,380003072,San Ramon Transit Center ,0
+38,1,380001073,San Ramon Transit Center ,0
+38,2,380002074,San Ramon Transit Center ,0
+38,3,380003075,San Ramon Transit Center ,0
+38,1,380001076,San Ramon Transit Center ,0
+38,2,380002077,San Ramon Transit Center ,0
+38,3,380003078,San Ramon Transit Center ,0
+38,1,380001079,San Ramon Transit Center ,0
+38,2,380002080,San Ramon Transit Center ,0
+38,3,380003081,San Ramon Transit Center ,0
+38,1,380001082,San Ramon Transit Center ,0
+38,2,380002083,San Ramon Transit Center ,0
+38,3,380003084,San Ramon Transit Center ,0
+38,1,380001085,San Ramon Transit Center ,0
+38,2,380002086,San Ramon Transit Center ,0
+38,3,380003087,San Ramon Transit Center ,0
+38,1,380001088,San Ramon Transit Center ,0
+38,2,380002089,San Ramon Transit Center ,0
+38,3,380003090,San Ramon Transit Center ,0
+38,1,381001001,BART Walnut Creek,1
+38,2,381002002,BART Walnut Creek,1
+38,3,381003003,BART Walnut Creek,1
+38,1,381001004,BART Walnut Creek,1
+38,2,381002005,BART Walnut Creek,1
+38,3,381003006,BART Walnut Creek,1
+38,1,381001007,BART Walnut Creek,1
+38,2,381002008,BART Walnut Creek,1
+38,3,381003009,BART Walnut Creek,1
+38,1,381001010,BART Walnut Creek,1
+38,2,381002011,BART Walnut Creek,1
+38,3,381003012,BART Walnut Creek,1
+38,1,381001013,BART Walnut Creek,1
+38,2,381002014,BART Walnut Creek,1
+38,3,381003015,BART Walnut Creek,1
+38,1,381001016,Bishop Ranch,1
+38,2,381002017,Bishop Ranch,1
+38,3,381003018,Bishop Ranch,1
+38,1,381001019,BART Walnut Creek,1
+38,2,381002020,BART Walnut Creek,1
+38,3,381003021,BART Walnut Creek,1
+38,1,381001022,BART Walnut Creek,1
+38,2,381002023,BART Walnut Creek,1
+38,3,381003024,BART Walnut Creek,1
+38,1,381001025,BART Walnut Creek,1
+38,2,381002026,BART Walnut Creek,1
+38,3,381003027,BART Walnut Creek,1
+38,1,381001028,Bishop Ranch,1
+38,2,381002029,Bishop Ranch,1
+38,3,381003030,Bishop Ranch,1
+38,1,381001031,Bishop Ranch,1
+38,2,381002032,Bishop Ranch,1
+38,3,381003033,Bishop Ranch,1
+38,1,381001034,Bishop Ranch,1
+38,2,381002035,Bishop Ranch,1
+38,3,381003036,Bishop Ranch,1
+38,1,381001037,Bishop Ranch,1
+38,2,381002038,Bishop Ranch,1
+38,3,381003039,Bishop Ranch,1
+38,1,381001040,BART Walnut Creek,1
+38,2,381002041,BART Walnut Creek,1
+38,3,381003042,BART Walnut Creek,1
+38,1,381001043,BART Walnut Creek,1
+38,2,381002044,BART Walnut Creek,1
+38,3,381003045,BART Walnut Creek,1
+38,1,381001046,BART Walnut Creek,1
+38,2,381002047,BART Walnut Creek,1
+38,3,381003048,BART Walnut Creek,1
+38,1,381001049,BART Walnut Creek,1
+38,2,381002050,BART Walnut Creek,1
+38,3,381003051,BART Walnut Creek,1
+38,1,381001052,BART Walnut Creek,1
+38,2,381002053,BART Walnut Creek,1
+38,3,381003054,BART Walnut Creek,1
+38,1,381001055,BART Walnut Creek,1
+38,2,381002056,BART Walnut Creek,1
+38,3,381003057,BART Walnut Creek,1
+38,1,381001058,BART Walnut Creek,1
+38,2,381002059,BART Walnut Creek,1
+38,3,381003060,BART Walnut Creek,1
+38,1,381001061,BART Walnut Creek,1
+38,2,381002062,BART Walnut Creek,1
+38,3,381003063,BART Walnut Creek,1
+38,1,381001064,BART Walnut Creek,1
+38,2,381002065,BART Walnut Creek,1
+38,3,381003066,BART Walnut Creek,1
+38,1,381001067,BART Walnut Creek,1
+38,2,381002068,BART Walnut Creek,1
+38,3,381003069,BART Walnut Creek,1
+38,1,381001070,BART Walnut Creek,1
+38,2,381002071,BART Walnut Creek,1
+38,3,381003072,BART Walnut Creek,1
+38,1,381001073,BART Walnut Creek,1
+38,2,381002074,BART Walnut Creek,1
+38,3,381003075,BART Walnut Creek,1
+38,1,381001076,BART Walnut Creek,1
+38,2,381002077,BART Walnut Creek,1
+38,3,381003078,BART Walnut Creek,1
+38,1,381001079,BART Walnut Creek,1
+38,2,381002080,BART Walnut Creek,1
+38,3,381003081,BART Walnut Creek,1
+38,1,381001082,BART Walnut Creek,1
+38,2,381002083,BART Walnut Creek,1
+38,3,381003084,BART Walnut Creek,1
+38,1,381001085,BART Walnut Creek,1
+38,2,381002086,BART Walnut Creek,1
+38,3,381003087,BART Walnut Creek,1
+38,1,381001088,BART Walnut Creek,1
+38,2,381002089,BART Walnut Creek,1
+38,3,381003090,BART Walnut Creek,1
+39,1,390001001,BART Dublin,0
+39,2,390002002,BART Dublin,0
+39,3,390003003,BART Dublin,0
+39,1,390001004,BART Dublin,0
+39,2,390002005,BART Dublin,0
+39,3,390003006,BART Dublin,0
+39,1,390001007,BART Dublin,0
+39,2,390002008,BART Dublin,0
+39,3,390003009,BART Dublin,0
+39,1,390001010,BART Dublin,0
+39,2,390002011,BART Dublin,0
+39,3,390003012,BART Dublin,0
+39,1,390001013,Bishop Ranch,0
+39,2,390002014,Bishop Ranch,0
+39,3,390003015,Bishop Ranch,0
+39,1,390001016,Bishop Ranch,0
+39,2,390002017,Bishop Ranch,0
+39,3,390003018,Bishop Ranch,0
+39,1,390001019,BART Dublin,0
+39,2,390002020,BART Dublin,0
+39,3,390003021,BART Dublin,0
+39,1,390001022,BART Dublin,0
+39,2,390002023,BART Dublin,0
+39,3,390003024,BART Dublin,0
+39,1,390001025,BART Dublin,0
+39,2,390002026,BART Dublin,0
+39,3,390003027,BART Dublin,0
+39,1,390001028,BART Dublin,0
+39,2,390002029,BART Dublin,0
+39,3,390003030,BART Dublin,0
+39,1,391001001,San Ramon Transit Center ,1
+39,2,391002002,San Ramon Transit Center ,1
+39,3,391003003,San Ramon Transit Center ,1
+39,1,391001004,San Ramon Transit Center ,1
+39,2,391002005,San Ramon Transit Center ,1
+39,3,391003006,San Ramon Transit Center ,1
+39,1,391001007,San Ramon Transit Center ,1
+39,2,391002008,San Ramon Transit Center ,1
+39,3,391003009,San Ramon Transit Center ,1
+39,1,391001010,San Ramon Transit Center ,1
+39,2,391002011,San Ramon Transit Center ,1
+39,3,391003012,San Ramon Transit Center ,1
+39,1,391001013,San Ramon Transit Center ,1
+39,2,391002014,San Ramon Transit Center ,1
+39,3,391003015,San Ramon Transit Center ,1
+39,1,391001016,San Ramon Transit Center ,1
+39,2,391002017,San Ramon Transit Center ,1
+39,3,391003018,San Ramon Transit Center ,1
+39,1,391001019,San Ramon Transit Center,1
+39,2,391002020,San Ramon Transit Center,1
+39,3,391003021,San Ramon Transit Center,1
+39,1,391001022,San Ramon Transit Center,1
+39,2,391002023,San Ramon Transit Center,1
+39,3,391003024,San Ramon Transit Center,1
+39,1,391001025,San Ramon Transit Center,1
+39,2,391002026,San Ramon Transit Center,1
+39,3,391003027,San Ramon Transit Center,1
+39,1,391001028,San Ramon Transit Center ,1
+39,2,391002029,San Ramon Transit Center ,1
+39,3,391003030,San Ramon Transit Center ,1
+40,1,400001001,BART Walnut Creek,0
+40,2,400002002,BART Walnut Creek,0
+40,3,400003003,BART Walnut Creek,0
+40,1,400001004,BART Walnut Creek,0
+40,2,400002005,BART Walnut Creek,0
+40,3,400003006,BART Walnut Creek,0
+40,1,400001007,BART Walnut Creek,0
+40,2,400002008,BART Walnut Creek,0
+40,3,400003009,BART Walnut Creek,0
+40,1,400001010,BART Walnut Creek,0
+40,2,400002011,BART Walnut Creek,0
+40,3,400003012,BART Walnut Creek,0
+40,1,400001013,BART Walnut Creek,0
+40,2,400002014,BART Walnut Creek,0
+40,3,400003015,BART Walnut Creek,0
+40,1,400001016,BART Walnut Creek,0
+40,2,400002017,BART Walnut Creek,0
+40,3,400003018,BART Walnut Creek,0
+40,1,400001019,BART Walnut Creek,0
+40,2,400002020,BART Walnut Creek,0
+40,3,400003021,BART Walnut Creek,0
+40,1,400001022,BART Walnut Creek,0
+40,2,400002023,BART Walnut Creek,0
+40,3,400003024,BART Walnut Creek,0
+40,1,400001025,BART Walnut Creek,0
+40,2,400002026,BART Walnut Creek,0
+40,3,400003027,BART Walnut Creek,0
+40,1,400001028,BART Walnut Creek,0
+40,2,400002029,BART Walnut Creek,0
+40,3,400003030,BART Walnut Creek,0
+40,1,400001031,BART Walnut Creek,0
+40,2,400002032,BART Walnut Creek,0
+40,3,400003033,BART Walnut Creek,0
+40,1,400001034,BART Walnut Creek,0
+40,2,400002035,BART Walnut Creek,0
+40,3,400003036,BART Walnut Creek,0
+40,1,400001037,BART Walnut Creek,0
+40,2,400002038,BART Walnut Creek,0
+40,3,400003039,BART Walnut Creek,0
+40,1,400001040,BART Walnut Creek,0
+40,2,400002041,BART Walnut Creek,0
+40,3,400003042,BART Walnut Creek,0
+40,1,400001043,BART Walnut Creek,0
+40,2,400002044,BART Walnut Creek,0
+40,3,400003045,BART Walnut Creek,0
+40,1,400001046,BART Walnut Creek,0
+40,2,400002047,BART Walnut Creek,0
+40,3,400003048,BART Walnut Creek,0
+40,1,400001049,BART Walnut Creek,0
+40,2,400002050,BART Walnut Creek,0
+40,3,400003051,BART Walnut Creek,0
+40,1,400001052,BART Walnut Creek,0
+40,2,400002053,BART Walnut Creek,0
+40,3,400003054,BART Walnut Creek,0
+40,1,401001001,Martinez AMTRAK,1
+40,2,401002002,Martinez AMTRAK,1
+40,3,401003003,Martinez AMTRAK,1
+40,1,401001004,Martinez AMTRAK,1
+40,2,401002005,Martinez AMTRAK,1
+40,3,401003006,Martinez AMTRAK,1
+40,1,401001007,Martinez AMTRAK,1
+40,2,401002008,Martinez AMTRAK,1
+40,3,401003009,Martinez AMTRAK,1
+40,1,401001010,Martinez AMTRAK,1
+40,2,401002011,Martinez AMTRAK,1
+40,3,401003012,Martinez AMTRAK,1
+40,1,401001013,Martinez AMTRAK,1
+40,2,401002014,Martinez AMTRAK,1
+40,3,401003015,Martinez AMTRAK,1
+40,1,401001016,Martinez AMTRAK,1
+40,2,401002017,Martinez AMTRAK,1
+40,3,401003018,Martinez AMTRAK,1
+40,1,401001019,Martinez AMTRAK,1
+40,2,401002020,Martinez AMTRAK,1
+40,3,401003021,Martinez AMTRAK,1
+40,1,401001022,Martinez AMTRAK,1
+40,2,401002023,Martinez AMTRAK,1
+40,3,401003024,Martinez AMTRAK,1
+40,1,401001025,Martinez AMTRAK,1
+40,2,401002026,Martinez AMTRAK,1
+40,3,401003027,Martinez AMTRAK,1
+40,1,401001028,Martinez AMTRAK,1
+40,2,401002029,Martinez AMTRAK,1
+40,3,401003030,Martinez AMTRAK,1
+40,1,401001031,Martinez AMTRAK,1
+40,2,401002032,Martinez AMTRAK,1
+40,3,401003033,Martinez AMTRAK,1
+40,1,401001034,Martinez AMTRAK,1
+40,2,401002035,Martinez AMTRAK,1
+40,3,401003036,Martinez AMTRAK,1
+40,1,401001037,Martinez AMTRAK,1
+40,2,401002038,Martinez AMTRAK,1
+40,3,401003039,Martinez AMTRAK,1
+40,1,401001040,Martinez AMTRAK,1
+40,2,401002041,Martinez AMTRAK,1
+40,3,401003042,Martinez AMTRAK,1
+40,1,401001043,Martinez AMTRAK,1
+40,2,401002044,Martinez AMTRAK,1
+40,3,401003045,Martinez AMTRAK,1
+40,1,401001046,Martinez AMTRAK,1
+40,2,401002047,Martinez AMTRAK,1
+40,3,401003048,Martinez AMTRAK,1
+40,1,401001049,Martinez AMTRAK,1
+40,2,401002050,Martinez AMTRAK,1
+40,3,401003051,Martinez AMTRAK,1
+40,1,401001052,Martinez AMTRAK,1
+40,2,401002053,Martinez AMTRAK,1
+40,3,401003054,Martinez AMTRAK,1
+41,1,410001001,,0
+41,2,410002002,,0
+41,3,410003003,,0
+41,1,410001004,,0
+41,2,410002005,,0
+41,3,410003006,,0
+41,1,410001007,,0
+41,2,410002008,,0
+41,3,410003009,,0
+41,1,410001010,,0
+41,2,410002011,,0
+41,3,410003012,,0
+41,1,410001013,,0
+41,2,410002014,,0
+41,3,410003015,,0
+41,1,411001001,,1
+41,2,411002002,,1
+41,3,411003003,,1
+41,1,411001004,,1
+41,2,411002005,,1
+41,3,411003006,,1
+41,1,411001007,,1
+41,2,411002008,,1
+41,3,411003009,,1
+41,1,411001010,,1
+41,2,411002011,,1
+41,3,411003012,,1
+41,1,411001013,,1
+41,2,411002014,,1
+41,3,411003015,,1
