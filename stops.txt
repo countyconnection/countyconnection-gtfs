@@ -677,7 +677,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 1246,Upper Happy Valley Rd/N Peardale Dr,37.899622,-122.150976,0,
 1247,Upper Happy Valley Rd/Rahara Dr,37.898034,-122.150948,0,
 1248,Upper Happy Valley Rd/Los Arabis Dr,37.895169,-122.151354,0,
-1249,Va Clinic,37.99394,-122.114444,0,
+1249,VA Clinic,37.99394,-122.114444,0,
 1250,Alhambra Ave/Wildcroft Dr,37.97103,-122.10566,0,
 1251,Alhambra Ave/Macalvey Dr,37.974934,-122.108484,0,
 1252,Alhambra Ave/John Muir Rd,37.982918,-122.116374,0,
