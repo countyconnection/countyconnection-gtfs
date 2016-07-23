@@ -153,7 +153,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 630,Fry Way/Clayton Rd,37.972468,-122.040698,0,
 631,Galaxy Way/Meridian Park Blvd,37.97615,-122.056033,0,
 632,Galaxy Way/Meridian Park Blvd,37.976204,-122.055539,0,
-633,Ufcw And Employers Plaza,37.974103,-122.060087,0,
+633,UFCW and Employers Plaza,37.974103,-122.060087,0,
 634,Gateway Blvd/Clayton Rd,37.971209,-122.042569,0,
 635,Gateway Blvd/Willow Pass Rd,37.971859,-122.043478,0,
 636,Grant St/Concord Blvd,37.976096,-122.032059,0,
