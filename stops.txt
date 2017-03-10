@@ -738,7 +738,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 1340,Moraga Rd/Corliss Dr,37.846572,-122.126029,0,
 1341,Moraga Rd/Devin Dr,37.851097,-122.125122,0,
 1342,Moraga Rd/Ascot Dr,37.854372,-122.124843,0,
-1343,Moraga Rd/Kendall Cir,37.857513,-122.124173
+1343,Moraga Rd/Kendall Cir,37.857513,-122.124173,0,
 1344,Moraga Rd/Buckingham Dr,37.864509,-122.124063,0,
 1345,Moraga Rd/Campolindo Dr,37.868317,-122.125093,0,
 1346,Moraga Rd/Via Granada Dr,37.872637,-122.123807,0,
