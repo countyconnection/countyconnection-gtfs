@@ -1,26 +1,26 @@
 route_id,route_short_name,route_long_name,route_type
 1,1,Rossmoor/Shadelands,3
-2,10,BART Concord/Clayton         ,3
-3,11,BART Concord/BART Pleasant Hi      ,3
-4,14,Monument Blvd             ,3
+2,10,BART Concord/Clayton,3
+3,11,BART Concord/BART Pleasant Hill,3
+4,14,Monument Blvd,3
 5,15,Treat Blvd,3
-6,16,AMTRAK/BART Concord     ,3
+6,16,AMTRAK/BART Concord,3
 7,17,BART Concord/North Concord,3
 8,18,AMTRAK/BART Pleasant Hill,3
 9,19,AMTRAK/BART Concord,3
 10,1M,BART Walnut Creek/John Muir Med Ctr,3
 11,2,Rudgear/BART Walnut Creek,3
-12,20,DVC/BART Concord    ,3
+12,20,DVC/BART Concord,3
 13,21,BART Walnut Creek/San Ramon,3
 14,25,BART Lafayette/BART Walnut Creek,3
 15,250,ST Marys College Gael Rail Shuttle,3
 16,260MW,BART Concord/Cal State East Bay,3
 17,260TTH,BART Concord/Cal State East Bay,3
 18,28,BART North Concord/Martinez,3
-19,3,Martinez Community ,3
+19,3,Martinez Community,3
 20,301,Rossmoor/Ygnacio Valley,3
 21,310,Clayton Rd/BART Concord,3
-22,311,BART Concord/BART PH/BART WC       ,3
+22,311,BART Concord/BART PH/BART WC,3
 23,314,BART Concord/Monument Blvd/DVC,3
 24,315,BART Concord/Landana,3
 25,316,Martinez AMTRAK/BART Pleasant Hill,3
