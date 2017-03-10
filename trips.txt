@@ -3332,45 +3332,45 @@ route_id,service_id,trip_id,trip_headsign,direction_id
 36,1,361001016,San Ramon,1
 36,2,361002017,San Ramon,1
 36,3,361003018,San Ramon,1
-37,1,370001001,BART Walnut Creek,0
-37,2,370002002,BART Walnut Creek,0
-37,3,370003003,BART Walnut Creek,0
-37,1,370001004,BART Walnut Creek,0
-37,2,370002005,BART Walnut Creek,0
-37,3,370003006,BART Walnut Creek,0
-37,1,370001007,BART Walnut Creek,0
-37,2,370002008,BART Walnut Creek,0
-37,3,370003009,BART Walnut Creek,0
-37,1,370001010,BART Walnut Creek,0
-37,2,370002011,BART Walnut Creek,0
-37,3,370003012,BART Walnut Creek,0
-37,1,370001013,BART Walnut Creek,0
-37,2,370002014,BART Walnut Creek,0
-37,3,370003015,BART Walnut Creek,0
-37,1,370001016,BART Walnut Creek,0
-37,2,370002017,BART Walnut Creek,0
-37,3,370003018,BART Walnut Creek,0
-37,1,371001001,Hillcrest Park and Ride,1
-37,2,371002002,Hillcrest Park and Ride,1
-37,3,371003003,Hillcrest Park and Ride,1
-37,1,371001004,Hillcrest Park and Ride,1
-37,2,371002005,Hillcrest Park and Ride,1
-37,3,371003006,Hillcrest Park and Ride,1
-37,1,371001007,Hillcrest Park and Ride,1
-37,2,371002008,Hillcrest Park and Ride,1
-37,3,371003009,Hillcrest Park and Ride,1
-37,1,371001010,Hillcrest Park and Ride,1
-37,2,371002011,Hillcrest Park and Ride,1
-37,3,371003012,Hillcrest Park and Ride,1
-37,1,371001013,Hillcrest Park and Ride,1
-37,2,371002014,Hillcrest Park and Ride,1
-37,3,371003015,Hillcrest Park and Ride,1
-37,1,371001016,Hillcrest Park and Ride,1
-37,2,371002017,Hillcrest Park and Ride,1
-37,3,371003018,Hillcrest Park and Ride,1
-37,1,371001019,Hillcrest Park and Ride,1
-37,2,371002020,Hillcrest Park and Ride,1
-37,3,371003021,Hillcrest Park and Ride,1
+37,1,370001001,Hillcrest Park and Ride,0
+37,2,370002002,Hillcrest Park and Ride,0
+37,3,370003003,Hillcrest Park and Ride,0
+37,1,370001004,Hillcrest Park and Ride,0
+37,2,370002005,Hillcrest Park and Ride,0
+37,3,370003006,Hillcrest Park and Ride,0
+37,1,370001007,Hillcrest Park and Ride,0
+37,2,370002008,Hillcrest Park and Ride,0
+37,3,370003009,Hillcrest Park and Ride,0
+37,1,370001010,Hillcrest Park and Ride,0
+37,2,370002011,Hillcrest Park and Ride,0
+37,3,370003012,Hillcrest Park and Ride,0
+37,1,370001013,Hillcrest Park and Ride,0
+37,2,370002014,Hillcrest Park and Ride,0
+37,3,370003015,Hillcrest Park and Ride,0
+37,1,370001016,Hillcrest Park and Ride,0
+37,2,370002017,Hillcrest Park and Ride,0
+37,3,370003018,Hillcrest Park and Ride,0
+37,1,370001019,Hillcrest Park and Ride,0
+37,2,370002020,Hillcrest Park and Ride,0
+37,3,370003021,Hillcrest Park and Ride,0
+37,1,371001001,BART Walnut Creek,1
+37,2,371002002,BART Walnut Creek,1
+37,3,371003003,BART Walnut Creek,1
+37,1,371001004,BART Walnut Creek,1
+37,2,371002005,BART Walnut Creek,1
+37,3,371003006,BART Walnut Creek,1
+37,1,371001007,BART Walnut Creek,1
+37,2,371002008,BART Walnut Creek,1
+37,3,371003009,BART Walnut Creek,1
+37,1,371001010,BART Walnut Creek,1
+37,2,371002011,BART Walnut Creek,1
+37,3,371003012,BART Walnut Creek,1
+37,1,371001013,BART Walnut Creek,1
+37,2,371002014,BART Walnut Creek,1
+37,3,371003015,BART Walnut Creek,1
+37,1,371001016,BART Walnut Creek,1
+37,2,371002017,BART Walnut Creek,1
+37,3,371003018,BART Walnut Creek,1
 38,1,380001001,San Ramon Transit Center Via Danville Park and Ride,0
 38,2,380002002,San Ramon Transit Center Via Danville Park and Ride,0
 38,3,380003003,San Ramon Transit Center Via Danville Park and Ride,0
