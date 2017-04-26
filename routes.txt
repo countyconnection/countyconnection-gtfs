@@ -1,7 +1,7 @@
 route_id,route_short_name,route_long_name,route_type
 1,1,Rossmoor/Shadelands,3
 2,10,BART Concord/Clayton,3
-3,11,BART Concord/BART Pleasant Hill,3
+3,11,BART Concord/BART Pleas Hill,3
 4,14,Monument Blvd,3
 5,15,Treat Blvd,3
 6,16,AMTRAK/BART Concord,3
@@ -27,7 +27,7 @@ route_id,route_short_name,route_long_name,route_type
 26,320,DVC/BART Concord,3
 27,321,BART Walnut Creek/San Ramon,3
 28,35,BART Dublin/San Ramon,3
-29,36,San Ramon/BART Dublin   ,3
+29,36,San Ramon/BART Dublin,3
 30,4,Broadway Plaza/BART Walnut Creek,3
 31,5,Creekside/BART Walnut Creek,3
 32,6,Lafayette/Moraga/Orinda,3
@@ -35,7 +35,7 @@ route_id,route_short_name,route_long_name,route_type
 34,9,DVC/BART Walnut Creek,3
 35,91X,Concord Commuter Express,3
 36,92X,ACE Express,3
-37,93X,Kirker Pass Express            ,3
+37,93X,Kirker Pass Express,3
 38,95X,San Ramon/BART Walnut Creek,3
 39,96X,BART Walnut Creek/Bishop Ranch,3
 40,97X,BART Dublin/Bishop Ranch,3
