@@ -13,7 +13,7 @@ route_id,route_short_name,route_long_name,route_type
 12,20,DVC/BART Concord,3
 13,21,BART Walnut Creek/San Ramon,3
 14,25,BART Lafayette/BART Walnut Creek,3
-15,250,ST Marys College Gael Rail Shuttle,3
+15,250,St Marys College Gael Rail Shuttle,3
 16,260MW,BART Concord/Cal State East Bay,3
 17,260TTH,BART Concord/Cal State East Bay,3
 18,28,BART North Concord/Martinez,3
