@@ -29,6 +29,7 @@ timetable_page_id,timetable_page_label,filename
 96X,,96X.html
 97X,,97X.html
 98X,,98X.html
+250,,250.html
 301,,301.html
 310,,310.html
 311,,311.html
