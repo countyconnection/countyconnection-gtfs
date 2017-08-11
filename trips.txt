@@ -2918,14 +2918,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id
 32,1,321001016,BART Orinda via Saint Mary's College,1
 32,2,321002017,BART Orinda via Saint Mary's College,1
 32,3,321003018,BART Orinda via Saint Mary's College,1
-32,1,321001019,BART Orinda via Orinda Village,1
-32,2,321002020,BART Orinda via Orinda Village,1
-32,3,321003021,BART Orinda via Orinda Village,1
 32,4,321004022,BART Orinda via Saint Mary's College,1
 32,5,321005023,BART Orinda via Saint Mary's College,1
-32,1,321001024,BART Orinda via Orinda Village,1
-32,2,321002025,BART Orinda via Orinda Village,1
-32,3,321003026,BART Orinda via Orinda Village,1
 32,4,321004027,BART Orinda via Saint Mary's College,1
 32,5,321005028,BART Orinda via Saint Mary's College,1
 32,1,321001029,BART Orinda via Saint Mary's College,1
@@ -2939,9 +2933,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id
 32,1,321001037,BART Orinda via Orinda Village,1
 32,2,321002038,BART Orinda via Orinda Village,1
 32,3,321003039,BART Orinda via Orinda Village,1
-32,1,321001040,BART Orinda via Orinda Village,1
-32,2,321002041,BART Orinda via Orinda Village,1
-32,3,321003042,BART Orinda via Orinda Village,1
 32,4,321004043,BART Orinda via Saint Mary's College,1
 32,5,321005044,BART Orinda via Saint Mary's College,1
 32,1,321001045,BART Orinda via Saint Mary's College,1
@@ -2952,9 +2943,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id
 32,1,321001050,BART Orinda via Saint Mary's College,1
 32,2,321002051,BART Orinda via Saint Mary's College,1
 32,3,321003052,BART Orinda via Saint Mary's College,1
-32,1,321001053,BART Orinda via Orinda Village,1
-32,2,321002054,BART Orinda via Orinda Village,1
-32,3,321003055,BART Orinda via Orinda Village,1
 32,1,321001056,BART Orinda via Saint Mary's College,1
 32,2,321002057,BART Orinda via Saint Mary's College,1
 32,3,321003058,BART Orinda via Saint Mary's College,1
