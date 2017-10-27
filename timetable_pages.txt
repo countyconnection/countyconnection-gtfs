@@ -19,7 +19,7 @@ timetable_page_id,timetable_page_label,filename
 20,,20.html
 21,,21.html
 25,,25.html
-28,,28.html
+28,"Route 28 - North Concord BART/Martinez and Route 627 - North Concord BART/Mason Circle",28.html
 35,,35.html
 36,,36.html
 91x,,91x.html
