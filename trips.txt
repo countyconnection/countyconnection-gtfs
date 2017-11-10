@@ -2918,14 +2918,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 32,1,42226016,BART Orinda via Saint Mary's College,1,,38376
 32,2,42226017,BART Orinda via Saint Mary's College,1,,38376
 32,3,42226018,BART Orinda via Saint Mary's College,1,,38376
-32,1,42227019,BART Orinda via Orinda Village,1,,38377
-32,2,42227020,BART Orinda via Orinda Village,1,,38377
-32,3,42227021,BART Orinda via Orinda Village,1,,38377
 32,4,42228122,BART Orinda via Saint Mary's College,1,,38376
 32,5,42229323,BART Orinda via Saint Mary's College,1,,38376
-32,1,42227324,BART Orinda via Orinda Village,1,,38377
-32,2,42227325,BART Orinda via Orinda Village,1,,38377
-32,3,42227326,BART Orinda via Orinda Village,1,,38377
 32,5,42229427,BART Orinda via Saint Mary's College,1,,38376
 32,4,42228228,BART Orinda via Saint Mary's College,1,,38376
 32,1,42226129,BART Orinda via Saint Mary's College,1,,38376
@@ -2939,9 +2933,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 32,1,42227437,BART Orinda via Orinda Village,1,,38377
 32,2,42227438,BART Orinda via Orinda Village,1,,38377
 32,3,42227439,BART Orinda via Orinda Village,1,,38377
-32,1,42227140,BART Orinda via Orinda Village,1,,38377
-32,2,42227141,BART Orinda via Orinda Village,1,,38377
-32,3,42227142,BART Orinda via Orinda Village,1,,38377
 32,5,42229643,BART Orinda via Saint Mary's College,1,,38376
 32,4,42228444,BART Orinda via Saint Mary's College,1,,38376
 32,1,42226345,BART Orinda via Saint Mary's College,1,,38376
@@ -2952,9 +2943,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 32,1,42226450,BART Orinda via Saint Mary's College,1,,38376
 32,2,42226451,BART Orinda via Saint Mary's College,1,,38376
 32,3,42226452,BART Orinda via Saint Mary's College,1,,38376
-32,1,42227253,BART Orinda via Orinda Village,1,,38377
-32,2,42227254,BART Orinda via Orinda Village,1,,38377
-32,3,42227255,BART Orinda via Orinda Village,1,,38377
 32,1,42226556,BART Orinda via Saint Mary's College,1,,38376
 32,2,42226557,BART Orinda via Saint Mary's College,1,,38376
 32,3,42226558,BART Orinda via Saint Mary's College,1,,38376
