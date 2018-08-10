@@ -14,31 +14,30 @@ route_id,route_short_name,route_long_name,route_type
 13,21,BART Walnut Creek/San Ramon,3
 14,25,BART Lafayette/BART Walnut Creek,3
 15,250,St Marys College Gael Rail Shuttle,3
-16,260MW,BART Concord/Cal State East Bay,3
-17,260T,BART Concord/Cal State East Bay,3
-18,260TH,BART Concord/Cal State East Bay,3
-19,28,BART North Concord/Martinez,3
-20,3,Martinez Community,3
-21,301,Rossmoor/Ygnacio Valley,3
-22,310,Clayton Rd/BART Concord,3
-23,311,BART Concord/BART PH/BART WC,3
-24,314,BART Concord/Monument Blvd/DVC,3
-25,315,BART Concord/Landana,3
-26,316,Martinez AMTRAK/BART Pleasant Hill,3
-27,320,DVC/BART Concord,3
-28,321,BART Walnut Creek/San Ramon,3
-29,35,BART Dublin/San Ramon,3
-30,36,San Ramon/BART Dublin,3
-31,4,Broadway Plaza/BART Walnut Creek,3
-32,5,Creekside/BART Walnut Creek,3
-33,6,Lafayette/Moraga/Orinda,3
-34,7,Shadelands/BART PH,3
-35,9,DVC/BART Walnut Creek,3
-36,91X,Concord Commuter Express,3
-37,92X,ACE Express,3
-38,93X,Kirker Pass Express,3
-39,95X,San Ramon/BART Walnut Creek,3
-40,96X,BART Walnut Creek/Bishop Ranch,3
-41,97X,BART Dublin/Bishop Ranch,3
-42,98X,Martinez/BART Walnut Creek,3
-43,ALAMOCR,ALAMO CREEK SHUTTLE,3
+16,260F,BART Concord/Cal State East Bay,3
+17,260MTH,BART Concord/Cal State East Bay,3
+18,28,BART North Concord/Martinez,3
+19,301,Rossmoor/Ygnacio Valley,3
+20,310,Clayton Rd/BART Concord,3
+21,311,BART Concord/BART PH/BART WC,3
+22,314,BART Concord/Monument Blvd/DVC,3
+23,315,BART Concord/Landana,3
+24,316,Martinez AMTRAK/BART Pleasant Hill,3
+25,320,DVC/BART Concord,3
+26,321,BART Walnut Creek/San Ramon,3
+27,35,BART Dublin/San Ramon,3
+28,36,San Ramon/BART Dublin,3
+29,4,Broadway Plaza/BART Walnut Creek,3
+30,5,Creekside/BART Walnut Creek,3
+31,6,Lafayette/Moraga/Orinda,3
+32,7,Shadelands/BART PH,3
+33,9,DVC/BART Walnut Creek,3
+34,91X,Concord Commuter Express,3
+35,92X,ACE Express,3
+36,93X,Kirker Pass Express,3
+37,95X,San Ramon/BART Walnut Creek,3
+38,96X,BART Walnut Creek/Bishop Ranch,3
+39,97X,BART Dublin/Bishop Ranch,3
+40,98X,Martinez/BART Walnut Creek,3
+41,99X,Martinez Amtrak/North Concord BART,3
+42,ALAMOCR,ALAMO CREEK SHUTTLE,3
