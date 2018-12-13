@@ -1,43 +1,43 @@
-route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-1,1,Rossmoor/Shadelands,3,DBA111,000000
-2,10,BART Concord/Clayton,3,EF4130,000000
-3,11,BART Concord/BART Pleas Hill,3,4CB179,000000
-4,14,Monument Blvd,3,53BEE3,000000
-5,15,Treat Blvd,3,E796C1,000000
-6,16,AMTRAK/BART Concord,3,008242,000000
-7,17,BART Concord/North Concord,3,A066AA,000000
-8,18,AMTRAK/BART Pleasant Hill,3,EA8D44,000000
-9,19,AMTRAK/BART Concord,3,DBA111,000000
-10,1M,BART Walnut Creek/John Muir Med Ctr,3,999999,000000
-11,2,Rudgear/BART Walnut Creek,3,EF4130,000000
-12,20,DVC/BART Concord,3,374EA2,000000
-13,21,BART Walnut Creek/San Ramon,3,E796C1,000000
-14,25,BART Lafayette/BART Walnut Creek,3,4CB179,000000
-15,250,St Marys College Gael Rail Shuttle,3,999999,000000
-16,260F,BART Concord/Cal State East Bay,3,999999,000000
-17,260MTH,BART Concord/Cal State East Bay,3,999999,000000
-18,28,BART North Concord/Martinez,3,53BEE3,000000
-19,301,Rossmoor/Ygnacio Valley,3,DBA111,000000
-20,310,Clayton Rd/BART Concord,3,EF4130,000000
-21,311,BART Concord/BART PH/BART WC,3,4CB179,000000
-22,314,BART Concord/Monument Blvd/DVC,3,53BEE3,000000
-23,315,BART Concord/Landana,3,E796C1,000000
-24,316,Martinez AMTRAK/BART Pleasant Hill,3,EA8D44,000000
-25,320,DVC/BART Concord,3,374EA2,000000
-26,321,BART Walnut Creek/San Ramon,3,E796C1,000000
-27,35,BART Dublin/San Ramon,3,E796C1,000000
-28,36,San Ramon/BART Dublin,3,008242,000000
-29,4,Broadway Plaza/BART Walnut Creek,3,4CB179,000000
-30,5,Creekside/BART Walnut Creek,3,53BEE3,000000
-31,6,Lafayette/Moraga/Orinda,3,E796C1,000000
-32,7,Shadelands/BART PH,3,A066AA,000000
-33,9,DVC/BART Walnut Creek,3,EF4130,000000
-34,91X,Concord Commuter Express,3,A066AA,000000
-35,92X,ACE Express,3,EA8D44,000000
-36,93X,Kirker Pass Express,3,EF4130,000000
-37,95X,San Ramon/BART Walnut Creek,3,374EA2,000000
-38,96X,BART Walnut Creek/Bishop Ranch,3,EF4130,000000
-39,97X,BART Dublin/Bishop Ranch,3,4CB179,000000
-40,98X,Martinez/BART Walnut Creek,3,53BEE3,000000
-41,99X,Martinez Amtrak/North Concord BART,3,EF4130,000000
-42,ALAMOCR,ALAMO CREEK SHUTTLE,3,999999,000000
+route_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+1,1,Rossmoor/Shadelands,3,https://countyconnection.com/routes/1/,DBA111,000000
+2,10,BART Concord/Clayton,3,https://countyconnection.com/routes/10/,EF4130,000000
+3,11,BART Concord/BART Pleas Hill,3,https://countyconnection.com/routes/11/,4CB179,000000
+4,14,Monument Blvd,3,https://countyconnection.com/routes/14/,53BEE3,000000
+5,15,Treat Blvd,3,https://countyconnection.com/routes/15/,E796C1,000000
+6,16,AMTRAK/BART Concord,3,https://countyconnection.com/routes/16/,008242,000000
+7,17,BART Concord/North Concord,3,https://countyconnection.com/routes/17/,A066AA,000000
+8,18,AMTRAK/BART Pleasant Hill,3,https://countyconnection.com/routes/18/,EA8D44,000000
+9,19,AMTRAK/BART Concord,3,https://countyconnection.com/routes/19/,DBA111,000000
+10,1M,BART Walnut Creek/John Muir Med Ctr,3,https://countyconnection.com/routes/1m/,999999,000000
+11,2,Rudgear/BART Walnut Creek,3,https://countyconnection.com/routes/2/,EF4130,000000
+12,20,DVC/BART Concord,3,https://countyconnection.com/routes/20/,374EA2,000000
+13,21,BART Walnut Creek/San Ramon,3,https://countyconnection.com/routes/21/,E796C1,000000
+14,25,BART Lafayette/BART Walnut Creek,3,https://countyconnection.com/routes/25/,4CB179,000000
+15,250,St Marys College Gael Rail Shuttle,3,https://countyconnection.com/routes/250/,999999,000000
+16,260F,BART Concord/Cal State East Bay,3,https://countyconnection.com/routes/260/,999999,000000
+17,260MTH,BART Concord/Cal State East Bay,3,https://countyconnection.com/routes/260/,999999,000000
+18,28,BART North Concord/Martinez,3,https://countyconnection.com/routes/28/,53BEE3,000000
+19,301,Rossmoor/Ygnacio Valley,3,https://countyconnection.com/routes/301/,DBA111,000000
+20,310,Clayton Rd/BART Concord,3,https://countyconnection.com/routes/310/,EF4130,000000
+21,311,BART Concord/BART PH/BART WC,3,https://countyconnection.com/routes/311/,4CB179,000000
+22,314,BART Concord/Monument Blvd/DVC,3,https://countyconnection.com/routes/314/,53BEE3,000000
+23,315,BART Concord/Landana,3,https://countyconnection.com/routes/315/,E796C1,000000
+24,316,Martinez AMTRAK/BART Pleasant Hill,3,https://countyconnection.com/routes/316/,EA8D44,000000
+25,320,DVC/BART Concord,3,https://countyconnection.com/routes/320/,374EA2,000000
+26,321,BART Walnut Creek/San Ramon,3,https://countyconnection.com/routes/321/,E796C1,000000
+27,35,BART Dublin/San Ramon,3,https://countyconnection.com/routes/35/,E796C1,000000
+28,36,San Ramon/BART Dublin,3,https://countyconnection.com/routes/36/,008242,000000
+29,4,Broadway Plaza/BART Walnut Creek,3,https://countyconnection.com/routes/4/,4CB179,000000
+30,5,Creekside/BART Walnut Creek,3,https://countyconnection.com/routes/5/,53BEE3,000000
+31,6,Lafayette/Moraga/Orinda,3,https://countyconnection.com/routes/6/,E796C1,000000
+32,7,Shadelands/BART PH,3,https://countyconnection.com/routes/7/,A066AA,000000
+33,9,DVC/BART Walnut Creek,3,https://countyconnection.com/routes/9/,EF4130,000000
+34,91X,Concord Commuter Express,3,https://countyconnection.com/routes/91x/,A066AA,000000
+35,92X,ACE Express,3,https://countyconnection.com/routes/92x/,EA8D44,000000
+36,93X,Kirker Pass Express,3,https://countyconnection.com/routes/93x/,EF4130,000000
+37,95X,San Ramon/BART Walnut Creek,3,https://countyconnection.com/routes/95x/,374EA2,000000
+38,96X,BART Walnut Creek/Bishop Ranch,3,https://countyconnection.com/routes/96x/,EF4130,000000
+39,97X,BART Dublin/Bishop Ranch,3,https://countyconnection.com/routes/97x/,4CB179,000000
+40,98X,Martinez/BART Walnut Creek,3,https://countyconnection.com/routes/98x/,53BEE3,000000
+41,99X,Martinez Amtrak/North Concord BART,3,https://countyconnection.com/routes/99x/,EF4130,000000
+42,ALAMOCR,ALAMO CREEK SHUTTLE,3,https://countyconnection.com/routes/alamo/,999999,000000
