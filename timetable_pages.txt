@@ -33,3 +33,5 @@ timetable_page_id,timetable_page_label,filename
 316,,
 320,,
 321,,
+712,,
+715,,
