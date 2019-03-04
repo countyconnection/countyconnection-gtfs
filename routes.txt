@@ -1,41 +1,41 @@
 route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-1,1,Rossmoor/Shadelands,3,DBA111,000000
-2,10,Concord BART/Clayton Rd,3,EF4130,000000
-3,11,Concord BART/Pleasant Hill BART,3,4CB179,000000
-4,14,Concord BART/Walnut Creek BART,3,53BEE3,000000
-5,15,Concord BART/Pleasant Hill BART,3,E796C1,000000
-6,16,Martinez Amtrak/Concord BART,3,008242,000000
-7,17,Concord BART/North Concord BART,3,A066AA,000000
-8,18,Martinez Amtrak/Pleasant Hill BART,3,EA8D44,000000
-9,19,Martinez Amtrak/Concord BART,3,DBA111,000000
-10,20,DVC/Concord BART,3,374EA2,000000
-11,21,Walnut Creek BART/San Ramon,3,E796C1,000000
+1,1,Rossmoor/Shadelands,3,006493,000000
+2,10,Concord BART/Clayton Rd,3,006493,000000
+3,11,Concord BART/Pleasant Hill BART,3,006493,000000
+4,14,Concord BART/Walnut Creek BART,3,006493,000000
+5,15,Concord BART/Pleasant Hill BART,3,006493,000000
+6,16,Martinez Amtrak/Concord BART,3,006493,000000
+7,17,Concord BART/North Concord BART,3,006493,000000
+8,18,Martinez Amtrak/Pleasant Hill BART,3,006493,000000
+9,19,Martinez Amtrak/Concord BART,3,006493,000000
+10,20,DVC/Concord BART,3,006493,000000
+11,21,Walnut Creek BART/San Ramon,3,006493,000000
 12,250,Lafayette BART/Saint Mary's College,3,999999,000000
 13,260F,Concord BART/Cal State East Bay,3,999999,000000
 14,260MTH,Concord BART/Cal State East Bay,3,999999,000000
-15,27,North Concord BART/Bates Ave,3,999999,000000
-16,28,DVC/Amtrak,3,53BEE3,000000
-17,310,Concord BART/Clayton Rd,3,EF4130,000000
-18,311,Concord BART/Walnut Creek BART,3,4CB179,000000
-19,314,Concord BART/DVC,3,53BEE3,000000
-20,315,Concord BART/Bel Air Dr,3,E796C1,000000
-21,316,Martinez Amtrak/Pleasant Hill BART,3,EA8D44,000000
-22,320,DVC/Concord BART,3,374EA2,000000
-23,321,Walnut Creek BART/San Ramon,3,E796C1,000000
-24,35,Dublin/Pleasanton BART/San Ramon,3,E796C1,000000
-25,4,Walnut Creek BART/Broadway Plaza,3,4CB179,000000
-26,5,Walnut Creek BART/Creekside Dr,3,53BEE3,000000
-27,6,Lafayette BART/Orinda BART,3,E796C1,000000
-28,7,Pleasant Hill BART/Shadelands,3,A066AA,000000
+15,27,North Concord BART/Bates Ave,3,006493,000000
+16,28,DVC/Amtrak,3,006493,000000
+17,310,Concord BART/Clayton Rd,3,9C629D,000000
+18,311,Concord BART/Walnut Creek BART,3,9C629D,000000
+19,314,Concord BART/DVC,3,9C629D,000000
+20,315,Concord BART/Bel Air Dr,3,9C629D,000000
+21,316,Martinez Amtrak/Pleasant Hill BART,3,9C629D,000000
+22,320,DVC/Concord BART,3,9C629D,000000
+23,321,Walnut Creek BART/San Ramon,3,9C629D,000000
+24,35,Dublin/Pleasanton BART/San Ramon,3,006493,000000
+25,4,Walnut Creek BART/Broadway Plaza,3,46A076,000000
+26,5,Walnut Creek BART/Creekside Dr,3,46A076,000000
+27,6,Lafayette BART/Orinda BART,3,006493,000000
+28,7,Pleasant Hill BART/Shadelands,3,46A076,000000
 29,712,Bay Point BART/Oakland 19th St,3,999999,000000
 30,715,North Concord BART/Lafayette BART,3,999999,000000
-31,9,DVC/Walnut Creek BART,3,EF4130,000000
-32,91X,Concord Commuter Express,3,A066AA,000000
-33,92X,Pleasanton ACE/Mitchell Dr,3,EA8D44,000000
-34,93X,Walnut Creek BART/Antioch BART,3,EF4130,000000
-35,95X,Walnut Creek BART/San Ramon,3,374EA2,000000
-36,96X,Walnut Creek BART/Bishop Ranch,3,EF4130,000000
-37,97X,Dublin/Pleasanton BART/Bishop Ranch,3,4CB179,000000
-38,98X,Martinez Amtrak/Walnut Creek BART,3,53BEE3,000000
-39,99X,Martinez Amtrak/North Concord BART,3,EF4130,000000
-40,ALAMOCR,Alamo Creek Shuttle,3,999999,000000
+31,9,DVC/Walnut Creek BART,3,006493,000000
+32,91X,Concord Commuter Express,3,DE9637,000000
+33,92X,Pleasanton ACE/Mitchell Dr,3,DE9637,000000
+34,93X,Walnut Creek BART/Antioch BART,3,DE9637,000000
+35,95X,Walnut Creek BART/San Ramon,3,DE9637,000000
+36,96X,Walnut Creek BART/Bishop Ranch,3,DE9637,000000
+37,97X,Dublin/Pleasanton BART/Bishop Ranch,3,DE9637,000000
+38,98X,Martinez Amtrak/Walnut Creek BART,3,DE9637,000000
+39,99X,Martinez Amtrak/North Concord BART,3,DE9637,000000
+40,ALAMOCR,Alamo Creek Shuttle,3,46A076,000000
