@@ -22,7 +22,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 21,316,Martinez Amtrak/Pleasant Hill BART,3,9C629D,ffffff
 22,320,DVC/Concord BART,3,9C629D,ffffff
 23,321,BART Walnut Creek/San Ramon,3,9C629D,ffffff
-24,335,BART Dublin/San Ramon,3,999999,ffffff
+24,335,BART Dublin/San Ramon,3,9C629D,ffffff
 25,35,Dublin/Pleasanton BART/San Ramon,3,006493,ffffff
 26,4,Walnut Creek BART/Broadway Plaza,3,46A076,ffffff
 27,5,Walnut Creek BART/Creekside Dr,3,46A076,ffffff

@@ -984,52 +984,52 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 23,5,453969,WC BART,1,45539,40659
 23,5,453970,WC BART,1,45541,40659
 23,4,453896,WC BART,1,45536,40659
-24,4,453897,Dublin BART,0,45537,40660
-24,5,453920,Dublin BART,0,45539,40660
-24,5,453921,Dublin BART,0,45541,40660
-24,4,453898,Dublin BART,0,45536,40660
-24,4,453899,Dublin BART,0,45538,40660
-24,5,453922,Dublin BART,0,45540,40660
-24,5,453923,Dublin BART,0,45539,40660
-24,4,453900,Dublin BART,0,45537,40660
-24,4,453901,Dublin BART,0,45536,40660
-24,5,453924,Dublin BART,0,45541,40660
-24,5,453925,Dublin BART,0,45540,40660
-24,4,453902,Dublin BART,0,45538,40660
-24,4,453903,Dublin BART,0,45537,40660
-24,5,453926,Dublin BART,0,45539,40660
-24,5,453927,Dublin BART,0,45541,40660
-24,4,453904,Dublin BART,0,45536,40660
-24,4,453905,Dublin BART,0,45538,40660
-24,5,453928,Dublin BART,0,45540,40660
-24,5,453929,Dublin BART,0,45539,40660
-24,4,453906,Dublin BART,0,45537,40660
-24,4,453907,Dublin BART,0,45536,40660
-24,5,453930,Dublin BART,0,45541,40660
-24,4,453908,San Ramon Transit Center,1,45538,40661
-24,5,453931,San Ramon Transit Center,1,45540,40661
-24,5,453932,San Ramon Transit Center,1,45539,40661
-24,4,453909,San Ramon Transit Center,1,45537,40661
-24,4,453910,San Ramon Transit Center,1,45536,40661
-24,5,453933,San Ramon Transit Center,1,45541,40661
-24,5,453934,San Ramon Transit Center,1,45540,40661
-24,4,453911,San Ramon Transit Center,1,45538,40661
-24,4,453912,San Ramon Transit Center,1,45537,40661
-24,5,453935,San Ramon Transit Center,1,45539,40661
-24,5,453936,San Ramon Transit Center,1,45541,40661
-24,4,453913,San Ramon Transit Center,1,45536,40661
-24,4,453914,San Ramon Transit Center,1,45538,40661
-24,5,453937,San Ramon Transit Center,1,45540,40661
-24,5,453938,San Ramon Transit Center,1,45539,40661
-24,4,453915,San Ramon Transit Center,1,45537,40661
-24,4,453916,San Ramon Transit Center,1,45536,40661
-24,5,453939,San Ramon Transit Center,1,45541,40661
-24,5,453940,San Ramon Transit Center,1,45540,40661
-24,4,453917,San Ramon Transit Center,1,45538,40661
-24,4,453918,San Ramon Transit Center,1,45537,40661
-24,5,453941,San Ramon Transit Center,1,45539,40661
-24,5,453942,San Ramon Transit Center,1,45541,40661
-24,4,453919,San Ramon Transit Center,1,45536,40661
+24,4,453897,Dublin BART Via Bollinger Cyn,0,45537,40660
+24,5,453920,Dublin BART Via Bollinger Cyn,0,45539,40660
+24,5,453921,Dublin BART Via Bollinger Cyn,0,45541,40660
+24,4,453898,Dublin BART Via Bollinger Cyn,0,45536,40660
+24,4,453899,Dublin BART Via Bollinger Cyn,0,45538,40660
+24,5,453922,Dublin BART Via Bollinger Cyn,0,45540,40660
+24,5,453923,Dublin BART Via Bollinger Cyn,0,45539,40660
+24,4,453900,Dublin BART Via Bollinger Cyn,0,45537,40660
+24,4,453901,Dublin BART Via Bollinger Cyn,0,45536,40660
+24,5,453924,Dublin BART Via Bollinger Cyn,0,45541,40660
+24,5,453925,Dublin BART Via Bollinger Cyn,0,45540,40660
+24,4,453902,Dublin BART Via Bollinger Cyn,0,45538,40660
+24,4,453903,Dublin BART Via Bollinger Cyn,0,45537,40660
+24,5,453926,Dublin BART Via Bollinger Cyn,0,45539,40660
+24,5,453927,Dublin BART Via Bollinger Cyn,0,45541,40660
+24,4,453904,Dublin BART Via Bollinger Cyn,0,45536,40660
+24,4,453905,Dublin BART Via Bollinger Cyn,0,45538,40660
+24,5,453928,Dublin BART Via Bollinger Cyn,0,45540,40660
+24,5,453929,Dublin BART Via Bollinger Cyn,0,45539,40660
+24,4,453906,Dublin BART Via Bollinger Cyn,0,45537,40660
+24,4,453907,Dublin BART Via Bollinger Cyn,0,45536,40660
+24,5,453930,Dublin BART Via Bollinger Cyn,0,45541,40660
+24,4,453908,San Ramon TC Via Bollinger Cyn,1,45538,40661
+24,5,453931,San Ramon TC Via Bollinger Cyn,1,45540,40661
+24,5,453932,San Ramon TC Via Bollinger Cyn,1,45539,40661
+24,4,453909,San Ramon TC Via Bollinger Cyn,1,45537,40661
+24,4,453910,San Ramon TC Via Bollinger Cyn,1,45536,40661
+24,5,453933,San Ramon TC Via Bollinger Cyn,1,45541,40661
+24,5,453934,San Ramon TC Via Bollinger Cyn,1,45540,40661
+24,4,453911,San Ramon TC Via Bollinger Cyn,1,45538,40661
+24,4,453912,San Ramon TC Via Bollinger Cyn,1,45537,40661
+24,5,453935,San Ramon TC Via Bollinger Cyn,1,45539,40661
+24,5,453936,San Ramon TC Via Bollinger Cyn,1,45541,40661
+24,4,453913,San Ramon TC Via Bollinger Cyn,1,45536,40661
+24,4,453914,San Ramon TC Via Bollinger Cyn,1,45538,40661
+24,5,453937,San Ramon TC Via Bollinger Cyn,1,45540,40661
+24,5,453938,San Ramon TC Via Bollinger Cyn,1,45539,40661
+24,4,453915,San Ramon TC Via Bollinger Cyn,1,45537,40661
+24,4,453916,San Ramon TC Via Bollinger Cyn,1,45536,40661
+24,5,453939,San Ramon TC Via Bollinger Cyn,1,45541,40661
+24,5,453940,San Ramon TC Via Bollinger Cyn,1,45540,40661
+24,4,453917,San Ramon TC Via Bollinger Cyn,1,45538,40661
+24,4,453918,San Ramon TC Via Bollinger Cyn,1,45537,40661
+24,5,453941,San Ramon TC Via Bollinger Cyn,1,45539,40661
+24,5,453942,San Ramon TC Via Bollinger Cyn,1,45541,40661
+24,4,453919,San Ramon TC Via Bollinger Cyn,1,45536,40661
 25,10,450743,Dublin BART Via Bollinger Canyon,0,45211,40386
 25,10,450705,Dublin BART Via Bollinger Canyon,0,45209,40386
 25,10,450706,Dublin BART Via Bollinger Canyon,0,45144,40386
