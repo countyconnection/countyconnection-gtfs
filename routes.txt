@@ -34,9 +34,9 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 33,91X,Concord Commuter Express,3,DE9637,ffffff
 34,92X,Pleasanton ACE/Mitchell Dr,3,DE9637,ffffff
 35,93X,Walnut Creek BART/Antioch BART,3,DE9637,ffffff
-36,95X,Walnut Creek BART/San Ramon,3,DE9637,ffffff
-37,96X,Walnut Creek BART/Bishop Ranch,3,DE9637,ffffff
-38,97X,Dublin/Pleasanton BART/Bishop Ranch,3,DE9637,ffffff
+36,95X,San Ramon/BART Walnut Creek,3,DE9637,ffffff
+37,96X,BART Walnut Creek/Bishop Ranch,3,DE9637,ffffff
+38,97X,Dublin BART/Bishop Ranch,3,DE9637,ffffff
 39,98X,Martinez Amtrak/Walnut Creek BART,3,DE9637,ffffff
 40,99X,Martinez Amtrak/North Concord BART,3,DE9637,ffffff
-41,ALAMOCR,Alamo Creek Shuttle,3,46A076,ffffff
+41,ALCR,Alamo Creek Shuttle,3,46A076,ffffff
