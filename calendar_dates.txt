@@ -4,4 +4,3 @@ service_id,date,exception_type
 9,20200525,2
 10,20200525,2
 11,20200525,2
-
