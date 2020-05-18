@@ -1000,8 +1000,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 24,5,466328,Dublin BART Via Bollinger Cyn,0,46679,41542
 24,5,466329,Dublin BART Via Bollinger Cyn,0,46678,41542
 24,4,466306,Dublin BART Via Bollinger Cyn,0,46675,41542
-24,4,466307,Dublin BART Via Bollinger Cyn,0,46674,41542
-24,5,466330,Dublin BART Via Bollinger Cyn,0,46677,41542
+24,19,466307,Dublin BART Via Bollinger Cyn,0,46674,41542
+24,20,466330,Dublin BART Via Bollinger Cyn,0,46677,41542
 24,4,466308,San Ramon TC Via Bollinger Cyn,1,46676,41543
 24,5,466331,San Ramon TC Via Bollinger Cyn,1,46679,41543
 24,5,466332,San Ramon TC Via Bollinger Cyn,1,46678,41543
@@ -1024,8 +1024,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 24,4,466317,San Ramon TC Via Bollinger Cyn,1,46676,41543
 24,4,466318,San Ramon TC Via Bollinger Cyn,1,46675,41543
 24,5,466341,San Ramon TC Via Bollinger Cyn,1,46678,41543
-24,5,466342,San Ramon TC Via Bollinger Cyn,1,46677,41543
-24,4,466319,San Ramon TC Via Bollinger Cyn,1,46674,41543
+24,20,466342,San Ramon TC Via Bollinger Cyn,1,46677,41543
+24,19,466319,San Ramon TC Via Bollinger Cyn,1,46674,41543
 25,10,466381,Dublin BART Via Bollinger Canyon,0,46680,41546
 25,10,466343,Dublin BART Via Bollinger Canyon,0,46684,41546
 25,10,466344,Dublin BART Via Bollinger Canyon,0,46612,41546
