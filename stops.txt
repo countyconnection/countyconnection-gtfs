@@ -59,7 +59,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,location_type,parent_station
 492,492,Bates Ave + Port Chicago Hwy,38.015138,-122.025954,0,
 497,497,Bates Ave + Folsom Ct,38.014181,-122.031635,0,
 2251,2251,Bates Ave + Commercial Cir,38.014259,-122.031516,0,
-2073,2073,Bay Point BART,38.017853,-121.945259,0,
 883,883,Concord BART,37.972868,-122.029787,0,S1
 892,892,Concord BART,37.973846,-122.029374,0,S1
 893,893,Concord BART,37.974155,-122.02929,0,S1
@@ -138,7 +137,6 @@ S3,S3,North Concord Martinez BART,38.002694,-122.024608,1,
 1426,1426,Boyd Rd + Campbell Ln,37.943473,-122.065506,0,
 1427,1427,Boyd Rd + Cleaveland Rd,37.943431,-122.063652,0,
 1425,1425,Boyd Rd + Patterson Rd,37.943526,-122.069067,0,
-1070,1070,Pleasant Hill BART,37.9287,-122.055321,0,S4
 1071,1071,Pleasant Hill BART,37.92878,-122.055218,0,S4
 1072,1072,Pleasant Hill BART,37.928621,-122.055477,0,S4
 1073,1073,Pleasant Hill BART,37.928461,-122.055715,0,S4
@@ -200,7 +198,6 @@ S5,S5,Walnut Creek BART,37.905511,-122.067784,1,
 1077,1077,Camino Ramon + San Thomas Way,37.804118,-121.989344,0,
 1084,1084,Camino Ramon + San Thomas Way,37.804686,-121.989584,0,
 1085,1085,Camino Ramon + Sycamore Valley Rd,37.810293,-121.990954,0,
-475,475,Cal State East Bay,37.944816,-121.978051,0,
 605,605,Contra Costa Blvd + Sun Valley Blvd And Viking Dr,37.965338,-122.062312,0,
 928,928,Center Ave + Muir Station,37.992446,-122.118659,0,
 926,926,Center Ave + Public Health Services California,37.992557,-122.118546,0,
@@ -787,8 +784,7 @@ S6,S6,Diablo Valley College,37.970927,-122.069136,1,
 1118,1118,Railroad Ave + Prospect Ave,37.82088,-122.000324,0,
 1998,1998,Railroad Ave + Linda Mesa Ave,37.822568,-122.00227,0,
 1117,1117,Railroad Ave + Love Ln And Linda Mesa Ave,37.823518,-122.003284,0,
-1872,1872,Rolling Hills Dr + Tice Valley Blvd,37.87961,-122.074472,0,
-1701,1701,Rossmoor Shopping Center,37.878871,-122.073239,0,
+2261,2261,Rossmoor Shopping Center,37.878198,-122.072783,0,
 1873,1873,Rossmoor Pkwy + Tice Valley Blvd,37.877221,-122.071372,0,
 2225,2225,Safeway Camino Tassajara,37.798152,-121.918409,0,
 784,784,Salvio St + Colfax St,37.978469,-122.032799,0,
@@ -858,7 +854,6 @@ S7,S7,San Ramon Transit Center,37.770184,-121.960345,1,
 1064,1064,Tice Valley Blvd + Olympic Blvd,37.883901,-122.07751,0,
 1065,1065,Tice Valley Blvd + Olympic Blvd,37.88408,-122.077809,0,
 1898,1898,Tice Valley Blvd + Rolling Hills Dr,37.879951,-122.075425,0,
-2208,2208,T L Berkley Wy (20Th St) + Telegraph Ave,37.809354,-122.269151,0,
 840,840,Treat Blvd + Bel Air Dr,37.962325,-121.994014,0,
 812,812,Treat Blvd + Bel Air Dr,37.962376,-121.994192,0,
 830,830,Treat Blvd + Arkell Rd,37.932571,-122.036702,0,
