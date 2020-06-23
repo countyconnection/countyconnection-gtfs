@@ -71,7 +71,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 2,10,467771,Washington/Kelrose Via Clayton Rd,0,47041,41646
 2,10,467786,Washington/Kelrose Via Clayton Rd,0,47044,41646
 2,10,467787,Washington/Kelrose Via Clayton Rd,0,47044,41646
-2,10,467788,Washington/Kelrose Via Clayton Rd,0,47041,41646
+2,16,467788,Washington/Kelrose Via Clayton Rd,0,47041,41646
 2,10,467798,Concord BART ,1,47040,41648
 2,10,467816,Concord BART ,1,47045,41649
 2,10,467799,Concord BART ,1,47040,41648
@@ -111,7 +111,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 2,10,467812,Concord BART ,1,47041,41648
 2,10,467813,Concord BART ,1,47044,41648
 2,10,467814,Concord BART ,1,47044,41648
-2,10,467815,Concord BART ,1,47041,41648
+2,16,467815,Concord BART ,1,47041,41648
 3,10,467838,Concord BART ,0,47048,41650
 3,10,467839,Concord BART ,0,47049,41650
 3,10,467840,Concord BART ,0,47048,41650
@@ -411,7 +411,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,10,468113,Concord BART ,0,47042,41667
 10,10,468114,Concord BART ,0,47041,41667
 10,10,468115,Concord BART ,0,47042,41667
-10,10,468116,Concord BART ,0,47041,41667
+10,16,468116,Concord BART ,0,47041,41667
 10,10,468168,DVC,1,47045,41668
 10,10,468138,DVC,1,47073,41668
 10,10,468169,DVC,1,47040,41668
@@ -461,7 +461,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,10,468164,DVC,1,47041,41668
 10,10,468165,DVC,1,47042,41668
 10,10,468166,DVC,1,47041,41668
-10,10,468167,DVC,1,47042,41668
+10,16,468167,DVC,1,47042,41668
 11,10,468207,San Ramon TC,0,47058,41669
 11,10,468206,San Ramon TC,0,47053,41669
 11,10,468188,San Ramon TC,0,47056,41669
@@ -511,7 +511,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 11,10,468227,Walnut Creek BART,1,47057,41670
 11,10,468228,Walnut Creek BART,1,47056,41670
 11,10,468229,Walnut Creek BART,1,47055,41670
-11,10,468230,Walnut Creek BART,1,47053,41670
+11,16,468230,Walnut Creek BART,1,47053,41670
 15,10,468307,North Concord BART Via Mason Circle,0,47082,41677
 15,10,468305,North Concord BART Via Mason Circle,0,47082,41677
 15,10,468311,North Concord BART Via Mason Circle,0,47043,41677
@@ -1326,7 +1326,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 32,10,469176,WC BART Via PH BART,0,47178,41748
 32,10,469177,WC BART Via PH BART,0,47177,41748
 32,10,469178,WC BART Via PH BART,0,47178,41748
-32,10,469179,WC BART Via PH BART,0,47177,41748
+32,16,469179,WC BART Via PH BART,0,47177,41748
 32,10,469180,DVC/PH BART,1,47177,41749
 32,10,469181,DVC/PH BART,1,47178,41749
 32,10,469182,DVC/PH BART,1,47177,41749
