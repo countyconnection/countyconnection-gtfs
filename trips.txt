@@ -69,7 +69,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 2,10,472261,Washington/Kelrose Via Clayton Rd,0,48337,41968
 2,10,472262,Washington/Kelrose Via Clayton Rd,0,48343,41968
 2,10,480194,Washington/Kelrose Via Clayton Rd,0,48326,41968
-2,10,480195,Washington/Kelrose Via Clayton Rd,0,48343,41968
+2,16,480195,Washington/Kelrose Via Clayton Rd,0,48343,41968
 2,10,472273,Concord BART ,1,48325,41970
 2,10,472291,Concord BART ,1,48326,41969
 2,10,472274,Concord BART ,1,48325,41970
@@ -112,7 +112,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 2,10,472288,Concord BART ,1,48337,41970
 2,10,472289,Concord BART ,1,48343,41970
 2,10,480197,Concord BART ,1,48326,41970
-2,10,480196,Concord BART ,1,48343,41970
+2,16,480196,Concord BART ,1,48343,41970
 3,10,479907,Concord BART ,0,48301,41971
 3,10,479908,Concord BART ,0,48302,41971
 3,10,479909,Concord BART ,0,48301,41971
@@ -512,7 +512,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 11,10,480039,Walnut Creek BART,1,48299,41991
 11,10,480040,Walnut Creek BART,1,48297,41991
 11,10,480041,Walnut Creek BART,1,48295,41991
-11,10,480042,Walnut Creek BART,1,48297,41991
+11,16,480042,Walnut Creek BART,1,48297,41991
 12,5,472733,,0,47489,41992
 12,4,472720,,0,47488,41992
 12,5,472734,,0,47489,41992
@@ -1032,9 +1032,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 24,4,480736,San Ramon TC Via Bollinger Cyn,1,48421,42566
 25,10,473265,Dublin BART Via Bollinger Canyon,0,48393,42022
 25,10,473227,Dublin BART Via Bollinger Canyon,0,48316,42022
-25,10,473256,San Ramon Transit Center Via Crow Canyon,0,48317,42020
+25,16,473256,San Ramon Transit Center Via Crow Canyon,0,48317,42020
 25,10,473228,Dublin BART Via Bollinger Canyon,0,48318,42022
-25,10,473229,Dublin BART Via Bollinger Canyon,0,48317,42022
+25,16,473229,Dublin BART Via Bollinger Canyon,0,48317,42022
 25,10,473230,Dublin BART Via Bollinger Canyon,0,48393,42022
 25,10,473257,San Ramon Transit Center Via Crow Canyon,0,48316,42020
 25,10,473231,Dublin BART Via Bollinger Canyon,0,48319,42022
@@ -1051,17 +1051,17 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 25,10,473239,Dublin BART Via Windemere Pkwy,0,48319,42021
 25,10,473240,Dublin BART Via Windemere Pkwy,0,48323,42021
 25,10,473254,Dublin BART Via Windemere Pkwy,0,48320,42021
-25,10,480189,Dublin BART Via Windemere Pkwy,0,48324,42021
+25,16,480189,Dublin BART Via Windemere Pkwy,0,48324,42021
 25,10,473242,Dublin BART Via Bollinger Canyon,0,48321,42022
 25,10,473243,Dublin BART Via Bollinger Canyon,0,48323,42022
 25,10,473241,Dublin BART Via Windemere Pkwy,0,48322,42021
 25,10,480190,Dublin BART Via Bollinger Canyon,0,48320,42022
-25,10,473264,San Ramon Transit Center Via Crow Canyon,0,48324,42020
+25,16,473264,San Ramon Transit Center Via Crow Canyon,0,48324,42020
 25,10,473245,Dublin BART Via Bollinger Canyon,0,48321,42022
 25,10,473247,Dublin BART Via Windemere Pkwy,0,48323,42021
-25,10,473259,San Ramon Transit Center Via Crow Canyon,0,48324,42020
+25,16,473259,San Ramon Transit Center Via Crow Canyon,0,48324,42020
 25,10,480191,Dublin BART Via Bollinger Canyon,0,48322,42022
-25,10,473248,Dublin BART Via Bollinger Canyon,0,48324,42022
+25,16,473248,Dublin BART Via Bollinger Canyon,0,48324,42022
 25,10,473244,Dublin BART Via Windemere Pkwy,0,48320,42021
 25,10,473260,San Ramon Transit Center Via Crow Canyon,0,48321,42020
 25,10,473249,Dublin BART Via Bollinger Canyon,0,48321,42022
@@ -1073,7 +1073,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 25,10,473296,San Ramon  Via Bollinger Canyon,1,48393,42024
 25,10,473273,San Ramon  Via Bollinger Canyon,1,48316,42024
 25,10,473268,San Ramon  Via Bollinger Canyon,1,48318,42024
-25,10,473269,San Ramon  TC Via Windemere Pkwy,1,48317,42023
+25,16,473269,San Ramon  TC Via Windemere Pkwy,1,48317,42023
 25,10,473270,San Ramon  Via Bollinger Canyon,1,48393,42024
 25,10,473271,San Ramon  Via Bollinger Canyon,1,48319,42024
 25,10,473272,San Ramon  Via Bollinger Canyon,1,48316,42024
@@ -1086,7 +1086,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 25,10,473279,San Ramon  TC Via Windemere Pkwy,1,48319,42023
 25,10,473280,San Ramon  TC Via Windemere Pkwy,1,48323,42023
 25,10,473286,San Ramon  TC Via Windemere Pkwy,1,48320,42023
-25,10,473281,San Ramon  TC Via Windemere Pkwy,1,48324,42023
+25,16,473281,San Ramon  TC Via Windemere Pkwy,1,48324,42023
 25,10,473288,San Ramon  Via Bollinger Canyon,1,48321,42024
 25,10,473287,San Ramon  Via Bollinger Canyon,1,48323,42024
 25,10,473282,San Ramon  Via Bollinger Canyon,1,48322,42024
@@ -1094,7 +1094,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 25,10,473290,San Ramon  Via Bollinger Canyon,1,48321,42024
 25,10,473283,San Ramon  TC Via Windemere Pkwy,1,48323,42023
 25,10,473291,San Ramon  Via Bollinger Canyon,1,48322,42024
-25,10,473292,San Ramon  Via Bollinger Canyon,1,48324,42024
+25,16,473292,San Ramon  Via Bollinger Canyon,1,48324,42024
 25,10,473284,San Ramon  TC Via Windemere Pkwy,1,48320,42023
 25,10,473293,San Ramon  Via Bollinger Canyon,1,48321,42024
 25,10,473294,San Ramon  Via Bollinger Canyon,1,48323,42024
@@ -1103,18 +1103,18 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 25,10,480193,San Ramon  Via Bollinger Canyon,1,48321,42024
 26,10,479697,Broadway Plaza Downtown,0,48274,42025
 26,10,479698,Broadway Plaza Downtown,0,48275,42025
-26,10,479699,Broadway Plaza Downtown,0,48276,42025
+26,16,479699,Broadway Plaza Downtown,0,48276,42025
 26,10,479700,Broadway Plaza Downtown,0,48274,42025
 26,10,479701,Broadway Plaza Downtown,0,48275,42025
-26,10,479702,Broadway Plaza Downtown,0,48276,42025
+26,16,479702,Broadway Plaza Downtown,0,48276,42025
 26,10,479703,Broadway Plaza Downtown,0,48274,42025
 26,10,479704,Broadway Plaza Downtown,0,48275,42025
-26,10,479705,Broadway Plaza Downtown,0,48276,42025
+26,16,479705,Broadway Plaza Downtown,0,48276,42025
 26,10,479706,Broadway Plaza Downtown,0,48274,42025
 26,4,473360,Broadway Plaza Downtown,0,47534,42025
 26,5,473388,Broadway Plaza Downtown,0,47536,42025
 26,10,479707,Broadway Plaza Downtown,0,48275,42025
-26,10,479708,Broadway Plaza Downtown,0,48276,42025
+26,16,479708,Broadway Plaza Downtown,0,48276,42025
 26,4,473361,Broadway Plaza Downtown,0,47533,42025
 26,5,473389,Broadway Plaza Downtown,0,47535,42025
 26,10,479709,Broadway Plaza Downtown,0,48274,42025
@@ -1123,28 +1123,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 26,10,479710,Broadway Plaza Downtown,0,48275,42025
 26,4,473363,Broadway Plaza Downtown,0,47533,42025
 26,5,473391,Broadway Plaza Downtown,0,47535,42025
-26,10,479711,Broadway Plaza Downtown,0,48276,42025
+26,16,479711,Broadway Plaza Downtown,0,48276,42025
 26,10,479712,Broadway Plaza Downtown,0,48274,42025
 26,4,473364,Broadway Plaza Downtown,0,47534,42025
 26,5,473392,Broadway Plaza Downtown,0,47536,42025
 26,10,479713,Broadway Plaza Downtown,0,48275,42025
 26,4,473365,Broadway Plaza Downtown,0,47533,42025
 26,5,473393,Broadway Plaza Downtown,0,47535,42025
-26,10,479714,Broadway Plaza Downtown,0,48276,42025
+26,16,479714,Broadway Plaza Downtown,0,48276,42025
 26,4,473366,Broadway Plaza Downtown,0,47534,42025
 26,5,473394,Broadway Plaza Downtown,0,47536,42025
 26,10,479715,Broadway Plaza Downtown,0,48274,42025
 26,10,479716,Broadway Plaza Downtown,0,48275,42025
 26,4,473367,Broadway Plaza Downtown,0,47533,42025
 26,5,473395,Broadway Plaza Downtown,0,47535,42025
-26,10,479717,Broadway Plaza Downtown,0,48276,42025
+26,16,479717,Broadway Plaza Downtown,0,48276,42025
 26,4,473368,Broadway Plaza Downtown,0,47534,42025
 26,5,473396,Broadway Plaza Downtown,0,47536,42025
 26,10,479718,Broadway Plaza Downtown,0,48274,42025
 26,4,473369,Broadway Plaza Downtown,0,47533,42025
 26,5,473397,Broadway Plaza Downtown,0,47535,42025
 26,10,479719,Broadway Plaza Downtown,0,48275,42025
-26,10,479720,Broadway Plaza Downtown,0,48276,42025
+26,16,479720,Broadway Plaza Downtown,0,48276,42025
 26,4,473370,Broadway Plaza Downtown,0,47534,42025
 26,5,473398,Broadway Plaza Downtown,0,47536,42025
 26,10,479721,Broadway Plaza Downtown,0,48274,42025
@@ -1153,28 +1153,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 26,10,479722,Broadway Plaza Downtown,0,48275,42025
 26,4,473372,Broadway Plaza Downtown,0,47534,42025
 26,5,473400,Broadway Plaza Downtown,0,47536,42025
-26,10,479723,Broadway Plaza Downtown,0,48276,42025
+26,16,479723,Broadway Plaza Downtown,0,48276,42025
 26,10,479724,Broadway Plaza Downtown,0,48274,42025
 26,4,473373,Broadway Plaza Downtown,0,47533,42025
 26,5,473401,Broadway Plaza Downtown,0,47535,42025
 26,10,479725,Broadway Plaza Downtown,0,48275,42025
 26,4,473374,Broadway Plaza Downtown,0,47534,42025
 26,5,473402,Broadway Plaza Downtown,0,47536,42025
-26,10,479726,Broadway Plaza Downtown,0,48276,42025
+26,16,479726,Broadway Plaza Downtown,0,48276,42025
 26,4,473375,Broadway Plaza Downtown,0,47533,42025
 26,5,473403,Broadway Plaza Downtown,0,47535,42025
 26,10,479727,Broadway Plaza Downtown,0,48274,42025
 26,10,479728,Broadway Plaza Downtown,0,48275,42025
 26,4,473376,Broadway Plaza Downtown,0,47534,42025
 26,5,473404,Broadway Plaza Downtown,0,47536,42025
-26,10,479729,Broadway Plaza Downtown,0,48276,42025
+26,16,479729,Broadway Plaza Downtown,0,48276,42025
 26,4,473377,Broadway Plaza Downtown,0,47533,42025
 26,5,473405,Broadway Plaza Downtown,0,47535,42025
 26,10,479730,Broadway Plaza Downtown,0,48274,42025
 26,4,473378,Broadway Plaza Downtown,0,47534,42025
 26,5,473406,Broadway Plaza Downtown,0,47536,42025
 26,10,479731,Broadway Plaza Downtown,0,48275,42025
-26,10,479732,Broadway Plaza Downtown,0,48276,42025
+26,16,479732,Broadway Plaza Downtown,0,48276,42025
 26,4,473379,Broadway Plaza Downtown,0,47533,42025
 26,5,473407,Broadway Plaza Downtown,0,47535,42025
 26,10,479733,Broadway Plaza Downtown,0,48274,42025
@@ -1183,39 +1183,39 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 26,10,479734,Broadway Plaza Downtown,0,48275,42025
 26,4,473381,Broadway Plaza Downtown,0,47533,42025
 26,5,473409,Broadway Plaza Downtown,0,47535,42025
-26,10,479735,Broadway Plaza Downtown,0,48276,42025
+26,16,479735,Broadway Plaza Downtown,0,48276,42025
 26,10,479736,Broadway Plaza Downtown,0,48274,42025
 26,4,473382,Broadway Plaza Downtown,0,47534,42025
 26,5,473410,Broadway Plaza Downtown,0,47536,42025
 26,10,479737,Broadway Plaza Downtown,0,48275,42025
 26,4,473383,Broadway Plaza Downtown,0,47533,42025
 26,5,473411,Broadway Plaza Downtown,0,47535,42025
-26,10,479738,Broadway Plaza Downtown,0,48276,42025
+26,16,479738,Broadway Plaza Downtown,0,48276,42025
 26,4,473384,Broadway Plaza Downtown,0,47534,42025
 26,5,473412,Broadway Plaza Downtown,0,47536,42025
 26,10,479739,Broadway Plaza Downtown,0,48274,42025
 26,10,479740,Broadway Plaza Downtown,0,48275,42025
 26,4,473385,Broadway Plaza Downtown,0,47533,42025
 26,5,473413,Broadway Plaza Downtown,0,47535,42025
-26,10,479741,Broadway Plaza Downtown,0,48276,42025
+26,16,479741,Broadway Plaza Downtown,0,48276,42025
 26,4,473386,Broadway Plaza Downtown,0,47534,42025
 26,5,473414,Broadway Plaza Downtown,0,47536,42025
 26,10,479742,Broadway Plaza Downtown,0,48274,42025
 26,4,473387,Broadway Plaza Downtown,0,47533,42025
 26,5,473415,Broadway Plaza Downtown,0,47535,42025
 26,10,479743,Broadway Plaza Downtown,0,48275,42025
-26,10,479744,Broadway Plaza Downtown,0,48276,42025
+26,16,479744,Broadway Plaza Downtown,0,48276,42025
 26,10,479746,Broadway Plaza Downtown,0,48275,42025
-26,10,479748,Broadway Plaza Downtown,0,48276,42025
+26,16,479748,Broadway Plaza Downtown,0,48276,42025
 26,10,479750,Broadway Plaza Downtown,0,48275,42025
 27,10,479751,Creekside,0,48277,42026
-27,10,479752,Creekside,0,48278,42026
+27,16,479752,Creekside,0,48278,42026
 27,10,479753,Creekside,0,48277,42026
-27,10,479754,Creekside,0,48278,42026
+27,16,479754,Creekside,0,48278,42026
 27,10,479755,Creekside,0,48277,42026
-27,10,479756,Creekside,0,48278,42026
+27,16,479756,Creekside,0,48278,42026
 27,10,479757,Creekside,0,48277,42026
-27,10,479758,Creekside,0,48278,42026
+27,16,479758,Creekside,0,48278,42026
 27,10,479759,Creekside,0,48277,42026
 27,10,479760,Creekside,0,48277,42026
 27,10,479761,Creekside,0,48277,42026
@@ -1227,25 +1227,25 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 27,10,479767,Creekside,0,48277,42026
 27,10,479768,Creekside,0,48277,42026
 27,10,479769,Creekside,0,48277,42026
-27,10,479770,Creekside,0,48279,42026
+27,16,479770,Creekside,0,48279,42026
 27,10,479771,Creekside,0,48277,42026
-27,10,479772,Creekside,0,48279,42026
+27,16,479772,Creekside,0,48279,42026
 27,10,479773,Creekside,0,48277,42026
-27,10,479774,Creekside,0,48279,42026
+27,16,479774,Creekside,0,48279,42026
 27,10,479775,Creekside,0,48277,42026
-27,10,479776,Creekside,0,48279,42026
+27,16,479776,Creekside,0,48279,42026
 27,10,479777,Creekside,0,48277,42026
-27,10,479778,Creekside,0,48279,42026
+27,16,479778,Creekside,0,48279,42026
 27,10,479779,Creekside,0,48277,42026
-27,10,479780,Creekside,0,48279,42026
+27,16,479780,Creekside,0,48279,42026
 27,10,479781,Walnut Creek BART,1,48277,42027
-27,10,479782,Walnut Creek BART,1,48278,42027
+27,16,479782,Walnut Creek BART,1,48278,42027
 27,10,479783,Walnut Creek BART,1,48277,42027
-27,10,479784,Walnut Creek BART,1,48278,42027
+27,16,479784,Walnut Creek BART,1,48278,42027
 27,10,479785,Walnut Creek BART,1,48277,42027
-27,10,479786,Walnut Creek BART,1,48278,42027
+27,16,479786,Walnut Creek BART,1,48278,42027
 27,10,479787,Walnut Creek BART,1,48277,42027
-27,10,479788,Walnut Creek BART,1,48278,42027
+27,16,479788,Walnut Creek BART,1,48278,42027
 27,10,479789,Walnut Creek BART,1,48277,42027
 27,10,479790,Walnut Creek BART,1,48277,42027
 27,10,479791,Walnut Creek BART,1,48277,42027
@@ -1257,21 +1257,21 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 27,10,479797,Walnut Creek BART,1,48277,42027
 27,10,479798,Walnut Creek BART,1,48277,42027
 27,10,479799,Walnut Creek BART,1,48277,42027
-27,10,479800,Walnut Creek BART,1,48279,42027
+27,16,479800,Walnut Creek BART,1,48279,42027
 27,10,479801,Walnut Creek BART,1,48277,42027
-27,10,479802,Walnut Creek BART,1,48279,42027
+27,16,479802,Walnut Creek BART,1,48279,42027
 27,10,479803,Walnut Creek BART,1,48277,42027
-27,10,479804,Walnut Creek BART,1,48279,42027
+27,16,479804,Walnut Creek BART,1,48279,42027
 27,10,479805,Walnut Creek BART,1,48277,42027
-27,10,479806,Walnut Creek BART,1,48279,42027
+27,16,479806,Walnut Creek BART,1,48279,42027
 27,10,479807,Walnut Creek BART,1,48277,42027
-27,10,479808,Walnut Creek BART,1,48279,42027
+27,16,479808,Walnut Creek BART,1,48279,42027
 27,10,479809,Walnut Creek BART,1,48277,42027
-27,10,479810,Walnut Creek BART,1,48279,42027
-28,10,479815,Lafayette BART St Mary's College,0,48283,42542
+27,16,479810,Walnut Creek BART,1,48279,42027
+28,16,479815,Lafayette BART St Mary's College,0,48283,42542
 28,10,479811,Lafayette BART St Mary's College,0,48282,42542
 28,10,479812,Lafayette BART St Mary's College,0,48284,42542
-28,10,479813,Lafayette BART St Mary's College,0,48283,42542
+28,16,479813,Lafayette BART St Mary's College,0,48283,42542
 28,10,479814,Lafayette BART St Mary's College,0,48282,42542
 28,10,479872,Lafayette BART St Mary's College,0,48284,42542
 28,10,479816,Lafayette BART St Mary's College,0,48282,42542
@@ -1292,20 +1292,20 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 28,5,479862,Lafayette BART St Mary's College,0,48281,42542
 28,10,479820,Lafayette BART St Mary's College,0,48282,42542
 28,10,479821,Lafayette BART St Mary's College,0,48284,42542
-28,10,479822,Lafayette BART St Mary's College,0,48285,42542
+28,16,479822,Lafayette BART St Mary's College,0,48285,42542
 28,5,479863,Lafayette BART St Mary's College,0,48281,42542
 28,4,479850,Lafayette BART St Mary's College,0,48280,42542
 28,10,479823,Lafayette BART St Mary's College,0,48282,42542
 28,10,479824,Lafayette BART St Mary's College,0,48284,42542
-28,10,479825,Lafayette BART St Mary's College,0,48285,42542
+28,16,479825,Lafayette BART St Mary's College,0,48285,42542
 28,10,479826,Lafayette BART St Mary's College,0,48282,42542
 28,10,479827,Lafayette BART St Mary's College,0,48284,42542
 28,10,479828,Orinda BART St Mary's College,1,48282,42543
 28,10,479829,Orinda BART St Mary's College,1,48284,42543
-28,10,479830,Orinda BART St Mary's College,1,48283,42543
+28,16,479830,Orinda BART St Mary's College,1,48283,42543
 28,10,479831,Orinda BART St Mary's College,1,48282,42543
 28,10,479832,Orinda BART St Mary's College,1,48284,42543
-28,10,479833,Orinda BART St Mary's College,1,48283,42543
+28,16,479833,Orinda BART St Mary's College,1,48283,42543
 28,10,479834,Orinda BART St Mary's College,1,48282,42543
 28,4,479851,Orinda BART St Mary's College,1,48280,42543
 28,5,479864,Orinda BART St Mary's College,1,48281,42543
@@ -1330,38 +1330,38 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 28,10,479840,Orinda BART St Mary's College,1,48284,42543
 28,4,479857,Orinda BART St Mary's College,1,48280,42543
 28,5,479870,Orinda BART St Mary's College,1,48281,42543
-28,10,479841,Orinda BART St Mary's College,1,48285,42543
+28,16,479841,Orinda BART St Mary's College,1,48285,42543
 28,10,479842,Orinda BART St Mary's College,1,48282,42543
 28,10,479843,Orinda BART St Mary's College,1,48284,42543
-28,10,479844,Orinda BART St Mary's College,1,48285,42543
+28,16,479844,Orinda BART St Mary's College,1,48285,42543
 29,10,473633,Shadelands Shuttle,0,47583,42065
 29,10,473604,Shadelands Shuttle,0,47583,42065
 29,10,473605,Shadelands Shuttle,0,47588,42065
-29,10,473606,Shadelands Shuttle,0,47587,42065
+29,16,473606,Shadelands Shuttle,0,47587,42065
 29,10,473607,Shadelands Shuttle,0,47583,42065
 29,10,473608,Shadelands Shuttle,0,47588,42065
-29,10,473609,Shadelands Shuttle,0,47587,42065
+29,16,473609,Shadelands Shuttle,0,47587,42065
 29,10,473610,Shadelands Shuttle,0,47583,42065
 29,10,473611,Shadelands Shuttle,0,47588,42065
-29,10,473612,Shadelands Shuttle,0,47587,42065
+29,16,473612,Shadelands Shuttle,0,47587,42065
 29,10,473613,Shadelands Shuttle,0,47583,42065
 29,10,473614,Shadelands Shuttle,0,47588,42065
-29,10,473615,Shadelands Shuttle,0,47587,42065
+29,16,473615,Shadelands Shuttle,0,47587,42065
 29,10,473616,Shadelands Shuttle,0,47585,42065
 29,10,473617,Shadelands Shuttle,0,47584,42065
-29,10,473618,Shadelands Shuttle,0,47586,42065
+29,16,473618,Shadelands Shuttle,0,47586,42065
 29,10,473619,Shadelands Shuttle,0,47585,42065
 29,10,473620,Shadelands Shuttle,0,47584,42065
-29,10,473621,Shadelands Shuttle,0,47586,42065
+29,16,473621,Shadelands Shuttle,0,47586,42065
 29,10,473622,Shadelands Shuttle,0,47585,42065
 29,10,473623,Shadelands Shuttle,0,47584,42065
-29,10,473624,Shadelands Shuttle,0,47586,42065
+29,16,473624,Shadelands Shuttle,0,47586,42065
 29,10,473625,Shadelands Shuttle,0,47585,42065
 29,10,473626,Shadelands Shuttle,0,47584,42065
-29,10,473627,Shadelands Shuttle,0,47586,42065
+29,16,473627,Shadelands Shuttle,0,47586,42065
 29,10,473628,Shadelands Shuttle,0,47585,42065
 29,10,473629,Shadelands Shuttle,0,47584,42065
-29,10,473630,Shadelands Shuttle,0,47586,42065
+29,16,473630,Shadelands Shuttle,0,47586,42065
 29,10,473631,Shadelands Shuttle,0,47585,42065
 29,10,473632,Shadelands Shuttle,0,47584,42065
 32,10,479877,WC BART Via PH BART,0,48286,42069
@@ -1405,26 +1405,26 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 33,10,473674,Airport Plaza,0,47573,42071
 33,10,473679,Airport Plaza,0,47573,42071
 34,10,480213,ACE Train,0,48345,42546
-34,10,480215,ACE Train,0,48346,42546
+34,16,480215,ACE Train,0,48346,42546
 34,10,480218,ACE Train,0,48347,42546
 34,10,480217,ACE Train,0,48350,42547
 34,10,480214,ACE Train,0,48349,42547
-34,10,480216,ACE Train,0,48348,42547
+34,16,480216,ACE Train,0,48348,42547
 34,10,480223,San Ramon,1,48345,42549
-34,10,480221,San Ramon,1,48346,42549
+34,16,480221,San Ramon,1,48346,42549
 34,10,480224,San Ramon,1,48347,42549
 34,10,480222,Mitchell P&R,1,48350,42548
 34,10,480219,Mitchell P&R,1,48349,42548
-34,10,480220,Mitchell P&R,1,48348,42548
-35,10,473704,WC BART,0,48351,42077
+34,16,480220,Mitchell P&R,1,48348,42548
+35,16,473704,WC BART,0,48351,42077
 35,10,473699,WC BART,0,48352,42077
 35,10,473703,WC BART,0,48353,42077
 35,10,473700,WC BART,0,48354,42077
-35,10,473701,WC BART,0,47601,42077
+35,16,473701,WC BART,0,47601,42077
 35,10,473702,WC BART,0,47600,42077
-35,10,473692,Antioch BART,1,48359,42076
+35,16,473692,Antioch BART,1,48359,42076
 35,10,473693,Antioch BART,1,48369,42076
-35,10,473694,Antioch BART,1,48375,42076
+35,16,473694,Antioch BART,1,48375,42076
 35,10,473695,Antioch BART,1,48367,42076
 35,10,473698,Antioch BART,1,48373,42076
 35,10,473696,Antioch BART,1,48374,42076
@@ -1432,30 +1432,30 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 36,10,473705,San Ramon,0,48352,42079
 36,10,473706,San Ramon,0,48355,42079
 36,10,473714,San Ramon,0,48354,42079
-36,10,473707,San Ramon,0,48356,42079
+36,16,473707,San Ramon,0,48356,42079
 36,10,473715,San Ramon,0,48355,42079
 36,10,473708,San Ramon,0,48354,42079
 36,10,473722,San Ramon Via Danville P&R,0,48367,42080
-36,10,473721,San Ramon Via Danville P&R,0,48375,42080
+36,16,473721,San Ramon Via Danville P&R,0,48375,42080
 36,10,473710,San Ramon Via Danville P&R,0,48374,42080
 36,10,473717,San Ramon Via Danville P&R,0,48370,42080
 36,10,473711,San Ramon Via Danville P&R,0,48376,42080
 36,10,473718,San Ramon Via Danville P&R,0,48377,42080
 36,10,473712,San Ramon Via Danville P&R,0,48381,42080
-36,10,473719,San Ramon Via Danville P&R,0,48379,42080
+36,16,473719,San Ramon Via Danville P&R,0,48379,42080
 36,10,473713,San Ramon Via Danville P&R,0,48439,42080
 36,10,473720,San Ramon Via Danville P&R,0,48377,42080
-37,10,473723,Bishop Ranch,0,48351,42083
+37,16,473723,Bishop Ranch,0,48351,42083
 37,10,473724,Bishop Ranch,0,48353,42083
-37,10,473736,Bishop Ranch,0,48351,42083
+37,16,473736,Bishop Ranch,0,48351,42083
 37,10,473725,Bishop Ranch,0,48352,42083
 37,10,473737,Bishop Ranch,0,48353,42083
-37,10,473726,Bishop Ranch,0,48351,42083
+37,16,473726,Bishop Ranch,0,48351,42083
 37,10,473738,Bishop Ranch,0,48352,42083
 37,10,473727,Bishop Ranch,0,48353,42083
 37,10,473728,Bishop Ranch,0,48354,42082
 37,10,473729,Bishop Ranch,0,48353,42083
-37,10,473745,Bishop Ranch,0,48359,42083
+37,16,473745,Bishop Ranch,0,48359,42083
 37,10,473730,Bishop Ranch,0,48369,42083
 37,10,473731,WC BART,0,48373,42081
 37,10,473739,Bishop Ranch,0,48368,42083
