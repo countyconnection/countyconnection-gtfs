@@ -12,6 +12,7 @@ fare_id,route_id,origin_id,destination_id,contains_id
 1,21,,,
 1,27,,,
 1,28,,,
+1,301,,,
 1,310,,,
 1,311,,,
 1,314,,,
@@ -34,4 +35,3 @@ fare_id,route_id,origin_id,destination_id,contains_id
 1,97X,,,
 1,98X,,,
 1,99X,,,
-1,301,,,
