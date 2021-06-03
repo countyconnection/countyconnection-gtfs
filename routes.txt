@@ -14,7 +14,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 260,260,Concord BART/Cal State East Bay,3,7A99AC,ffffff
 27,27,North Concord BART/Bates Ave,3,006493,ffffff
 28,28,Concord BART/Amtrak,3,006493,ffffff
-301,301,Walnut Creek BART/John Muir Med Ctr,3,999999,ffffff
+301,301,Walnut Creek BART/John Muir Med Ctr,3,9C629D,ffffff
 310,310,Concord BART/Clayton Rd,3,9C629D,ffffff
 311,311,Concord BART/Walnut Creek BART,3,9C629D,ffffff
 314,314,Concord BART/DVC,3,9C629D,ffffff
