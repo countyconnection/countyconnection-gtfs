@@ -10,8 +10,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 19,19,Martinez Amtrak/Concord BART,3,006493,ffffff
 20,20,DVC/Concord BART,3,006493,ffffff
 21,21,Walnut Creek BART/San Ramon,3,006493,ffffff
-250,250,Lafayette BART/Saint Mary's College,3,7A99AC,ffffff
-260,260,Concord BART/Cal State East Bay,3,7A99AC,ffffff
 27,27,North Concord BART/Bates Ave,3,006493,ffffff
 28,28,Concord BART/Amtrak,3,006493,ffffff
 301,301,Walnut Creek BART/John Muir Med Ctr,3,9C629D,ffffff
@@ -28,8 +26,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 5,5,Walnut Creek BART/Creekside Dr,3,46A076,ffffff
 6,6,Lafayette BART/Orinda BART,3,006493,ffffff
 7,7,Pleasant Hill BART/Shadelands,3,46A076,ffffff
-712,712,Bay Point BART/Oakland 19th St,3,999999,ffffff
-715,715,North Concord BART/Lafayette BART,3,999999,ffffff
 9,9,DVC/Walnut Creek BART,3,006493,ffffff
 91X,91X,Concord Commuter Express,3,DE9637,ffffff
 92X,92X,Pleasanton ACE/Mitchell Dr,3,DE9637,ffffff
