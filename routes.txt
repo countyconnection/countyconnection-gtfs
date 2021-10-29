@@ -10,6 +10,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 19,19,Martinez Amtrak/Concord BART,3,006493,ffffff
 20,20,DVC/Concord BART,3,006493,ffffff
 21,21,Walnut Creek BART/San Ramon,3,006493,ffffff
+250,250,Lafayette BART/Saint Mary's College,3,7A99AC,ffffff
 27,27,North Concord BART/Bates Ave,3,006493,ffffff
 28,28,Concord BART/Amtrak,3,006493,ffffff
 301,301,Walnut Creek BART/John Muir Med Ctr,3,9C629D,ffffff
