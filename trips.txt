@@ -1,1408 +1,1418 @@
-trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-1004020,14,2,"Walnut Creek BART Via PH  BART",,0,402,shp-14-51,2,2
-1019070,320,1,"DVC Via Diamond",,0,9407,shp-320-51,2,2
-1026020,10,2,"Clayton",,1,15602,shp-10-01,2,2
-1041020,10,2,"Washington Blvd /Kelrose Ct",,1,11102,shp-10-03,2,2
-1076070,320,1,"Concord BART Via Diamond Blvd",,1,6007,shp-320-01,2,2
-1094020,14,2,"Concord BART Via PH  BART",,1,3302,shp-14-01,2,2
-1108020,11,2,"PH  BART",,0,12502,shp-11-51,2,2
-1110020,16,2,"Concord BART Via Downtown PH",,0,10802,shp-16-51,2,2
-1112010,320,3,"DVC Via Diamond",,0,4201,shp-320-51,2,2
-1119070,314,1,"Concord BART",,1,9407,shp-314-01,2,2
-1122020,9,2,"WC  BART Via PH  BART",,0,5002,shp-9-51,2,2
-1127020,17,2,"N Concord BART Via John Muir Concord",,1,3602,shp-17-01,2,2
-1129070,335,1,"To San Ramon Via Bollinger Canyon",,1,9607,shp-335-01,2,2
-1130020,14,2,"Concord BART Via PH  BART",,1,3302,shp-14-01,2,2
-1133020,17,2,"Concord BART Via John Muir Concord",,0,702,shp-17-51,2,2
-1137020,20,2,"Concord BART",,1,14102,shp-20-01,2,2
-1150020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,14902,shp-96X-05,2,2
-1159020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,9202,shp-28-01,2,2
-1163010,320,3,"DVC Via Diamond",,0,13001,shp-320-51,2,2
-1182020,16,2,"Concord BART Via Downtown PH",,0,7002,shp-16-51,2,2
-1200010,310,3,"CLAYTON",,1,7201,shp-310-01,2,2
-121020,6,2,"Orinda BART  Via St Marys College",,0,12102,shp-6-51,2,2
-1227010,310,3,"CLAYTON",,1,7201,shp-310-01,2,2
-1241070,311,1,"Concord BART Via PH  BART",,1,5907,shp-311-01,2,2
-1251070,314,1,"DVC Via Monument",,0,13007,shp-314-52,2,2
-1256020,98X,2,"Martinez AMTRAK",,1,11802,shp-98X-01,2,2
-1259010,321,3,"San Ramon",,0,11501,shp-321-51,2,2
-1270020,10,2,"Concord BART",,0,14102,shp-10-51,2,2
-1273020,20,2,"Concord BART",,1,14102,shp-20-01,2,2
-1276070,316,1,"PH  BART Via Martinez AMTRAK",,0,6107,shp-316-51,2,2
-1296010,314,3,"DVC Via Monument",,0,14401,shp-314-52,2,2
-1312020,16,2,"AMTRAK Via Downtown PH",,1,12702,shp-16-01,2,2
-1315020,16,2,"Concord BART Via Downtown PH",,0,8902,shp-16-51,2,2
-1321020,20,2,"Concord BART",,1,202,shp-20-01,2,2
-1325070,311,1,"WC  BART Via PH  BART",,0,12907,shp-311-51,2,2
-1339070,310,1,"CLAYTON",,1,4107,shp-310-01,2,2
-1342010,320,3,"DVC Via Diamond",,0,14401,shp-320-51,2,2
-1005020,1,2,"Shadelands Via Walnut Creek BART",,1,8402,shp-1-01,2,2
-1007010,314,3,"DVC Via Monument",,0,9401,shp-314-52,2,2
-1008020,16,2,"AMTRAK Via Downtown PH",,1,602,shp-16-01,2,2
-1017020,9,2,"WC  BART Via PH  BART",,0,11702,shp-9-51,2,2
-1018020,20,2,"Concord BART",,1,12402,shp-20-01,2,2
-102020,6,2,"Lafayette BART Via St Marys College",,1,11602,shp-6-01,2,2
-1023020,1,2,"Rossmoor Via Walnut Creek BART",,0,5202,shp-1-52,2,2
-1027020,17,2,"Concord BART Via John Muir Concord",,0,702,shp-17-51,2,2
-1028020,35,2,"Dublin BART Via Bollinger Canyon",,0,15302,shp-35-52,2,2
-1030070,321,1,"San Ramon",,0,11507,shp-321-51,2,2
-1064070,321,1,"WC  BART",,1,9607,shp-321-01,2,2
-1070020,21,2,"Walnut Creek BART",,1,9102,shp-21-01,2,2
-1073020,15,2,"Concord BART",,1,8802,shp-15-02,2,2
-1075020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-1080070,314,1,"Concord BART",,1,1307,shp-314-01,2,2
-1082020,14,2,"Concord BART Via PH  BART",,1,5402,shp-14-01,2,2
-109020,10,2,"Clayton",,1,15102,shp-10-01,2,2
-1093020,7,2,"PH BART  Via Shadelands",,0,10002,shp-7-04,2,2
-1095010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,4701,shp-4-04,2,2
-1096020,10,2,"Concord BART",,0,8502,shp-10-51,2,2
-1114070,310,1,"CLAYTON",,1,5907,shp-310-01,2,2
-1118020,20,2,"Concord BART",,1,8502,shp-20-01,2,2
-1120020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,3002,shp-96X-05,2,2
-1121020,6,2,"Orinda BART  Via St Marys College",,0,13302,shp-6-51,2,2
-1125020,20,2,"DVC",,0,7802,shp-20-51,2,2
-1134010,335,3,"To San Ramon Via Bollinger Canyon",,1,7301,shp-335-01,2,2
-1139010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-1142020,17,2,"N Concord BART Via John Muir Concord",,1,3602,shp-17-01,2,2
-1143070,335,1,"To San Ramon Via Bollinger Canyon",,1,11507,shp-335-01,2,2
-1144070,314,1,"DVC Via Monument",,0,4207,shp-314-52,2,2
-1145020,93X,2,"WC  BART",,0,2502,shp-93X-51,2,2
-1149070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,4507,shp-301-02,2,2
-1157020,7,2,"PH BART  Via Shadelands",,0,13402,shp-7-04,2,2
-1158020,10,2,"Concord BART",,0,15102,shp-10-51,2,2
-1161020,10,2,"Concord BART",,0,202,shp-10-53,2,2
-1181020,10,2,"Washington Blvd /Kelrose Ct",,1,12202,shp-10-03,2,2
-1186070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,4707,shp-4-04,2,2
-1001020,10,2,"Concord BART",,0,11102,shp-10-51,2,2
-1015020,21,2,"Walnut Creek BART",,1,12802,shp-21-01,2,2
-1022020,93X,2,"Antioch BART",,1,8102,shp-93X-01,2,2
-1037020,6,2,"Lafayette BART Via St Marys College",,1,6502,shp-6-01,2,2
-1045020,20,2,"DVC",,0,12402,shp-20-51,2,2
-1048020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,16302,shp-96X-05,2,2
-1054020,19,2,"Concord BART",,0,11002,shp-19-51,2,2
-1055020,6,2,"Orinda BART  Via St Marys College",,0,6502,shp-6-51,2,2
-1056020,9,2,"DVC/PH  BART",,1,2202,shp-9-01,2,2
-1058020,95X,2,"Walnut Creek BART Via  Danville Park & Ride/ San Ramon",,0,8202,shp-95X-03,2,2
-1061070,314,1,"Concord BART",,1,9407,shp-314-01,2,2
-1065020,14,2,"Concord BART Via PH  BART",,1,5402,shp-14-01,2,2
-107010,335,3,"To Dublin BART Via Bollinger Canyon",,0,1601,shp-335-51,2,2
-1083020,35,2,"Dublin BART Via Windemere Pkwy",,0,6302,shp-35-51,2,2
-1100070,335,1,"To Dublin BART Via Bollinger Canyon",,0,7307,shp-335-51,2,2
-110010,310,3,"Concord BART",,0,1201,shp-310-51,2,2
-1101010,321,3,"San Ramon",,0,9601,shp-321-51,2,2
-1102020,15,2,"Concord BART Via John Muir Concord",,1,11202,shp-15-04,2,2
-1106020,1,2,"Shadelands Via Walnut Creek BART",,1,8402,shp-1-01,2,2
-1131020,20,2,"Concord BART",,1,6802,shp-20-01,2,2
-1136070,320,1,"DVC Via Diamond",,0,14407,shp-320-51,2,2
-1152020,20,2,"DVC",,0,16202,shp-20-51,2,2
-116020,91X,2,"Airport Plaza",,1,10202,shp-91X-01,2,2
-117020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,14902,shp-96X-05,2,2
-1171020,11,2,"PH  BART",,0,3202,shp-11-51,2,2
-1176070,320,1,"Concord BART Via Diamond Blvd",,1,13007,shp-320-01,2,2
-1183020,20,2,"Concord BART",,1,12202,shp-20-01,2,2
-1192070,314,1,"Concord BART",,1,14407,shp-314-01,2,2
-1198070,335,1,"To Dublin BART Via Bollinger Canyon",,0,13107,shp-335-51,2,2
-12020,14,2,"Concord BART Via PH  BART",,1,3302,shp-14-01,2,2
-1216020,14,2,"Concord BART Via PH  BART",,1,8702,shp-14-01,2,2
-1228010,311,3,"Concord BART Via PH  BART",,1,5901,shp-311-01,2,2
-1230020,99X,2,"Martinez AMTRAK",,1,2902,shp-99X-01,2,2
-1248020,11,2,"PH  BART",,0,12502,shp-11-51,2,2
-1249020,11,2,"Concord BART",,1,8602,shp-11-01,2,2
-1250020,10,2,"Clayton",,1,6802,shp-10-01,2,2
-1266020,10,2,"Concord BART",,0,15602,shp-10-53,2,2
-10010,321,3,"WC  BART",,1,7301,shp-321-01,2,2
-1006010,310,3,"Concord BART",,0,7201,shp-310-51,2,2
-1012020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,5802,shp-28-01,2,2
-1014020,11,2,"Concord BART",,1,302,shp-11-01,2,2
-1020,18,2,"AMTRAK/Martinez",,1,9002,shp-18-01,2,2
-1024070,321,1,"WC  BART",,1,13107,shp-321-01,2,2
-1025010,314,3,"Concord BART",,1,14401,shp-314-01,2,2
-1033020,11,2,"PH  BART",,0,302,shp-11-51,2,2
-1034020,21,2,"San Ramon TC",,0,15202,shp-21-51,2,2
-1039010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,4501,shp-301-02,2,2
-104020,17,2,"N Concord BART Via John Muir Concord",,1,702,shp-17-01,2,2
-1042010,335,3,"To San Ramon Via Bollinger Canyon",,1,1601,shp-335-01,2,2
-1052020,20,2,"DVC",,0,15602,shp-20-51,2,2
-1062010,316,3,"PH  BART Via Martinez AMTRAK",,0,1501,shp-316-51,2,2
-1071020,17,2,"N Concord BART Via John Muir Concord",,1,702,shp-17-01,2,2
-1081020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-1084020,14,2,"Walnut Creek BART Via PH  BART",,0,8702,shp-14-51,2,2
-1087020,16,2,"AMTRAK Via Downtown PH",,1,12702,shp-16-01,2,2
-1092010,314,3,"Concord BART",,1,1301,shp-314-01,2,2
-11020,95X,2,"Walnut Creek BART Via  Danville Park & Ride/ San Ramon",,0,8102,shp-95X-03,2,2
-1107020,98X,2,"WC  BART",,0,5102,shp-98X-51,2,2
-1111020,10,2,"Washington Blvd /Kelrose Ct",,1,8002,shp-10-03,2,2
-1115020,7,2,"PH BART  Via Shadelands",,0,2102,shp-7-04,2,2
-113010,320,3,"DVC Via Diamond",,0,6001,shp-320-51,2,2
-1132020,9,2,"DVC/PH  BART",,1,2202,shp-9-01,2,2
-1138020,20,2,"DVC",,0,15602,shp-20-51,2,2
-1140020,6,2,"Orinda BART  Via St Marys College",,0,2002,shp-6-51,2,2
-1141010,320,3,"DVC Via Diamond",,0,1301,shp-320-51,2,2
-1148020,17,2,"Concord BART Via John Muir Concord",,0,10902,shp-17-51,2,2
-1160010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-1170020,18,2,"PH  BART",,0,11302,shp-18-51,2,2
-1174020,21,2,"San Ramon TC",,0,9102,shp-21-51,2,2
-1175010,321,3,"San Ramon",,0,1601,shp-321-51,2,2
-1184020,15,2,"Concord BART Via John Muir Concord",,1,502,shp-15-04,2,2
-1185010,314,3,"DVC Via Monument",,0,6001,shp-314-52,2,2
-1187070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-1190020,15,2,"Concord BART Via John Muir Concord",,1,11202,shp-15-04,2,2
-100070,320,1,"Concord BART Via Diamond Blvd",,1,13007,shp-320-01,2,2
-1020020,6,2,"Orinda BART  Via St Marys College",,0,12102,shp-6-51,2,2
-1029010,314,3,"Concord BART",,1,4201,shp-314-01,2,2
-1031070,6,1,"Orinda BART  Via St Marys College",,0,4907,shp-6-51,2,2
-1043010,310,3,"Concord BART",,0,5901,shp-310-51,2,2
-1044010,335,3,"To Dublin BART Via Bollinger Canyon",,0,4501,shp-335-51,2,2
-1050020,17,2,"Concord BART Via John Muir Concord",,0,3602,shp-17-51,2,2
-1057020,20,2,"Concord BART",,1,14102,shp-20-01,2,2
-1063020,20,2,"Concord BART",,1,15602,shp-20-01,2,2
-1067020,10,2,"Clayton",,1,8502,shp-10-01,2,2
-1098020,98X,2,"WC  BART",,0,10602,shp-98X-51,2,2
-1151020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-1169010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,11501,shp-301-02,2,2
-1173020,35,2,"Dublin BART Via Windemere Pkwy",,0,15802,shp-35-51,2,2
-118010,320,3,"Concord BART Via Diamond Blvd",,1,9401,shp-320-01,2,2
-1201020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-1202070,335,1,"To San Ramon Via Bollinger Canyon",,1,7307,shp-335-01,2,2
-1203020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-1206020,10,2,"Clayton",,1,12402,shp-10-01,2,2
-1208070,314,1,"DVC Via Monument",,0,13007,shp-314-52,2,2
-1221070,316,1,"Downtown PH Via Martinez",,1,6107,shp-316-01,2,2
-1224020,21,2,"Walnut Creek BART",,1,9102,shp-21-01,2,2
-1232010,314,3,"Concord BART",,1,6001,shp-314-01,2,2
-125070,6,1,"Orinda BART  Via St Marys College",,0,2007,shp-6-51,2,2
-1269020,15,2,"Concord BART Via John Muir Concord",,1,502,shp-15-04,2,2
-1280020,19,2,"Martinez AMTRAK",,1,11002,shp-19-01,2,2
-1282020,10,2,"Concord BART",,0,6802,shp-10-51,2,2
-1283070,320,1,"DVC Via Diamond",,0,14407,shp-320-51,2,2
-1286010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,4701,shp-4-04,2,2
-129020,20,2,"Concord BART",,1,8502,shp-20-01,2,2
-1301070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-1304010,335,3,"To San Ramon Via Bollinger Canyon",,1,9601,shp-335-01,2,2
-1305020,10,2,"Clayton",,1,8502,shp-10-01,2,2
-13070,311,1,"Concord BART Via PH  BART",,1,1207,shp-311-01,2,2
-1309070,316,1,"Downtown PH Via Martinez",,1,1507,shp-316-01,2,2
-1311020,10,2,"Washington Blvd /Kelrose Ct",,1,12402,shp-10-03,2,2
-1000010,310,3,"CLAYTON",,1,7201,shp-310-01,2,2
-1009070,6,1,"Lafayette BART Via St Marys College",,1,2007,shp-6-01,2,2
-101020,16,2,"Concord BART Via Downtown PH",,0,602,shp-16-51,2,2
-1011020,20,2,"DVC",,0,15102,shp-20-51,2,2
-103020,10,2,"Clayton",,1,8502,shp-10-01,2,2
-1036020,21,2,"San Ramon TC",,0,3902,shp-21-51,2,2
-1040010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,6201,shp-301-02,2,2
-105070,321,1,"WC  BART",,1,13107,shp-321-01,2,2
-1051070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-1059010,310,3,"Concord BART",,0,4101,shp-310-51,2,2
-106010,6,3,"Orinda BART  Via St Marys College",,0,4901,shp-6-51,2,2
-1068020,20,2,"Concord BART",,1,7802,shp-20-01,2,2
-1069020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-1072010,310,3,"CLAYTON",,1,9301,shp-310-01,2,2
-1074070,314,1,"Concord BART",,1,14407,shp-314-01,2,2
-108010,311,3,"Concord BART Via PH  BART",,1,9301,shp-311-01,2,2
-1089010,321,3,"San Ramon",,0,4501,shp-321-51,2,2
-1090070,316,1,"Downtown PH Via Martinez",,1,11407,shp-316-01,2,2
-1099070,310,1,"Concord BART",,0,5907,shp-310-51,2,2
-1104020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-1105020,15,2,"Concord BART Via John Muir Concord",,1,3402,shp-15-04,2,2
-1109070,310,1,"Concord BART",,0,1207,shp-310-51,2,2
-1117020,15,2,"PH  BART",,0,5502,shp-15-51,2,2
-112020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-1124010,320,3,"DVC Via Diamond",,0,9401,shp-320-51,2,2
-1146010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-115020,15,2,"PH  BART",,0,502,shp-15-51,2,2
-1153020,14,2,"Walnut Creek BART Via PH  BART",,0,8702,shp-14-51,2,2
-1154020,10,2,"Washington Blvd /Kelrose Ct",,1,12202,shp-10-03,2,2
-1162070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-1166010,314,3,"DVC Via Monument",,0,14401,shp-314-52,2,2
-1172020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-1179020,15,2,"PH  BART",,0,3402,shp-15-51,2,2
-119010,311,3,"Concord BART Via PH  BART",,1,5901,shp-311-01,2,2
-1191020,99X,2,"Martinez AMTRAK",,1,13802,shp-99X-01,2,2
-1193070,311,1,"WC  BART Via PH  BART",,0,5907,shp-311-51,2,2
-1204020,1,2,"Shadelands Via Walnut Creek BART",,1,3102,shp-1-01,2,2
-1214020,20,2,"DVC",,0,12402,shp-20-51,2,2
-1353020,20,2,"DVC",,0,15102,shp-20-51,2,2
-1360020,35,2,"San Ramon  TC Via Crow Canyon",,0,6302,shp-35-03,2,2
-1368070,314,1,"DVC Via Monument",,0,1307,shp-314-52,2,2
-1374010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-1375020,1,2,"Rossmoor Via Walnut Creek BART",,0,8402,shp-1-52,2,2
-1390070,320,1,"Concord BART Via Diamond Blvd",,1,14407,shp-320-01,2,2
-1393020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-1396020,18,2,"AMTRAK/Martinez",,1,802,shp-18-01,2,2
-1398070,321,1,"San Ramon",,0,6207,shp-321-51,2,2
-1401020,16,2,"AMTRAK Via Downtown PH",,1,7002,shp-16-01,2,2
-1402020,7,2,"PH BART  Via Shadelands",,0,13402,shp-7-04,2,2
-143070,314,1,"Concord BART",,1,9407,shp-314-01,2,2
-15020,20,2,"Concord BART",,1,15102,shp-20-01,2,2
-154020,18,2,"AMTRAK/Martinez",,1,11302,shp-18-01,2,2
-165020,21,2,"Walnut Creek BART",,1,12002,shp-21-01,2,2
-200020,16,2,"Concord BART Via Downtown PH",,0,12702,shp-16-51,2,2
-205010,311,3,"WC  BART Via PH  BART",,0,5901,shp-311-51,2,2
-218020,7,2,"PH BART  Via Shadelands",,0,10002,shp-7-04,2,2
-234010,321,3,"WC  BART",,1,6201,shp-321-01,2,2
-237020,98X,2,"WC  BART",,0,10602,shp-98X-51,2,2
-243020,19,2,"Concord BART",,0,11002,shp-19-51,2,2
-245010,320,3,"Concord BART Via Diamond Blvd",,1,1301,shp-320-01,2,2
-249070,311,1,"WC  BART Via PH  BART",,0,1207,shp-311-51,2,2
-255010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,4501,shp-301-02,2,2
-265020,28,2,"Martinez AMTRAK Via VA Clinic",,1,4002,shp-28-51,2,2
-267020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-274020,28,2,"Martinez AMTRAK Via VA Clinic",,1,5802,shp-28-51,2,2
-276020,14,2,"Concord BART Via PH  BART",,1,12302,shp-14-01,2,2
-282020,7,2,"PH BART  Via Shadelands",,0,2102,shp-7-04,2,2
-286020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,6302,shp-35-01,2,2
-29010,320,3,"DVC Via Diamond",,0,9401,shp-320-51,2,2
-297070,314,1,"Concord BART",,1,1307,shp-314-01,2,2
-306020,1,2,"Rossmoor Via Walnut Creek BART",,0,102,shp-1-52,2,2
-307020,35,2,"San Ramon  TC Via Crow Canyon",,0,13202,shp-35-03,2,2
-317020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,14902,shp-96X-05,2,2
-346010,314,3,"DVC Via Monument",,0,13001,shp-314-52,2,2
-353020,10,2,"Clayton",,1,6802,shp-10-01,2,2
-355020,9,2,"WC  BART Via PH  BART",,0,10102,shp-9-51,2,2
-1196020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,6302,shp-35-01,2,2
-1197020,20,2,"Concord BART",,1,8502,shp-20-01,2,2
-1205020,20,2,"DVC",,0,12402,shp-20-51,2,2
-1207020,20,2,"Concord BART",,1,8002,shp-20-01,2,2
-1211010,6,3,"Lafayette BART Via St Marys College",,1,4901,shp-6-01,2,2
-1215070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,6207,shp-301-02,2,2
-1217020,35,2,"Dublin BART Via Bollinger Canyon",,0,9702,shp-35-52,2,2
-1218070,6,1,"Orinda BART  Via St Marys College",,0,2007,shp-6-51,2,2
-1220020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-1226020,9,2,"DVC/PH  BART",,1,5002,shp-9-01,2,2
-123020,16,2,"AMTRAK Via Downtown PH",,1,602,shp-16-01,2,2
-124010,320,3,"Concord BART Via Diamond Blvd",,1,14401,shp-320-01,2,2
-1252020,18,2,"AMTRAK/Martinez",,1,9002,shp-18-01,2,2
-1253020,91X,2,"Airport Plaza",,1,2302,shp-91X-01,2,2
-126020,11,2,"Concord BART",,1,3202,shp-11-01,2,2
-1263070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,4707,shp-4-04,2,2
-127020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-1277020,14,2,"Walnut Creek BART Via PH  BART",,0,3302,shp-14-51,2,2
-1287070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-1293020,1,2,"Shadelands Via Walnut Creek BART",,1,3102,shp-1-01,2,2
-1295070,320,1,"Concord BART Via Diamond Blvd",,1,9407,shp-320-01,2,2
-1299020,93X,2,"Antioch BART",,1,10302,shp-93X-01,2,2
-1318020,10,2,"Clayton",,1,7802,shp-10-01,2,2
-132020,20,2,"Concord BART",,1,15602,shp-20-01,2,2
-1324010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-1327020,91X,2,"Airport Plaza",,1,10202,shp-91X-01,2,2
-1335020,6,2,"Orinda BART  Via St Marys College",,0,9902,shp-6-51,2,2
-1341020,16,2,"AMTRAK Via Downtown PH",,1,7002,shp-16-01,2,2
-1345020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-136020,14,2,"Walnut Creek BART Via PH  BART",,0,11902,shp-14-51,2,2
-1366020,14,2,"Concord BART Via PH  BART",,1,11902,shp-14-01,2,2
-1369010,6,3,"Orinda BART  Via St Marys College",,0,2001,shp-6-51,2,2
-137020,9,2,"DVC/PH  BART",,1,5002,shp-9-01,2,2
-1394020,35,2,"San Ramon  Via Bollinger Canyon",,1,9702,shp-35-02,2,2
-1400020,10,2,"Concord BART",,0,8502,shp-10-51,2,2
-144020,20,2,"Concord BART",,1,15102,shp-20-01,2,2
-146020,6,2,"Orinda BART  Via St Marys College",,0,9902,shp-6-51,2,2
-150070,320,1,"DVC Via Diamond",,0,13007,shp-320-51,2,2
-1188020,18,2,"PH  BART",,0,9002,shp-18-51,2,2
-1189070,314,1,"DVC Via Monument",,0,14407,shp-314-52,2,2
-1194010,314,3,"DVC Via Monument",,0,1301,shp-314-52,2,2
-1195020,10,2,"Concord BART",,0,15602,shp-10-51,2,2
-1199020,21,2,"Walnut Creek BART",,1,7102,shp-21-01,2,2
-1212020,15,2,"Concord BART",,1,5502,shp-15-02,2,2
-1233070,310,1,"Concord BART",,0,7207,shp-310-51,2,2
-1234010,321,3,"WC  BART",,1,1601,shp-321-01,2,2
-1235010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-1237010,314,3,"DVC Via Monument",,0,4201,shp-314-52,2,2
-1238070,321,1,"San Ramon",,0,13107,shp-321-51,2,2
-1240020,93X,2,"Antioch BART",,1,8302,shp-93X-01,2,2
-1246020,18,2,"AMTRAK/Martinez",,1,5702,shp-18-01,2,2
-1247010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-1254020,19,2,"Martinez AMTRAK",,1,11002,shp-19-01,2,2
-1258020,16,2,"Concord BART Via Downtown PH",,0,602,shp-16-51,2,2
-1261020,20,2,"Concord BART",,1,15102,shp-20-01,2,2
-1264070,311,1,"WC  BART Via PH  BART",,0,7207,shp-311-51,2,2
-1265020,10,2,"Clayton",,1,5302,shp-10-01,2,2
-1284020,35,2,"Dublin BART Via Bollinger Canyon",,0,9702,shp-35-52,2,2
-1289020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,1102,shp-28-01,2,2
-1302010,316,3,"PH  BART Via Martinez AMTRAK",,0,1501,shp-316-51,2,2
-1333070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-1334010,320,3,"DVC Via Diamond",,0,1301,shp-320-51,2,2
-1337020,14,2,"Walnut Creek BART Via PH  BART",,0,12602,shp-14-51,2,2
-1340020,1,2,"Shadelands Via Walnut Creek BART",,1,8402,shp-1-01,2,2
-1349070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-1359020,6,2,"Lafayette BART Via St Marys College",,1,11602,shp-6-01,2,2
-1361020,10,2,"Concord BART",,0,15602,shp-10-51,2,2
-1363020,15,2,"Concord BART",,1,5502,shp-15-02,2,2
-1377020,21,2,"Walnut Creek BART",,1,15702,shp-21-01,2,2
-1397070,6,1,"Orinda BART  Via St Marys College",,0,2007,shp-6-51,2,2
-140070,320,1,"DVC Via Diamond",,0,4207,shp-320-51,2,2
-1404020,35,2,"San Ramon  Via Bollinger Canyon",,1,1702,shp-35-02,2,2
-1405010,320,3,"Concord BART Via Diamond Blvd",,1,13001,shp-320-01,2,2
-152070,335,1,"To Dublin BART Via Bollinger Canyon",,0,13107,shp-335-51,2,2
-153070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,4507,shp-301-02,2,2
-1267020,20,2,"Concord BART",,1,8502,shp-20-01,2,2
-128020,10,2,"Washington Blvd /Kelrose Ct",,1,202,shp-10-03,2,2
-1292020,20,2,"Concord BART",,1,8002,shp-20-01,2,2
-1308070,311,1,"Concord BART Via PH  BART",,1,7207,shp-311-01,2,2
-131020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-1320020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,7902,shp-35-01,2,2
-1323070,316,1,"Downtown PH Via Martinez",,1,6107,shp-316-01,2,2
-1326070,321,1,"San Ramon",,0,4507,shp-321-51,2,2
-1332020,14,2,"Concord BART Via PH  BART",,1,12602,shp-14-01,2,2
-1336020,15,2,"PH  BART",,0,502,shp-15-51,2,2
-134020,20,2,"Concord BART",,1,12402,shp-20-01,2,2
-1358070,314,1,"Concord BART",,1,9407,shp-314-01,2,2
-1380020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-1382010,320,3,"DVC Via Diamond",,0,9401,shp-320-51,2,2
-1385020,15,2,"PH  BART",,0,8802,shp-15-51,2,2
-1407010,316,3,"Downtown PH Via Martinez",,1,11401,shp-316-01,2,2
-147020,14,2,"Concord BART Via PH  BART",,1,12602,shp-14-01,2,2
-149020,10,2,"Concord BART",,0,12202,shp-10-53,2,2
-156070,314,1,"DVC Via Monument",,0,13007,shp-314-52,2,2
-169070,314,1,"DVC Via Monument",,0,9407,shp-314-52,2,2
-17070,316,1,"Downtown PH Via Martinez",,1,4407,shp-316-01,2,2
-187070,320,1,"DVC Via Diamond",,0,14407,shp-320-51,2,2
-199010,321,3,"WC  BART",,1,7301,shp-321-01,2,2
-202020,99X,2,"Martinez AMTRAK",,1,15502,shp-99X-01,2,2
-229010,314,3,"Concord BART",,1,9401,shp-314-01,2,2
-231010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-240020,20,2,"Concord BART",,1,14102,shp-20-01,2,2
-250020,28,2,"Martinez AMTRAK Via VA Clinic",,1,5802,shp-28-51,2,2
-256020,21,2,"Walnut Creek BART",,1,1002,shp-21-01,2,2
-257020,27,2,"N Concord BART Via Mason Circle",,1,15502,shp-27-01,2,2
-264020,10,2,"Concord BART",,0,11102,shp-10-53,2,2
-288020,10,2,"Washington Blvd /Kelrose Ct",,1,7502,shp-10-03,2,2
-298020,35,2,"San Ramon  Via Bollinger Canyon",,1,14502,shp-35-02,2,2
-300020,98X,2,"WC  BART",,0,11802,shp-98X-51,2,2
-31020,10,2,"Concord BART",,0,12402,shp-10-51,2,2
-312070,6,1,"Orinda BART  Via St Marys College",,0,4907,shp-6-51,2,2
-318020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-320020,20,2,"Concord BART",,1,11102,shp-20-01,2,2
-1314020,20,2,"Concord BART",,1,12402,shp-20-01,2,2
-1319070,310,1,"Concord BART",,0,7207,shp-310-51,2,2
-133020,21,2,"San Ramon TC",,0,12802,shp-21-51,2,2
-1338010,311,3,"Concord BART Via PH  BART",,1,1201,shp-311-01,2,2
-135020,15,2,"PH  BART",,0,11202,shp-15-51,2,2
-1355020,15,2,"PH  BART",,0,5502,shp-15-51,2,2
-1370020,28,2,"Martinez AMTRAK Via VA Clinic",,1,5802,shp-28-51,2,2
-1372020,19,2,"Concord BART",,0,3802,shp-19-51,2,2
-1379010,314,3,"Concord BART",,1,9401,shp-314-01,2,2
-1384020,6,2,"Orinda BART  Via St Marys College",,0,9902,shp-6-51,2,2
-1386020,14,2,"Concord BART Via PH  BART",,1,14202,shp-14-01,2,2
-1389020,7,2,"PH BART  Via Shadelands",,0,14702,shp-7-04,2,2
-1391020,9,2,"DVC/PH  BART",,1,13902,shp-9-01,2,2
-1392010,315,3,"Concord BART Via Clayton/Treat",,0,4301,shp-315-01,2,2
-141020,18,2,"PH  BART",,0,3702,shp-18-51,2,2
-151020,14,2,"Concord BART Via PH  BART",,1,11902,shp-14-01,2,2
-158020,7,2,"PH BART  Via Shadelands",,0,13402,shp-7-04,2,2
-159020,10,2,"Concord BART",,0,15102,shp-10-53,2,2
-16070,310,1,"Concord BART",,0,7207,shp-310-51,2,2
-168010,314,3,"Concord BART",,1,4201,shp-314-01,2,2
-174020,20,2,"Concord BART",,1,15602,shp-20-01,2,2
-176020,95X,2,"Walnut Creek BART Via San Ramon/Danville Park & Ride",,0,13702,shp-95X-02,2,2
-178020,9,2,"DVC/PH  BART",,1,5002,shp-9-01,2,2
-18020,18,2,"AMTRAK/Martinez",,1,3702,shp-18-01,2,2
-181020,21,2,"Walnut Creek BART",,1,1002,shp-21-01,2,2
-184020,14,2,"Walnut Creek BART Via PH  BART",,0,12302,shp-14-51,2,2
-186020,14,2,"Walnut Creek BART Via PH  BART",,0,11902,shp-14-51,2,2
-190010,320,3,"DVC Via Diamond",,0,14401,shp-320-51,2,2
-191010,310,3,"Concord BART",,0,7201,shp-310-51,2,2
-20010,314,3,"DVC Via Monument",,0,1301,shp-314-52,2,2
-21020,35,2,"Dublin BART Via Bollinger Canyon",,0,9702,shp-35-52,2,2
-214010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-228020,35,2,"Dublin BART Via Windemere Pkwy",,0,9702,shp-35-51,2,2
-230020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-241020,9,2,"WC  BART Via PH  BART",,0,10102,shp-9-51,2,2
-244070,310,1,"Concord BART",,0,1207,shp-310-51,2,2
-258020,10,2,"Washington Blvd /Kelrose Ct",,1,15602,shp-10-03,2,2
-259010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,13101,shp-301-02,2,2
-357020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-364010,6,3,"Lafayette BART Via St Marys College",,1,4901,shp-6-01,2,2
-366020,10,2,"Concord BART",,0,7802,shp-10-51,2,2
-369020,92X,2,"ACE Mitchell P&R",,1,14802,shp-92X-01,2,2
-374070,311,1,"WC  BART Via PH  BART",,0,1207,shp-311-51,2,2
-376020,21,2,"San Ramon TC",,0,12002,shp-21-51,2,2
-386020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-394010,316,3,"PH  BART Via Martinez AMTRAK",,0,6101,shp-316-51,2,2
-396020,1,2,"Rossmoor Via Walnut Creek BART",,0,102,shp-1-52,2,2
-399020,6,2,"Orinda BART Via Orinda Village",,0,9902,shp-6-02,2,2
-408020,35,2,"Dublin BART Via Windemere Pkwy",,0,9702,shp-35-51,2,2
-414010,310,3,"CLAYTON",,1,1201,shp-310-01,2,2
-417020,9,2,"WC  BART Via PH  BART",,0,13902,shp-9-51,2,2
-424070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,7307,shp-301-02,2,2
-431010,314,3,"Concord BART",,1,14401,shp-314-01,2,2
-450010,316,3,"PH  BART Via Martinez AMTRAK",,0,9501,shp-316-51,2,2
-458070,335,1,"To Dublin BART Via Bollinger Canyon",,0,6207,shp-335-51,2,2
-475020,14,2,"Concord BART Via PH  BART",,1,3302,shp-14-01,2,2
-48020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-490020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,10402,shp-96X-05,2,2
-505010,335,3,"To Dublin BART Via Bollinger Canyon",,0,4501,shp-335-51,2,2
-525020,10,2,"Clayton",,1,16202,shp-10-01,2,2
-528070,316,1,"PH  BART Via Martinez AMTRAK",,0,4407,shp-316-51,2,2
-531010,314,3,"DVC Via Monument",,0,1301,shp-314-52,2,2
-537020,6,2,"Orinda BART  Via St Marys College",,0,12102,shp-6-51,2,2
-543020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-551020,21,2,"Walnut Creek BART",,1,15202,shp-21-01,2,2
-559020,14,2,"Walnut Creek BART Via PH  BART",,0,12302,shp-14-51,2,2
-566020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-568070,311,1,"Concord BART Via PH  BART",,1,1207,shp-311-01,2,2
-581020,20,2,"Concord BART",,1,6802,shp-20-01,2,2
-586020,21,2,"San Ramon TC",,0,3902,shp-21-51,2,2
-590020,18,2,"AMTRAK/Martinez",,1,3702,shp-18-01,2,2
-600020,10,2,"Concord BART",,0,16202,shp-10-53,2,2
-60070,310,1,"CLAYTON",,1,5907,shp-310-01,2,2
-601070,314,1,"DVC Via Monument",,0,1307,shp-314-52,2,2
-602070,6,1,"Lafayette BART Via St Marys College",,1,4907,shp-6-01,2,2
-163070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-164020,1,2,"Shadelands Via Walnut Creek BART",,1,5202,shp-1-01,2,2
-171020,16,2,"Concord BART Via Downtown PH",,0,8902,shp-16-51,2,2
-172020,98X,2,"WC  BART",,0,11802,shp-98X-51,2,2
-180020,6,2,"Orinda BART  Via St Marys College",,0,13302,shp-6-51,2,2
-183020,97X,2,"Dublin BART Via Bishop Ranch",,0,2702,shp-97X-05,2,2
-188070,311,1,"Concord BART Via PH  BART",,1,5907,shp-311-01,2,2
-193010,311,3,"WC  BART Via PH  BART",,0,4101,shp-311-51,2,2
-2020,14,2,"Walnut Creek BART Via PH  BART",,0,3302,shp-14-51,2,2
-210020,91X,2,"Airport Plaza",,1,2302,shp-91X-01,2,2
-217070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,1607,shp-301-02,2,2
-221070,311,1,"WC  BART Via PH  BART",,0,5907,shp-311-51,2,2
-224020,20,2,"Concord BART",,1,11102,shp-20-01,2,2
-227020,7,2,"PH BART  Via Shadelands",,0,2102,shp-7-04,2,2
-236020,11,2,"Concord BART",,1,302,shp-11-01,2,2
-248020,7,2,"PH BART  Via Shadelands",,0,13402,shp-7-04,2,2
-262020,6,2,"Lafayette BART Via St Marys College",,1,9902,shp-6-01,2,2
-271070,335,1,"To San Ramon Via Bollinger Canyon",,1,4507,shp-335-01,2,2
-28020,20,2,"Concord BART",,1,7802,shp-20-01,2,2
-291020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-293010,320,3,"Concord BART Via Diamond Blvd",,1,13001,shp-320-01,2,2
-295010,320,3,"DVC Via Diamond",,0,4201,shp-320-51,2,2
-322010,335,3,"To San Ramon Via Bollinger Canyon",,1,6201,shp-335-01,2,2
-324020,16,2,"AMTRAK Via Downtown PH",,1,8902,shp-16-01,2,2
-33070,320,1,"Concord BART Via Diamond Blvd",,1,13007,shp-320-01,2,2
-339020,99X,2,"North Concord BART",,0,15502,shp-99X-51,2,2
-352020,98X,2,"Martinez AMTRAK",,1,11802,shp-98X-01,2,2
-359020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-36020,9,2,"WC  BART Via PH  BART",,0,6602,shp-9-51,2,2
-37010,335,3,"To Dublin BART Via Bollinger Canyon",,0,9601,shp-335-51,2,2
-378020,20,2,"Concord BART",,1,14102,shp-20-01,2,2
-381010,314,3,"DVC Via Monument",,0,1301,shp-314-52,2,2
-383020,7,2,"PH BART  Via Shadelands",,0,14702,shp-7-04,2,2
-387020,98X,2,"Martinez AMTRAK",,1,10602,shp-98X-01,2,2
-39020,1,2,"Rossmoor Via Walnut Creek BART",,0,8402,shp-1-52,2,2
-395020,10,2,"Washington Blvd /Kelrose Ct",,1,202,shp-10-03,2,2
-398020,21,2,"San Ramon TC",,0,3902,shp-21-51,2,2
-162020,99X,2,"North Concord BART",,0,13802,shp-99X-51,2,2
-185070,310,1,"CLAYTON",,1,9307,shp-310-01,2,2
-192020,19,2,"Concord BART",,0,11002,shp-19-51,2,2
-201010,6,3,"Lafayette BART Via St Marys College",,1,2001,shp-6-01,2,2
-203020,20,2,"DVC",,0,15602,shp-20-51,2,2
-219020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-220070,321,1,"San Ramon",,0,4507,shp-321-51,2,2
-23020,16,2,"AMTRAK Via Downtown PH",,1,7002,shp-16-01,2,2
-242020,17,2,"Concord BART Via John Muir Concord",,0,10902,shp-17-51,2,2
-252020,10,2,"Concord BART",,0,16202,shp-10-51,2,2
-260020,9,2,"DVC/PH  BART",,1,5002,shp-9-01,2,2
-268020,7,2,"PH BART  Via Shadelands",,0,10002,shp-7-04,2,2
-273020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,10402,shp-96X-05,2,2
-280070,335,1,"To Dublin BART Via Bollinger Canyon",,0,4507,shp-335-51,2,2
-294020,6,2,"Orinda BART Via Orinda Village",,0,9902,shp-6-02,2,2
-308020,19,2,"Martinez AMTRAK",,1,3802,shp-19-01,2,2
-315020,35,2,"Dublin BART Via Bollinger Canyon",,0,13202,shp-35-52,2,2
-316020,9,2,"WC  BART Via PH  BART",,0,2202,shp-9-51,2,2
-319070,316,1,"Downtown PH Via Martinez",,1,4407,shp-316-01,2,2
-32070,310,1,"CLAYTON",,1,9307,shp-310-01,2,2
-323010,316,3,"PH  BART Via Martinez AMTRAK",,0,6101,shp-316-51,2,2
-326020,17,2,"Concord BART Via John Muir Concord",,0,3602,shp-17-51,2,2
-327020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-330070,314,1,"DVC Via Monument",,0,13007,shp-314-52,2,2
-340020,20,2,"DVC",,0,202,shp-20-51,2,2
-34020,11,2,"PH  BART",,0,3202,shp-11-51,2,2
-341020,14,2,"Concord BART Via PH  BART",,1,8702,shp-14-01,2,2
-344020,15,2,"Concord BART Via John Muir Concord",,1,8802,shp-15-04,2,2
-348020,17,2,"Concord BART Via John Muir Concord",,0,3602,shp-17-51,2,2
-368020,16,2,"AMTRAK Via Downtown PH",,1,8902,shp-16-01,2,2
-371070,316,1,"PH  BART Via Martinez AMTRAK",,0,11407,shp-316-51,2,2
-375020,92X,2,"ACE Mitchell P&R",,1,13502,shp-92X-01,2,2
-382020,6,2,"Orinda BART  Via St Marys College",,0,2002,shp-6-51,2,2
-384020,91X,2,"Airport Plaza",,1,2302,shp-91X-01,2,2
-400070,321,1,"San Ramon",,0,6207,shp-321-51,2,2
-407020,20,2,"DVC",,0,202,shp-20-51,2,2
-448020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-463020,20,2,"DVC",,0,7802,shp-20-51,2,2
-1231020,9,2,"DVC/PH  BART",,1,6602,shp-9-01,2,2
-1236020,16,2,"Concord BART Via Downtown PH",,0,5602,shp-16-51,2,2
-1242070,314,1,"Concord BART",,1,13007,shp-314-01,2,2
-1243010,314,3,"Concord BART",,1,1301,shp-314-01,2,2
-1260010,314,3,"Concord BART",,1,9401,shp-314-01,2,2
-1262020,1,2,"Shadelands Via Walnut Creek BART",,1,5202,shp-1-01,2,2
-1272020,6,2,"Lafayette BART Via St Marys College",,1,9902,shp-6-01,2,2
-1274020,20,2,"DVC",,0,8002,shp-20-51,2,2
-1279020,11,2,"PH  BART",,0,302,shp-11-51,2,2
-1285010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-1291010,335,3,"To San Ramon Via Bollinger Canyon",,1,1601,shp-335-01,2,2
-1297020,6,2,"Lafayette BART Via St Marys College",,1,13302,shp-6-01,2,2
-1300020,7,2,"PH BART  Via Shadelands",,0,14702,shp-7-04,2,2
-130010,335,3,"To Dublin BART Via Bollinger Canyon",,0,7301,shp-335-51,2,2
-1303020,17,2,"Concord BART Via John Muir Concord",,0,702,shp-17-51,2,2
-1310020,92X,2,"ACE Train",,0,13502,shp-92X-52,2,2
-1313010,311,3,"WC  BART Via PH  BART",,0,9301,shp-311-51,2,2
-1328010,321,3,"WC  BART",,1,4501,shp-321-01,2,2
-1346010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-1354020,16,2,"AMTRAK Via Downtown PH",,1,10802,shp-16-01,2,2
-1357070,314,1,"Concord BART",,1,4207,shp-314-01,2,2
-1364020,20,2,"DVC",,0,16002,shp-20-51,2,2
-1371070,314,1,"Concord BART",,1,14407,shp-314-01,2,2
-1373020,20,2,"Concord BART",,1,8002,shp-20-01,2,2
-139020,15,2,"Concord BART",,1,502,shp-15-02,2,2
-1399020,10,2,"Washington Blvd /Kelrose Ct",,1,12402,shp-10-03,2,2
-14010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,1601,shp-301-02,2,2
-145020,20,2,"DVC",,0,11102,shp-20-51,2,2
-170070,310,1,"CLAYTON",,1,7207,shp-310-01,2,2
-175020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-177020,99X,2,"North Concord BART",,0,15002,shp-99X-51,2,2
-189070,321,1,"WC  BART",,1,4507,shp-321-01,2,2
-198020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-206020,98X,2,"WC  BART",,0,2802,shp-98X-51,2,2
-207010,316,3,"Downtown PH Via Martinez",,1,1501,shp-316-01,2,2
-213020,10,2,"Clayton",,1,12202,shp-10-01,2,2
-222020,10,2,"Washington Blvd /Kelrose Ct",,1,8002,shp-10-03,2,2
-223020,16,2,"AMTRAK Via Downtown PH",,1,3502,shp-16-01,2,2
-1003020,95X,2,"Walnut Creek BART Via San Ramon/Danville Park & Ride",,0,2602,shp-95X-02,2,2
-1038020,7,2,"PH BART  Via Shadelands",,0,13402,shp-7-04,2,2
-1046070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-1047010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-1060010,311,3,"WC  BART Via PH  BART",,0,1201,shp-311-51,2,2
-1079070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,4507,shp-301-02,2,2
-1085070,335,1,"To Dublin BART Via Bollinger Canyon",,0,4507,shp-335-51,2,2
-1113020,10,2,"Clayton",,1,202,shp-10-01,2,2
-1123010,310,3,"CLAYTON",,1,5901,shp-310-01,2,2
-1126070,310,1,"Concord BART",,0,4107,shp-310-51,2,2
-1135020,1,2,"Shadelands Via Walnut Creek BART",,1,8402,shp-1-01,2,2
-1155010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-1156020,10,2,"Concord BART",,0,12202,shp-10-51,2,2
-1164020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-1165010,314,3,"Concord BART",,1,1301,shp-314-01,2,2
-1167020,99X,2,"North Concord BART",,0,15002,shp-99X-51,2,2
-1168020,19,2,"Martinez AMTRAK",,1,11002,shp-19-01,2,2
-1180020,18,2,"AMTRAK/Martinez",,1,802,shp-18-01,2,2
-120020,6,2,"Orinda BART Via Orinda Village",,0,7402,shp-6-02,2,2
-1210010,310,3,"Concord BART",,0,5901,shp-310-51,2,2
-122070,314,1,"DVC Via Monument",,0,9407,shp-314-52,2,2
-1222020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-1229020,21,2,"Walnut Creek BART",,1,15202,shp-21-01,2,2
-1245020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,16302,shp-96X-05,2,2
-1255020,18,2,"AMTRAK/Martinez",,1,3702,shp-18-01,2,2
-1268020,93X,2,"WC  BART",,0,13702,shp-93X-51,2,2
-1271020,1,2,"Rossmoor Via Walnut Creek BART",,0,8402,shp-1-52,2,2
-1281020,15,2,"Concord BART",,1,11202,shp-15-02,2,2
-1290070,310,1,"CLAYTON",,1,7207,shp-310-01,2,2
-1306020,95X,2,"Walnut Creek BART Via San Ramon/Danville Park & Ride",,0,2602,shp-95X-02,2,2
-1316010,320,3,"Concord BART Via Diamond Blvd",,1,1301,shp-320-01,2,2
-1317020,20,2,"Concord BART",,1,8502,shp-20-01,2,2
-1322010,320,3,"DVC Via Diamond",,0,13001,shp-320-51,2,2
-1331070,320,1,"DVC Via Diamond",,0,4207,shp-320-51,2,2
-1344070,320,1,"DVC Via Diamond",,0,13007,shp-320-51,2,2
-1348020,15,2,"Concord BART",,1,8802,shp-15-02,2,2
-1352020,21,2,"San Ramon TC",,0,1002,shp-21-51,2,2
-1002010,310,3,"Concord BART",,0,9301,shp-310-51,2,2
-1010020,35,2,"San Ramon  Via Bollinger Canyon",,1,1702,shp-35-02,2,2
-1013020,97X,2,"Dublin BART Via Bishop Ranch",,0,2702,shp-97X-05,2,2
-1016020,91X,2,"Airport Plaza",,1,10202,shp-91X-01,2,2
-1021010,316,3,"Downtown PH Via Martinez",,1,4401,shp-316-01,2,2
-1032010,320,3,"Concord BART Via Diamond Blvd",,1,13001,shp-320-01,2,2
-1035020,93X,2,"Antioch BART",,1,16102,shp-93X-01,2,2
-1049020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-1053020,28,2,"Martinez AMTRAK Via VA Clinic",,1,4002,shp-28-51,2,2
-1066020,14,2,"Walnut Creek BART Via PH  BART",,0,3302,shp-14-51,2,2
-1077020,15,2,"PH  BART",,0,502,shp-15-51,2,2
-1078020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-1086010,310,3,"Concord BART",,0,1201,shp-310-51,2,2
-1088020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-1091020,10,2,"Concord BART",,0,8502,shp-10-53,2,2
-1097070,314,1,"DVC Via Monument",,0,1307,shp-314-52,2,2
-1103020,6,2,"Lafayette BART Via St Marys College",,1,2002,shp-6-01,2,2
-111070,314,1,"DVC Via Monument",,0,13007,shp-314-52,2,2
-1116020,14,2,"Concord BART Via PH  BART",,1,8702,shp-14-01,2,2
-1128020,14,2,"Walnut Creek BART Via PH  BART",,0,402,shp-14-51,2,2
-114010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,9801,shp-4-04,2,2
-1147070,335,1,"To San Ramon Via Bollinger Canyon",,1,13107,shp-335-01,2,2
-1177020,14,2,"Walnut Creek BART Via PH  BART",,0,6902,shp-14-51,2,2
-1178020,10,2,"Washington Blvd /Kelrose Ct",,1,11102,shp-10-03,2,2
-1209020,10,2,"Washington Blvd /Kelrose Ct",,1,16202,shp-10-03,2,2
-1213020,10,2,"Concord BART",,0,6802,shp-10-51,2,2
-1219020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-1223020,98X,2,"WC  BART",,0,6702,shp-98X-51,2,2
-1225070,335,1,"To Dublin BART Via Bollinger Canyon",,0,11507,shp-335-51,2,2
-1239070,311,1,"Concord BART Via PH  BART",,1,5907,shp-311-01,2,2
-1244020,21,2,"Walnut Creek BART",,1,12002,shp-21-01,2,2
-1257020,6,2,"Lafayette BART Via St Marys College",,1,12102,shp-6-01,2,2
-1275020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-1278020,6,2,"Orinda BART  Via St Marys College",,0,7402,shp-6-51,2,2
-1288020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,10402,shp-96X-05,2,2
-1294020,98X,2,"Martinez AMTRAK",,1,5102,shp-98X-01,2,2
-336020,20,2,"DVC",,0,12402,shp-20-51,2,2
-342020,98X,2,"WC  BART",,0,2802,shp-98X-51,2,2
-350020,20,2,"Concord BART",,1,15602,shp-20-01,2,2
-351070,311,1,"Concord BART Via PH  BART",,1,7207,shp-311-01,2,2
-360020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,16302,shp-96X-05,2,2
-361020,14,2,"Walnut Creek BART Via PH  BART",,0,11902,shp-14-51,2,2
-362020,35,2,"Dublin BART Via Windemere Pkwy",,0,6302,shp-35-51,2,2
-379020,95X,2,"Walnut Creek BART Via  Danville Park & Ride/ San Ramon",,0,16102,shp-95X-03,2,2
-389020,11,2,"Concord BART",,1,3202,shp-11-01,2,2
-393010,311,3,"Concord BART Via PH  BART",,1,5901,shp-311-01,2,2
-401020,21,2,"Walnut Creek BART",,1,7102,shp-21-01,2,2
-402070,335,1,"To Dublin BART Via Bollinger Canyon",,0,1607,shp-335-51,2,2
-405010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,7301,shp-301-02,2,2
-415020,19,2,"Martinez AMTRAK",,1,11002,shp-19-01,2,2
-419070,311,1,"Concord BART Via PH  BART",,1,12907,shp-311-01,2,2
-42020,20,2,"DVC",,0,11102,shp-20-51,2,2
-425020,14,2,"Concord BART Via PH  BART",,1,402,shp-14-01,2,2
-426010,335,3,"To San Ramon Via Bollinger Canyon",,1,4501,shp-335-01,2,2
-430070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-43020,35,2,"San Ramon  Via Bollinger Canyon",,1,9702,shp-35-02,2,2
-438020,93X,2,"Antioch BART",,1,15902,shp-93X-01,2,2
-446020,98X,2,"Martinez AMTRAK",,1,11802,shp-98X-01,2,2
-456010,316,3,"Downtown PH Via Martinez",,1,9501,shp-316-01,2,2
-461020,98X,2,"WC  BART",,0,10602,shp-98X-51,2,2
-47070,315,1,"Concord BART Via Clayton/Treat",,0,4307,shp-315-01,2,2
-49070,310,1,"Concord BART",,0,7207,shp-310-51,2,2
-491020,19,2,"Concord BART",,0,3802,shp-19-51,2,2
-515020,10,2,"Concord BART",,0,5302,shp-10-51,2,2
-523070,321,1,"San Ramon",,0,7307,shp-321-51,2,2
-527070,321,1,"WC  BART",,1,7307,shp-321-01,2,2
-532010,316,3,"Downtown PH Via Martinez",,1,1501,shp-316-01,2,2
-544070,310,1,"CLAYTON",,1,7207,shp-310-01,2,2
-56010,314,3,"Concord BART",,1,13001,shp-314-01,2,2
-565020,35,2,"San Ramon  Via Bollinger Canyon",,1,4602,shp-35-02,2,2
-573070,320,1,"Concord BART Via Diamond Blvd",,1,1307,shp-320-01,2,2
-579020,20,2,"DVC",,0,6802,shp-20-51,2,2
-580020,35,2,"San Ramon  TC Via Crow Canyon",,0,1702,shp-35-03,2,2
-596020,14,2,"Walnut Creek BART Via PH  BART",,0,6902,shp-14-51,2,2
-604070,6,1,"Lafayette BART Via St Marys College",,1,2007,shp-6-01,2,2
-606020,21,2,"Walnut Creek BART",,1,14302,shp-21-01,2,2
-617020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-627020,21,2,"Walnut Creek BART",,1,15202,shp-21-01,2,2
-628020,91X,2,"Airport Plaza",,1,2302,shp-91X-01,2,2
-633020,19,2,"Concord BART",,0,11002,shp-19-51,2,2
-645020,17,2,"N Concord BART Via John Muir Concord",,1,10902,shp-17-01,2,2
-651070,320,1,"Concord BART Via Diamond Blvd",,1,14407,shp-320-01,2,2
-673020,98X,2,"Martinez AMTRAK",,1,2802,shp-98X-01,2,2
-688020,91X,2,"Airport Plaza",,1,10202,shp-91X-01,2,2
-692020,20,2,"DVC",,0,8502,shp-20-51,2,2
-704020,19,2,"Concord BART",,0,902,shp-19-51,2,2
-715070,314,1,"DVC Via Monument",,0,14407,shp-314-52,2,2
-723020,14,2,"Concord BART Via PH  BART",,1,8702,shp-14-01,2,2
-73070,320,1,"DVC Via Diamond",,0,14407,shp-320-51,2,2
-737020,98X,2,"Martinez AMTRAK",,1,2802,shp-98X-01,2,2
-744020,21,2,"Walnut Creek BART",,1,12002,shp-21-01,2,2
-754020,6,2,"Lafayette BART Via St Marys College",,1,2002,shp-6-01,2,2
-756020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,4002,shp-28-01,2,2
-764020,27,2,"N Concord BART Via Mason Circle",,1,10302,shp-27-01,2,2
-766020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-767020,20,2,"DVC",,0,8002,shp-20-51,2,2
-773010,314,3,"DVC Via Monument",,0,9401,shp-314-52,2,2
-815020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-827010,311,3,"WC  BART Via PH  BART",,0,12901,shp-311-51,2,2
-836070,316,1,"PH  BART Via Martinez AMTRAK",,0,9507,shp-316-51,2,2
-846010,316,3,"Downtown PH Via Martinez",,1,6101,shp-316-01,2,2
-86020,14,2,"Concord BART Via PH  BART",,1,402,shp-14-01,2,2
-901020,15,2,"Concord BART Via John Muir Concord",,1,5502,shp-15-04,2,2
-907070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-912070,316,1,"PH  BART Via Martinez AMTRAK",,0,1507,shp-316-51,2,2
-913020,11,2,"Concord BART",,1,3202,shp-11-01,2,2
-916070,6,1,"Orinda BART  Via St Marys College",,0,2007,shp-6-51,2,2
-930020,20,2,"DVC",,0,14102,shp-20-51,2,2
-936020,11,2,"Concord BART",,1,302,shp-11-01,2,2
-95020,20,2,"Concord BART",,1,16202,shp-20-01,2,2
-959020,17,2,"N Concord BART Via John Muir Concord",,1,10902,shp-17-01,2,2
-963010,321,3,"San Ramon",,0,4501,shp-321-51,2,2
-464010,320,3,"DVC Via Diamond",,0,14401,shp-320-51,2,2
-468020,1,2,"Shadelands Via Walnut Creek BART",,1,3102,shp-1-01,2,2
-473010,320,3,"DVC Via Diamond",,0,9401,shp-320-51,2,2
-496070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-498010,310,3,"Concord BART",,0,7201,shp-310-51,2,2
-500020,6,2,"Lafayette BART Via St Marys College",,1,13302,shp-6-01,2,2
-510020,17,2,"N Concord BART Via John Muir Concord",,1,3602,shp-17-01,2,2
-516020,28,2,"Martinez AMTRAK Via VA Clinic",,1,9202,shp-28-51,2,2
-517020,92X,2,"ACE Train",,0,15402,shp-92X-52,2,2
-518010,321,3,"San Ramon",,0,6201,shp-321-51,2,2
-556020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,15902,shp-96X-05,2,2
-583020,20,2,"DVC",,0,6802,shp-20-51,2,2
-605020,14,2,"Concord BART Via PH  BART",,1,14002,shp-14-01,2,2
-616020,93X,2,"Antioch BART",,1,3002,shp-93X-01,2,2
-618020,9,2,"WC  BART Via PH  BART",,0,11702,shp-9-51,2,2
-624020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-626010,320,3,"Concord BART Via Diamond Blvd",,1,6001,shp-320-01,2,2
-634010,321,3,"WC  BART",,1,11501,shp-321-01,2,2
-655020,1,2,"Shadelands Via Walnut Creek BART",,1,3102,shp-1-01,2,2
-656020,20,2,"DVC",,0,15602,shp-20-51,2,2
-657010,320,3,"Concord BART Via Diamond Blvd",,1,14401,shp-320-01,2,2
-668020,19,2,"Martinez AMTRAK",,1,902,shp-19-01,2,2
-671020,35,2,"San Ramon  Via Bollinger Canyon",,1,13202,shp-35-02,2,2
-702020,97X,2,"Dublin BART Via Bishop Ranch",,0,10502,shp-97X-05,2,2
-705010,311,3,"Concord BART Via PH  BART",,1,12901,shp-311-01,2,2
-713020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-738070,321,1,"San Ramon",,0,1607,shp-321-51,2,2
-739070,321,1,"WC  BART",,1,11507,shp-321-01,2,2
-745070,311,1,"Concord BART Via PH  BART",,1,4107,shp-311-01,2,2
-747020,98X,2,"Martinez AMTRAK",,1,2802,shp-98X-01,2,2
-762020,35,2,"Dublin BART Via Bollinger Canyon",,0,4602,shp-35-52,2,2
-765010,310,3,"Concord BART",,0,7201,shp-310-51,2,2
-768010,335,3,"To Dublin BART Via Bollinger Canyon",,0,6201,shp-335-51,2,2
-771020,20,2,"DVC",,0,7802,shp-20-51,2,2
-777020,15,2,"PH  BART",,0,11202,shp-15-51,2,2
-781020,7,2,"PH BART  Via Shadelands",,0,10002,shp-7-04,2,2
-783020,10,2,"Concord BART",,0,16002,shp-10-53,2,2
-784010,320,3,"Concord BART Via Diamond Blvd",,1,14401,shp-320-01,2,2
-225070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,11507,shp-301-02,2,2
-238010,320,3,"Concord BART Via Diamond Blvd",,1,13001,shp-320-01,2,2
-239070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-247020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-25020,10,2,"Washington Blvd /Kelrose Ct",,1,8002,shp-10-03,2,2
-251010,321,3,"WC  BART",,1,9601,shp-321-01,2,2
-253070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-283020,14,2,"Concord BART Via PH  BART",,1,5402,shp-14-01,2,2
-303020,18,2,"PH  BART",,0,3702,shp-18-51,2,2
-311020,20,2,"DVC",,0,202,shp-20-51,2,2
-321020,16,2,"Concord BART Via Downtown PH",,0,602,shp-16-51,2,2
-331010,320,3,"Concord BART Via Diamond Blvd",,1,9401,shp-320-01,2,2
-332010,320,3,"DVC Via Diamond",,0,13001,shp-320-51,2,2
-338070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-356020,16,2,"AMTRAK Via Downtown PH",,1,8902,shp-16-01,2,2
-367010,310,3,"Concord BART",,0,5901,shp-310-51,2,2
-40020,18,2,"PH  BART",,0,5702,shp-18-51,2,2
-403020,16,2,"Concord BART Via Downtown PH",,0,602,shp-16-51,2,2
-406020,98X,2,"Martinez AMTRAK",,1,5102,shp-98X-01,2,2
-409020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-411020,9,2,"DVC/PH  BART",,1,5002,shp-9-01,2,2
-422070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-429070,335,1,"To San Ramon Via Bollinger Canyon",,1,1607,shp-335-01,2,2
-441010,314,3,"DVC Via Monument",,0,1301,shp-314-52,2,2
-442010,311,3,"WC  BART Via PH  BART",,0,1201,shp-311-51,2,2
-443020,35,2,"Dublin BART Via Bollinger Canyon",,0,7902,shp-35-52,2,2
-447020,18,2,"PH  BART",,0,3702,shp-18-51,2,2
-45020,10,2,"Washington Blvd /Kelrose Ct",,1,7802,shp-10-03,2,2
-454070,335,1,"To San Ramon Via Bollinger Canyon",,1,6207,shp-335-01,2,2
-455010,335,3,"To San Ramon Via Bollinger Canyon",,1,11501,shp-335-01,2,2
-470020,11,2,"PH  BART",,0,8602,shp-11-51,2,2
-471020,16,2,"AMTRAK Via Downtown PH",,1,5602,shp-16-01,2,2
-472010,321,3,"San Ramon",,0,13101,shp-321-51,2,2
-476020,15,2,"PH  BART",,0,3402,shp-15-51,2,2
-479070,310,1,"Concord BART",,0,9307,shp-310-51,2,2
-480020,6,2,"Orinda BART  Via St Marys College",,0,14602,shp-6-51,2,2
-484020,98X,2,"WC  BART",,0,5102,shp-98X-51,2,2
-487020,20,2,"DVC",,0,11102,shp-20-51,2,2
-6010,335,3,"To San Ramon Via Bollinger Canyon",,1,7301,shp-335-01,2,2
-609020,6,2,"Orinda BART  Via St Marys College",,0,11602,shp-6-51,2,2
-631020,15,2,"Concord BART",,1,11202,shp-15-02,2,2
-632020,35,2,"Dublin BART Via Windemere Pkwy",,0,1702,shp-35-51,2,2
-635020,28,2,"Martinez AMTRAK Via VA Clinic",,1,4002,shp-28-51,2,2
-637010,321,3,"WC  BART",,1,13101,shp-321-01,2,2
-641020,20,2,"Concord BART",,1,16202,shp-20-01,2,2
-643020,98X,2,"WC  BART",,0,11802,shp-98X-51,2,2
-648020,14,2,"Walnut Creek BART Via PH  BART",,0,5402,shp-14-51,2,2
-652020,6,2,"Orinda BART Via Orinda Village",,0,12102,shp-6-02,2,2
-659010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-662020,6,2,"Orinda BART  Via St Marys College",,0,12102,shp-6-51,2,2
-664070,314,1,"Concord BART",,1,1307,shp-314-01,2,2
-665070,316,1,"PH  BART Via Martinez AMTRAK",,0,6107,shp-316-51,2,2
-666020,17,2,"Concord BART Via John Muir Concord",,0,10902,shp-17-51,2,2
-68020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-685020,97X,2,"Dublin BART Via Bishop Ranch",,0,10502,shp-97X-05,2,2
-689020,9,2,"DVC/PH  BART",,1,11702,shp-9-01,2,2
-69020,99X,2,"North Concord BART",,0,2902,shp-99X-51,2,2
-694070,320,1,"DVC Via Diamond",,0,9407,shp-320-51,2,2
-697010,335,3,"To Dublin BART Via Bollinger Canyon",,0,7301,shp-335-51,2,2
-698020,14,2,"Walnut Creek BART Via PH  BART",,0,3302,shp-14-51,2,2
-70020,35,2,"Dublin BART Via Bollinger Canyon",,0,15302,shp-35-52,2,2
-707020,10,2,"Concord BART",,0,7802,shp-10-53,2,2
-719010,321,3,"WC  BART",,1,13101,shp-321-01,2,2
-722020,16,2,"Concord BART Via Downtown PH",,0,8902,shp-16-51,2,2
-729020,14,2,"Concord BART Via PH  BART",,1,14202,shp-14-01,2,2
-733010,6,3,"Orinda BART  Via St Marys College",,0,4901,shp-6-51,2,2
-742070,321,1,"WC  BART",,1,11507,shp-321-01,2,2
-759010,316,3,"Downtown PH Via Martinez",,1,4401,shp-316-01,2,2
-761020,6,2,"Lafayette BART Via St Marys College",,1,7702,shp-6-01,2,2
-775070,314,1,"Concord BART",,1,6007,shp-314-01,2,2
-779020,35,2,"San Ramon  Via Bollinger Canyon",,1,1702,shp-35-02,2,2
-789020,20,2,"DVC",,0,8502,shp-20-51,2,2
-797020,20,2,"DVC",,0,8502,shp-20-51,2,2
-799010,321,3,"WC  BART",,1,7301,shp-321-01,2,2
-800020,16,2,"AMTRAK Via Downtown PH",,1,5602,shp-16-01,2,2
-1298070,320,1,"DVC Via Diamond",,0,9407,shp-320-51,2,2
-1307020,1,2,"Rossmoor Via Walnut Creek BART",,0,5202,shp-1-52,2,2
-1329020,99X,2,"North Concord BART",,0,10702,shp-99X-51,2,2
-1330020,35,2,"Dublin BART Via Bollinger Canyon",,0,13202,shp-35-52,2,2
-1343020,16,2,"AMTRAK Via Downtown PH",,1,10802,shp-16-01,2,2
-1347020,98X,2,"Martinez AMTRAK",,1,2802,shp-98X-01,2,2
-1350070,335,1,"To San Ramon Via Bollinger Canyon",,1,11507,shp-335-01,2,2
-1351020,18,2,"PH  BART",,0,802,shp-18-51,2,2
-1365020,6,2,"Lafayette BART Via St Marys College",,1,14602,shp-6-01,2,2
-1367010,314,3,"Concord BART",,1,13001,shp-314-01,2,2
-1376010,314,3,"DVC Via Monument",,0,13001,shp-314-52,2,2
-1378010,314,3,"Concord BART",,1,13001,shp-314-01,2,2
-1383070,314,1,"DVC Via Monument",,0,9407,shp-314-52,2,2
-1387020,14,2,"Walnut Creek BART Via PH  BART",,0,12602,shp-14-51,2,2
-1395020,93X,2,"WC  BART",,0,13602,shp-93X-51,2,2
-1403020,20,2,"Concord BART",,1,12402,shp-20-01,2,2
-1406020,21,2,"San Ramon TC",,0,1002,shp-21-51,2,2
-142020,1,2,"Shadelands Via Walnut Creek BART",,1,102,shp-1-01,2,2
-148020,16,2,"Concord BART Via Downtown PH",,0,12702,shp-16-51,2,2
-155070,6,1,"Orinda BART  Via St Marys College",,0,4907,shp-6-51,2,2
-160020,14,2,"Walnut Creek BART Via PH  BART",,0,7602,shp-14-51,2,2
-161070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-173020,35,2,"San Ramon  TC Via Crow Canyon",,0,7902,shp-35-03,2,2
-179020,99X,2,"Martinez AMTRAK",,1,2902,shp-99X-01,2,2
-182020,20,2,"Concord BART",,1,15602,shp-20-01,2,2
-19070,311,1,"WC  BART Via PH  BART",,0,5907,shp-311-51,2,2
-194020,20,2,"DVC",,0,16202,shp-20-51,2,2
-195010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-196020,35,2,"Dublin BART Via Bollinger Canyon",,0,4602,shp-35-52,2,2
-197020,14,2,"Walnut Creek BART Via PH  BART",,0,14202,shp-14-51,2,2
-204020,14,2,"Walnut Creek BART Via PH  BART",,0,402,shp-14-51,2,2
-208020,35,2,"Dublin BART Via Windemere Pkwy",,0,4602,shp-35-51,2,2
-209020,6,2,"Lafayette BART Via St Marys College",,1,9902,shp-6-01,2,2
-211020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-212020,10,2,"Concord BART",,0,7802,shp-10-53,2,2
-215070,6,1,"Lafayette BART Via St Marys College",,1,4907,shp-6-01,2,2
-216010,310,3,"CLAYTON",,1,12901,shp-310-01,2,2
-410010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-416010,335,3,"To Dublin BART Via Bollinger Canyon",,0,13101,shp-335-51,2,2
-435020,20,2,"Concord BART",,1,12202,shp-20-01,2,2
-437020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-445070,321,1,"WC  BART",,1,7307,shp-321-01,2,2
-452020,14,2,"Concord BART Via PH  BART",,1,402,shp-14-01,2,2
-460020,97X,2,"Dublin BART Via Bishop Ranch",,0,2702,shp-97X-05,2,2
-474020,35,2,"San Ramon  TC Via Crow Canyon",,0,15802,shp-35-03,2,2
-477070,320,1,"Concord BART Via Diamond Blvd",,1,13007,shp-320-01,2,2
-482010,314,3,"Concord BART",,1,6001,shp-314-01,2,2
-494020,20,2,"DVC",,0,12402,shp-20-51,2,2
-504010,311,3,"Concord BART Via PH  BART",,1,7201,shp-311-01,2,2
-522010,311,3,"Concord BART Via PH  BART",,1,12901,shp-311-01,2,2
-524010,316,3,"Downtown PH Via Martinez",,1,1501,shp-316-01,2,2
-526020,20,2,"DVC",,0,12202,shp-20-51,2,2
-540070,321,1,"San Ramon",,0,9607,shp-321-51,2,2
-542020,18,2,"PH  BART",,0,9002,shp-18-51,2,2
-55020,16,2,"Concord BART Via Downtown PH",,0,5602,shp-16-51,2,2
-553010,316,3,"PH  BART Via Martinez AMTRAK",,0,1501,shp-316-51,2,2
-557020,21,2,"San Ramon TC",,0,9102,shp-21-51,2,2
-561020,10,2,"Washington Blvd /Kelrose Ct",,1,7802,shp-10-03,2,2
-563020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-567020,91X,2,"Airport Plaza",,1,2302,shp-91X-01,2,2
-571070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-572010,310,3,"CLAYTON",,1,5901,shp-310-01,2,2
-575020,16,2,"AMTRAK Via Downtown PH",,1,5602,shp-16-01,2,2
-58020,35,2,"Dublin BART Via Bollinger Canyon",,0,1702,shp-35-52,2,2
-585020,20,2,"DVC",,0,8502,shp-20-51,2,2
-59020,11,2,"PH  BART",,0,302,shp-11-51,2,2
-593010,321,3,"San Ramon",,0,13101,shp-321-51,2,2
-594020,15,2,"PH  BART",,0,8802,shp-15-51,2,2
-608010,320,3,"DVC Via Diamond",,0,14401,shp-320-51,2,2
-615010,320,3,"Concord BART Via Diamond Blvd",,1,1301,shp-320-01,2,2
-625070,320,1,"DVC Via Diamond",,0,13007,shp-320-51,2,2
-63020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-636020,28,2,"Martinez AMTRAK Via VA Clinic",,1,1102,shp-28-51,2,2
-640020,93X,2,"WC  BART",,0,10402,shp-93X-51,2,2
-649010,316,3,"PH  BART Via Martinez AMTRAK",,0,1501,shp-316-51,2,2
-495070,320,1,"Concord BART Via Diamond Blvd",,1,14407,shp-320-01,2,2
-5010,320,3,"Concord BART Via Diamond Blvd",,1,4201,shp-320-01,2,2
-503020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,5802,shp-28-01,2,2
-506020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,16302,shp-96X-05,2,2
-512010,314,3,"Concord BART",,1,9401,shp-314-01,2,2
-529020,9,2,"DVC/PH  BART",,1,13902,shp-9-01,2,2
-539020,28,2,"Martinez AMTRAK Via VA Clinic",,1,1102,shp-28-51,2,2
-545010,311,3,"WC  BART Via PH  BART",,0,7201,shp-311-51,2,2
-550070,316,1,"PH  BART Via Martinez AMTRAK",,0,1507,shp-316-51,2,2
-552070,320,1,"DVC Via Diamond",,0,9407,shp-320-51,2,2
-574020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-576020,10,2,"Concord BART",,0,11102,shp-10-53,2,2
-578020,95X,2,"Walnut Creek BART Via  Danville Park & Ride/ San Ramon",,0,8202,shp-95X-03,2,2
-582070,314,1,"DVC Via Monument",,0,1307,shp-314-52,2,2
-584020,21,2,"Walnut Creek BART",,1,1002,shp-21-01,2,2
-595020,20,2,"Concord BART",,1,16202,shp-20-01,2,2
-607070,321,1,"San Ramon",,0,11507,shp-321-51,2,2
-612020,14,2,"Walnut Creek BART Via PH  BART",,0,11902,shp-14-51,2,2
-613020,11,2,"PH  BART",,0,302,shp-11-51,2,2
-650020,20,2,"DVC",,0,16202,shp-20-51,2,2
-653010,320,3,"DVC Via Diamond",,0,13001,shp-320-51,2,2
-658020,98X,2,"WC  BART",,0,2802,shp-98X-51,2,2
-663010,335,3,"To San Ramon Via Bollinger Canyon",,1,11501,shp-335-01,2,2
-675020,20,2,"DVC",,0,6802,shp-20-51,2,2
-676020,20,2,"DVC",,0,14102,shp-20-51,2,2
-686020,15,2,"Concord BART Via John Muir Concord",,1,502,shp-15-04,2,2
-687070,320,1,"Concord BART Via Diamond Blvd",,1,4207,shp-320-01,2,2
-696070,311,1,"Concord BART Via PH  BART",,1,12907,shp-311-01,2,2
-700020,10,2,"Concord BART",,0,8502,shp-10-51,2,2
-7020,10,2,"Concord BART",,0,8002,shp-10-53,2,2
-703020,21,2,"San Ramon TC",,0,12002,shp-21-51,2,2
-706070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-71010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,4701,shp-4-04,2,2
-720070,314,1,"DVC Via Monument",,0,6007,shp-314-52,2,2
-724010,335,3,"To San Ramon Via Bollinger Canyon",,1,13101,shp-335-01,2,2
-725020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,1702,shp-35-01,2,2
-734020,10,2,"Concord BART",,0,8002,shp-10-53,2,2
-743020,11,2,"Concord BART",,1,12502,shp-11-01,2,2
-226010,314,3,"DVC Via Monument",,0,14401,shp-314-52,2,2
-232070,314,1,"DVC Via Monument",,0,1307,shp-314-52,2,2
-235020,21,2,"San Ramon TC",,0,1002,shp-21-51,2,2
-24020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-254020,10,2,"Clayton",,1,6802,shp-10-01,2,2
-26070,321,1,"WC  BART",,1,7307,shp-321-01,2,2
-261010,6,3,"Orinda BART  Via St Marys College",,0,2001,shp-6-51,2,2
-269070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-278020,17,2,"Concord BART Via John Muir Concord",,0,3602,shp-17-51,2,2
-285070,314,1,"DVC Via Monument",,0,14407,shp-314-52,2,2
-289070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,9807,shp-4-04,2,2
-292020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-296020,16,2,"AMTRAK Via Downtown PH",,1,12702,shp-16-01,2,2
-299020,99X,2,"North Concord BART",,0,13802,shp-99X-51,2,2
-30020,15,2,"Concord BART",,1,502,shp-15-02,2,2
-313010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-329020,1,2,"Rossmoor Via Walnut Creek BART",,0,102,shp-1-52,2,2
-333020,9,2,"WC  BART Via PH  BART",,0,2202,shp-9-51,2,2
-337020,21,2,"San Ramon TC",,0,14302,shp-21-51,2,2
-343010,310,3,"CLAYTON",,1,1201,shp-310-01,2,2
-349020,6,2,"Orinda BART Via Orinda Village",,0,13302,shp-6-02,2,2
-35070,321,1,"San Ramon",,0,7307,shp-321-51,2,2
-365020,16,2,"Concord BART Via Downtown PH",,0,3502,shp-16-51,2,2
-370020,10,2,"Washington Blvd /Kelrose Ct",,1,11102,shp-10-03,2,2
-385020,11,2,"Concord BART",,1,302,shp-11-01,2,2
-397020,10,2,"Concord BART",,0,16202,shp-10-51,2,2
-4010,321,3,"San Ramon",,0,7301,shp-321-51,2,2
-421020,21,2,"Walnut Creek BART",,1,3902,shp-21-01,2,2
-423020,1,2,"Rossmoor Via Walnut Creek BART",,0,8402,shp-1-52,2,2
-428010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,4701,shp-4-04,2,2
-434020,95X,2,"Walnut Creek BART Via San Ramon/Danville Park & Ride",,0,13702,shp-95X-02,2,2
-436010,311,3,"Concord BART Via PH  BART",,1,1201,shp-311-01,2,2
-449070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-451020,14,2,"Concord BART Via PH  BART",,1,11902,shp-14-01,2,2
-46070,310,1,"Concord BART",,0,5907,shp-310-51,2,2
-466020,10,2,"Washington Blvd /Kelrose Ct",,1,15102,shp-10-03,2,2
-469020,15,2,"Concord BART Via John Muir Concord",,1,5502,shp-15-04,2,2
-985020,10,2,"Washington Blvd /Kelrose Ct",,1,15602,shp-10-03,2,2
-994070,320,1,"Concord BART Via Diamond Blvd",,1,14407,shp-320-01,2,2
-654020,14,2,"Concord BART Via PH  BART",,1,11902,shp-14-01,2,2
-667020,15,2,"Concord BART",,1,502,shp-15-02,2,2
-669020,93X,2,"WC  BART",,0,2602,shp-93X-51,2,2
-683070,320,1,"Concord BART Via Diamond Blvd",,1,9407,shp-320-01,2,2
-708020,20,2,"Concord BART",,1,202,shp-20-01,2,2
-726070,314,1,"Concord BART",,1,14407,shp-314-01,2,2
-731020,11,2,"PH  BART",,0,12502,shp-11-51,2,2
-750070,335,1,"To Dublin BART Via Bollinger Canyon",,0,9607,shp-335-51,2,2
-757020,98X,2,"WC  BART",,0,2802,shp-98X-51,2,2
-763020,20,2,"Concord BART",,1,12202,shp-20-01,2,2
-774020,14,2,"Concord BART Via PH  BART",,1,11902,shp-14-01,2,2
-806020,10,2,"Concord BART",,0,7502,shp-10-53,2,2
-808020,9,2,"DVC/PH  BART",,1,2202,shp-9-01,2,2
-810020,11,2,"Concord BART",,1,302,shp-11-01,2,2
-811020,98X,2,"WC  BART",,0,2802,shp-98X-51,2,2
-812020,28,2,"Martinez AMTRAK Via VA Clinic",,1,5802,shp-28-51,2,2
-821020,17,2,"N Concord BART Via John Muir Concord",,1,702,shp-17-01,2,2
-823020,98X,2,"Martinez AMTRAK",,1,11802,shp-98X-01,2,2
-832010,321,3,"San Ramon",,0,11501,shp-321-51,2,2
-834010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,11501,shp-301-02,2,2
-84070,321,1,"WC  BART",,1,11507,shp-321-01,2,2
-865020,7,2,"PH BART  Via Shadelands",,0,13402,shp-7-04,2,2
-870020,28,2,"Martinez AMTRAK Via VA Clinic",,1,5802,shp-28-51,2,2
-871020,95X,2,"Walnut Creek BART Via  Danville Park & Ride/ San Ramon",,0,16402,shp-95X-03,2,2
-873070,314,1,"Concord BART",,1,13007,shp-314-01,2,2
-886010,314,3,"DVC Via Monument",,0,14401,shp-314-52,2,2
-887010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-888010,310,3,"Concord BART",,0,12901,shp-310-51,2,2
-915020,16,2,"AMTRAK Via Downtown PH",,1,602,shp-16-01,2,2
-918020,14,2,"Concord BART Via PH  BART",,1,5402,shp-14-01,2,2
-919020,20,2,"Concord BART",,1,15602,shp-20-01,2,2
-927010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,4501,shp-301-02,2,2
-931020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,7902,shp-35-01,2,2
-933020,14,2,"Concord BART Via PH  BART",,1,12302,shp-14-01,2,2
-939020,16,2,"Concord BART Via Downtown PH",,0,8902,shp-16-51,2,2
-945070,310,1,"CLAYTON",,1,1207,shp-310-01,2,2
-949020,20,2,"DVC",,0,14102,shp-20-51,2,2
-951020,99X,2,"Martinez AMTRAK",,1,15002,shp-99X-01,2,2
-786020,20,2,"Concord BART",,1,12402,shp-20-01,2,2
-788020,17,2,"Concord BART Via John Muir Concord",,0,3602,shp-17-51,2,2
-792070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-793010,316,3,"PH  BART Via Martinez AMTRAK",,0,4401,shp-316-51,2,2
-803020,21,2,"Walnut Creek BART",,1,3902,shp-21-01,2,2
-807070,335,1,"To San Ramon Via Bollinger Canyon",,1,4507,shp-335-01,2,2
-814020,16,2,"AMTRAK Via Downtown PH",,1,602,shp-16-01,2,2
-818020,9,2,"DVC/PH  BART",,1,10102,shp-9-01,2,2
-822020,20,2,"Concord BART",,1,12402,shp-20-01,2,2
-837020,9,2,"WC  BART Via PH  BART",,0,5002,shp-9-51,2,2
-843020,35,2,"Dublin BART Via Bollinger Canyon",,0,1702,shp-35-52,2,2
-850020,10,2,"Clayton",,1,11102,shp-10-01,2,2
-857020,20,2,"DVC",,0,8502,shp-20-51,2,2
-875020,16,2,"Concord BART Via Downtown PH",,0,8902,shp-16-51,2,2
-889020,7,2,"PH BART  Via Shadelands",,0,2102,shp-7-04,2,2
-894020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,4002,shp-28-01,2,2
-910020,16,2,"Concord BART Via Downtown PH",,0,7002,shp-16-51,2,2
-92020,20,2,"DVC",,0,7802,shp-20-51,2,2
-923020,99X,2,"Martinez AMTRAK",,1,13802,shp-99X-01,2,2
-932020,11,2,"PH  BART",,0,3202,shp-11-51,2,2
-953010,335,3,"To Dublin BART Via Bollinger Canyon",,0,13101,shp-335-51,2,2
-955010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-956020,95X,2,"Walnut Creek BART Via San Ramon/Danville Park & Ride",,0,2602,shp-95X-02,2,2
-958010,321,3,"San Ramon",,0,4501,shp-321-51,2,2
-962020,21,2,"San Ramon TC",,0,15702,shp-21-51,2,2
-969020,98X,2,"Martinez AMTRAK",,1,10602,shp-98X-01,2,2
-973020,35,2,"San Ramon  Via Bollinger Canyon",,1,9702,shp-35-02,2,2
-987020,21,2,"San Ramon TC",,0,12002,shp-21-51,2,2
-99010,310,3,"Concord BART",,0,9301,shp-310-51,2,2
-993020,10,2,"Concord BART",,0,6802,shp-10-51,2,2
-80070,314,1,"Concord BART",,1,6007,shp-314-01,2,2
-804020,20,2,"DVC",,0,12202,shp-20-51,2,2
-817020,6,2,"Lafayette BART Via St Marys College",,1,7402,shp-6-01,2,2
-824070,311,1,"WC  BART Via PH  BART",,0,7207,shp-311-51,2,2
-826020,1,2,"Rossmoor Via Walnut Creek BART",,0,5202,shp-1-52,2,2
-829020,99X,2,"Martinez AMTRAK",,1,15502,shp-99X-01,2,2
-830020,7,2,"PH BART  Via Shadelands",,0,13402,shp-7-04,2,2
-835020,20,2,"DVC",,0,8502,shp-20-51,2,2
-842020,21,2,"San Ramon TC",,0,15202,shp-21-51,2,2
-847070,321,1,"WC  BART",,1,1607,shp-321-01,2,2
-848020,14,2,"Walnut Creek BART Via PH  BART",,0,8702,shp-14-51,2,2
-854010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,9801,shp-4-04,2,2
-858020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-863020,20,2,"DVC",,0,15602,shp-20-51,2,2
-872020,10,2,"Concord BART",,0,15102,shp-10-51,2,2
-880020,21,2,"San Ramon TC",,0,12802,shp-21-51,2,2
-882020,91X,2,"Airport Plaza",,1,10202,shp-91X-01,2,2
-883070,310,1,"CLAYTON",,1,12907,shp-310-01,2,2
-885010,314,3,"Concord BART",,1,14401,shp-314-01,2,2
-898070,310,1,"CLAYTON",,1,1207,shp-310-01,2,2
-899070,321,1,"WC  BART",,1,1607,shp-321-01,2,2
-900020,9,2,"WC  BART Via PH  BART",,0,5002,shp-9-51,2,2
-911020,35,2,"San Ramon  Via Bollinger Canyon",,1,4602,shp-35-02,2,2
-917020,35,2,"San Ramon  Via Bollinger Canyon",,1,6302,shp-35-02,2,2
-922070,335,1,"To San Ramon Via Bollinger Canyon",,1,1607,shp-335-01,2,2
-925020,92X,2,"ACE San Ramon",,1,2402,shp-92X-02,2,2
-929070,316,1,"Downtown PH Via Martinez",,1,1507,shp-316-01,2,2
-938020,16,2,"AMTRAK Via Downtown PH",,1,602,shp-16-01,2,2
-970020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-975020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-981020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,1102,shp-28-01,2,2
-991020,1,2,"Rossmoor Via Walnut Creek BART",,0,3102,shp-1-52,2,2
-992020,20,2,"Concord BART",,1,8002,shp-20-01,2,2
-997070,316,1,"PH  BART Via Martinez AMTRAK",,0,9507,shp-316-51,2,2
-481070,314,1,"DVC Via Monument",,0,1307,shp-314-52,2,2
-486010,311,3,"WC  BART Via PH  BART",,0,1201,shp-311-51,2,2
-492070,316,1,"PH  BART Via Martinez AMTRAK",,0,1507,shp-316-51,2,2
-514020,9,2,"WC  BART Via PH  BART",,0,2202,shp-9-51,2,2
-520020,7,2,"PH BART  Via Shadelands",,0,2102,shp-7-04,2,2
-530020,98X,2,"Martinez AMTRAK",,1,6702,shp-98X-01,2,2
-53010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-533020,21,2,"Walnut Creek BART",,1,14302,shp-21-01,2,2
-538020,99X,2,"North Concord BART",,0,15502,shp-99X-51,2,2
-547010,6,3,"Lafayette BART Via St Marys College",,1,4901,shp-6-01,2,2
-562010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-570070,314,1,"DVC Via Monument",,0,14407,shp-314-52,2,2
-577020,6,2,"Lafayette BART Via St Marys College",,1,11602,shp-6-01,2,2
-588020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,4702,shp-4-04,2,2
-589020,6,2,"Lafayette BART Via St Marys College",,1,12102,shp-6-01,2,2
-592010,314,3,"DVC Via Monument",,0,13001,shp-314-52,2,2
-597070,314,1,"Concord BART",,1,14407,shp-314-01,2,2
-598020,14,2,"Walnut Creek BART Via PH  BART",,0,402,shp-14-51,2,2
-603020,9,2,"WC  BART Via PH  BART",,0,5002,shp-9-51,2,2
-622010,310,3,"CLAYTON",,1,5901,shp-310-01,2,2
-623020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-630010,310,3,"CLAYTON",,1,4101,shp-310-01,2,2
-64020,20,2,"DVC",,0,14102,shp-20-51,2,2
-660010,320,3,"Concord BART Via Diamond Blvd",,1,9401,shp-320-01,2,2
-670070,311,1,"Concord BART Via PH  BART",,1,1207,shp-311-01,2,2
-67020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,13202,shp-35-01,2,2
-684070,314,1,"DVC Via Monument",,0,14407,shp-314-52,2,2
-690020,6,2,"Lafayette BART Via St Marys College",,1,13302,shp-6-01,2,2
-695020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-710020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-711070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,13107,shp-301-02,2,2
-714010,314,3,"Concord BART",,1,13001,shp-314-01,2,2
-717020,11,2,"Concord BART",,1,12502,shp-11-01,2,2
-727020,98X,2,"Martinez AMTRAK",,1,11802,shp-98X-01,2,2
-732070,311,1,"WC  BART Via PH  BART",,0,9307,shp-311-51,2,2
-741010,321,3,"WC  BART",,1,1601,shp-321-01,2,2
-748020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,1102,shp-28-01,2,2
-1356020,6,2,"Orinda BART  Via St Marys College",,0,7702,shp-6-51,2,2
-1362070,320,1,"DVC Via Diamond",,0,13007,shp-320-51,2,2
-138020,21,2,"San Ramon TC",,0,12002,shp-21-51,2,2
-1381020,1,2,"Shadelands Via Walnut Creek BART",,1,5202,shp-1-01,2,2
-1388020,6,2,"Lafayette BART Via St Marys College",,1,7702,shp-6-01,2,2
-157020,20,2,"Concord BART",,1,7802,shp-20-01,2,2
-166010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-167020,20,2,"Concord BART",,1,12202,shp-20-01,2,2
-22020,14,2,"Concord BART Via PH  BART",,1,7602,shp-14-01,2,2
-233020,35,2,"Dublin BART Via Bollinger Canyon",,0,1702,shp-35-52,2,2
-246020,99X,2,"North Concord BART",,0,15002,shp-99X-51,2,2
-263010,335,3,"To San Ramon Via Bollinger Canyon",,1,13101,shp-335-01,2,2
-270020,10,2,"Concord BART",,0,15602,shp-10-51,2,2
-27010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-272010,310,3,"CLAYTON",,1,1201,shp-310-01,2,2
-279070,310,1,"Concord BART",,0,9307,shp-310-51,2,2
-281010,335,3,"To Dublin BART Via Bollinger Canyon",,0,6201,shp-335-51,2,2
-284020,20,2,"DVC",,0,12202,shp-20-51,2,2
-290020,9,2,"WC  BART Via PH  BART",,0,2202,shp-9-51,2,2
-304070,310,1,"CLAYTON",,1,7207,shp-310-01,2,2
-305070,311,1,"Concord BART Via PH  BART",,1,9307,shp-311-01,2,2
-325020,11,2,"Concord BART",,1,8602,shp-11-01,2,2
-335010,335,3,"To San Ramon Via Bollinger Canyon",,1,4501,shp-335-01,2,2
-345020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-347020,1,2,"Shadelands Via Walnut Creek BART",,1,102,shp-1-01,2,2
-363010,311,3,"Concord BART Via PH  BART",,1,4101,shp-311-01,2,2
-377020,7,2,"PH BART  Via Shadelands",,0,14702,shp-7-04,2,2
-380010,6,3,"Orinda BART  Via St Marys College",,0,4901,shp-6-51,2,2
-388020,20,2,"Concord BART",,1,15102,shp-20-01,2,2
-390020,17,2,"Concord BART Via John Muir Concord",,0,10902,shp-17-51,2,2
-391020,18,2,"AMTRAK/Martinez",,1,3702,shp-18-01,2,2
-392020,99X,2,"Martinez AMTRAK",,1,15002,shp-99X-01,2,2
-41020,19,2,"Martinez AMTRAK",,1,11002,shp-19-01,2,2
-412010,310,3,"CLAYTON",,1,9301,shp-310-01,2,2
-413010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,9801,shp-4-04,2,2
-420020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-427020,16,2,"Concord BART Via Downtown PH",,0,5602,shp-16-51,2,2
-96070,314,1,"Concord BART",,1,13007,shp-314-01,2,2
-982020,96X,2,"Walnut Creek BART Via Bishop Ranch",,0,3002,shp-96X-05,2,2
-986020,16,2,"AMTRAK Via Downtown PH",,1,5602,shp-16-01,2,2
-989010,314,3,"Concord BART",,1,1301,shp-314-01,2,2
-75020,11,2,"PH  BART",,0,302,shp-11-51,2,2
-751020,14,2,"Walnut Creek BART Via PH  BART",,0,14002,shp-14-51,2,2
-760020,14,2,"Walnut Creek BART Via PH  BART",,0,14202,shp-14-51,2,2
-776010,321,3,"WC  BART",,1,11501,shp-321-01,2,2
-79020,1,2,"Rossmoor Via Walnut Creek BART",,0,3102,shp-1-52,2,2
-794070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,9807,shp-4-04,2,2
-805020,20,2,"Concord BART",,1,8502,shp-20-01,2,2
-809020,95X,2,"Walnut Creek BART Via  Danville Park & Ride/ San Ramon",,0,16102,shp-95X-03,2,2
-816020,7,2,"PH BART  Via Shadelands",,0,14702,shp-7-04,2,2
-819020,15,2,"PH  BART",,0,8802,shp-15-51,2,2
-820020,20,2,"DVC",,0,12202,shp-20-51,2,2
-841010,311,3,"Concord BART Via PH  BART",,1,7201,shp-311-01,2,2
-85020,10,2,"Concord BART",,0,16202,shp-10-53,2,2
-862020,10,2,"Concord BART",,0,12402,shp-10-53,2,2
-866070,314,1,"Concord BART",,1,1307,shp-314-01,2,2
-876070,311,1,"WC  BART Via PH  BART",,0,1207,shp-311-51,2,2
-877070,314,1,"DVC Via Monument",,0,9407,shp-314-52,2,2
-881070,320,1,"DVC Via Diamond",,0,1307,shp-320-51,2,2
-9020,19,2,"Martinez AMTRAK",,1,3802,shp-19-01,2,2
-909020,20,2,"DVC",,0,16202,shp-20-51,2,2
-934070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-935020,16,2,"AMTRAK Via Downtown PH",,1,7002,shp-16-01,2,2
-950010,314,3,"Concord BART",,1,9401,shp-314-01,2,2
-967070,320,1,"Concord BART Via Diamond Blvd",,1,13007,shp-320-01,2,2
-968010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-976010,311,3,"Concord BART Via PH  BART",,1,1201,shp-311-01,2,2
-977020,9,2,"DVC/PH  BART",,1,10102,shp-9-01,2,2
-978010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-98020,35,2,"San Ramon  Via Bollinger Canyon",,1,15302,shp-35-02,2,2
-984020,10,2,"Concord BART",,0,15602,shp-10-53,2,2
-988070,320,1,"DVC Via Diamond",,0,6007,shp-320-51,2,2
-432020,20,2,"Concord BART",,1,16202,shp-20-01,2,2
-44070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,6207,shp-301-02,2,2
-444020,14,2,"Walnut Creek BART Via PH  BART",,0,5402,shp-14-51,2,2
-453020,1,2,"Rossmoor Via Walnut Creek BART",,0,102,shp-1-52,2,2
-457020,21,2,"San Ramon TC",,0,14302,shp-21-51,2,2
-465020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-467070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-483070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,4707,shp-4-04,2,2
-488020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-497020,17,2,"Concord BART Via John Muir Concord",,0,702,shp-17-51,2,2
-501010,315,3,"Concord BART Via Clayton/Treat",,0,1401,shp-315-01,2,2
-502070,321,1,"San Ramon",,0,7307,shp-321-51,2,2
-507020,10,2,"Concord BART",,0,202,shp-10-51,2,2
-508020,21,2,"Walnut Creek BART",,1,3902,shp-21-01,2,2
-509020,99X,2,"North Concord BART",,0,2902,shp-99X-51,2,2
-51020,10,2,"Concord BART",,0,12402,shp-10-53,2,2
-511020,28,2,"Martinez AMTRAK Via VA Clinic",,1,1102,shp-28-51,2,2
-513070,314,1,"Concord BART",,1,9407,shp-314-01,2,2
-54070,6,1,"Lafayette BART Via St Marys College",,1,4907,shp-6-01,2,2
-548020,17,2,"N Concord BART Via John Muir Concord",,1,10902,shp-17-01,2,2
-549010,314,3,"DVC Via Monument",,0,14401,shp-314-52,2,2
-554020,18,2,"PH  BART",,0,802,shp-18-51,2,2
-555020,10,2,"Concord BART",,0,11102,shp-10-53,2,2
-560020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-564020,98X,2,"WC  BART",,0,2802,shp-98X-51,2,2
-569020,15,2,"Concord BART Via John Muir Concord",,1,502,shp-15-04,2,2
-57010,310,3,"Concord BART",,0,1201,shp-310-51,2,2
-587010,321,3,"San Ramon",,0,7301,shp-321-51,2,2
-61010,6,3,"Lafayette BART Via St Marys College",,1,2001,shp-6-01,2,2
-620070,310,1,"Concord BART",,0,5907,shp-310-51,2,2
-639020,6,2,"Orinda BART  Via St Marys College",,0,7702,shp-6-51,2,2
-642020,20,2,"DVC",,0,7802,shp-20-51,2,2
-644020,14,2,"Walnut Creek BART Via PH  BART",,0,5402,shp-14-51,2,2
-646020,27,2,"N Concord BART Via Mason Circle",,1,10702,shp-27-01,2,2
-647020,6,2,"Orinda BART  Via St Marys College",,0,9902,shp-6-51,2,2
-65020,92X,2,"ACE Train",,0,14802,shp-92X-52,2,2
-66070,310,1,"CLAYTON",,1,1207,shp-310-01,2,2
-661010,314,3,"Concord BART",,1,13001,shp-314-01,2,2
-679010,314,3,"DVC Via Monument",,0,9401,shp-314-52,2,2
-681010,314,3,"DVC Via Monument",,0,9401,shp-314-52,2,2
-691010,321,3,"San Ramon",,0,6201,shp-321-51,2,2
-709020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-718020,10,2,"Clayton",,1,15602,shp-10-01,2,2
-72020,7,2,"PH BART  Via Shadelands",,0,10002,shp-7-04,2,2
-730020,6,2,"Orinda BART  Via St Marys College",,0,9902,shp-6-51,2,2
-735020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-740020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,4002,shp-28-01,2,2
-746070,316,1,"Downtown PH Via Martinez",,1,9507,shp-316-01,2,2
-752020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-753070,314,1,"Concord BART",,1,13007,shp-314-01,2,2
-758070,311,1,"WC  BART Via PH  BART",,0,4107,shp-311-51,2,2
-769020,9,2,"WC  BART Via PH  BART",,0,13902,shp-9-51,2,2
-778020,20,2,"DVC",,0,8002,shp-20-51,2,2
-787020,10,2,"Clayton",,1,15602,shp-10-01,2,2
-790020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,9702,shp-35-01,2,2
-795020,14,2,"Concord BART Via PH  BART",,1,3302,shp-14-01,2,2
-8010,311,3,"WC  BART Via PH  BART",,0,5901,shp-311-51,2,2
-801020,6,2,"Orinda BART Via Orinda Village",,0,13302,shp-6-02,2,2
-813020,92X,2,"ACE Mitchell P&R",,1,15402,shp-92X-01,2,2
-825020,98X,2,"Martinez AMTRAK",,1,2802,shp-98X-01,2,2
-828020,35,2,"San Ramon  TC Via Crow Canyon",,0,13202,shp-35-03,2,2
-833020,21,2,"San Ramon TC",,0,15202,shp-21-51,2,2
-840010,311,3,"WC  BART Via PH  BART",,0,7201,shp-311-51,2,2
-856010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-879070,320,1,"Concord BART Via Diamond Blvd",,1,9407,shp-320-01,2,2
-884070,6,1,"Lafayette BART Via St Marys College",,1,2007,shp-6-01,2,2
-890020,15,2,"Concord BART",,1,3402,shp-15-02,2,2
-89020,35,2,"San Ramon  TC Via Windemere Pkwy",,1,4602,shp-35-01,2,2
-893020,1,2,"Rossmoor Via Walnut Creek BART",,0,3102,shp-1-52,2,2
-897020,9,2,"DVC/PH  BART",,1,13902,shp-9-01,2,2
-903020,15,2,"Concord BART Via John Muir Concord",,1,3402,shp-15-04,2,2
-906070,321,1,"San Ramon",,0,4507,shp-321-51,2,2
-920020,15,2,"Concord BART Via John Muir Concord",,1,502,shp-15-04,2,2
-921020,14,2,"Concord BART Via PH  BART",,1,6902,shp-14-01,2,2
-937010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-944010,316,3,"PH  BART Via Martinez AMTRAK",,0,11401,shp-316-51,2,2
-770020,16,2,"Concord BART Via Downtown PH",,0,3502,shp-16-51,2,2
-772010,314,3,"DVC Via Monument",,0,1301,shp-314-52,2,2
-78020,10,2,"Concord BART",,0,14102,shp-10-53,2,2
-785020,97X,2,"Dublin BART Via Bishop Ranch",,0,10502,shp-97X-05,2,2
-791020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-796020,16,2,"Concord BART Via Downtown PH",,0,12702,shp-16-51,2,2
-802020,20,2,"DVC",,0,7502,shp-20-51,2,2
-82020,27,2,"N Concord BART Via Mason Circle",,1,10702,shp-27-01,2,2
-83020,18,2,"PH  BART",,0,802,shp-18-51,2,2
-831020,98X,2,"Martinez AMTRAK",,1,10602,shp-98X-01,2,2
-845010,316,3,"Downtown PH Via Martinez",,1,6101,shp-316-01,2,2
-849020,10,2,"Washington Blvd /Kelrose Ct",,1,8502,shp-10-03,2,2
-853010,321,3,"WC  BART",,1,11501,shp-321-01,2,2
-855010,316,3,"PH  BART Via Martinez AMTRAK",,0,9501,shp-316-51,2,2
-859020,15,2,"Concord BART",,1,502,shp-15-02,2,2
-861020,98X,2,"WC  BART",,0,11802,shp-98X-51,2,2
-868020,20,2,"DVC",,0,5302,shp-20-51,2,2
-869020,5,2,"Creekside",,0,4802,shp-5-51,2,2
-874010,314,3,"Concord BART",,1,14401,shp-314-01,2,2
-878020,21,2,"San Ramon TC",,0,15702,shp-21-51,2,2
-90010,6,3,"Orinda BART  Via St Marys College",,0,2001,shp-6-51,2,2
-91020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,5802,shp-28-01,2,2
-914070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,13107,shp-301-02,2,2
-926070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-928020,7,2,"PH BART  Via Shadelands",,0,14702,shp-7-04,2,2
-940020,35,2,"San Ramon  Via Bollinger Canyon",,1,1702,shp-35-02,2,2
-941020,20,2,"DVC",,0,15102,shp-20-51,2,2
-947010,314,3,"DVC Via Monument",,0,13001,shp-314-52,2,2
-948010,314,3,"Concord BART",,1,14401,shp-314-01,2,2
-952020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-954010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,6401,shp-4-04,2,2
-957020,10,2,"Washington Blvd /Kelrose Ct",,1,16002,shp-10-03,2,2
-960020,10,2,"Washington Blvd /Kelrose Ct",,1,16202,shp-10-03,2,2
-961070,320,1,"DVC Via Diamond",,0,1307,shp-320-51,2,2
-965020,11,2,"PH  BART",,0,14302,shp-11-51,2,2
-972020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-983020,21,2,"Walnut Creek BART",,1,3902,shp-21-01,2,2
-990070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-996020,10,2,"Clayton",,1,14102,shp-10-01,2,2
-946010,4,3,"Walnut Creek BART VIA Broadway Plaza",,0,1801,shp-4-04,2,2
-974020,93X,2,"WC  BART",,0,14902,shp-93X-51,2,2
-979020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-995020,15,2,"Concord BART",,1,3402,shp-15-02,2,2
-999070,310,1,"Concord BART",,0,12907,shp-310-51,2,2
-266020,99X,2,"Martinez AMTRAK",,1,10702,shp-99X-01,2,2
-275070,301,1,"WC BART VIA JOHN MUIR MED CTR",,0,11507,shp-301-02,2,2
-277020,20,2,"Concord BART",,1,7802,shp-20-01,2,2
-287020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,9802,shp-4-04,2,2
-301020,16,2,"Concord BART Via Downtown PH",,0,10802,shp-16-51,2,2
-3020,20,2,"Concord BART",,1,11102,shp-20-01,2,2
-302070,335,1,"To San Ramon Via Bollinger Canyon",,1,7307,shp-335-01,2,2
-309020,14,2,"Walnut Creek BART Via PH  BART",,0,7602,shp-14-51,2,2
-310020,35,2,"San Ramon  Via Bollinger Canyon",,1,15302,shp-35-02,2,2
-314010,320,3,"Concord BART Via Diamond Blvd",,1,13001,shp-320-01,2,2
-328020,20,2,"DVC",,0,8002,shp-20-51,2,2
-334020,35,2,"San Ramon  Via Bollinger Canyon",,1,6302,shp-35-02,2,2
-354020,21,2,"San Ramon TC",,0,1002,shp-21-51,2,2
-358070,335,1,"To San Ramon Via Bollinger Canyon",,1,13107,shp-335-01,2,2
-372020,95X,2,"Walnut Creek BART Via  Danville Park & Ride/ San Ramon",,0,8302,shp-95X-03,2,2
-373020,6,2,"Orinda BART  Via St Marys College",,0,11602,shp-6-51,2,2
-38070,321,1,"WC  BART",,1,6207,shp-321-01,2,2
-404020,5,2,"Walnut Creek BART",,1,4802,shp-5-01,2,2
-418070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-433020,92X,2,"ACE Train",,0,2402,shp-92X-51,2,2
-439020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,1802,shp-4-04,2,2
-440020,6,2,"Orinda BART  Via St Marys College",,0,13302,shp-6-51,2,2
-459070,320,1,"Concord BART Via Diamond Blvd",,1,1307,shp-320-01,2,2
-462020,10,2,"Washington Blvd /Kelrose Ct",,1,14102,shp-10-03,2,2
-478020,98X,2,"Martinez AMTRAK",,1,5102,shp-98X-01,2,2
-485020,16,2,"AMTRAK Via Downtown PH",,1,8902,shp-16-01,2,2
-489020,5,2,"Creekside",,0,1902,shp-5-51,2,2
-493070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,6407,shp-4-04,2,2
-499020,21,2,"Walnut Creek BART",,1,15702,shp-21-01,2,2
-50020,93X,2,"Antioch BART",,1,16402,shp-93X-01,2,2
-519070,316,1,"Downtown PH Via Martinez",,1,1507,shp-316-01,2,2
-52070,314,1,"Concord BART",,1,1307,shp-314-01,2,2
-521070,310,1,"Concord BART",,0,1207,shp-310-51,2,2
-534010,321,3,"San Ramon",,0,7301,shp-321-51,2,2
-535020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-536020,4,2,"Walnut Creek BART VIA Broadway Plaza",,0,6402,shp-4-04,2,2
-541070,320,1,"Concord BART Via Diamond Blvd",,1,1307,shp-320-01,2,2
-546020,10,2,"Concord BART",,0,12202,shp-10-53,2,2
-558020,16,2,"Concord BART Via Downtown PH",,0,7002,shp-16-51,2,2
-591020,35,2,"Dublin BART Via Windemere Pkwy",,0,1702,shp-35-51,2,2
-599070,335,1,"To Dublin BART Via Bollinger Canyon",,0,6207,shp-335-51,2,2
-610010,335,3,"To Dublin BART Via Bollinger Canyon",,0,11501,shp-335-51,2,2
-611020,17,2,"N Concord BART Via John Muir Concord",,1,10902,shp-17-01,2,2
-614020,35,2,"Dublin BART Via Bollinger Canyon",,0,14502,shp-35-52,2,2
-619020,10,2,"Concord BART",,0,202,shp-10-53,2,2
-62010,6,3,"Lafayette BART Via St Marys College",,1,2001,shp-6-01,2,2
-621070,335,1,"To Dublin BART Via Bollinger Canyon",,0,7307,shp-335-51,2,2
-629070,315,1,"Concord BART Via Clayton/Treat",,0,1407,shp-315-01,2,2
-638020,19,2,"Martinez AMTRAK",,1,902,shp-19-01,2,2
-672070,316,1,"PH  BART Via Martinez AMTRAK",,0,1507,shp-316-51,2,2
-674070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,1807,shp-4-04,2,2
-677070,314,1,"Concord BART",,1,4207,shp-314-01,2,2
-678020,98X,2,"WC  BART",,0,10602,shp-98X-51,2,2
-680020,15,2,"PH  BART",,0,502,shp-15-51,2,2
-682020,17,2,"N Concord BART Via John Muir Concord",,1,3602,shp-17-01,2,2
-693070,321,1,"WC  BART",,1,4507,shp-321-01,2,2
-699020,98X,2,"Martinez AMTRAK",,1,2802,shp-98X-01,2,2
-701020,10,2,"Clayton",,1,15102,shp-10-01,2,2
-712010,6,3,"Orinda BART  Via St Marys College",,0,2001,shp-6-51,2,2
-716010,320,3,"Concord BART Via Diamond Blvd",,1,14401,shp-320-01,2,2
-721020,6,2,"Lafayette BART Via St Marys College",,1,12102,shp-6-01,2,2
-728070,310,1,"CLAYTON",,1,5907,shp-310-01,2,2
-736020,21,2,"San Ramon TC",,0,12002,shp-21-51,2,2
-74020,10,2,"Concord BART",,0,8002,shp-10-53,2,2
-749020,16,2,"Concord BART Via Downtown PH",,0,7002,shp-16-51,2,2
-755020,18,2,"PH  BART",,0,5702,shp-18-51,2,2
-76010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,13101,shp-301-02,2,2
-77070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,4707,shp-4-04,2,2
-780020,17,2,"N Concord BART Via John Muir Concord",,1,3602,shp-17-01,2,2
-782010,310,3,"CLAYTON",,1,7201,shp-310-01,2,2
-798020,15,2,"Concord BART",,1,502,shp-15-02,2,2
-81020,18,2,"AMTRAK/Martinez",,1,11302,shp-18-01,2,2
-838010,301,3,"WC BART VIA JOHN MUIR MED CTR",,0,6201,shp-301-02,2,2
-839020,21,2,"Walnut Creek BART",,1,3902,shp-21-01,2,2
-844070,321,1,"San Ramon",,0,13107,shp-321-51,2,2
-851020,98X,2,"WC  BART",,0,5102,shp-98X-51,2,2
-852020,14,2,"Concord BART Via PH  BART",,1,14002,shp-14-01,2,2
-860020,21,2,"San Ramon TC",,0,7102,shp-21-51,2,2
-864010,321,3,"WC  BART",,1,4501,shp-321-01,2,2
-867020,10,2,"Clayton",,1,16202,shp-10-01,2,2
-87020,6,2,"Lafayette BART Via St Marys College",,1,9902,shp-6-01,2,2
-88020,15,2,"Concord BART Via John Muir Concord",,1,8802,shp-15-04,2,2
-891020,19,2,"Concord BART",,0,902,shp-19-51,2,2
-892020,28,2,"DVC/CONCORD BART VIA DVC & VA CLINIC ",,0,5802,shp-28-01,2,2
-895020,14,2,"Walnut Creek BART Via PH  BART",,0,5402,shp-14-51,2,2
-896020,20,2,"Concord BART",,1,11102,shp-20-01,2,2
-902070,4,1,"Walnut Creek BART VIA Broadway Plaza",,0,9807,shp-4-04,2,2
-904020,5,2,"Walnut Creek BART",,1,1902,shp-5-01,2,2
-905010,311,3,"WC  BART Via PH  BART",,0,5901,shp-311-51,2,2
-908010,314,3,"Concord BART",,1,1301,shp-314-01,2,2
-924020,21,2,"Walnut Creek BART",,1,12002,shp-21-01,2,2
-93010,314,3,"DVC Via Monument",,0,13001,shp-314-52,2,2
-94020,35,2,"Dublin BART Via Bollinger Canyon",,0,6302,shp-35-52,2,2
-942020,17,2,"N Concord BART Via John Muir Concord",,1,702,shp-17-01,2,2
-943020,21,2,"San Ramon TC",,0,3902,shp-21-51,2,2
-964070,314,1,"Concord BART",,1,13007,shp-314-01,2,2
-966020,6,2,"Orinda BART Via Orinda Village",,0,9902,shp-6-02,2,2
-97020,20,2,"Concord BART",,1,16002,shp-20-01,2,2
-971020,1,2,"Shadelands Via Walnut Creek BART",,1,102,shp-1-01,2,2
-980020,20,2,"Concord BART",,1,6802,shp-20-01,2,2
-998020,7,2,"PH BART  Via Shadelands",,0,2102,shp-7-04,2,2
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1,10,510200020,Rossmoor Via Walnut Creek BART,0,51834,44198
+1,10,510201020,Rossmoor Via Walnut Creek BART,0,51833,44198
+1,10,510202020,Rossmoor Via Walnut Creek BART,0,51834,44198
+1,10,510203020,Rossmoor Via Walnut Creek BART,0,51833,44198
+1,10,510204020,Rossmoor Via Walnut Creek BART,0,51834,44198
+1,10,510205020,Rossmoor Via Walnut Creek BART,0,51833,44198
+1,10,510206020,Rossmoor Via Walnut Creek BART,0,51834,44198
+1,10,510207020,Rossmoor Via Walnut Creek BART,0,51833,44198
+1,10,510208020,Rossmoor Via Walnut Creek BART,0,52648,44198
+1,10,510209020,Rossmoor Via Walnut Creek BART,0,52649,44198
+1,10,510210020,Rossmoor Via Walnut Creek BART,0,52648,44198
+1,10,510211020,Rossmoor Via Walnut Creek BART,0,52649,44198
+1,10,510212020,Rossmoor Via Walnut Creek BART,0,52648,44198
+1,10,510213020,Rossmoor Via Walnut Creek BART,0,52649,44198
+1,10,510215020,Shadelands Via Walnut Creek BART,1,51833,44199
+1,10,510214020,Shadelands Via Walnut Creek BART,1,51834,44199
+1,10,510216020,Shadelands Via Walnut Creek BART,1,51833,44199
+1,10,510217020,Shadelands Via Walnut Creek BART,1,51834,44199
+1,10,510218020,Shadelands Via Walnut Creek BART,1,51833,44199
+1,10,510219020,Shadelands Via Walnut Creek BART,1,51834,44199
+1,10,510220020,Shadelands Via Walnut Creek BART,1,51833,44199
+1,10,510221020,Shadelands Via Walnut Creek BART,1,52648,44199
+1,10,510222020,Shadelands Via Walnut Creek BART,1,52649,44199
+1,10,510223020,Shadelands Via Walnut Creek BART,1,52648,44199
+1,10,510224020,Shadelands Via Walnut Creek BART,1,52649,44199
+1,10,510225020,Shadelands Via Walnut Creek BART,1,52648,44199
+1,10,510226020,Shadelands Via Walnut Creek BART,1,52649,44199
+1,10,510227020,Shadelands Via Walnut Creek BART,1,52648,44199
+10,10,510242020,Washington/Kelrose Via Clayton Rd,0,51849,44200
+10,10,510228020,Clayton,0,51847,44201
+10,10,510243020,Washington/Kelrose Via Clayton Rd,0,51849,44200
+10,10,510229020,Clayton,0,51846,44201
+10,10,510244020,Washington/Kelrose Via Clayton Rd,0,51848,44200
+10,10,510230020,Clayton,0,51845,44201
+10,10,510245020,Washington/Kelrose Via Clayton Rd,0,51847,44200
+10,10,510231020,Clayton,0,51849,44201
+10,10,510246020,Washington/Kelrose Via Clayton Rd,0,51846,44200
+10,10,510232020,Clayton,0,51848,44201
+10,10,510247020,Washington/Kelrose Via Clayton Rd,0,51845,44200
+10,10,510233020,Clayton,0,51847,44201
+10,10,510248020,Washington/Kelrose Via Clayton Rd,0,51846,44200
+10,10,510234020,Clayton,0,51848,44201
+10,10,510249020,Washington/Kelrose Via Clayton Rd,0,52653,44200
+10,10,510235020,Clayton,0,51847,44201
+10,10,510250020,Washington/Kelrose Via Clayton Rd,0,51842,44200
+10,10,510236020,Clayton,0,52652,44201
+10,10,510251020,Washington/Kelrose Via Clayton Rd,0,52655,44200
+10,10,510266020,Clayton,0,52650,44201
+10,10,510265020,Washington/Kelrose Via Clayton Rd,0,52654,44200
+10,10,510258020,Clayton,0,51842,44201
+10,10,510262020,Washington/Kelrose Via Clayton Rd,0,51840,44200
+10,10,510269020,Clayton,0,52652,44201
+10,10,510237020,Clayton,0,51835,44201
+10,10,510259020,Washington/Kelrose Via Clayton Rd,0,52655,44200
+10,10,510252020,Clayton,0,52651,44201
+10,10,510263020,Washington/Kelrose Via Clayton Rd,0,52654,44200
+10,10,510238020,Clayton,0,51842,44201
+10,10,510260020,Washington/Kelrose Via Clayton Rd,0,52656,44200
+10,10,510253020,Clayton,0,52652,44201
+10,10,510264020,Washington/Kelrose Via Clayton Rd,0,51835,44200
+10,10,510239020,Clayton,0,52655,44201
+10,10,510261020,Washington/Kelrose Via Clayton Rd,0,52651,44200
+10,10,510254020,Clayton,0,52654,44201
+10,10,510268020,Clayton,0,51842,44201
+10,10,510240020,Washington/Kelrose Via Clayton Rd,0,52656,44200
+10,10,510255020,Clayton,0,51835,44201
+10,10,510241020,Washington/Kelrose Via Clayton Rd,0,52651,44200
+10,10,510256020,Washington/Kelrose Via Clayton Rd,0,51842,44200
+10,10,510257020,Washington/Kelrose Via Clayton Rd,0,52656,44200
+10,10,510270020,Washington/Kelrose Via Clayton Rd,0,51835,44200
+10,10,510267020,Washington/Kelrose Via Clayton Rd,0,52651,44200
+10,10,510271020,Concord BART ,1,51849,44202
+10,10,510288020,Concord BART ,1,51847,44203
+10,10,510272020,Concord BART ,1,51849,44202
+10,10,510289020,Concord BART ,1,51846,44203
+10,10,510273020,Concord BART ,1,51848,44202
+10,10,510290020,Concord BART ,1,51845,44203
+10,10,510274020,Concord BART ,1,51847,44202
+10,10,510291020,Concord BART ,1,51849,44203
+10,10,510275020,Concord BART ,1,51846,44202
+10,10,510292020,Concord BART ,1,51848,44203
+10,10,510276020,Concord BART ,1,51845,44202
+10,10,510293020,Concord BART ,1,51847,44203
+10,10,510277020,Concord BART ,1,51846,44202
+10,10,510294020,Concord BART ,1,51848,44203
+10,10,510278020,Concord BART ,1,52653,44202
+10,10,510295020,Concord BART ,1,51847,44203
+10,10,510279020,Concord BART ,1,51842,44202
+10,10,510304020,Concord BART ,1,52652,44203
+10,10,510296020,Concord BART ,1,52655,44202
+10,10,510308020,Concord BART ,1,52650,44203
+10,10,510310020,Concord BART ,1,52654,44202
+10,10,510281020,Concord BART ,1,51842,44203
+10,10,510280020,Concord BART ,1,51840,44202
+10,10,510312020,Concord BART ,1,52652,44203
+10,10,510297020,Concord BART ,1,51835,44203
+10,10,510282020,Concord BART ,1,52655,44202
+10,10,510303020,Concord BART ,1,52651,44203
+10,10,510305020,Concord BART ,1,52654,44202
+10,10,510298020,Concord BART ,1,51842,44203
+10,10,510283020,Concord BART ,1,52656,44202
+10,10,510301020,Concord BART ,1,52652,44203
+10,10,510306020,Concord BART ,1,51835,44202
+10,10,510299020,Concord BART ,1,52655,44203
+10,10,510284020,Concord BART ,1,52651,44202
+10,10,510302020,Concord BART ,1,52654,44203
+10,10,510311020,Concord BART ,1,51842,44203
+10,10,510307020,Concord BART ,1,52656,44202
+10,10,510300020,Concord BART ,1,51835,44203
+10,10,510285020,Concord BART ,1,52651,44202
+10,10,510286020,Concord BART ,1,51842,44202
+10,10,510287020,Concord BART ,1,52656,44202
+10,10,510313020,Concord BART ,1,51835,44202
+10,10,510309020,Concord BART ,1,52651,44202
+11,10,510314020,Concord BART ,0,51855,44204
+11,10,510315020,Concord BART ,0,51856,44204
+11,10,510316020,Concord BART ,0,51855,44204
+11,10,510317020,Concord BART ,0,51856,44204
+11,10,510318020,Concord BART ,0,51855,44204
+11,10,510319020,Concord BART ,0,51855,44204
+11,10,510320020,Concord BART ,0,51855,44204
+11,10,510321020,Concord BART ,0,52657,44204
+11,10,510322020,Concord BART ,0,52657,44204
+11,10,510323020,Concord BART ,0,52657,44204
+11,10,510324020,Concord BART ,0,51852,44204
+11,10,510325020,Concord BART ,0,51852,44204
+11,10,510326020,PH BART,1,51857,44205
+11,10,510327020,PH BART,1,51855,44205
+11,10,510328020,PH BART,1,51856,44205
+11,10,510329020,PH BART,1,51855,44205
+11,10,510330020,PH BART,1,51855,44205
+11,10,510331020,PH BART,1,51855,44205
+11,10,510332020,PH BART,1,51855,44205
+11,10,510333020,PH BART,1,52657,44205
+11,10,510334020,PH BART,1,52657,44205
+11,10,510335020,PH BART,1,51852,44205
+11,10,510336020,PH BART,1,52657,44205
+11,10,510337020,PH BART,1,51852,44205
+11,10,510338020,PH BART,1,51852,44205
+14,10,510339020,Walnut Creek BART Via PH BART,0,51863,44206
+14,10,510340020,Walnut Creek BART Via PH BART,0,51862,44206
+14,10,510341020,Walnut Creek BART Via PH BART,0,51865,44206
+14,10,510342020,Walnut Creek BART Via PH BART,0,51864,44206
+14,10,510343020,Walnut Creek BART Via PH BART,0,51863,44206
+14,10,510344020,Walnut Creek BART Via PH BART,0,51862,44206
+14,10,510345020,Walnut Creek BART Via PH BART,0,51865,44206
+14,10,510346020,Walnut Creek BART Via PH BART,0,51864,44206
+14,10,510347020,Walnut Creek BART Via PH BART,0,51863,44206
+14,10,510348020,Walnut Creek BART Via PH BART,0,52660,44206
+14,10,510349020,Walnut Creek BART Via PH BART,0,52662,44206
+14,10,510350020,Walnut Creek BART Via PH BART,0,51864,44206
+14,10,510351020,Walnut Creek BART Via PH BART,0,51863,44206
+14,10,510352020,Walnut Creek BART Via PH BART,0,52660,44206
+14,10,510353020,Walnut Creek BART Via PH BART,0,52662,44206
+14,10,510354020,Walnut Creek BART Via PH BART,0,52659,44206
+14,10,510355020,Walnut Creek BART Via PH BART,0,52658,44206
+14,10,510356020,Walnut Creek BART Via PH BART,0,52661,44206
+14,10,510357020,Walnut Creek BART Via PH BART,0,52663,44206
+14,10,510358020,Walnut Creek BART Via PH BART,0,52659,44206
+14,10,510359020,Walnut Creek BART Via PH BART,0,52658,44206
+14,10,510360020,Walnut Creek BART Via PH BART,0,52661,44206
+14,10,510361020,Walnut Creek BART Via PH BART,0,52663,44206
+14,10,510362020,Walnut Creek BART Via PH BART,0,52659,44206
+14,10,510363020,Walnut Creek BART Via PH BART,0,52658,44206
+14,10,510364020,Walnut Creek BART Via PH BART,0,52661,44206
+14,10,510365020,Walnut Creek BART Via PH BART,0,52664,44206
+14,10,510366020,Walnut Creek BART Via PH BART,0,52659,44206
+14,10,510367020,Walnut Creek BART Via PH BART,0,52658,44206
+14,10,510368020,Walnut Creek BART Via PH BART,0,52661,44206
+14,10,510369020,Concord BART Via PH BART,1,51864,44207
+14,10,510370020,Concord BART Via PH BART,1,51863,44207
+14,10,510371020,Concord BART Via PH BART,1,51862,44207
+14,10,510372020,Concord BART Via PH BART,1,51865,44207
+14,10,510373020,Concord BART Via PH BART,1,51864,44207
+14,10,510374020,Concord BART Via PH BART,1,51863,44207
+14,10,510375020,Concord BART Via PH BART,1,51862,44207
+14,10,510376020,Concord BART Via PH BART,1,51865,44207
+14,10,510377020,Concord BART Via PH BART,1,51864,44207
+14,10,510378020,Concord BART Via PH BART,1,51863,44207
+14,10,510379020,Concord BART Via PH BART,1,52660,44207
+14,10,510380020,Concord BART Via PH BART,1,52662,44207
+14,10,510381020,Concord BART Via PH BART,1,51864,44207
+14,10,510382020,Concord BART Via PH BART,1,52658,44207
+14,10,510383020,Concord BART Via PH BART,1,52661,44207
+14,10,510384020,Concord BART Via PH BART,1,52663,44207
+14,10,510385020,Concord BART Via PH BART,1,52659,44207
+14,10,510386020,Concord BART Via PH BART,1,52658,44207
+14,10,510387020,Concord BART Via PH BART,1,52661,44207
+14,10,510388020,Concord BART Via PH BART,1,52663,44207
+14,10,510389020,Concord BART Via PH BART,1,52659,44207
+14,10,510390020,Concord BART Via PH BART,1,52658,44207
+14,10,510391020,Concord BART Via PH BART,1,52661,44207
+14,10,510392020,Concord BART Via PH BART,1,52664,44207
+14,10,510393020,Concord BART Via PH BART,1,52659,44207
+14,10,510394020,Concord BART Via PH BART,1,52658,44207
+14,10,510395020,Concord BART Via PH BART,1,52661,44207
+14,10,510396020,Concord BART Via PH BART,1,52664,44207
+14,10,510397020,Concord BART Via PH BART,1,52659,44207
+14,10,510398020,Concord BART Via PH BART,1,52658,44207
+14,10,510399020,Concord BART Via PH BART,1,52661,44207
+15,10,510400020,Concord BART ,0,51870,44209
+15,10,510413020,Concord BART Via John Muir Med Ctr,0,51870,44208
+15,10,510401020,Concord BART ,0,51869,44209
+15,10,510414020,Concord BART Via John Muir Med Ctr,0,51869,44208
+15,10,510402020,Concord BART ,0,51870,44209
+15,10,510415020,Concord BART Via John Muir Med Ctr,0,51870,44208
+15,10,510403020,Concord BART ,0,51869,44209
+15,10,510416020,Concord BART Via John Muir Med Ctr,0,51869,44208
+15,10,510404020,Concord BART ,0,51870,44209
+15,10,510417020,Concord BART Via John Muir Med Ctr,0,51870,44208
+15,10,510405020,Concord BART ,0,52666,44209
+15,10,510418020,Concord BART Via John Muir Med Ctr,0,52666,44208
+15,10,510406020,Concord BART ,0,51870,44209
+15,10,510419020,Concord BART Via John Muir Med Ctr,0,51870,44208
+15,10,510407020,Concord BART ,0,52666,44209
+15,10,510420020,Concord BART Via John Muir Med Ctr,0,52666,44208
+15,10,510408020,Concord BART ,0,51870,44209
+15,10,510421020,Concord BART Via John Muir Med Ctr,0,51870,44208
+15,10,510409020,Concord BART ,0,52667,44209
+15,10,510422020,Concord BART Via John Muir Med Ctr,0,52667,44208
+15,10,510410020,Concord BART ,0,52665,44209
+15,10,510423020,Concord BART Via John Muir Med Ctr,0,52665,44208
+15,10,510411020,Concord BART ,0,52667,44209
+15,10,510424020,Concord BART Via John Muir Med Ctr,0,52667,44208
+15,10,510412020,Concord BART ,0,52665,44209
+15,10,510425020,Concord BART Via John Muir Med Ctr,0,52665,44208
+15,10,510426020,Pleasant Hill BART,1,51869,44210
+15,10,510427020,Pleasant Hill BART,1,51870,44210
+15,10,510428020,Pleasant Hill BART,1,51869,44210
+15,10,510429020,Pleasant Hill BART,1,51870,44210
+15,10,510430020,Pleasant Hill BART,1,51869,44210
+15,10,510431020,Pleasant Hill BART,1,51870,44210
+15,10,510432020,Pleasant Hill BART,1,52666,44210
+15,10,510433020,Pleasant Hill BART,1,51870,44210
+15,10,510434020,Pleasant Hill BART,1,52666,44210
+15,10,510435020,Pleasant Hill BART,1,52665,44210
+15,10,510436020,Pleasant Hill BART,1,52667,44210
+15,10,510437020,Pleasant Hill BART,1,52665,44210
+15,10,510438020,Pleasant Hill BART,1,52667,44210
+16,10,510439020,Amtrak Via Downtown PH,0,51874,44211
+16,10,510440020,Amtrak Via Downtown PH,0,51876,44211
+16,10,510441020,Amtrak Via Downtown PH,0,51875,44211
+16,10,510442020,Amtrak Via Downtown PH,0,51874,44211
+16,10,510443020,Amtrak Via Downtown PH,0,51876,44211
+16,10,510444020,Amtrak Via Downtown PH,0,51875,44211
+16,10,510445020,Amtrak Via Downtown PH,0,51874,44211
+16,10,510446020,Amtrak Via Downtown PH,0,51876,44211
+16,10,510447020,Amtrak Via Downtown PH,0,51875,44211
+16,10,510448020,Amtrak Via Downtown PH,0,51874,44211
+16,10,510449020,Amtrak Via Downtown PH,0,52671,44211
+16,10,510450020,Amtrak Via Downtown PH,0,51875,44211
+16,10,510451020,Amtrak Via Downtown PH,0,51874,44211
+16,10,510452020,Amtrak Via Downtown PH,0,52671,44211
+16,10,510453020,Amtrak Via Downtown PH,0,52670,44211
+16,10,510454020,Amtrak Via Downtown PH,0,52668,44211
+16,10,510455020,Amtrak Via Downtown PH,0,52671,44211
+16,10,510456020,Amtrak Via Downtown PH,0,52670,44211
+16,10,510457020,Amtrak Via Downtown PH,0,52669,44211
+16,10,510458020,Amtrak Via Downtown PH,0,52671,44211
+16,10,510459020,Amtrak Via Downtown PH,0,52670,44211
+16,10,510460020,Amtrak Via Downtown PH,0,52669,44211
+16,10,510461020,Amtrak Via Downtown PH,0,52670,44211
+16,10,510462020,Concord BART  Via Downtown PH,1,51875,44212
+16,10,510463020,Concord BART  Via Downtown PH,1,51874,44212
+16,10,510464020,Concord BART  Via Downtown PH,1,51876,44212
+16,10,510465020,Concord BART  Via Downtown PH,1,51875,44212
+16,10,510466020,Concord BART  Via Downtown PH,1,51874,44212
+16,10,510467020,Concord BART  Via Downtown PH,1,51876,44212
+16,10,510468020,Concord BART  Via Downtown PH,1,51875,44212
+16,10,510469020,Concord BART  Via Downtown PH,1,51874,44212
+16,10,510470020,Concord BART  Via Downtown PH,1,51876,44212
+16,10,510471020,Concord BART  Via Downtown PH,1,51875,44212
+16,10,510472020,Concord BART  Via Downtown PH,1,51874,44212
+16,10,510473020,Concord BART  Via Downtown PH,1,52671,44212
+16,10,510474020,Concord BART  Via Downtown PH,1,51875,44212
+16,10,510475020,Concord BART  Via Downtown PH,1,52668,44212
+16,10,510476020,Concord BART  Via Downtown PH,1,52671,44212
+16,10,510477020,Concord BART  Via Downtown PH,1,52670,44212
+16,10,510478020,Concord BART  Via Downtown PH,1,52668,44212
+16,10,510479020,Concord BART  Via Downtown PH,1,52671,44212
+16,10,510480020,Concord BART  Via Downtown PH,1,52670,44212
+16,10,510481020,Concord BART  Via Downtown PH,1,52669,44212
+16,10,510482020,Concord BART  Via Downtown PH,1,52671,44212
+16,10,510483020,Concord BART  Via Downtown PH,1,52670,44212
+16,10,510484020,Concord BART  Via Downtown PH,1,52669,44212
+17,10,514465020,N Concord BART John Muir Concord,0,52473,44213
+17,10,514466020,N Concord BART John Muir Concord,0,52473,44213
+17,10,514467020,N Concord BART John Muir Concord,0,52473,44213
+17,10,514468020,N Concord BART John Muir Concord,0,52473,44213
+17,10,514469020,N Concord BART John Muir Concord,0,52672,44213
+17,10,514470020,N Concord BART John Muir Concord,0,52672,44213
+17,10,514471020,N Concord BART John Muir Concord,0,52672,44213
+17,10,514472020,N Concord BART John Muir Concord,0,52672,44213
+17,10,514473020,N Concord BART John Muir Concord,0,52672,44213
+17,10,514474020,N Concord BART John Muir Concord,0,52673,44213
+17,10,514475020,N Concord BART John Muir Concord,0,52673,44213
+17,10,514476020,N Concord BART John Muir Concord,0,52673,44213
+17,10,514477020,N Concord BART John Muir Concord,0,52673,44213
+17,10,514478020,Concord BART John Muir Concord,1,52473,44214
+17,10,514479020,Concord BART John Muir Concord,1,52473,44214
+17,10,514480020,Concord BART John Muir Concord,1,52473,44214
+17,10,514481020,Concord BART John Muir Concord,1,52473,44214
+17,10,514482020,Concord BART John Muir Concord,1,52672,44214
+17,10,514483020,Concord BART John Muir Concord,1,52672,44214
+17,10,514484020,Concord BART John Muir Concord,1,52672,44214
+17,10,514485020,Concord BART John Muir Concord,1,52672,44214
+17,10,514486020,Concord BART John Muir Concord,1,52672,44214
+17,10,514487020,Concord BART John Muir Concord,1,52673,44214
+17,10,514488020,Concord BART John Muir Concord,1,52673,44214
+17,10,514489020,Concord BART John Muir Concord,1,52673,44214
+17,10,514490020,Concord BART John Muir Concord,1,52673,44214
+18,10,510509020,PH BART,0,51881,44215
+18,10,510510020,PH BART,0,51882,44215
+18,10,510511020,PH BART,0,51881,44215
+18,10,510512020,PH BART,0,51882,44215
+18,10,510513020,PH BART,0,51881,44215
+18,10,510514020,PH BART,0,52675,44215
+18,10,510515020,PH BART,0,52674,44215
+18,10,510516020,PH BART,0,52675,44215
+18,10,510517020,PH BART,0,52674,44215
+18,10,510518020,PH BART,0,52676,44215
+18,10,510519020,PH BART,0,52674,44215
+18,10,510520020,Martinez Amtrak,1,51881,44216
+18,10,510521020,Martinez Amtrak,1,51882,44216
+18,10,510522020,Martinez Amtrak,1,51881,44216
+18,10,510523020,Martinez Amtrak,1,51882,44216
+18,10,510524020,Martinez Amtrak,1,52674,44216
+18,10,510525020,Martinez Amtrak,1,52675,44216
+18,10,510526020,Martinez Amtrak,1,52674,44216
+18,10,510527020,Martinez Amtrak,1,52676,44216
+18,10,510528020,Martinez Amtrak,1,52674,44216
+18,10,510529020,Martinez Amtrak,1,52676,44216
+18,10,510530020,Martinez Amtrak,1,52674,44216
+19,10,510531020,Concord BART ,0,51884,44217
+19,10,510532020,Concord BART ,0,51884,44217
+19,10,510533020,Concord BART ,0,52677,44217
+19,10,510534020,Concord BART ,0,52677,44217
+19,10,510535020,Concord BART ,0,52678,44217
+19,10,510536020,Concord BART ,0,52678,44217
+19,10,510537020,Concord BART ,0,52678,44217
+19,10,510538020,Concord BART ,0,52678,44217
+19,10,510539020,Martinez Amtrak,1,51884,44218
+19,10,510540020,Martinez Amtrak,1,51884,44218
+19,10,510541020,Martinez Amtrak,1,52677,44218
+19,10,510542020,Martinez Amtrak,1,52677,44218
+19,10,510543020,Martinez Amtrak,1,52678,44218
+19,10,510544020,Martinez Amtrak,1,52678,44218
+19,10,510545020,Martinez Amtrak,1,52678,44218
+19,10,510546020,Martinez Amtrak,1,52678,44218
+19,10,510547020,Martinez Amtrak,1,52678,44218
+20,10,510548020,Concord BART ,0,51846,44219
+20,10,510579020,Concord BART ,0,51845,44219
+20,10,510549020,Concord BART ,0,51848,44219
+20,10,510580020,Concord BART ,0,51847,44219
+20,10,510550020,Concord BART ,0,51845,44219
+20,10,510581020,Concord BART ,0,51849,44219
+20,10,510551020,Concord BART ,0,51847,44219
+20,10,510582020,Concord BART ,0,51846,44219
+20,10,510552020,Concord BART ,0,51849,44219
+20,10,510583020,Concord BART ,0,51848,44219
+20,10,510553020,Concord BART ,0,51846,44219
+20,10,510584020,Concord BART ,0,51845,44219
+20,10,510554020,Concord BART ,0,51848,44219
+20,10,510600020,Concord BART ,0,51847,44219
+20,10,510555020,Concord BART ,0,51845,44219
+20,10,510556020,Concord BART ,0,51847,44219
+20,10,510557020,Concord BART ,0,51846,44219
+20,10,510558020,Concord BART ,0,51848,44219
+20,10,510559020,Concord BART ,0,51845,44219
+20,10,510560020,Concord BART ,0,51847,44219
+20,10,510585020,Concord BART ,0,51846,44219
+20,10,510561020,Concord BART ,0,51842,44219
+20,10,510586020,Concord BART ,0,52655,44219
+20,10,510562020,Concord BART ,0,51846,44219
+20,10,510587020,Concord BART ,0,52654,44219
+20,10,510563020,Concord BART ,0,52655,44219
+20,10,510588020,Concord BART ,0,51847,44219
+20,10,510564020,Concord BART ,0,52654,44219
+20,10,510589020,Concord BART ,0,51842,44219
+20,10,510565020,Concord BART ,0,51840,44219
+20,10,510590020,Concord BART ,0,52652,44219
+20,10,510566020,Concord BART ,0,51835,44219
+20,10,510591020,Concord BART ,0,52655,44219
+20,10,510567020,Concord BART ,0,52651,44219
+20,10,510592020,Concord BART ,0,52654,44219
+20,10,510568020,Concord BART ,0,51842,44219
+20,10,510593020,Concord BART ,0,52656,44219
+20,10,510569020,Concord BART ,0,52652,44219
+20,10,510594020,Concord BART ,0,51835,44219
+20,10,510570020,Concord BART ,0,52655,44219
+20,10,510595020,Concord BART ,0,52651,44219
+20,10,510571020,Concord BART ,0,52654,44219
+20,10,510596020,Concord BART ,0,51842,44219
+20,10,510572020,Concord BART ,0,52656,44219
+20,10,510597020,Concord BART ,0,52652,44219
+20,10,510573020,Concord BART ,0,51835,44219
+20,10,510598020,Concord BART ,0,52651,44219
+20,10,510599020,Concord BART ,0,51842,44219
+20,10,510574020,Concord BART ,0,52656,44219
+20,10,510575020,Concord BART ,0,51835,44219
+20,10,510576020,Concord BART ,0,52651,44219
+20,10,510577020,Concord BART ,0,51842,44219
+20,10,510578020,Concord BART ,0,52656,44219
+20,10,510630020,DVC,1,51847,44220
+20,10,510601020,DVC,1,51845,44220
+20,10,510631020,DVC,1,51849,44220
+20,10,510602020,DVC,1,51847,44220
+20,10,510632020,DVC,1,51846,44220
+20,10,510603020,DVC,1,51849,44220
+20,10,510633020,DVC,1,51848,44220
+20,10,510604020,DVC,1,51846,44220
+20,10,510634020,DVC,1,51845,44220
+20,10,510605020,DVC,1,51848,44220
+20,10,510635020,DVC,1,51847,44220
+20,10,510606020,DVC,1,51845,44220
+20,10,510636020,DVC,1,51849,44220
+20,10,510652020,DVC,1,51847,44220
+20,10,510637020,DVC,1,51846,44220
+20,10,510607020,DVC,1,51848,44220
+20,10,510608020,DVC,1,51845,44220
+20,10,510609020,DVC,1,51847,44220
+20,10,510610020,DVC,1,51846,44220
+20,10,510611020,DVC,1,52655,44220
+20,10,510638020,DVC,1,51846,44220
+20,10,510612020,DVC,1,52653,44220
+20,10,510639020,DVC,1,52655,44220
+20,10,510613020,DVC,1,51847,44220
+20,10,510640020,DVC,1,52654,44220
+20,10,510614020,DVC,1,51842,44220
+20,10,510641020,DVC,1,51840,44220
+20,10,510615020,DVC,1,52652,44220
+20,10,510642020,DVC,1,51835,44220
+20,10,510616020,DVC,1,52655,44220
+20,10,510643020,DVC,1,52650,44220
+20,10,510617020,DVC,1,52654,44220
+20,10,510644020,DVC,1,51842,44220
+20,10,510618020,DVC,1,52656,44220
+20,10,510645020,DVC,1,52652,44220
+20,10,510619020,DVC,1,51835,44220
+20,10,510646020,DVC,1,52655,44220
+20,10,510620020,DVC,1,52651,44220
+20,10,510647020,DVC,1,52654,44220
+20,10,510621020,DVC,1,51842,44220
+20,10,510648020,DVC,1,52656,44220
+20,10,510622020,DVC,1,52652,44220
+20,10,510649020,DVC,1,51835,44220
+20,10,510623020,DVC,1,52655,44220
+20,10,510650020,DVC,1,52651,44220
+20,10,510624020,DVC,1,52654,44220
+20,10,510651020,DVC,1,51842,44220
+20,10,510625020,DVC,1,52656,44220
+20,10,510626020,DVC,1,51835,44220
+20,10,510627020,DVC,1,52651,44220
+20,10,510628020,DVC,1,51842,44220
+20,10,510629020,DVC,1,52656,44220
+21,10,510653020,San Ramon TC,0,51889,44221
+21,10,510654020,San Ramon TC,0,51891,44221
+21,10,510655020,San Ramon TC,0,51890,44221
+21,10,510656020,San Ramon TC,0,51857,44221
+21,10,510657020,San Ramon TC,0,51889,44221
+21,10,510658020,San Ramon TC,0,51891,44221
+21,10,510659020,San Ramon TC,0,51890,44221
+21,10,510660020,San Ramon TC,0,51857,44221
+21,10,510661020,San Ramon TC,0,51889,44221
+21,10,510662020,San Ramon TC,0,52680,44221
+21,10,510663020,San Ramon TC,0,51889,44221
+21,10,510664020,San Ramon TC,0,52681,44221
+21,10,510665020,San Ramon TC,0,52679,44221
+21,10,510666020,San Ramon TC,0,51887,44221
+21,10,510667020,San Ramon TC,0,52681,44221
+21,10,510668020,San Ramon TC,0,51888,44221
+21,10,510669020,San Ramon TC,0,52679,44221
+21,10,510670020,San Ramon TC,0,51887,44221
+21,10,510671020,San Ramon TC,0,52681,44221
+21,10,510672020,San Ramon TC,0,51888,44221
+21,10,510673020,San Ramon TC,0,52679,44221
+21,10,510674020,San Ramon TC,0,51887,44221
+21,10,510675020,San Ramon TC,0,52681,44221
+21,10,510676020,San Ramon TC,0,52679,44221
+21,10,510677020,San Ramon TC,0,52681,44221
+21,10,510678020,Walnut Creek BART,1,51889,44222
+21,10,510679020,Walnut Creek BART,1,51891,44222
+21,10,510680020,Walnut Creek BART,1,51890,44222
+21,10,510681020,Walnut Creek BART,1,51857,44222
+21,10,510682020,Walnut Creek BART,1,51889,44222
+21,10,510683020,Walnut Creek BART,1,51891,44222
+21,10,510684020,Walnut Creek BART,1,52680,44222
+21,10,510685020,Walnut Creek BART,1,51857,44222
+21,10,510686020,Walnut Creek BART,1,51889,44222
+21,10,510687020,Walnut Creek BART,1,52680,44222
+21,10,510688020,Walnut Creek BART,1,52679,44222
+21,10,510689020,Walnut Creek BART,1,52681,44222
+21,10,510690020,Walnut Creek BART,1,52679,44222
+21,10,510691020,Walnut Creek BART,1,51887,44222
+21,10,510692020,Walnut Creek BART,1,52681,44222
+21,10,510693020,Walnut Creek BART,1,51888,44222
+21,10,510694020,Walnut Creek BART,1,52679,44222
+21,10,510695020,Walnut Creek BART,1,51887,44222
+21,10,510696020,Walnut Creek BART,1,52681,44222
+21,10,510697020,Walnut Creek BART,1,51888,44222
+21,10,510698020,Walnut Creek BART,1,52679,44222
+21,10,510699020,Walnut Creek BART,1,51887,44222
+21,10,510700020,Walnut Creek BART,1,52681,44222
+21,10,510701020,Walnut Creek BART,1,52679,44222
+27,10,510737020,North Concord BART Via Mason Circle,0,51896,44227
+27,10,510735020,North Concord BART Via Mason Circle,0,51896,44227
+27,10,510736020,North Concord BART Via Mason Circle,0,51897,44227
+27,10,510738020,North Concord BART Via Mason Circle,0,51895,44227
+28,10,510739020,DVC/Concord BART Via VA Clinic,0,51902,44228
+28,10,510740020,DVC/Concord BART Via VA Clinic,0,51901,44228
+28,10,510741020,DVC/Concord BART Via VA Clinic,0,51902,44228
+28,10,510742020,DVC/Concord BART Via VA Clinic,0,52683,44228
+28,10,510743020,DVC/Concord BART Via VA Clinic,0,51902,44228
+28,10,510744020,DVC/Concord BART Via VA Clinic,0,52683,44228
+28,10,510745020,DVC/Concord BART Via VA Clinic,0,52682,44228
+28,10,510746020,DVC/Concord BART Via VA Clinic,0,52683,44228
+28,10,510747020,DVC/Concord BART Via VA Clinic,0,52682,44228
+28,10,510748020,DVC/Concord BART Via VA Clinic,0,52683,44228
+28,10,510749020,DVC/Concord BART Via VA Clinic,0,52682,44228
+28,10,510750020,DVC/Martinez Amtrak Via VA Clinic,1,51902,44229
+28,10,510751020,DVC/Martinez Amtrak Via VA Clinic,1,51901,44229
+28,10,510752020,DVC/Martinez Amtrak Via VA Clinic,1,51902,44229
+28,10,510753020,DVC/Martinez Amtrak Via VA Clinic,1,52683,44229
+28,10,510754020,DVC/Martinez Amtrak Via VA Clinic,1,51902,44229
+28,10,510755020,DVC/Martinez Amtrak Via VA Clinic,1,52683,44229
+28,10,510756020,DVC/Martinez Amtrak Via VA Clinic,1,52682,44229
+28,10,510757020,DVC/Martinez Amtrak Via VA Clinic,1,52683,44229
+28,10,510758020,DVC/Martinez Amtrak Via VA Clinic,1,52682,44229
+28,10,510759020,DVC/Martinez Amtrak Via VA Clinic,1,52683,44229
+28,10,510760020,DVC/Martinez Amtrak Via VA Clinic,1,52682,44229
+28,10,510761020,DVC/Martinez Amtrak Via VA Clinic,1,52683,44229
+301,4,510762020,Walnut Creek BART Via John Muir Med Ctr,0,51908,44230
+301,5,510773020,Walnut Creek BART Via John Muir Med Ctr,0,51914,44230
+301,5,510774020,Walnut Creek BART Via John Muir Med Ctr,0,52626,44230
+301,4,510763020,Walnut Creek BART Via John Muir Med Ctr,0,52642,44230
+301,4,510764020,Walnut Creek BART Via John Muir Med Ctr,0,51906,44230
+301,5,510775020,Walnut Creek BART Via John Muir Med Ctr,0,51912,44230
+301,5,510776020,Walnut Creek BART Via John Muir Med Ctr,0,52625,44230
+301,4,510765020,Walnut Creek BART Via John Muir Med Ctr,0,52641,44230
+301,4,510766020,Walnut Creek BART Via John Muir Med Ctr,0,52642,44230
+301,5,510777020,Walnut Creek BART Via John Muir Med Ctr,0,52626,44230
+301,5,510778020,Walnut Creek BART Via John Muir Med Ctr,0,51912,44230
+301,4,510767020,Walnut Creek BART Via John Muir Med Ctr,0,51906,44230
+301,4,510768020,Walnut Creek BART Via John Muir Med Ctr,0,52641,44230
+301,5,510779020,Walnut Creek BART Via John Muir Med Ctr,0,52625,44230
+301,5,510780020,Walnut Creek BART Via John Muir Med Ctr,0,52627,44230
+301,4,510769020,Walnut Creek BART Via John Muir Med Ctr,0,52643,44230
+301,4,510770020,Walnut Creek BART Via John Muir Med Ctr,0,52644,44230
+301,5,510781020,Walnut Creek BART Via John Muir Med Ctr,0,52628,44230
+301,5,510782020,Walnut Creek BART Via John Muir Med Ctr,0,52625,44230
+301,4,510771020,Walnut Creek BART Via John Muir Med Ctr,0,52641,44230
+301,4,510772020,Walnut Creek BART Via John Muir Med Ctr,0,52643,44230
+301,5,510783020,Walnut Creek BART Via John Muir Med Ctr,0,52627,44230
+310,4,510784020,Clayton,0,51918,44231
+310,5,510812020,Clayton,0,51924,44231
+310,5,510813020,Clayton,0,51925,44231
+310,4,510785020,Clayton,0,51919,44231
+310,4,510786020,Clayton,0,51920,44231
+310,5,510814020,Clayton,0,51926,44231
+310,5,510815020,Clayton,0,51924,44231
+310,4,510787020,Clayton,0,51918,44231
+310,4,510788020,Clayton,0,51919,44231
+310,5,510816020,Clayton,0,51925,44231
+310,5,510817020,Clayton,0,52618,44231
+310,4,510789020,Clayton,0,52634,44231
+310,4,510790020,Clayton,0,51918,44231
+310,5,510818020,Clayton,0,51924,44231
+310,5,510819020,Clayton,0,52617,44231
+310,4,510791020,Clayton,0,52633,44231
+310,4,510792020,Clayton,0,52634,44231
+310,5,510820020,Clayton,0,52618,44231
+310,5,510821020,Clayton,0,52616,44231
+310,4,510793020,Clayton,0,52632,44231
+310,4,510794020,Clayton,0,52633,44231
+310,5,510822020,Clayton,0,52617,44231
+310,5,510823020,Clayton,0,52618,44231
+310,4,510795020,Clayton,0,52634,44231
+310,4,510796020,Clayton,0,52634,44231
+310,5,510824020,Clayton,0,52618,44231
+310,5,510825020,Clayton,0,52617,44231
+310,4,510797020,Clayton,0,52633,44231
+310,4,510798020,Concord BART ,1,51918,44232
+310,5,510826020,Concord BART ,1,51924,44232
+310,5,510827020,Concord BART ,1,51925,44232
+310,4,510799020,Concord BART ,1,51919,44232
+310,4,510800020,Concord BART ,1,51920,44232
+310,5,510828020,Concord BART ,1,51926,44232
+310,5,510829020,Concord BART ,1,51924,44232
+310,4,510801020,Concord BART ,1,51918,44232
+310,4,510802020,Concord BART ,1,51919,44232
+310,5,510830020,Concord BART ,1,51925,44232
+310,5,510831020,Concord BART ,1,52618,44232
+310,4,510803020,Concord BART ,1,52634,44232
+310,4,510804020,Concord BART ,1,51918,44232
+310,5,510832020,Concord BART ,1,51924,44232
+310,5,510833020,Concord BART ,1,52617,44232
+310,4,510805020,Concord BART ,1,52633,44232
+310,4,510806020,Concord BART ,1,52634,44232
+310,5,510834020,Concord BART ,1,52618,44232
+310,5,510835020,Concord BART ,1,52616,44232
+310,4,510807020,Concord BART ,1,52632,44232
+310,4,510808020,Concord BART ,1,52633,44232
+310,5,510836020,Concord BART ,1,52617,44232
+310,5,510837020,Concord BART ,1,52618,44232
+310,4,510809020,Concord BART ,1,52634,44232
+310,4,510810020,Concord BART ,1,52634,44232
+310,5,510838020,Concord BART ,1,52618,44232
+310,5,510839020,Concord BART ,1,52617,44232
+310,4,510811020,Concord BART ,1,52633,44232
+311,4,510840020,Concord BART Via PH BART,0,51920,44233
+311,5,510863020,Concord BART Via PH BART,0,51926,44233
+311,5,510864020,Concord BART Via PH BART,0,51924,44233
+311,4,510841020,Concord BART Via PH BART,0,51918,44233
+311,4,510842020,Concord BART Via PH BART,0,51919,44233
+311,5,510865020,Concord BART Via PH BART,0,51925,44233
+311,5,510866020,Concord BART Via PH BART,0,51926,44233
+311,4,510843020,Concord BART Via PH BART,0,51920,44233
+311,4,510844020,Concord BART Via PH BART,0,51918,44233
+311,5,510867020,Concord BART Via PH BART,0,51924,44233
+311,5,510868020,Concord BART Via PH BART,0,52617,44233
+311,4,510845020,Concord BART Via PH BART,0,52633,44233
+311,4,510846020,Concord BART Via PH BART,0,52634,44233
+311,5,510869020,Concord BART Via PH BART,0,52618,44233
+311,5,510870020,Concord BART Via PH BART,0,51924,44233
+311,4,510847020,Concord BART Via PH BART,0,51918,44233
+311,4,510848020,Concord BART Via PH BART,0,52633,44233
+311,5,510871020,Concord BART Via PH BART,0,52617,44233
+311,5,510872020,Concord BART Via PH BART,0,52618,44233
+311,4,510849020,Concord BART Via PH BART,0,52634,44233
+311,4,510850020,Concord BART Via PH BART,0,52632,44233
+311,5,510873020,Concord BART Via PH BART,0,52616,44233
+311,5,510874020,Concord BART Via PH BART,0,52617,44233
+311,4,510851020,Concord BART Via PH BART,0,52633,44233
+311,5,510875020,WC BART Via PH BART,1,51924,44234
+311,4,510852020,WC BART Via PH BART,1,51918,44234
+311,4,510853020,WC BART Via PH BART,1,51919,44234
+311,5,510876020,WC BART Via PH BART,1,51925,44234
+311,5,510877020,WC BART Via PH BART,1,51926,44234
+311,4,510854020,WC BART Via PH BART,1,51920,44234
+311,4,510855020,WC BART Via PH BART,1,51918,44234
+311,5,510878020,WC BART Via PH BART,1,51924,44234
+311,5,510879020,WC BART Via PH BART,1,52617,44234
+311,4,510856020,WC BART Via PH BART,1,52633,44234
+311,4,510857020,WC BART Via PH BART,1,52634,44234
+311,5,510880020,WC BART Via PH BART,1,52618,44234
+311,5,510881020,WC BART Via PH BART,1,51924,44234
+311,4,510858020,WC BART Via PH BART,1,51918,44234
+311,4,510859020,WC BART Via PH BART,1,52633,44234
+311,5,510882020,WC BART Via PH BART,1,52617,44234
+311,5,510883020,WC BART Via PH BART,1,52618,44234
+311,4,510860020,WC BART Via PH BART,1,52634,44234
+311,4,510861020,WC BART Via PH BART,1,52632,44234
+311,5,510884020,WC BART Via PH BART,1,52616,44234
+311,5,510885020,WC BART Via PH BART,1,52617,44234
+311,4,510862020,WC BART Via PH BART,1,52633,44234
+314,4,510886020,DVC Via Monument,0,51932,44235
+314,5,510932020,DVC Via Monument,0,51938,44235
+314,5,510933020,DVC Via Monument,0,51938,44235
+314,4,510887020,DVC Via Monument,0,51932,44235
+314,4,510888020,DVC Via Monument,0,51931,44235
+314,5,510934020,DVC Via Monument,0,51937,44235
+314,5,510935020,DVC Via Monument,0,51938,44235
+314,4,510889020,DVC Via Monument,0,51932,44235
+314,4,510890020,DVC Via Monument,0,51928,44235
+314,5,510936020,DVC Via Monument,0,51934,44235
+314,5,510937020,DVC Via Monument,0,51933,44235
+314,4,510891020,DVC Via Monument,0,51927,44235
+314,4,510892020,DVC Via Monument,0,51932,44235
+314,5,510938020,DVC Via Monument,0,51938,44235
+314,5,510939020,DVC Via Monument,0,51937,44235
+314,4,510893020,DVC Via Monument,0,51931,44235
+314,4,510894020,DVC Via Monument,0,51928,44235
+314,5,510940020,DVC Via Monument,0,51934,44235
+314,5,510941020,DVC Via Monument,0,51933,44235
+314,4,510895020,DVC Via Monument,0,51927,44235
+314,4,510896020,DVC Via Monument,0,51932,44235
+314,5,510942020,DVC Via Monument,0,51938,44235
+314,5,510943020,DVC Via Monument,0,51937,44235
+314,4,510897020,DVC Via Monument,0,51931,44235
+314,4,510898020,DVC Via Monument,0,51928,44235
+314,5,510944020,DVC Via Monument,0,51934,44235
+314,5,510945020,DVC Via Monument,0,51933,44235
+314,4,510899020,DVC Via Monument,0,51927,44235
+314,4,510900020,DVC Via Monument,0,51932,44235
+314,5,510946020,DVC Via Monument,0,51938,44235
+314,5,510947020,DVC Via Monument,0,51937,44235
+314,4,510901020,DVC Via Monument,0,51931,44235
+314,4,510902020,DVC Via Monument,0,51928,44235
+314,5,510948020,DVC Via Monument,0,51934,44235
+314,5,510949020,DVC Via Monument,0,51933,44235
+314,4,510903020,DVC Via Monument,0,51927,44235
+314,4,510904020,DVC Via Monument,0,52635,44235
+314,5,510950020,DVC Via Monument,0,52619,44235
+314,5,510951020,DVC Via Monument,0,52620,44235
+314,4,510905020,DVC Via Monument,0,52636,44235
+314,4,510906020,DVC Via Monument,0,51928,44235
+314,5,510952020,DVC Via Monument,0,51934,44235
+314,5,510953020,DVC Via Monument,0,51933,44235
+314,4,510907020,DVC Via Monument,0,51927,44235
+314,4,510908020,Concord BART ,1,51932,44236
+314,5,510954020,Concord BART ,1,51938,44236
+314,5,510955020,Concord BART ,1,51937,44236
+314,4,510909020,Concord BART ,1,51931,44236
+314,4,510910020,Concord BART ,1,51932,44236
+314,5,510956020,Concord BART ,1,51938,44236
+314,5,510957020,Concord BART ,1,51934,44236
+314,4,510911020,Concord BART ,1,51928,44236
+314,4,510912020,Concord BART ,1,51931,44236
+314,5,510958020,Concord BART ,1,51937,44236
+314,5,510959020,Concord BART ,1,51938,44236
+314,4,510913020,Concord BART ,1,51932,44236
+314,4,510914020,Concord BART ,1,51931,44236
+314,5,510960020,Concord BART ,1,51937,44236
+314,5,510961020,Concord BART ,1,51934,44236
+314,4,510915020,Concord BART ,1,51928,44236
+314,4,510916020,Concord BART ,1,51927,44236
+314,5,510962020,Concord BART ,1,51933,44236
+314,5,510963020,Concord BART ,1,51938,44236
+314,4,510917020,Concord BART ,1,51932,44236
+314,4,510918020,Concord BART ,1,51931,44236
+314,5,510964020,Concord BART ,1,51937,44236
+314,5,510965020,Concord BART ,1,51934,44236
+314,4,510919020,Concord BART ,1,51928,44236
+314,4,510920020,Concord BART ,1,51927,44236
+314,5,510966020,Concord BART ,1,51933,44236
+314,5,510967020,Concord BART ,1,51938,44236
+314,4,510921020,Concord BART ,1,51932,44236
+314,4,510922020,Concord BART ,1,51931,44236
+314,5,510968020,Concord BART ,1,51937,44236
+314,5,510969020,Concord BART ,1,51934,44236
+314,4,510923020,Concord BART ,1,51928,44236
+314,4,510924020,Concord BART ,1,51927,44236
+314,5,510970020,Concord BART ,1,51933,44236
+314,5,510971020,Concord BART ,1,52619,44236
+314,4,510925020,Concord BART ,1,52635,44236
+314,4,510926020,Concord BART ,1,52636,44236
+314,5,510972020,Concord BART ,1,52620,44236
+314,5,510973020,Concord BART ,1,51934,44236
+314,4,510927020,Concord BART ,1,51928,44236
+314,4,510928020,Concord BART ,1,51927,44236
+314,5,510974020,Concord BART ,1,51933,44236
+314,5,510975020,Concord BART ,1,52619,44236
+314,4,510929020,Concord BART ,1,52635,44236
+314,4,510930020,Concord BART ,1,52636,44236
+314,5,510976020,Concord BART ,1,52620,44236
+314,5,510977020,Concord BART ,1,51933,44236
+314,4,510931020,Concord BART ,1,51927,44236
+315,4,510978020,Clayton/Treat,0,51940,44237
+315,5,510988020,Clayton/Treat,0,51942,44237
+315,5,510989020,Clayton/Treat,0,51942,44237
+315,4,510979020,Clayton/Treat,0,51940,44237
+315,4,510980020,Clayton/Treat,0,51940,44237
+315,5,510990020,Clayton/Treat,0,51942,44237
+315,5,510991020,Clayton/Treat,0,51942,44237
+315,4,510981020,Clayton/Treat,0,51940,44237
+315,4,510982020,Clayton/Treat,0,51940,44237
+315,5,510992020,Clayton/Treat,0,51942,44237
+315,5,510993020,Clayton/Treat,0,51942,44237
+315,4,510983020,Clayton/Treat,0,51940,44237
+315,4,510984020,Clayton/Treat,0,51940,44237
+315,5,510994020,Clayton/Treat,0,51942,44237
+315,5,510995020,Clayton/Treat,0,51942,44237
+315,4,510985020,Clayton/Treat,0,51940,44237
+315,4,510986020,Clayton/Treat,0,51940,44237
+315,5,510996020,Clayton/Treat,0,51942,44237
+315,5,510997020,Clayton/Treat,0,52621,44237
+315,4,510987020,Clayton/Treat,0,52637,44237
+316,4,510998020,Martinez Downtown PH,0,51946,44238
+316,5,511017020,Martinez Downtown PH,0,51951,44238
+316,5,511018020,Martinez Downtown PH,0,51952,44238
+316,4,510999020,Martinez Downtown PH,0,51947,44238
+316,4,511000020,Martinez Downtown PH,0,51946,44238
+316,5,511019020,Martinez Downtown PH,0,51951,44238
+316,5,511020020,Martinez Downtown PH,0,52623,44238
+316,4,511001020,Martinez Downtown PH,0,52639,44238
+316,4,511002020,Martinez Downtown PH,0,51946,44238
+316,5,511021020,Martinez Downtown PH,0,51951,44238
+316,5,511022020,Martinez Downtown PH,0,52623,44238
+316,4,511003020,Martinez Downtown PH,0,52639,44238
+316,4,511004020,Martinez Downtown PH,0,52638,44238
+316,5,511023020,Martinez Downtown PH,0,52622,44238
+316,5,511024020,Martinez Downtown PH,0,52624,44238
+316,4,511005020,Martinez Downtown PH,0,52640,44238
+316,4,511006020,Martinez Downtown PH,0,52638,44238
+316,5,511025020,Martinez Downtown PH,0,52622,44238
+316,4,511007020,PH BART Via Martinez Amtrak,1,51946,44239
+316,5,511026020,PH BART Via Martinez Amtrak,1,51951,44239
+316,5,511027020,PH BART Via Martinez Amtrak,1,51952,44239
+316,4,511008020,PH BART Via Martinez Amtrak,1,51947,44239
+316,4,511009020,PH BART Via Martinez Amtrak,1,51946,44239
+316,5,511028020,PH BART Via Martinez Amtrak,1,51951,44239
+316,5,511029020,PH BART Via Martinez Amtrak,1,51952,44239
+316,4,511010020,PH BART Via Martinez Amtrak,1,51947,44239
+316,4,511011020,PH BART Via Martinez Amtrak,1,51946,44239
+316,5,511030020,PH BART Via Martinez Amtrak,1,51951,44239
+316,5,511031020,PH BART Via Martinez Amtrak,1,52623,44239
+316,4,511012020,PH BART Via Martinez Amtrak,1,52639,44239
+316,4,511013020,PH BART Via Martinez Amtrak,1,51946,44239
+316,5,511032020,PH BART Via Martinez Amtrak,1,51951,44239
+316,5,511033020,PH BART Via Martinez Amtrak,1,52623,44239
+316,4,511014020,PH BART Via Martinez Amtrak,1,52639,44239
+316,4,511015020,PH BART Via Martinez Amtrak,1,52638,44239
+316,5,511034020,PH BART Via Martinez Amtrak,1,52622,44239
+316,5,511035020,PH BART Via Martinez Amtrak,1,52624,44239
+316,4,511016020,PH BART Via Martinez Amtrak,1,52640,44239
+320,4,511036020,Concord BART  Via Diamond Blvd,0,51928,44240
+320,5,511070020,Concord BART  Via Diamond Blvd,0,51934,44240
+320,5,511071020,Concord BART  Via Diamond Blvd,0,51933,44240
+320,4,511037020,Concord BART  Via Diamond Blvd,0,51927,44240
+320,4,511038020,Concord BART  Via Diamond Blvd,0,51932,44240
+320,5,511072020,Concord BART  Via Diamond Blvd,0,51938,44240
+320,5,511073020,Concord BART  Via Diamond Blvd,0,51937,44240
+320,4,511039020,Concord BART  Via Diamond Blvd,0,51931,44240
+320,4,511040020,Concord BART  Via Diamond Blvd,0,51928,44240
+320,5,511074020,Concord BART  Via Diamond Blvd,0,51934,44240
+320,5,511075020,Concord BART  Via Diamond Blvd,0,51933,44240
+320,4,511041020,Concord BART  Via Diamond Blvd,0,51927,44240
+320,4,511042020,Concord BART  Via Diamond Blvd,0,51932,44240
+320,5,511076020,Concord BART  Via Diamond Blvd,0,51938,44240
+320,5,511077020,Concord BART  Via Diamond Blvd,0,51937,44240
+320,4,511043020,Concord BART  Via Diamond Blvd,0,51931,44240
+320,4,511044020,Concord BART  Via Diamond Blvd,0,51928,44240
+320,5,511078020,Concord BART  Via Diamond Blvd,0,51934,44240
+320,5,511079020,Concord BART  Via Diamond Blvd,0,51933,44240
+320,4,511045020,Concord BART  Via Diamond Blvd,0,51927,44240
+320,4,511046020,Concord BART  Via Diamond Blvd,0,51932,44240
+320,5,511080020,Concord BART  Via Diamond Blvd,0,51938,44240
+320,5,511081020,Concord BART  Via Diamond Blvd,0,51937,44240
+320,4,511047020,Concord BART  Via Diamond Blvd,0,51931,44240
+320,4,511048020,Concord BART  Via Diamond Blvd,0,51928,44240
+320,5,511082020,Concord BART  Via Diamond Blvd,0,51934,44240
+320,5,511083020,Concord BART  Via Diamond Blvd,0,51933,44240
+320,4,511049020,Concord BART  Via Diamond Blvd,0,51927,44240
+320,4,511050020,Concord BART  Via Diamond Blvd,0,52635,44240
+320,5,511084020,Concord BART  Via Diamond Blvd,0,52619,44240
+320,5,511085020,Concord BART  Via Diamond Blvd,0,52620,44240
+320,4,511051020,Concord BART  Via Diamond Blvd,0,52636,44240
+320,4,511052020,Concord BART  Via Diamond Blvd,0,51928,44240
+320,5,511086020,Concord BART  Via Diamond Blvd,0,51934,44240
+320,4,511053020,DVC Via Diamond,1,51931,44241
+320,5,511087020,DVC Via Diamond,1,51937,44241
+320,5,511088020,DVC Via Diamond,1,51934,44241
+320,4,511054020,DVC Via Diamond,1,51928,44241
+320,4,511055020,DVC Via Diamond,1,51927,44241
+320,5,511089020,DVC Via Diamond,1,51933,44241
+320,5,511090020,DVC Via Diamond,1,51938,44241
+320,4,511056020,DVC Via Diamond,1,51932,44241
+320,4,511057020,DVC Via Diamond,1,51931,44241
+320,5,511091020,DVC Via Diamond,1,51937,44241
+320,5,511092020,DVC Via Diamond,1,51934,44241
+320,4,511058020,DVC Via Diamond,1,51928,44241
+320,4,511059020,DVC Via Diamond,1,51927,44241
+320,5,511093020,DVC Via Diamond,1,51933,44241
+320,5,511094020,DVC Via Diamond,1,51938,44241
+320,4,511060020,DVC Via Diamond,1,51932,44241
+320,4,511061020,DVC Via Diamond,1,51931,44241
+320,5,511095020,DVC Via Diamond,1,51937,44241
+320,5,511096020,DVC Via Diamond,1,51934,44241
+320,4,511062020,DVC Via Diamond,1,51928,44241
+320,4,511063020,DVC Via Diamond,1,51927,44241
+320,5,511097020,DVC Via Diamond,1,51933,44241
+320,5,511098020,DVC Via Diamond,1,52619,44241
+320,4,511064020,DVC Via Diamond,1,52635,44241
+320,4,511065020,DVC Via Diamond,1,51931,44241
+320,5,511099020,DVC Via Diamond,1,51937,44241
+320,5,511100020,DVC Via Diamond,1,51934,44241
+320,4,511066020,DVC Via Diamond,1,51928,44241
+320,4,511067020,DVC Via Diamond,1,51927,44241
+320,5,511101020,DVC Via Diamond,1,51933,44241
+320,5,511102020,DVC Via Diamond,1,52619,44241
+320,4,511068020,DVC Via Diamond,1,52635,44241
+320,4,511069020,DVC Via Diamond,1,52636,44241
+320,5,511103020,DVC Via Diamond,1,52620,44241
+321,4,511104020,San Ramon TC,0,51953,44242
+321,5,511132020,San Ramon TC,0,51954,44242
+321,5,511133020,San Ramon TC,0,51912,44242
+321,4,511105020,San Ramon TC,0,51906,44242
+321,4,511106020,San Ramon TC,0,51908,44242
+321,5,511134020,San Ramon TC,0,51914,44242
+321,5,511135020,San Ramon TC,0,52626,44242
+321,4,511107020,San Ramon TC,0,52642,44242
+321,4,511108020,San Ramon TC,0,51906,44242
+321,5,511136020,San Ramon TC,0,51912,44242
+321,5,511137020,San Ramon TC,0,52625,44242
+321,4,511109020,San Ramon TC,0,52641,44242
+321,4,511110020,San Ramon TC,0,52642,44242
+321,5,511138020,San Ramon TC,0,52626,44242
+321,5,511139020,San Ramon TC,0,52628,44242
+321,4,511111020,San Ramon TC,0,52644,44242
+321,4,511112020,San Ramon TC,0,52641,44242
+321,5,511140020,San Ramon TC,0,52625,44242
+321,5,511141020,San Ramon TC,0,52627,44242
+321,4,511113020,San Ramon TC,0,52643,44242
+321,4,511114020,San Ramon TC,0,52644,44242
+321,5,511142020,San Ramon TC,0,52628,44242
+321,5,511143020,San Ramon TC,0,52625,44242
+321,4,511115020,San Ramon TC,0,52641,44242
+321,4,511116020,San Ramon TC,0,52643,44242
+321,5,511144020,San Ramon TC,0,52627,44242
+321,5,511145020,San Ramon TC,0,52628,44242
+321,4,511117020,San Ramon TC,0,52644,44242
+321,4,511118020,WC BART,1,51908,44243
+321,5,511146020,WC BART,1,51914,44243
+321,5,511147020,WC BART,1,51954,44243
+321,4,511119020,WC BART,1,51953,44243
+321,4,511120020,WC BART,1,51906,44243
+321,5,511148020,WC BART,1,51912,44243
+321,5,511149020,WC BART,1,51914,44243
+321,4,511121020,WC BART,1,51908,44243
+321,4,511122020,WC BART,1,52642,44243
+321,5,511150020,WC BART,1,52626,44243
+321,5,511151020,WC BART,1,51912,44243
+321,4,511123020,WC BART,1,51906,44243
+321,4,511124020,WC BART,1,52641,44243
+321,5,511152020,WC BART,1,52625,44243
+321,5,511153020,WC BART,1,52627,44243
+321,4,511125020,WC BART,1,52643,44243
+321,4,511126020,WC BART,1,52644,44243
+321,5,511154020,WC BART,1,52628,44243
+321,5,511155020,WC BART,1,52625,44243
+321,4,511127020,WC BART,1,52641,44243
+321,4,511128020,WC BART,1,52643,44243
+321,5,511156020,WC BART,1,52627,44243
+321,5,511157020,WC BART,1,52628,44243
+321,4,511129020,WC BART,1,52644,44243
+321,4,511130020,WC BART,1,52643,44243
+321,5,511158020,WC BART,1,52627,44243
+321,5,511159020,WC BART,1,52628,44243
+321,4,511131020,WC BART,1,52644,44243
+335,4,511160020,Dublin BART Via Bollinger Cyn,0,51953,44244
+335,5,511183020,Dublin BART Via Bollinger Cyn,0,51954,44244
+335,5,511184020,Dublin BART Via Bollinger Cyn,0,51912,44244
+335,4,511161020,Dublin BART Via Bollinger Cyn,0,51906,44244
+335,4,511162020,Dublin BART Via Bollinger Cyn,0,51908,44244
+335,5,511185020,Dublin BART Via Bollinger Cyn,0,51914,44244
+335,5,511186020,Dublin BART Via Bollinger Cyn,0,52626,44244
+335,4,511163020,Dublin BART Via Bollinger Cyn,0,52642,44244
+335,4,511164020,Dublin BART Via Bollinger Cyn,0,51906,44244
+335,5,511187020,Dublin BART Via Bollinger Cyn,0,51912,44244
+335,5,511188020,Dublin BART Via Bollinger Cyn,0,52625,44244
+335,4,511165020,Dublin BART Via Bollinger Cyn,0,52641,44244
+335,4,511166020,Dublin BART Via Bollinger Cyn,0,52642,44244
+335,5,511189020,Dublin BART Via Bollinger Cyn,0,52626,44244
+335,5,511190020,Dublin BART Via Bollinger Cyn,0,52628,44244
+335,4,511167020,Dublin BART Via Bollinger Cyn,0,52644,44244
+335,4,511168020,Dublin BART Via Bollinger Cyn,0,52641,44244
+335,5,511191020,Dublin BART Via Bollinger Cyn,0,52625,44244
+335,5,511192020,Dublin BART Via Bollinger Cyn,0,52627,44244
+335,4,511169020,Dublin BART Via Bollinger Cyn,0,52643,44244
+335,4,511170020,Dublin BART Via Bollinger Cyn,0,52644,44244
+335,5,511193020,Dublin BART Via Bollinger Cyn,0,52628,44244
+335,4,511171020,San Ramon TC Via Bollinger Cyn,1,51908,44245
+335,5,511194020,San Ramon TC Via Bollinger Cyn,1,51914,44245
+335,5,511195020,San Ramon TC Via Bollinger Cyn,1,51954,44245
+335,4,511172020,San Ramon TC Via Bollinger Cyn,1,51953,44245
+335,4,511173020,San Ramon TC Via Bollinger Cyn,1,51906,44245
+335,5,511196020,San Ramon TC Via Bollinger Cyn,1,51912,44245
+335,5,511197020,San Ramon TC Via Bollinger Cyn,1,51914,44245
+335,4,511174020,San Ramon TC Via Bollinger Cyn,1,51908,44245
+335,4,511175020,San Ramon TC Via Bollinger Cyn,1,52642,44245
+335,5,511198020,San Ramon TC Via Bollinger Cyn,1,52626,44245
+335,5,511199020,San Ramon TC Via Bollinger Cyn,1,51912,44245
+335,4,511176020,San Ramon TC Via Bollinger Cyn,1,51906,44245
+335,4,511177020,San Ramon TC Via Bollinger Cyn,1,52641,44245
+335,5,511200020,San Ramon TC Via Bollinger Cyn,1,52625,44245
+335,5,511201020,San Ramon TC Via Bollinger Cyn,1,52627,44245
+335,4,511178020,San Ramon TC Via Bollinger Cyn,1,52643,44245
+335,4,511179020,San Ramon TC Via Bollinger Cyn,1,52644,44245
+335,5,511202020,San Ramon TC Via Bollinger Cyn,1,52628,44245
+335,5,511203020,San Ramon TC Via Bollinger Cyn,1,52625,44245
+335,4,511180020,San Ramon TC Via Bollinger Cyn,1,52641,44245
+335,4,511181020,San Ramon TC Via Bollinger Cyn,1,52643,44245
+335,5,511204020,San Ramon TC Via Bollinger Cyn,1,52627,44245
+335,5,511205020,San Ramon TC Via Bollinger Cyn,1,52628,44245
+335,4,511182020,San Ramon TC Via Bollinger Cyn,1,52644,44245
+35,10,511231020,Dublin BART Via Bollinger Canyon,0,51955,44246
+35,10,511206020,Dublin BART Via Bollinger Canyon,0,51961,44246
+35,10,511225020,San Ramon Transit Center Via Crow Canyon,0,51960,44248
+35,10,511207020,Dublin BART Via Bollinger Canyon,0,51960,44246
+35,10,511208020,Dublin BART Via Bollinger Canyon,0,51962,44246
+35,10,511226020,San Ramon Transit Center Via Crow Canyon,0,51955,44248
+35,10,511209020,Dublin BART Via Bollinger Canyon,0,51955,44246
+35,10,511210020,Dublin BART Via Bollinger Canyon,0,51961,44246
+35,10,511227020,San Ramon Transit Center Via Crow Canyon,0,51960,44248
+35,10,511211020,Dublin BART Via Bollinger Canyon,0,51960,44246
+35,10,511234020,Dublin BART Via Bollinger Canyon,0,51955,44246
+35,10,511212020,Dublin BART Via Bollinger Canyon,0,51961,44246
+35,10,511213020,Dublin BART Via Windemere Pkwy,0,51955,44247
+35,10,511214020,Dublin BART Via Windemere Pkwy,0,51961,44247
+35,10,511215020,Dublin BART Via Windemere Pkwy,0,51955,44247
+35,10,511216020,Dublin BART Via Windemere Pkwy,0,51961,44247
+35,10,511224020,Dublin BART Via Windemere Pkwy,0,52684,44247
+35,10,511217020,Dublin BART Via Bollinger Canyon,0,51956,44246
+35,10,511218020,Dublin BART Via Windemere Pkwy,0,52685,44247
+35,10,511230020,San Ramon Transit Center Via Crow Canyon,0,51958,44248
+35,10,511232020,Dublin BART Via Bollinger Canyon,0,52684,44246
+35,10,511219020,Dublin BART Via Windemere Pkwy,0,51958,44247
+35,10,511228020,San Ramon Transit Center Via Crow Canyon,0,52685,44248
+35,10,511233020,Dublin BART Via Bollinger Canyon,0,51956,44246
+35,10,511220020,Dublin BART Via Windemere Pkwy,0,52685,44247
+35,10,511221020,Dublin BART Via Bollinger Canyon,0,52684,44246
+35,10,511229020,San Ramon Transit Center Via Crow Canyon,0,52686,44248
+35,10,511223020,Dublin BART Via Bollinger Canyon,0,52686,44246
+35,10,511222020,Dublin BART Via Bollinger Canyon,0,52685,44246
+35,10,511256020,San Ramon  Via Bollinger Canyon,1,51955,44249
+35,10,511239020,San Ramon  Via Bollinger Canyon,1,51961,44249
+35,10,511235020,San Ramon  TC Via Windemere Pkwy,1,51960,44250
+35,10,511236020,San Ramon  Via Bollinger Canyon,1,51962,44249
+35,10,511238020,San Ramon  Via Bollinger Canyon,1,51955,44249
+35,10,511240020,San Ramon  Via Bollinger Canyon,1,51961,44249
+35,10,511257020,San Ramon  Via Bollinger Canyon,1,51960,44249
+35,10,511237020,San Ramon  Via Bollinger Canyon,1,51955,44249
+35,10,511241020,San Ramon  Via Bollinger Canyon,1,51961,44249
+35,10,511242020,San Ramon  Via Bollinger Canyon,1,51955,44249
+35,10,511243020,San Ramon  TC Via Windemere Pkwy,1,51961,44250
+35,10,511244020,San Ramon  TC Via Windemere Pkwy,1,51955,44250
+35,10,511245020,San Ramon  TC Via Windemere Pkwy,1,52685,44250
+35,10,511246020,San Ramon  TC Via Windemere Pkwy,1,52684,44250
+35,10,511250020,San Ramon  Via Bollinger Canyon,1,51956,44249
+35,10,511249020,San Ramon  Via Bollinger Canyon,1,52685,44249
+35,10,511251020,San Ramon  Via Bollinger Canyon,1,52684,44249
+35,10,511247020,San Ramon  TC Via Windemere Pkwy,1,52686,44250
+35,10,511252020,San Ramon  Via Bollinger Canyon,1,51956,44249
+35,10,511253020,San Ramon  TC Via Windemere Pkwy,1,52685,44250
+35,10,511254020,San Ramon  Via Bollinger Canyon,1,52684,44249
+35,10,511248020,San Ramon  TC Via Windemere Pkwy,1,52686,44250
+35,10,511255020,San Ramon  Via Bollinger Canyon,1,52685,44249
+4,10,511258020,Broadway Plaza Downtown,0,51965,44449
+4,10,511259020,Broadway Plaza Downtown,0,51966,44449
+4,10,511260020,Broadway Plaza Downtown,0,51965,44449
+4,10,511261020,Broadway Plaza Downtown,0,51966,44449
+4,10,511262020,Broadway Plaza Downtown,0,51965,44449
+4,10,511263020,Broadway Plaza Downtown,0,51966,44449
+4,10,511264020,Broadway Plaza Downtown,0,51965,44449
+4,10,511265020,Broadway Plaza Downtown,0,51966,44449
+4,4,511299020,Broadway Plaza Downtown,0,51969,44449
+4,5,511327020,Broadway Plaza Downtown,0,51973,44449
+4,10,511266020,Broadway Plaza Downtown,0,51965,44449
+4,5,511328020,Broadway Plaza Downtown,0,51974,44449
+4,4,511300020,Broadway Plaza Downtown,0,51970,44449
+4,10,511267020,Broadway Plaza Downtown,0,51966,44449
+4,4,511301020,Broadway Plaza Downtown,0,51969,44449
+4,5,511329020,Broadway Plaza Downtown,0,51973,44449
+4,10,511268020,Broadway Plaza Downtown,0,51965,44449
+4,5,511330020,Broadway Plaza Downtown,0,51974,44449
+4,4,511302020,Broadway Plaza Downtown,0,51970,44449
+4,10,511269020,Broadway Plaza Downtown,0,51966,44449
+4,4,511303020,Broadway Plaza Downtown,0,51969,44449
+4,5,511331020,Broadway Plaza Downtown,0,51973,44449
+4,10,511270020,Broadway Plaza Downtown,0,51965,44449
+4,5,511332020,Broadway Plaza Downtown,0,51974,44449
+4,4,511304020,Broadway Plaza Downtown,0,51970,44449
+4,10,511271020,Broadway Plaza Downtown,0,51966,44449
+4,4,511305020,Broadway Plaza Downtown,0,51969,44449
+4,5,511333020,Broadway Plaza Downtown,0,51973,44449
+4,10,511272020,Broadway Plaza Downtown,0,51965,44449
+4,5,511334020,Broadway Plaza Downtown,0,52630,44449
+4,4,511306020,Broadway Plaza Downtown,0,52646,44449
+4,10,511273020,Broadway Plaza Downtown,0,51966,44449
+4,4,511307020,Broadway Plaza Downtown,0,51969,44449
+4,5,511335020,Broadway Plaza Downtown,0,51973,44449
+4,10,511274020,Broadway Plaza Downtown,0,51965,44449
+4,5,511336020,Broadway Plaza Downtown,0,52630,44449
+4,4,511308020,Broadway Plaza Downtown,0,52646,44449
+4,10,511275020,Broadway Plaza Downtown,0,51966,44449
+4,4,511309020,Broadway Plaza Downtown,0,51969,44449
+4,5,511337020,Broadway Plaza Downtown,0,51973,44449
+4,10,511276020,Broadway Plaza Downtown,0,51965,44449
+4,5,511338020,Broadway Plaza Downtown,0,52630,44449
+4,4,511310020,Broadway Plaza Downtown,0,52646,44449
+4,10,511277020,Broadway Plaza Downtown,0,51966,44449
+4,4,511311020,Broadway Plaza Downtown,0,51969,44449
+4,5,511339020,Broadway Plaza Downtown,0,51973,44449
+4,10,511278020,Broadway Plaza Downtown,0,51965,44449
+4,5,511340020,Broadway Plaza Downtown,0,52630,44449
+4,4,511312020,Broadway Plaza Downtown,0,52646,44449
+4,10,511279020,Broadway Plaza Downtown,0,52688,44449
+4,4,511313020,Broadway Plaza Downtown,0,51969,44449
+4,5,511341020,Broadway Plaza Downtown,0,51973,44449
+4,10,511280020,Broadway Plaza Downtown,0,52687,44449
+4,5,511342020,Broadway Plaza Downtown,0,52630,44449
+4,4,511314020,Broadway Plaza Downtown,0,52646,44449
+4,10,511281020,Broadway Plaza Downtown,0,52688,44449
+4,4,511315020,Broadway Plaza Downtown,0,51969,44449
+4,5,511343020,Broadway Plaza Downtown,0,51973,44449
+4,10,511282020,Broadway Plaza Downtown,0,52687,44449
+4,5,511344020,Broadway Plaza Downtown,0,52630,44449
+4,4,511316020,Broadway Plaza Downtown,0,52646,44449
+4,10,511283020,Broadway Plaza Downtown,0,52688,44449
+4,4,511317020,Broadway Plaza Downtown,0,51969,44449
+4,5,511345020,Broadway Plaza Downtown,0,51973,44449
+4,10,511284020,Broadway Plaza Downtown,0,52687,44449
+4,5,511346020,Broadway Plaza Downtown,0,52630,44449
+4,4,511318020,Broadway Plaza Downtown,0,52646,44449
+4,10,511285020,Broadway Plaza Downtown,0,52688,44449
+4,4,511319020,Broadway Plaza Downtown,0,52645,44449
+4,5,511347020,Broadway Plaza Downtown,0,52629,44449
+4,10,511286020,Broadway Plaza Downtown,0,52687,44449
+4,5,511348020,Broadway Plaza Downtown,0,52630,44449
+4,4,511320020,Broadway Plaza Downtown,0,52646,44449
+4,10,511287020,Broadway Plaza Downtown,0,52688,44449
+4,4,511321020,Broadway Plaza Downtown,0,52645,44449
+4,5,511349020,Broadway Plaza Downtown,0,52629,44449
+4,10,511288020,Broadway Plaza Downtown,0,52687,44449
+4,5,511350020,Broadway Plaza Downtown,0,52630,44449
+4,4,511322020,Broadway Plaza Downtown,0,52646,44449
+4,10,511289020,Broadway Plaza Downtown,0,52688,44449
+4,4,511323020,Broadway Plaza Downtown,0,52645,44449
+4,5,511351020,Broadway Plaza Downtown,0,52629,44449
+4,10,511290020,Broadway Plaza Downtown,0,52687,44449
+4,5,511352020,Broadway Plaza Downtown,0,52630,44449
+4,4,511324020,Broadway Plaza Downtown,0,52646,44449
+4,10,511291020,Broadway Plaza Downtown,0,52688,44449
+4,4,511325020,Broadway Plaza Downtown,0,52645,44449
+4,5,511353020,Broadway Plaza Downtown,0,52629,44449
+4,10,511292020,Broadway Plaza Downtown,0,52687,44449
+4,5,511354020,Broadway Plaza Downtown,0,52630,44449
+4,4,511326020,Broadway Plaza Downtown,0,52646,44449
+4,10,511293020,Broadway Plaza Downtown,0,52688,44449
+4,10,511294020,Broadway Plaza Downtown,0,52687,44449
+4,10,511295020,Broadway Plaza Downtown,0,52688,44449
+4,10,511296020,Broadway Plaza Downtown,0,52687,44449
+4,10,511297020,Broadway Plaza Downtown,0,52688,44449
+4,10,511298020,Broadway Plaza Downtown,0,52687,44449
+5,10,514491020,Creekside,0,52474,44252
+5,10,514492020,Creekside,0,52474,44252
+5,10,514493020,Creekside,0,52474,44252
+5,10,514494020,Creekside,0,52474,44252
+5,10,514495020,Creekside,0,52474,44252
+5,10,514496020,Creekside,0,52474,44252
+5,10,514497020,Creekside,0,52474,44252
+5,10,514498020,Creekside,0,52474,44252
+5,10,514499020,Creekside,0,52474,44252
+5,10,514500020,Creekside,0,52474,44252
+5,10,514501020,Creekside,0,52689,44252
+5,10,514502020,Creekside,0,52689,44252
+5,10,514503020,Creekside,0,52689,44252
+5,10,514504020,Creekside,0,52689,44252
+5,10,514505020,Creekside,0,52689,44252
+5,10,514506020,Creekside,0,52689,44252
+5,10,514507020,Creekside,0,52689,44252
+5,10,514508020,Creekside,0,52689,44252
+5,10,514509020,Creekside,0,52689,44252
+5,10,514510020,Walnut Creek BART,1,52474,44253
+5,10,514511020,Walnut Creek BART,1,52474,44253
+5,10,514512020,Walnut Creek BART,1,52474,44253
+5,10,514513020,Walnut Creek BART,1,52474,44253
+5,10,514514020,Walnut Creek BART,1,52474,44253
+5,10,514515020,Walnut Creek BART,1,52474,44253
+5,10,514516020,Walnut Creek BART,1,52474,44253
+5,10,514517020,Walnut Creek BART,1,52474,44253
+5,10,514518020,Walnut Creek BART,1,52474,44253
+5,10,514519020,Walnut Creek BART,1,52474,44253
+5,10,514520020,Walnut Creek BART,1,52689,44253
+5,10,514521020,Walnut Creek BART,1,52689,44253
+5,10,514522020,Walnut Creek BART,1,52689,44253
+5,10,514523020,Walnut Creek BART,1,52689,44253
+5,10,514524020,Walnut Creek BART,1,52689,44253
+5,10,514525020,Walnut Creek BART,1,52689,44253
+5,10,514526020,Walnut Creek BART,1,52689,44253
+5,10,514527020,Walnut Creek BART,1,52689,44253
+5,10,514528020,Walnut Creek BART,1,52689,44253
+6,10,511411020,Lafayette BART St Mary's College,0,51978,44254
+6,10,511395020,Lafayette BART St Mary's College,0,51982,44254
+6,10,511396020,Lafayette BART St Mary's College,0,51980,44254
+6,10,511412020,Lafayette BART St Mary's College,0,51978,44254
+6,10,511397020,Lafayette BART St Mary's College,0,51982,44254
+6,10,511409020,Lafayette BART St Mary's College,0,51980,44254
+6,5,511456020,Lafayette BART St Mary's College,0,51986,44254
+6,4,511443020,Lafayette BART St Mary's College,0,51984,44254
+6,10,511398020,Lafayette BART St Mary's College,0,51982,44254
+6,10,511408020,Lafayette BART St Mary's College,0,51980,44254
+6,4,511444020,Lafayette BART St Mary's College,0,51984,44254
+6,5,511457020,Lafayette BART St Mary's College,0,51986,44254
+6,10,511399020,Lafayette BART St Mary's College,0,51982,44254
+6,5,511458020,Lafayette BART St Mary's College,0,51986,44254
+6,4,511445020,Lafayette BART St Mary's College,0,51984,44254
+6,10,511400020,Lafayette BART St Mary's College,0,52692,44254
+6,4,511446020,Lafayette BART St Mary's College,0,52647,44254
+6,5,511459020,Lafayette BART St Mary's College,0,52631,44254
+6,10,511410020,Lafayette BART St Mary's College,0,52690,44254
+6,5,511460020,Lafayette BART St Mary's College,0,52631,44254
+6,4,511447020,Lafayette BART St Mary's College,0,52647,44254
+6,10,511401020,Lafayette BART St Mary's College,0,52693,44254
+6,10,511402020,Lafayette BART St Mary's College,0,52691,44254
+6,10,511403020,Lafayette BART St Mary's College,0,51981,44254
+6,4,511448020,Lafayette BART St Mary's College,0,52647,44254
+6,5,511461020,Lafayette BART St Mary's College,0,52631,44254
+6,10,511413020,Lafayette BART St Mary's College,0,52693,44254
+6,10,511404020,Lafayette BART St Mary's College,0,52691,44254
+6,10,511405020,Lafayette BART St Mary's College,0,52694,44254
+6,10,511414020,Lafayette BART St Mary's College,0,52693,44254
+6,10,511406020,Lafayette BART St Mary's College,0,52691,44254
+6,10,511407020,Lafayette BART St Mary's College,0,52694,44254
+6,10,511415020,Orinda BART St Mary's College,1,51982,44255
+6,10,511416020,Orinda BART St Mary's College,1,51980,44255
+6,10,511431020,Orinda BART St Mary's College,1,51978,44255
+6,10,511417020,Orinda BART St Mary's College,1,51982,44255
+6,10,511418020,Orinda BART St Mary's College,1,51980,44255
+6,10,511432020,Orinda BART St Mary's College,1,51978,44255
+6,10,511419020,Orinda BART St Mary's College,1,51982,44255
+6,10,511436020,Orinda BART Via Orinda Village,1,51980,44256
+6,4,511449020,Orinda BART St Mary's College,1,51984,44255
+6,5,511462020,Orinda BART St Mary's College,1,51986,44255
+6,10,511428020,Orinda BART St Mary's College,1,51980,44255
+6,10,511437020,Orinda BART Via Orinda Village,1,51982,44256
+6,5,511463020,Orinda BART St Mary's College,1,51986,44255
+6,4,511450020,Orinda BART St Mary's College,1,51984,44255
+6,10,511420020,Orinda BART St Mary's College,1,51982,44255
+6,10,511438020,Orinda BART Via Orinda Village,1,51980,44256
+6,4,511451020,Orinda BART St Mary's College,1,51984,44255
+6,5,511464020,Orinda BART St Mary's College,1,51986,44255
+6,10,511429020,Orinda BART St Mary's College,1,52692,44255
+6,10,511439020,Orinda BART Via Orinda Village,1,51982,44256
+6,10,511421020,Orinda BART St Mary's College,1,51982,44255
+6,10,511440020,Orinda BART Via Orinda Village,1,52692,44256
+6,5,511465020,Orinda BART St Mary's College,1,51986,44255
+6,4,511452020,Orinda BART St Mary's College,1,51984,44255
+6,10,511422020,Orinda BART St Mary's College,1,52693,44255
+6,10,511441020,Orinda BART Via Orinda Village,1,51982,44256
+6,4,511453020,Orinda BART St Mary's College,1,52647,44255
+6,5,511466020,Orinda BART St Mary's College,1,52631,44255
+6,10,511430020,Orinda BART St Mary's College,1,52690,44255
+6,10,511442020,Orinda BART Via Orinda Village,1,52693,44256
+6,10,511423020,Orinda BART St Mary's College,1,51981,44255
+6,5,511467020,Orinda BART St Mary's College,1,52631,44255
+6,4,511454020,Orinda BART St Mary's College,1,52647,44255
+6,10,511433020,Orinda BART St Mary's College,1,52693,44255
+6,10,511424020,Orinda BART St Mary's College,1,52691,44255
+6,4,511455020,Orinda BART St Mary's College,1,52647,44255
+6,5,511468020,Orinda BART St Mary's College,1,52631,44255
+6,10,511425020,Orinda BART St Mary's College,1,52694,44255
+6,10,511434020,Orinda BART St Mary's College,1,52693,44255
+6,10,511426020,Orinda BART St Mary's College,1,52691,44255
+6,10,511427020,Orinda BART St Mary's College,1,52694,44255
+6,10,511435020,Orinda BART St Mary's College,1,52693,44255
+7,10,511521020,Shadelands Shuttle,0,52022,44287
+7,10,511522020,Shadelands Shuttle,0,52023,44287
+7,10,511523020,Shadelands Shuttle,0,52022,44287
+7,10,511524020,Shadelands Shuttle,0,52023,44287
+7,10,511525020,Shadelands Shuttle,0,52022,44287
+7,10,511526020,Shadelands Shuttle,0,52023,44287
+7,10,511527020,Shadelands Shuttle,0,52022,44287
+7,10,511528020,Shadelands Shuttle,0,52023,44287
+7,10,511529020,Shadelands Shuttle,0,52022,44287
+7,10,511530020,Shadelands Shuttle,0,52023,44287
+7,10,511531020,Shadelands Shuttle,0,52022,44287
+7,10,511532020,Shadelands Shuttle,0,52020,44287
+7,10,511533020,Shadelands Shuttle,0,52021,44287
+7,10,511534020,Shadelands Shuttle,0,52020,44287
+7,10,511535020,Shadelands Shuttle,0,52021,44287
+7,10,511536020,Shadelands Shuttle,0,52020,44287
+7,10,511537020,Shadelands Shuttle,0,52021,44287
+7,10,511538020,Shadelands Shuttle,0,52020,44287
+7,10,511539020,Shadelands Shuttle,0,52021,44287
+7,10,511540020,Shadelands Shuttle,0,52020,44287
+7,10,511541020,Shadelands Shuttle,0,52021,44287
+7,10,511542020,Shadelands Shuttle,0,52020,44287
+7,10,511543020,Shadelands Shuttle,0,52021,44287
+7,10,511544020,Shadelands Shuttle,0,52020,44287
+9,10,511545020,WC BART Via PH BART,0,52026,44291
+9,10,511546020,WC BART Via PH BART,0,52027,44291
+9,10,511547020,WC BART Via PH BART,0,52026,44291
+9,10,511548020,WC BART Via PH BART,0,52027,44291
+9,10,511549020,WC BART Via PH BART,0,52026,44291
+9,10,511550020,WC BART Via PH BART,0,52696,44291
+9,10,511551020,WC BART Via PH BART,0,52026,44291
+9,10,511552020,WC BART Via PH BART,0,52697,44291
+9,10,511553020,WC BART Via PH BART,0,52695,44291
+9,10,511554020,WC BART Via PH BART,0,52697,44291
+9,10,511555020,WC BART Via PH BART,0,52695,44291
+9,10,511556020,WC BART Via PH BART,0,52698,44291
+9,10,511557020,WC BART Via PH BART,0,52695,44291
+9,10,511558020,WC BART Via PH BART,0,52698,44291
+9,10,511559020,WC BART Via PH BART,0,52695,44291
+9,10,511560020,DVC/PH BART,1,52026,44292
+9,10,511561020,DVC/PH BART,1,52027,44292
+9,10,511562020,DVC/PH BART,1,52026,44292
+9,10,511563020,DVC/PH BART,1,52027,44292
+9,10,511564020,DVC/PH BART,1,52026,44292
+9,10,511565020,DVC/PH BART,1,52696,44292
+9,10,511566020,DVC/PH BART,1,52695,44292
+9,10,511567020,DVC/PH BART,1,52697,44292
+9,10,511568020,DVC/PH BART,1,52695,44292
+9,10,511569020,DVC/PH BART,1,52698,44292
+9,10,511570020,DVC/PH BART,1,52695,44292
+9,10,511571020,DVC/PH BART,1,52698,44292
+9,10,511572020,DVC/PH BART,1,52695,44292
+9,10,511573020,DVC/PH BART,1,52698,44292
+9,10,511574020,DVC/PH BART,1,52695,44292
+91X,10,511580020,Airport Plaza,0,52028,44293
+91X,10,511575020,Airport Plaza,0,52028,44293
+91X,10,511576020,Airport Plaza,0,52028,44293
+91X,10,511582020,Airport Plaza,0,52028,44293
+91X,10,511583020,Airport Plaza,0,52028,44293
+91X,10,511581020,Airport Plaza,0,52012,44293
+91X,10,511577020,Airport Plaza,0,52012,44293
+91X,10,511578020,Airport Plaza,0,52012,44293
+91X,10,511579020,Airport Plaza,0,52012,44293
+91X,10,511584020,Airport Plaza,0,52012,44293
+92X,10,511585020,ACE Train,0,52030,44295
+92X,10,511587020,ACE Train,0,52029,44294
+92X,10,511588020,ACE Train,0,52018,44294
+92X,10,511586020,ACE Train,0,52014,44294
+92X,10,511591020,San Ramon,1,52030,44296
+92X,10,511590020,Mitchell P&R,1,52029,44297
+92X,10,511592020,Mitchell P&R,1,52018,44297
+92X,10,511589020,Mitchell P&R,1,52014,44297
+93X,10,511604020,WC BART,0,52033,44299
+93X,10,511600020,WC BART,0,52037,44299
+93X,10,511603020,WC BART,0,52034,44299
+93X,10,511601020,WC BART,0,52036,44299
+93X,10,511602020,WC BART,0,52035,44299
+93X,10,511605020,WC BART,0,52032,44299
+93X,10,511597020,Antioch BART,1,51895,44298
+93X,10,511593020,Antioch BART,1,52031,44298
+93X,10,511594020,Antioch BART,1,52009,44298
+93X,10,511599020,Antioch BART,1,51989,44298
+93X,10,511596020,Antioch BART,1,52010,44298
+93X,10,511598020,Antioch BART,1,51990,44298
+93X,10,511595020,Antioch BART,1,52003,44298
+95X,10,511606020,San Ramon,0,52033,44301
+95X,10,511607020,San Ramon,0,52034,44301
+95X,10,511611020,San Ramon,0,52033,44301
+95X,10,511612020,San Ramon,0,52034,44301
+95X,10,511608020,San Ramon,0,52033,44301
+95X,10,511617020,San Ramon Via Danville P&R,0,52010,44300
+95X,10,511616020,San Ramon Via Danville P&R,0,52009,44300
+95X,10,511613020,San Ramon Via Danville P&R,0,51989,44300
+95X,10,511609020,San Ramon Via Danville P&R,0,52010,44300
+95X,10,511610020,San Ramon Via Danville P&R,0,52004,44300
+95X,10,511614020,San Ramon Via Danville P&R,0,52003,44300
+95X,10,511615020,San Ramon Via Danville P&R,0,52004,44300
+96X,10,511618020,Bishop Ranch,0,52037,44302
+96X,10,511626020,Bishop Ranch,0,52036,44302
+96X,10,511627020,Bishop Ranch,0,52037,44302
+96X,10,511619020,Bishop Ranch,0,52036,44302
+96X,10,511620020,Bishop Ranch,0,52037,44302
+96X,10,511621020,Bishop Ranch,0,52036,44302
+96X,10,511622020,Bishop Ranch,0,52031,44302
+96X,10,511623020,Bishop Ranch,0,52007,44302
+96X,10,511628020,Bishop Ranch,0,51990,44302
+96X,10,511624020,Bishop Ranch,0,52007,44302
+96X,10,511630020,Bishop Ranch,0,51990,44302
+96X,10,511629020,Bishop Ranch,0,52007,44302
+96X,10,511625020,Bishop Ranch,0,52007,44302
+97X,10,511631020,Bishop Ranch,0,52038,44305
+97X,10,511632020,Bishop Ranch,0,52038,44305
+97X,10,511633020,Bishop Ranch,0,52038,44305
+97X,10,511634020,Bishop Ranch,0,52019,44305
+97X,10,511635020,Bishop Ranch,0,52019,44305
+97X,10,511636020,Bishop Ranch,0,52019,44305
+98X,10,511637020,WC BART,0,52041,44306
+98X,10,511638020,WC BART,0,52042,44306
+98X,10,511639020,WC BART,0,52041,44306
+98X,10,511640020,WC BART,0,52042,44306
+98X,10,511641020,WC BART,0,52041,44306
+98X,10,511642020,WC BART,0,52042,44306
+98X,10,511643020,WC BART,0,52041,44306
+98X,10,511644020,WC BART,0,52042,44306
+98X,10,511645020,WC BART,0,52041,44306
+98X,10,511646020,WC BART,0,52700,44306
+98X,10,511647020,WC BART,0,52041,44306
+98X,10,511648020,WC BART,0,52701,44306
+98X,10,511649020,WC BART,0,52699,44306
+98X,10,511650020,WC BART,0,52701,44306
+98X,10,511651020,WC BART,0,52699,44306
+98X,10,511652020,WC BART,0,52701,44306
+98X,10,511653020,WC BART,0,52699,44306
+98X,10,511654020,WC BART,0,52701,44306
+98X,10,511655020,Martinez Amtrak,1,52041,44307
+98X,10,511656020,Martinez Amtrak,1,52042,44307
+98X,10,511657020,Martinez Amtrak,1,52041,44307
+98X,10,511658020,Martinez Amtrak,1,52042,44307
+98X,10,511659020,Martinez Amtrak,1,52041,44307
+98X,10,511660020,Martinez Amtrak,1,52042,44307
+98X,10,511661020,Martinez Amtrak,1,52041,44307
+98X,10,511662020,Martinez Amtrak,1,52700,44307
+98X,10,511663020,Martinez Amtrak,1,52041,44307
+98X,10,511664020,Martinez Amtrak,1,52701,44307
+98X,10,511665020,Martinez Amtrak,1,52041,44307
+98X,10,511666020,Martinez Amtrak,1,52701,44307
+98X,10,511667020,Martinez Amtrak,1,52699,44307
+98X,10,511668020,Martinez Amtrak,1,52701,44307
+98X,10,511669020,Martinez Amtrak,1,52699,44307
+98X,10,511670020,Martinez Amtrak,1,52701,44307
+98X,10,511671020,Martinez Amtrak,1,52699,44307
+98X,10,511672020,Martinez Amtrak,1,52701,44307
+99X,10,511673020,Martinez Amtrak,0,52044,44308
+99X,10,511680020,Martinez Amtrak,0,52043,44308
+99X,10,511674020,Martinez Amtrak,0,51896,44308
+99X,10,511675020,Martinez Amtrak,0,52044,44308
+99X,10,511681020,Martinez Amtrak,0,52043,44308
+99X,10,511676020,Martinez Amtrak,0,51897,44308
+99X,10,511677020,Martinez Amtrak,0,52005,44308
+99X,10,511678020,Martinez Amtrak,0,51897,44308
+99X,10,511679020,Martinez Amtrak,0,52005,44308
+99X,10,511683020,N Concord BART,1,52044,44309
+99X,10,511690020,N Concord BART,1,52043,44309
+99X,10,511684020,N Concord BART,1,51896,44309
+99X,10,511685020,N Concord BART,1,52044,44309
+99X,10,511691020,N Concord BART,1,52043,44309
+99X,10,511682020,N Concord BART,1,52005,44309
+99X,10,511686020,N Concord BART,1,51897,44309
+99X,10,511687020,N Concord BART,1,52005,44309
+99X,10,511688020,N Concord BART,1,51897,44309
+99X,10,511689020,N Concord BART,1,52005,44309
+ALCR,10,511692020,,0,52046,
+ALCR,10,511693020,,0,52046,
+ALCR,10,511694020,,0,52046,
+ALCR,10,511695020,,0,52045,
+ALCR,10,511696020,,0,52045,
+ALCR,10,511697020,,1,52046,
+ALCR,10,511698020,,1,52046,
+ALCR,10,511699020,,1,52045,
+ALCR,10,511700020,,1,52045,
+ALCR,10,511701020,,1,52045,
