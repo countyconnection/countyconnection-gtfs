@@ -10,7 +10,6 @@ fare_id,route_id,origin_id,destination_id,contains_id
 1,19,,,
 1,20,,,
 1,21,,,
-1,250,,,
 1,27,,,
 1,28,,,
 1,301,,,
@@ -36,4 +35,3 @@ fare_id,route_id,origin_id,destination_id,contains_id
 1,97X,,,
 1,98X,,,
 1,99X,,,
-2,ALCR,,,

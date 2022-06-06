@@ -1,39 +1,37 @@
-route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-1,1,Rossmoor/Shadelands,3,006493,ffffff
-10,10,Concord BART/Clayton Rd,3,006493,ffffff
-11,11,Concord BART/Pleasant Hill BART,3,46A076,ffffff
-14,14,Concord BART/Walnut Creek BART,3,46A076,ffffff
-15,15,Concord BART/Pleasant Hill BART,3,006493,ffffff
-16,16,Martinez Amtrak/Concord BART,3,46A076,ffffff
-17,17,Concord BART/North Concord BART,3,006493,ffffff
-18,18,Martinez Amtrak/Pleasant Hill BART,3,006493,ffffff
-19,19,Martinez Amtrak/Concord BART,3,006493,ffffff
-20,20,DVC/Concord BART,3,006493,ffffff
-21,21,Walnut Creek BART/San Ramon,3,006493,ffffff
-250,250,Lafayette BART/Saint Mary's College,3,7A99AC,ffffff
-27,27,North Concord BART/Bates Ave,3,006493,ffffff
-28,28,Concord BART/Amtrak,3,006493,ffffff
-301,301,Walnut Creek BART/John Muir Med Ctr,3,9C629D,ffffff
-310,310,Concord BART/Clayton Rd,3,9C629D,ffffff
-311,311,Concord BART/Walnut Creek BART,3,9C629D,ffffff
-314,314,Concord BART/DVC,3,9C629D,ffffff
-315,315,Concord BART/Bel Air Dr,3,9C629D,ffffff
-316,316,Martinez Amtrak/Pleasant Hill BART,3,9C629D,ffffff
-320,320,DVC/Concord BART,3,9C629D,ffffff
-321,321,Walnut Creek BART/San Ramon,3,9C629D,ffffff
-335,335,Dublin BART/San Ramon,3,9C629D,ffffff
-35,35,Dublin/Pleasanton BART/San Ramon,3,006493,ffffff
-4,4,Walnut Creek BART/Broadway Plaza,3,46A076,ffffff
-5,5,Walnut Creek BART/Creekside Dr,3,46A076,ffffff
-6,6,Lafayette BART/Orinda BART,3,006493,ffffff
-7,7,Pleasant Hill BART/Shadelands,3,46A076,ffffff
-9,9,DVC/Walnut Creek BART,3,006493,ffffff
-91X,91X,Concord Commuter Express,3,DE9637,ffffff
-92X,92X,Pleasanton ACE/Mitchell Dr,3,DE9637,ffffff
-93X,93X,Walnut Creek BART/Antioch BART,3,DE9637,ffffff
-95X,95X,San Ramon/BART Walnut Creek,3,DE9637,ffffff
-96X,96X,BART Walnut Creek/Bishop Ranch,3,DE9637,ffffff
-97X,97X,Dublin BART/Bishop Ranch,3,DE9637,ffffff
-98X,98X,Martinez Amtrak/Walnut Creek BART,3,DE9637,ffffff
-99X,99X,Martinez Amtrak/North Concord BART,3,DE9637,ffffff
-ALCR,ALCR,Alamo Creek Shuttle,3,46A076,ffffff
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,2,1,ROUTE 1,,3,,006493,000000
+10,2,10,ROUTE 10,,3,,006493,000000
+11,2,11,ROUTE 11,,3,,46a076,000000
+14,2,14,ROUTE 14,,3,,46a076,000000
+15,2,15,ROUTE 15,,3,,006493,000000
+16,2,16,ROUTE 16,,3,,46a076,000000
+17,2,17,ROUTE 17,,3,,006493,000000
+18,2,18,ROUTE 18,,3,,006493,000000
+19,2,19,ROUTE 19,,3,,006493,000000
+20,2,20,ROUTE 20,,3,,006493,000000
+21,2,21,ROUTE 21,,3,,006493,000000
+27,2,27,ROUTE 27,,3,,006493,000000
+28,2,28,ROUTE 28,,3,,006493,000000
+301,2,301,ROUTE 301,,3,,9c629d,000000
+310,2,310,ROUTE 310,,3,,9c629d,000000
+311,2,311,ROUTE 311,,3,,9c629d,000000
+314,2,314,ROUTE 314,,3,,9c629d,000000
+315,2,315,ROUTE 315,,3,,9c629d,000000
+316,2,316,ROUTE 316,,3,,9c629d,000000
+320,2,320,ROUTE 320,,3,,9c629d,000000
+321,2,321,ROUTE 321,,3,,9c629d,000000
+335,2,335,ROUTE 335,,3,,9c629d,000000
+35,2,35,ROUTE 35,,3,,006493,000000
+4,2,4,ROUTE 4,,3,,46a076,000000
+5,2,5,ROUTE 5,,3,,46a076,000000
+6,2,6,ROUTE 6,,3,,006493,000000
+7,2,7,ROUTE 7,,3,,46a076,000000
+9,2,9,ROUTE 9,,3,,006493,000000
+91X,2,91X,ROUTE 91X,,3,,de9634,000000
+92X,2,92X,ROUTE 92X,,3,,de9634,000000
+93X,2,93X,ROUTE 93X,,3,,de9634,000000
+95X,2,95X,ROUTE 95X,,3,,de9634,000000
+96X,2,96X,ROUTE 96X,,3,,de9634,000000
+97X,2,97X,ROUTE 97X,,3,,de9634,000000
+98X,2,98X,ROUTE 98X,,3,,de9634,000000
+99X,2,99X,ROUTE 99X,,3,,de9634,000000
