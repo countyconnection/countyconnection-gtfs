@@ -30,7 +30,6 @@ fare_id,route_id,origin_id,destination_id,contains_id
 1,602,,,
 1,605,,,
 1,606,,,
-1,608,,,
 1,611,,,
 1,612,,,
 1,613,,,

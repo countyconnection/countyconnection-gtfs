@@ -21,6 +21,8 @@ route_id,direction_id,direction
 20,1,WEST
 21,0,SOUTH
 21,1,NORTH
+250,0,NORTH
+250,1,SOUTH
 27,0,LOOP
 28,0,SOUTH
 28,1,NORTH
