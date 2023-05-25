@@ -34,8 +34,8 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 1273,1273,Alhambra Ave + Wildcroft Dr,Alhambra Avenue and Wildcroft Drive,37.970551,-122.105207,0,
 1252,1252,Alhambra Ave + John Muir Rd,Alhambra Avenue and John Muir Road,37.982985,-122.116552,0,
 1253,1253,Alhambra Ave + Phylis Ter,Alhambra Avenue and Phylis Terrace,37.983458,-122.1244,0,
-1039,1039,Martinez Amtrak,Martinez Amtrak,38.018576,-122.139182,0,
-2285,2285,Martinez Amtrak Unloading,Martinez Amtrak Unloading,38.019091,-122.139522,0,
+1039,1039,Martinez Amtrak,Martinez Amtrak,38.018576,-122.139182,0,S8
+2285,2285,Martinez Amtrak,Martinez Amtrak,38.019091,-122.139522,0,S8
 1578,1578,Annabel Ln + End,Annabel Lane and End,37.773466,-121.971364,0,
 1281,1281,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991063,-122.094062,0,
 1286,1286,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991161,-122.093962,0,
@@ -60,20 +60,20 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 492,492,Bates Ave + Port Chicago Hwy,Bates Avenue and Port Chicago Highway,38.015138,-122.025954,0,
 497,497,Bates Ave + Folsom Ct,Bates Avenue and Folsom Court,38.014181,-122.031635,0,
 2251,2251,Bates Ave + Commercial Cir,Bates Avenue and Commercial Circle,38.014259,-122.031516,0,
-883,883,Concord BART,Concord BART,37.972663,-122.029838,0,S1
-892,892,Concord BART,Concord BART,37.973846,-122.029374,0,S1
-893,893,Concord BART,Concord BART,37.974155,-122.02929,0,S1
-894,894,Concord BART,Concord BART,37.9743,-122.02921,0,S1
-895,895,Concord BART,Concord BART,37.97456,-122.02921,0,S1
-885,885,Concord BART,Concord BART,37.973259,-122.029686,0,S1
-886,886,Concord BART,Concord BART,37.97346,-122.029589,0,S1
-888,888,Concord BART,Concord BART,37.974111,-122.029132,0,S1
-889,889,Concord BART,Concord BART,37.97428,-122.02911,0,S1
-890,890,Concord BART,Concord BART,37.974536,-122.029068,0,S1
+2250,2250,Walnut Creek BART,Walnut Creek BART,37.905949,-122.068758,0,S5
+2249,2249,Walnut Creek BART,Walnut Creek BART,37.905886,-122.06858,0,S5
+2248,2248,Walnut Creek BART,Walnut Creek BART,37.905823,-122.068404,0,S5
+2247,2247,Walnut Creek BART,Walnut Creek BART,37.905758,-122.068223,0,S5
+2246,2246,Walnut Creek BART,Walnut Creek BART,37.905691,-122.068039,0,S5
+2244,2244,Walnut Creek BART,Walnut Creek BART,37.905759,-122.06865,0,S5
+2243,2243,Walnut Creek BART,Walnut Creek BART,37.90569,-122.068468,0,S5
+2242,2242,Walnut Creek BART,Walnut Creek BART,37.905626,-122.068293,0,S5
+2241,2241,Walnut Creek BART,Walnut Creek BART,37.905561,-122.068117,0,S5
+2239,2239,Walnut Creek BART,Walnut Creek BART,37.905344,-122.068256,0,S5
 S1,S1,Concord BART,Concord BART,37.973646,-122.029524,1,
-2158,2158,Unloading Dublin Pleasanton BART,Unloading Dublin Pleasanton BART,37.701623,-121.89803,0,
-1160,1160,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702901,-121.89944,0,S2
-2140,2140,Dublin Pleasanton BART,Dublin Pleasanton BART,37.703045,-121.899819,0,S2
+2158,2158,Dublin Pleasanton BART,Dublin Pleasanton BART,37.701623,-121.89803,0,S5
+2237,2237,Walnut Creek BART,Walnut Creek BART,37.905473,-122.068615,0,S5
+2173,2173,Diablo Valley College,Diablo Valley College,37.971055,-122.069027,0,S6
 S2,S2,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702643,-121.899066,1,
 2067,2067,Berrellesa St + Marina Vista Ave And Escobar St,Berrellesa Street between Marina Vista Avenue and Escobar Street,38.016708,-122.139659,0,
 1290,1290,Berrellesa St + Jones St,Berrellesa Street and Jones Street,38.011885,-122.13495,0,
@@ -85,9 +85,9 @@ S2,S2,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702643,-121.899066,1,
 2257,2257,Bishop Ranch 1,Bishop Ranch One,37.760049,-121.955669,0,
 1553,1553,Bishop Ranch 8,Bishop Ranch Eight,37.768118,-121.968502,0,
 1162,1162,Lafayette BART,Lafayette BART,37.893571,-122.125128,0,
-896,896,North Concord Martinez BART,North Concord Martinez BART,38.00241,-122.024216,0,S3
-897,897,North Concord Martinez BART,North Concord Martinez BART,38.00225,-122.024201,0,S3
-898,898,North Concord Martinez BART,North Concord Martinez BART,38.00218,-122.024085,0,S3
+2172,2172,Diablo Valley College,Diablo Valley College,37.970908,-122.068987,0,S6
+2171,2171,Diablo Valley College,Diablo Valley College,37.970741,-122.068967,0,S6
+2170,2170,Diablo Valley College,Diablo Valley College,37.970583,-122.068987,0,S6
 S3,S3,North Concord Martinez BART,North Concord Martinez BART,38.002694,-122.024608,1,
 2032,2032,Bollinger Canyon Rd + Albion Rd,Bollinger Canyon Road and Albion Road,37.76714,-121.9055,0,
 2003,2003,Bollinger Canyon Rd + Alcosta Blvd,Bollinger Canyon Road and Alcosta Boulevard,37.76559,-121.952489,0,
@@ -140,14 +140,14 @@ S3,S3,North Concord Martinez BART,North Concord Martinez BART,38.002694,-122.024
 1426,1426,Boyd Rd + Campbell Ln,Boyd Road and Campbell Lane,37.943473,-122.065506,0,
 1427,1427,Boyd Rd + Cleaveland Rd,Boyd Road and Cleaveland Road,37.943431,-122.063652,0,
 1425,1425,Boyd Rd + Patterson Rd,Boyd Road and Patterson Road,37.943526,-122.069067,0,
-1071,1071,Pleasant Hill BART,Pleasant Hill BART,37.92878,-122.055218,0,S4
-1072,1072,Pleasant Hill BART,Pleasant Hill BART,37.928621,-122.055477,0,S4
-1073,1073,Pleasant Hill BART,Pleasant Hill BART,37.928461,-122.055715,0,S4
-1074,1074,Pleasant Hill BART,Pleasant Hill BART,37.9283,-122.0558,0,S4
-2135,2135,Pleasant Hill BART,Pleasant Hill BART,37.928255,-122.055835,0,S4
-2136,2136,Pleasant Hill BART,Pleasant Hill BART,37.928375,-122.055617,0,S4
-2137,2137,Pleasant Hill BART,Pleasant Hill BART,37.928581,-122.055417,0,S4
+2169,2169,Diablo Valley College,Diablo Valley College,37.970403,-122.068987,0,S6
+2168,2168,Diablo Valley College,Diablo Valley College,37.97044,-122.069187,0,S6
+2140,2140,Dublin Pleasanton BART,Dublin Pleasanton BART,37.703045,-121.899819,0,S2
 2138,2138,Pleasant Hill BART,Pleasant Hill BART,37.92872,-122.055219,0,S4
+2137,2137,Pleasant Hill BART,Pleasant Hill BART,37.928581,-122.055417,0,S4
+2136,2136,Pleasant Hill BART,Pleasant Hill BART,37.928375,-122.055617,0,S4
+2135,2135,Pleasant Hill BART,Pleasant Hill BART,37.928255,-122.055835,0,S4
+2052,2052,San Ramon Transit Center,San Ramon Transit Center,37.770546,-121.960511,0,S7
 S4,S4,Pleasant Hill BART,Pleasant Hill BART,37.928523,-122.056026,1,
 440,440,Buchanan Rd + Campbell Dr,Buchanan Road and Campbell Drive,37.997976,-121.886527,0,
 441,441,Buchanan Rd + Harbor Dr,Buchanan Road and Harbor Drive,37.998065,-121.887779,0,
@@ -166,17 +166,17 @@ S4,S4,Pleasant Hill BART,Pleasant Hill BART,37.928523,-122.056026,1,
 1434,1434,Buskirk Ave + Mayhew Way,Buskirk Avenue and Mayhew Way,37.936958,-122.059869,0,
 1984,1984,Buskirk Ave + The Crossroads,Buskirk Avenue and The Crossroads,37.943288,-122.05661,0,
 1433,1433,Buskirk Ave + The Crossroads,Buskirk Avenue and The Crossroads,37.941186,-122.058728,0,
-2237,2237,Walnut Creek BART,Walnut Creek BART,37.905473,-122.068615,0,S5
-2239,2239,Walnut Creek BART,Walnut Creek BART,37.905344,-122.068256,0,S5
-2241,2241,Walnut Creek BART,Walnut Creek BART,37.905561,-122.068117,0,S5
-2242,2242,Walnut Creek BART,Walnut Creek BART,37.905626,-122.068293,0,S5
-2243,2243,Walnut Creek BART,Walnut Creek BART,37.90569,-122.068468,0,S5
-2244,2244,Walnut Creek BART,Walnut Creek BART,37.905759,-122.06865,0,S5
-2246,2246,Walnut Creek BART,Walnut Creek BART,37.905691,-122.068039,0,S5
-2247,2247,Walnut Creek BART,Walnut Creek BART,37.905758,-122.068223,0,S5
-2248,2248,Walnut Creek BART,Walnut Creek BART,37.905823,-122.068404,0,S5
-2249,2249,Walnut Creek BART,Walnut Creek BART,37.905886,-122.06858,0,S5
-2250,2250,Walnut Creek BART,Walnut Creek BART,37.905949,-122.068758,0,S5
+1700,1700,San Ramon Transit Center,San Ramon Transit Center,37.770466,-121.960417,0,S7
+1699,1699,San Ramon Transit Center,San Ramon Transit Center,37.770211,-121.960297,0,S7
+1697,1697,San Ramon Transit Center,San Ramon Transit Center,37.770443,-121.96032,0,S7
+1695,1695,San Ramon Transit Center,San Ramon Transit Center,37.770486,-121.960337,0,S7
+1160,1160,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702901,-121.89944,0,S2
+1074,1074,Pleasant Hill BART,Pleasant Hill BART,37.9283,-122.0558,0,S4
+1073,1073,Pleasant Hill BART,Pleasant Hill BART,37.928461,-122.055715,0,S4
+1072,1072,Pleasant Hill BART,Pleasant Hill BART,37.928621,-122.055477,0,S4
+1071,1071,Pleasant Hill BART,Pleasant Hill BART,37.92878,-122.055218,0,S4
+898,898,North Concord Martinez BART,North Concord Martinez BART,38.00218,-122.024085,0,S3
+897,897,North Concord Martinez BART,North Concord Martinez BART,38.00225,-122.024201,0,S3
 S5,S5,Walnut Creek BART,Walnut Creek BART,37.905511,-122.067784,1,
 1371,1371,Camino Pablo + Brookwood Rd,Camino Pablo and Brookwood Road,37.87737,-122.181382,0,
 1372,1372,Camino Pablo + Moraga Way,Camino Pablo and Moraga Way,37.877511,-122.180747,0,
@@ -393,12 +393,12 @@ S5,S5,Walnut Creek BART,Walnut Creek BART,37.905511,-122.067784,1,
 2189,2189,Dougherty Rd + Mariposa Cir,Dougherty Road and Mariposa Circle,37.714711,-121.910369,0,
 2028,2028,Dougherty Rd + Sierra Ln,Dougherty Road and Sierra Lane,37.705973,-121.91009,0,
 2092,2092,Dublin Blvd + Scarlett Ct,Dublin Boulevard and Scarlett Court,37.70568,-121.90709,0,
-2173,2173,Diablo Valley College,Diablo Valley College,37.971055,-122.069027,0,S6
-2168,2168,Diablo Valley College,Diablo Valley College,37.97044,-122.069187,0,S6
-2169,2169,Diablo Valley College,Diablo Valley College,37.970403,-122.068987,0,S6
-2170,2170,Diablo Valley College,Diablo Valley College,37.970583,-122.068987,0,S6
-2171,2171,Diablo Valley College,Diablo Valley College,37.970741,-122.068967,0,S6
-2172,2172,Diablo Valley College,Diablo Valley College,37.970908,-122.068987,0,S6
+896,896,North Concord Martinez BART,North Concord Martinez BART,38.00241,-122.024216,0,S3
+895,895,Concord BART,Concord BART,37.97456,-122.02921,0,S1
+894,894,Concord BART,Concord BART,37.9743,-122.02921,0,S1
+893,893,Concord BART,Concord BART,37.974155,-122.02929,0,S1
+892,892,Concord BART,Concord BART,37.973846,-122.029374,0,S1
+890,890,Concord BART,Concord BART,37.974536,-122.029068,0,S1
 S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,
 624,624,East St + Bacon St,East Street and Bacon Street,37.982618,-122.03392,0,
 625,625,East St + Bacon St,East Street and Bacon Street,37.982508,-122.03398,0,
@@ -831,11 +831,11 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,
 797,797,Solano Way + Solano Ct,Solano Way and Solano Court,37.992636,-122.049655,0,
 798,798,Solano Way + Westgate Ave,Solano Way and Westgate Avenue,37.990641,-122.045344,0,
 433,433,Somersville Rd + Buchanan Rd,Somersville Road and Buchanan Road,37.998401,-121.843889,0,
-1695,1695,San Ramon Transit Center,San Ramon Transit Center,37.770486,-121.960337,0,S7
-1697,1697,San Ramon Transit Center,San Ramon Transit Center,37.770443,-121.96032,0,S7
-1699,1699,San Ramon Transit Center,San Ramon Transit Center,37.770211,-121.960297,0,S7
-1700,1700,San Ramon Transit Center,San Ramon Transit Center,37.770466,-121.960417,0,S7
-2052,2052,San Ramon Transit Center,San Ramon Transit Center,37.770546,-121.960511,0,S7
+889,889,Concord BART,Concord BART,37.97428,-122.02911,0,S1
+888,888,Concord BART,Concord BART,37.974111,-122.029132,0,S1
+886,886,Concord BART,Concord BART,37.97346,-122.029589,0,S1
+885,885,Concord BART,Concord BART,37.973259,-122.029686,0,S1
+883,883,Concord BART,Concord BART,37.972663,-122.029838,0,S1
 S7,S7,San Ramon Transit Center,San Ramon Transit Center,37.770184,-121.960345,1,
 1667,1667,San Ramon Valley Blvd + Courtyard Center,San Ramon Valley Boulevard and Courtyard Center,37.774718,-121.976192,0,
 1680,1680,San Ramon Valley Blvd + Twin Canyon Shopping Center,San Ramon Valley Boulevard and Twin Canyon Shopping Center,37.7726,-121.974245,0,
@@ -954,3 +954,4 @@ S7,S7,San Ramon Transit Center,San Ramon Transit Center,37.770184,-121.960345,1,
 1934,1934,Ygnacio Valley Rd + Wimbledon Rd,Ygnacio Valley Road and Wimbledon Road,37.92266,-122.02949,0,
 1939,1939,Ygnacio Valley Rd + N Civic Dr,Ygnacio Valley Road and North Civic Drive,37.907211,-122.057892,0,
 882,882,Ygnacio Valley Rd + Park Highlands,Ygnacio Valley Road and Park Highlands,37.950019,-121.960549,0,
+,S8,Martinez Amtrak,Martinez Amtrak,38.018897,-122.139451,1,
