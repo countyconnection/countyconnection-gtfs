@@ -36,3 +36,20 @@ route_id,route_short_name,route_long_name,route_type,route_url,route_color,route
 98X,98X,Martinez Amtrak/Walnut Creek BART,3,https://countyconnection.com/routes/98x/,DE9634,ffffff
 99X,99X,Martinez Amtrak/North Concord BART,3,https://countyconnection.com/routes/99x/,DE9634,ffffff
 ALCR,ALCR,Alamo Creek Shuttle,3,https://countyconnection.com/routes/alamo-creek-shuttle/,46A076,ffffff
+605,605,ROUTE 605,3,,7a99ac,ffffff
+622,622,ROUTE 622,3,,7a99ac,ffffff
+606,606,ROUTE 606,3,,7a99ac,ffffff
+601,601,ROUTE 601,3,,7a99ac,ffffff
+626,626,ROUTE 626,3,,7a99ac,ffffff
+625,625,ROUTE 625,3,,7a99ac,ffffff
+602,602,ROUTE 602,3,,7a99ac,ffffff
+608,608,ROUTE 608,3,,7a99ac,ffffff
+613,613,ROUTE 613,3,,7a99ac,ffffff
+619,619,ROUTE 619,3,,7a99ac,ffffff
+635,635,ROUTE 635,3,,7a99ac,ffffff
+636,636,ROUTE 636,3,,7a99ac,ffffff
+612,612,ROUTE 612,3,,7a99ac,ffffff
+611,611,ROUTE 611,3,,7a99ac,ffffff
+616,616,ROUTE 616,3,,7a99ac,ffffff
+615,615,ROUTE 615,3,,7a99ac,ffffff
+623,623,ROUTE 623,3,,7a99ac,ffffff
