@@ -10,7 +10,6 @@ route_id,route_short_name,route_long_name,route_type,route_url,route_color,route
 19,19,Martinez Amtrak/Concord BART,3,https://countyconnection.com/routes/19/,006493,ffffff
 20,20,DVC/Concord BART,3,https://countyconnection.com/routes/20/,006493,ffffff
 21,21,Walnut Creek BART/San Ramon,3,https://countyconnection.com/routes/21/,006493,ffffff
-27,27,North Concord BART/Bates Ave,3,https://countyconnection.com/routes/27/,006493,ffffff
 28,28,Concord BART/Amtrak,3,https://countyconnection.com/routes/28/,006493,ffffff
 301,301,Walnut Creek BART/John Muir Med Ctr,3,https://countyconnection.com/routes/301/,9C629D,ffffff
 310,310,Concord BART/Clayton Rd,3,https://countyconnection.com/routes/310/,9C629D,ffffff
@@ -34,22 +33,5 @@ route_id,route_short_name,route_long_name,route_type,route_url,route_color,route
 96X,96X,BART Walnut Creek/Bishop Ranch,3,https://countyconnection.com/routes/96x/,DE9634,ffffff
 97X,97X,Dublin BART/Bishop Ranch,3,https://countyconnection.com/routes/97x/,DE9634,ffffff
 98X,98X,Martinez Amtrak/Walnut Creek BART,3,https://countyconnection.com/routes/98x/,DE9634,ffffff
-99X,99X,Martinez Amtrak/North Concord BART,3,https://countyconnection.com/routes/99x/,DE9634,ffffff
+99X,99X,Martinez Amtrak/North Concord BART,3,https://countyconnection.com/routes/99x/,46A076,ffffff
 ALCR,ALCR,Alamo Creek Shuttle,3,https://countyconnection.com/routes/alamo-creek-shuttle/,46A076,ffffff
-605,605,ROUTE 605,3,,7a99ac,ffffff
-622,622,ROUTE 622,3,,7a99ac,ffffff
-606,606,ROUTE 606,3,,7a99ac,ffffff
-601,601,ROUTE 601,3,,7a99ac,ffffff
-626,626,ROUTE 626,3,,7a99ac,ffffff
-625,625,ROUTE 625,3,,7a99ac,ffffff
-602,602,ROUTE 602,3,,7a99ac,ffffff
-608,608,ROUTE 608,3,,7a99ac,ffffff
-613,613,ROUTE 613,3,,7a99ac,ffffff
-619,619,ROUTE 619,3,,7a99ac,ffffff
-635,635,ROUTE 635,3,,7a99ac,ffffff
-636,636,ROUTE 636,3,,7a99ac,ffffff
-612,612,ROUTE 612,3,,7a99ac,ffffff
-611,611,ROUTE 611,3,,7a99ac,ffffff
-616,616,ROUTE 616,3,,7a99ac,ffffff
-615,615,ROUTE 615,3,,7a99ac,ffffff
-623,623,ROUTE 623,3,,7a99ac,ffffff
