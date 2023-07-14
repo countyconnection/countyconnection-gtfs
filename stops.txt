@@ -35,7 +35,7 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 1252,1252,Alhambra Ave + John Muir Rd,Alhambra Avenue and John Muir Road,37.982985,-122.116552,0,
 1253,1253,Alhambra Ave + Phylis Ter,Alhambra Avenue and Phylis Terrace,37.983458,-122.1244,0,
 1039,1039,Martinez Amtrak,Martinez Amtrak,38.018576,-122.139182,0,
-2285,2285,Martinez Amtrak Unloading,Martinez Amtrak Unloading,38.019091,-122.139522,0,
+2285,2285,Martinez Amtrak,Martinez Amtrak,38.019091,-122.139522,0,
 1578,1578,Annabel Ln + End,Annabel Lane and End,37.773466,-121.971364,0,
 1281,1281,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991063,-122.094062,0,
 1286,1286,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991161,-122.093962,0,
@@ -71,7 +71,7 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 889,889,Concord BART,Concord BART,37.97428,-122.02911,0,S1
 890,890,Concord BART,Concord BART,37.974536,-122.029068,0,S1
 S1,S1,Concord BART,Concord BART,37.973646,-122.029524,1,
-2158,2158,Unloading Dublin Pleasanton BART,Unloading Dublin Pleasanton BART,37.701623,-121.89803,0,
+2158,2158,Dublin Pleasanton BART,Dublin Pleasanton BART,37.701623,-121.89803,0,
 1160,1160,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702901,-121.89944,0,S2
 2140,2140,Dublin Pleasanton BART,Dublin Pleasanton BART,37.703045,-121.899819,0,S2
 S2,S2,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702643,-121.899066,1,
