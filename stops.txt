@@ -1,951 +1,1497 @@
-stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent_station
-2094,2094,Pleasanton Ace Train Station,Pleasanton Ace Train Station,37.659113,-121.882374,0,
-472,472,Airport Plaza,Airport Plaza,37.979308,-122.054047,0,
-1256,1256,Alhambra Ave + Fresh Start Cafe,Alhambra Avenue and Fresh Start CafT,37.995803,-122.132325,0,
-1266,1266,Alhambra Ave + Muir Lodge,Alhambra Avenue and Muir Lodge,37.995581,-122.132307,0,
-2099,2099,Alhambra Ave + Alhambra Valley Rd,Alhambra Avenue and Alhambra Valley Road,37.983955,-122.126229,0,
-1264,1264,Alhambra Ave + Contra Costa Regional Medical Center,Alhambra Avenue and Contra Costa Regional Medical Center,38.005765,-122.131075,0,
-1269,1269,Alhambra Ave + Franklin Canyon Rd,Alhambra Avenue and Franklin Canyon Road,37.989076,-122.129287,0,
-1254,1254,Alhambra Ave + Alhambra Way,Alhambra Avenue and Alhambra Way,37.98695,-122.128135,0,
-1260,1260,Alhambra Ave + Allen Dr,Alhambra Avenue and Allen Drive,38.00935,-122.131374,0,
-1258,1258,Alhambra Ave + C St,Alhambra Avenue and C Street,38.005045,-122.130997,0,
-1265,1265,Alhambra Ave + F St,Alhambra Avenue and F Street,38.000911,-122.13192,0,
-1257,1257,Alhambra Ave + G St,Alhambra Avenue and G Street,38.000213,-122.13183,0,
-1267,1267,Alhambra Ave + J St,Alhambra Avenue and J Street,37.997325,-122.132467,0,
-1275,1275,Alhambra Ave + Benham Dr,Alhambra Avenue and Benham Drive,37.965815,-122.098352,0,
-1259,1259,Alhambra Ave + Bertola St,Alhambra Avenue and Bertola Street,38.007413,-122.130579,0,
-1278,1278,Alhambra Ave + Devon Ave,Alhambra Avenue and Devon Avenue,37.955526,-122.090247,0,
-1423,1423,Alhambra Ave + Elderwood Dr,Alhambra Avenue and Elderwood Drive,37.969836,-122.102247,0,
-1424,1424,Alhambra Ave + Heritage Oaks Dr,Alhambra Avenue and Heritage Oaks Drive,37.967861,-122.099644,0,
-1271,1271,Alhambra Ave + Forest Way,Alhambra Avenue and Forest Way,37.982011,-122.11542,0,
-1274,1274,Alhambra Ave + Glenview Dr,Alhambra Avenue and Glenview Drive,37.969331,-122.101552,0,
-1261,1261,Alhambra Ave + Jones St,Alhambra Avenue and Jones Street,38.012753,-122.134612,0,
-1272,1272,Alhambra Ave + Lindsey Dr,Alhambra Avenue and Lindsey Drive,37.975581,-122.1093,0,
-1251,1251,Alhambra Ave + Macalvey Dr,Alhambra Avenue and Macalvey Drive,37.975148,-122.108664,0,
-1263,1263,Alhambra Ave + Main St,Alhambra Avenue and Main Street,38.016371,-122.138049,0,
-1262,1262,Alhambra Ave + Mellus St,Alhambra Avenue and Mellus Street,38.014435,-122.136222,0,
-1276,1276,Alhambra Ave + Roanoke Dr,Alhambra Avenue and Roanoke Drive,37.962383,-122.096184,0,
-1421,1421,Alhambra Ave + Rockridge Dr,Alhambra Avenue and Rockridge Drive,37.959996,-122.09408,0,
-1422,1422,Alhambra Ave + Shetland Dr,Alhambra Avenue and Shetland Drive,37.964455,-122.09728,0,
-1277,1277,Alhambra Ave + Starbucks,Alhambra Avenue and Starbucks,37.959321,-122.093764,0,
-1255,1255,Alhambra Ave + Walnut Ave,Alhambra Avenue and Walnut Avenue,37.992401,-122.130777,0,
-1268,1268,Alhambra Ave + Walnut Ave,Alhambra Avenue and Walnut Avenue,37.992338,-122.130817,0,
-1250,1250,Alhambra Ave + Wildcroft Dr,Alhambra Avenue and Wildcroft Drive,37.971103,-122.105684,0,
-1273,1273,Alhambra Ave + Wildcroft Dr,Alhambra Avenue and Wildcroft Drive,37.970551,-122.105207,0,
-1252,1252,Alhambra Ave + John Muir Rd,Alhambra Avenue and John Muir Road,37.982985,-122.116552,0,
-1253,1253,Alhambra Ave + Phylis Ter,Alhambra Avenue and Phylis Terrace,37.983458,-122.1244,0,
-1039,1039,Martinez Amtrak,Martinez Amtrak,38.018576,-122.139182,0,
-2285,2285,Martinez Amtrak,Martinez Amtrak,38.019091,-122.139522,0,
-1578,1578,Annabel Ln + End,Annabel Lane and End,37.773466,-121.971364,0,
-1281,1281,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991063,-122.094062,0,
-1286,1286,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991161,-122.093962,0,
-1282,1282,Arnold Dr + Holiday Hills Dr,Arnold Drive and Holiday Hills Drive,37.991356,-122.089849,0,
-1285,1285,Arnold Dr + Holiday Hills Dr,Arnold Drive and Holiday Hills Drive,37.991373,-122.090545,0,
-483,483,Arnold Industrial Way + Laura Alice Way,Arnold Industrial Way and Laura Alice Way,38.003118,-122.04739,0,
-482,482,Arnold Industrial Way + Concord Adult Homeless Shelter,Arnold Industrial Way and Concord Adult Homeless Shelter,38.006393,-122.037934,0,
-484,484,Arnold Industrial Way + Concord Adult Homeless Shelter,Arnold Industrial Way and Concord Adult Homeless Shelter,38.0069,-122.0372,0,
-480,480,Arnold Industrial Way + Industrial Way,Arnold Industrial Way and Industrial Way,38.008766,-122.032547,0,
-479,479,Arnold Industrial Way + Industrial Way,Arnold Industrial Way and Industrial Way,38.009044,-122.031975,0,
-481,481,Arnold Industrial Way + Peralta Rd,,38.00287,-122.047414,0,
-1283,1283,Arnold Dr + Glacier Dr,Arnold Drive and Glacier Drive,37.991691,-122.08673,0,
-1284,1284,Arnold Dr + Milano Way,Arnold Drive and Milano Way,37.991698,-122.087187,0,
-1287,1287,Arnold Dr + Muir Parkway Offices,Arnold Drive and Muir Parkway Offices,37.992883,-122.098532,0,
-1280,1280,Arnold Dr + Muir Parkway Offices,Arnold Drive and Muir Parkway Offices,37.991595,-122.097837,0,
-1710,1710,Bancroft Rd + Gil Port Ln,Bancroft Road and Gil Port Lane,37.93035,-122.043299,0,
-1711,1711,Bancroft Rd + Faith Christian Fellowship,Bancroft Road and Faith Christian Fellowship,37.932316,-122.045105,0,
-1714,1714,Bancroft Rd + Countrywood Ct,Bancroft Road and Countrywood Court,37.930202,-122.043526,0,
-1712,1712,Bancroft Rd + Minert Rd,Bancroft Road and Minert Road,37.93374,-122.046477,0,
-1713,1713,Bancroft Rd + Minert Rd,Bancroft Road and Minert Road,37.933591,-122.046675,0,
-2193,2193,Antioch BART,Antioch BART,37.995636,-121.778125,0,
-492,492,Bates Ave + Port Chicago Hwy,Bates Avenue and Port Chicago Highway,38.015138,-122.025954,0,
-497,497,Bates Ave + Folsom Ct,Bates Avenue and Folsom Court,38.014181,-122.031635,0,
-2251,2251,Bates Ave + Commercial Cir,Bates Avenue and Commercial Circle,38.014259,-122.031516,0,
-883,883,Concord BART,Concord BART,37.972663,-122.029838,0,S1
-892,892,Concord BART,Concord BART,37.973846,-122.029374,0,S1
-893,893,Concord BART,Concord BART,37.974155,-122.02929,0,S1
-894,894,Concord BART,Concord BART,37.9743,-122.02921,0,S1
-895,895,Concord BART,Concord BART,37.97456,-122.02921,0,S1
-885,885,Concord BART,Concord BART,37.973259,-122.029686,0,S1
-886,886,Concord BART,Concord BART,37.97346,-122.029589,0,S1
-888,888,Concord BART,Concord BART,37.974111,-122.029132,0,S1
-889,889,Concord BART,Concord BART,37.97428,-122.02911,0,S1
-890,890,Concord BART,Concord BART,37.974536,-122.029068,0,S1
-S1,S1,Concord BART,Concord BART,37.973646,-122.029524,1,
-2158,2158,Dublin Pleasanton BART,Dublin Pleasanton BART,37.701623,-121.89803,0,
-1160,1160,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702901,-121.89944,0,S2
-2140,2140,Dublin Pleasanton BART,Dublin Pleasanton BART,37.703045,-121.899819,0,S2
-S2,S2,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702643,-121.899066,1,
-2067,2067,Berrellesa St + Marina Vista Ave And Escobar St,Berrellesa Street between Marina Vista Avenue and Escobar Street,38.016708,-122.139659,0,
-1290,1290,Berrellesa St + Jones St,Berrellesa Street and Jones Street,38.011885,-122.13495,0,
-1289,1289,Berrellesa St + Mellus St,Berrellesa Street and Mellus Street,38.013881,-122.136897,0,
-1291,1291,Berrellesa St + Robinson St,Berrellesa Street and Robinson Street,38.01004,-122.133202,0,
-1292,1292,Berrellesa St + Soto St,Berrellesa Street and Soto Street,38.00808,-122.131374,0,
-1554,1554,Bishop Ranch 2600,Bishop Ranch Twenty Six Hundred,37.766574,-121.963341,0,
-1555,1555,Bishop Ranch 15,Bishop Ranch Fifteen,37.773609,-121.960892,0,
-2257,2257,Bishop Ranch 1,Bishop Ranch One,37.760049,-121.955669,0,
-1553,1553,Bishop Ranch 8,Bishop Ranch Eight,37.768118,-121.968502,0,
-1162,1162,Lafayette BART,Lafayette BART,37.893571,-122.125128,0,
-896,896,North Concord Martinez BART,North Concord Martinez BART,38.00241,-122.024216,0,S3
-897,897,North Concord Martinez BART,North Concord Martinez BART,38.00225,-122.024201,0,S3
-S3,S3,North Concord Martinez BART,North Concord Martinez BART,38.002694,-122.024608,1,
-2032,2032,Bollinger Canyon Rd + Albion Rd,Bollinger Canyon Road and Albion Road,37.76714,-121.9055,0,
-2003,2003,Bollinger Canyon Rd + Alcosta Blvd,Bollinger Canyon Road and Alcosta Boulevard,37.76559,-121.952489,0,
-1581,1581,Bollinger Canyon Rd + Anza Ct,Bollinger Canyon Road and Anza Court,37.76972,-121.993655,0,
-1584,1584,Bollinger Canyon Rd + Ascension Dr,Bollinger Canyon Road and Ascension Drive,37.7653,-121.984715,0,
-2033,2033,Bollinger Canyon Rd + Bluehart Way,Bollinger Canyon Road and Bluehart Way,37.77024,-121.909355,0,
-2041,2041,Bollinger Canyon Rd + Chanterella Dr,Bollinger Canyon Road and Chanterella Drive,37.771801,-121.93868,0,
-2038,2038,Bollinger Canyon Rd + Chanterella Dr,Bollinger Canyon Road and Chanterella Drive,37.772178,-121.94017,0,
-2029,2029,Bollinger Canyon Rd + Dougherty Rd,Bollinger Canyon Road and Dougherty Road,37.74972,-121.913449,0,
-2031,2031,Bollinger Canyon Rd + Harcourt Way,Bollinger Canyon Road and Harcourt Way,37.759736,-121.904905,0,
-2048,2048,Bollinger Canyon Rd + Harcourt Way,Bollinger Canyon Road and Harcourt Way,37.758823,-121.905859,0,
-2047,2047,Bollinger Canyon Rd + Albion Rd,Bollinger Canyon Road and Albion Road,37.765956,-121.905024,0,
-2000,2000,Bollinger Canyon Rd + Market Pl,Bollinger Canyon Road and Market Place,37.764636,-121.953404,0,
-1583,1583,Bollinger Canyon Rd + Marsh Dr,Bollinger Canyon Road and Marsh Drive,37.766456,-121.986762,0,
-1587,1587,Bollinger Canyon Rd + Morgan Dr,Bollinger Canyon Road and Morgan Drive,37.759265,-121.977045,0,
-2034,2034,Bollinger Canyon Rd + Monarch Rd,Bollinger Canyon Road and Monarch Road,37.771733,-121.912215,0,
-2036,2036,Bollinger Canyon Rd + N Wedgewood Rd,Bollinger Canyon Road and North Wedgewood Road,37.773856,-121.922369,0,
-1586,1586,Bollinger Canyon Rd + Paddock Dr,Bollinger Canyon Road and Paddock Drive,37.760221,-121.979014,0,
-2045,2045,Bollinger Canyon Rd + S Monarch Rd,Bollinger Canyon Road and South Monarch Road,37.770685,-121.911402,0,
-2044,2044,Bollinger Canyon Rd + Stoneleaf Rd,Bollinger Canyon Road and Stoneleaf Road,37.773088,-121.91752,0,
-2043,2043,Bollinger Canyon Rd + S Wedgewood Rd,Bollinger Canyon Road and South Wedgewood Road,37.773403,-121.9207,0,
-1588,1588,Bollinger Canyon Rd + Talavera Dr,Bollinger Canyon Road and Talavera Drive,37.759336,-121.970867,0,
-2040,2040,Bollinger Canyon Rd + Canyon View Cir,Bollinger Canyon Road and Canyon View Circle,37.771468,-121.945099,0,
-2049,2049,Bollinger Canyon Rd + Watermill Rd,Bollinger Canyon Road and Watermill Road,37.754413,-121.90868,0,
-2002,2002,Bollinger Canyon Rd + Windemere Pkwy,Bollinger Canyon Road and Windemere Parkway,37.763803,-121.903872,0,
-2001,2001,Bollinger Canyon Rd + Windemere Pkwy,Bollinger Canyon Road and Windemere Parkway,37.762641,-121.904349,0,
-2082,2082,Bollinger Canyon Rd + Bishop Ranch 1,Bollinger Canyon Road and Bishop Ranch One,37.762606,-121.956622,0,
-2035,2035,Bollinger Canyon Rd + Briar Oaks Dr,Bollinger Canyon Road and Briar Oaks Drive,37.773868,-121.918714,0,
-2039,2039,Bollinger Canyon Rd + Canyon Lakes Dr,Bollinger Canyon Road and Canyon Lakes Drive,37.771598,-121.945654,0,
-1580,1580,Bollinger Canyon Rd + Crow Canyon Rd,Bollinger Canyon Road and Crow Canyon Road,37.772301,-121.99596,0,
-1582,1582,Bollinger Canyon Rd + Dos Rios Dr,Bollinger Canyon Road and Dos Rios Drive,37.76757,-121.988649,0,
-2030,2030,Bollinger Canyon Rd + E Branch Pkwy,Bollinger Canyon Road and East Branch Parkway,37.753865,-121.90862,0,
-2042,2042,Bollinger Canyon Rd + Gale Ridge Rd,Bollinger Canyon Road and Gale Ridge Road,37.772298,-121.930792,0,
-2037,2037,Bollinger Canyon Rd + Gale Ridge Rd,Bollinger Canyon Road and Gale Ridge Road,37.772393,-121.932342,0,
-2046,2046,Bollinger Canyon Rd + Main Branch Rd,Bollinger Canyon Road and Main Branch Road,37.769218,-121.908699,0,
-1585,1585,Bollinger Canyon Rd + Norris Canyon Rd,Bollinger Canyon Road and Norris Canyon Road,37.763477,-121.98275,0,
-1366,1366,Orinda BART,Orinda BART,37.87796,-122.184319,0,
-1715,1715,Bothelho Dr + Locust St,Bothelho Drive and Locust Street,37.894948,-122.060822,0,
-902,902,Boulevard Way + Iris Ln,Boulevard Way and Iris Lane,37.891761,-122.079155,0,
-909,909,Boulevard Way + Kinney Dr,Boulevard Way and Kinney Drive,37.890816,-122.080214,0,
-905,905,Boulevard Way + Nicholson Rd,Boulevard Way and Nicholson Road,37.895783,-122.071849,0,
-906,906,Boulevard Way + Nicholson Rd,Boulevard Way and Nicholson Road,37.895149,-122.072579,0,
-901,901,Boulevard Way + Olympic Blvd,Boulevard Way and Olympic Boulevard,37.885396,-122.07771,0,
-910,910,Boulevard Way + Olympic Blvd,Boulevard Way and Olympic Boulevard,37.885418,-122.077958,0,
-904,904,Boulevard Way + Palana Ct,Boulevard Way and Palana Court,37.894563,-122.074154,0,
-907,907,Boulevard Way + Rule Ct,Boulevard Way and Rule Court,37.894733,-122.074312,0,
-903,903,Boulevard Way + Saranap Ave,Boulevard Way and Saranap Avenue,37.893501,-122.077014,0,
-908,908,Boulevard Way + Saranap Ave,Boulevard Way and Saranap Avenue,37.893718,-122.076897,0,
-1428,1428,Boyd Rd + Sequoia Elementary School,Boyd Road and Sequoia Elementary School,37.943541,-122.068869,0,
-1426,1426,Boyd Rd + Campbell Ln,Boyd Road and Campbell Lane,37.943473,-122.065506,0,
-1427,1427,Boyd Rd + Cleaveland Rd,Boyd Road and Cleaveland Road,37.943431,-122.063652,0,
-1425,1425,Boyd Rd + Patterson Rd,Boyd Road and Patterson Road,37.943526,-122.069067,0,
-1071,1071,Pleasant Hill BART,Pleasant Hill BART,37.92878,-122.055218,0,S4
-1072,1072,Pleasant Hill BART,Pleasant Hill BART,37.928621,-122.055477,0,S4
-1073,1073,Pleasant Hill BART,Pleasant Hill BART,37.928461,-122.055715,0,S4
-1074,1074,Pleasant Hill BART,Pleasant Hill BART,37.9283,-122.0558,0,S4
-2135,2135,Pleasant Hill BART,Pleasant Hill BART,37.928255,-122.055835,0,S4
-2136,2136,Pleasant Hill BART,Pleasant Hill BART,37.928375,-122.055617,0,S4
-2137,2137,Pleasant Hill BART,Pleasant Hill BART,37.928581,-122.055417,0,S4
-2138,2138,Pleasant Hill BART,Pleasant Hill BART,37.92872,-122.055219,0,S4
-S4,S4,Pleasant Hill BART,Pleasant Hill BART,37.928523,-122.056026,1,
-440,440,Buchanan Rd + Campbell Dr,Buchanan Road and Campbell Drive,37.997976,-121.886527,0,
-441,441,Buchanan Rd + Harbor Dr,Buchanan Road and Harbor Drive,37.998065,-121.887779,0,
-439,439,Buchanan Rd + Inverness Dr,Buchanan Road and Inverness Drive,37.997976,-121.881877,0,
-438,438,Buchanan Rd + Loveridge Rd,Buchanan Road and Loveridge Road,37.997965,-121.872937,0,
-430,430,Buchanan Rd + Mcfaul Dr,Buchanan Road and Mcfaul Drive,37.998041,-121.87536,0,
-2131,2131,Buchanan Rd + Meadows Ave,Buchanan Road and Meadows Avenue,37.997913,-121.863002,0,
-2132,2132,Buchanan Rd + Meadows Ave,Buchanan Road and Meadows Avenue,37.998073,-121.864552,0,
-432,432,Buchanan Rd + Somersville Rd,Buchanan Road and Somersville Road,37.997938,-121.846274,0,
-431,431,Buchanan Rd + Suzanne Dr,Buchanan Road and Suzanne Drive,37.998041,-121.880785,0,
-2024,2024,Buchanan Rd + Ventura Dr,Buchanan Road and Ventura Drive,37.997921,-121.867314,0,
-2025,2025,Buchanan Rd + Ventura Dr,Buchanan Road and Ventura Drive,37.998045,-121.868982,0,
-2210,2210,Buskirk Ave + Generations Church Of Pleasant Hill,Buskirk Avenue and Generations Church Of Pleasant Hill,37.939306,-122.059212,0,
-1431,1431,Buskirk Ave + Lamkin Ln,Buskirk Avenue and Lamkin Lane,37.944611,-122.055517,0,
-1429,1429,Buskirk Ave + Mayhew Way,Buskirk Avenue and Mayhew Way,37.936513,-122.059749,0,
-1434,1434,Buskirk Ave + Mayhew Way,Buskirk Avenue and Mayhew Way,37.936958,-122.059869,0,
-1984,1984,Buskirk Ave + The Crossroads,Buskirk Avenue and The Crossroads,37.943288,-122.05661,0,
-1433,1433,Buskirk Ave + The Crossroads,Buskirk Avenue and The Crossroads,37.941186,-122.058728,0,
-2237,2237,Walnut Creek BART,Walnut Creek BART,37.905473,-122.068615,0,S5
-2239,2239,Walnut Creek BART,Walnut Creek BART,37.905344,-122.068256,0,S5
-2241,2241,Walnut Creek BART,Walnut Creek BART,37.905561,-122.068117,0,S5
-2242,2242,Walnut Creek BART,Walnut Creek BART,37.905626,-122.068293,0,S5
-2243,2243,Walnut Creek BART,Walnut Creek BART,37.90569,-122.068468,0,S5
-2244,2244,Walnut Creek BART,Walnut Creek BART,37.905759,-122.06865,0,S5
-2246,2246,Walnut Creek BART,Walnut Creek BART,37.905691,-122.068039,0,S5
-2247,2247,Walnut Creek BART,Walnut Creek BART,37.905758,-122.068223,0,S5
-2248,2248,Walnut Creek BART,Walnut Creek BART,37.905823,-122.068404,0,S5
-2249,2249,Walnut Creek BART,Walnut Creek BART,37.905886,-122.06858,0,S5
-2250,2250,Walnut Creek BART,Walnut Creek BART,37.905949,-122.068758,0,S5
-S5,S5,Walnut Creek BART,Walnut Creek BART,37.905511,-122.067784,1,
-1371,1371,Camino Pablo + Brookwood Rd,Camino Pablo and Brookwood Road,37.87737,-122.181382,0,
-1372,1372,Camino Pablo + Moraga Way,Camino Pablo and Moraga Way,37.877511,-122.180747,0,
-1081,1081,Camino Ramon + Baldwin Dr,Camino Ramon and Baldwin Drive,37.79457,-121.983444,0,
-1611,1611,Camino Ramon + Fostoria Way,Camino Ramon and Fostoria Way,37.781763,-121.97049,0,
-1080,1080,Camino Ramon + Greenbrook Dr,Camino Ramon and Greenbrook Drive,37.792985,-121.982709,0,
-1082,1082,Camino Ramon + Saint Patricks Dr,Camino Ramon and Saint Patricks Drive,37.796375,-121.984675,0,
-1079,1079,Camino Ramon + Saint Patricks Dr,Camino Ramon and Saint Patricks Drive,37.796053,-121.984517,0,
-1616,1616,Camino Ramon + Bishop Ranch 7,Camino Ramon and Bishop Ranch Seven,37.771455,-121.96276,0,
-1619,1619,Camino Ramon + Crow Canyon Rd,Camino Ramon and Crow Canyon Road,37.780611,-121.969695,0,
-1618,1618,Camino Ramon + Crow Canyon Rd,Camino Ramon and Crow Canyon Road,37.778755,-121.968424,0,
-1613,1613,Camino Ramon + Crow Canyon Rd,Camino Ramon and Crow Canyon Road,37.77804,-121.968205,0,
-1612,1612,Camino Ramon + Crow Canyon Rd,Camino Ramon and Crow Canyon Road,37.780238,-121.969655,0,
-1083,1083,Camino Ramon + El Capitan Dr,Camino Ramon and El Capitan Drive,37.800486,-121.987675,0,
-1078,1078,Camino Ramon + El Capitan Dr,Camino Ramon and El Capitan Drive,37.799616,-121.987239,0,
-1617,1617,Camino Ramon + Norris Canyon Rd,Camino Ramon and Norris Canyon Road,37.775473,-121.965702,0,
-1614,1614,Camino Ramon + Norris Canyon Rd,Camino Ramon and Norris Canyon Road,37.774746,-121.965105,0,
-2069,2069,Camino Ramon + Rose Garden,Camino Ramon and Rose Garden,37.809411,-121.991074,0,
-1077,1077,Camino Ramon + San Thomas Way,Camino Ramon and San Thomas Way,37.804118,-121.989344,0,
-1084,1084,Camino Ramon + San Thomas Way,Camino Ramon and San Thomas Way,37.804686,-121.989584,0,
-1085,1085,Camino Ramon + Sycamore Valley Rd,Camino Ramon and Sycamore Valley Road,37.810293,-121.990954,0,
-605,605,Contra Costa Blvd + Sun Valley Blvd And Viking Dr,Contra Costa Boulevard between Sun Valley Boulevard and Viking Drive,37.965338,-122.062312,0,
-939,939,Center Ave + Hidden Lakes Dr,Center Avenue and Hidden Lakes Drive,37.98333,-122.07922,0,
-928,928,Center Ave + Muir Station,Center Avenue and Muir Station,37.992446,-122.118659,0,
-926,926,Center Ave + Public Health Services California,Center Avenue and Public Health Services California,37.992557,-122.118546,0,
-941,941,Center Ave + Blackwood Dr,Center Avenue and Blackwood Drive,37.983346,-122.069862,0,
-915,915,Center Ave + Blackwood Dr,Center Avenue and Blackwood Drive,37.983473,-122.07016,0,
-918,918,Center Ave + Glacier Dr,Center Avenue and Glacier Drive,37.983815,-122.088657,0,
-498,498,Center St + Easley Dr,Center Street and Easley Drive,37.941153,-121.931945,0,
-940,940,Center Ave + Flame Dr,Center Avenue and Flame Drive,37.98333,-122.073875,0,
-931,931,Center Ave + Granite Ct,Center Avenue and Granite Court,37.989378,-122.107392,0,
-930,930,Center Ave + Kaiser Dr,Center Avenue and Kaiser Drive,37.99084,-122.110214,0,
-924,924,Center Ave + Kaiser Dr,Center Avenue and Kaiser Drive,37.991405,-122.110688,0,
-938,938,Center Ave + Lyle Ct,Center Avenue and Lyle Court,37.983966,-122.086094,0,
-917,917,Center Ave + Mono Dr,Center Avenue and Mono Drive,37.983851,-122.081305,0,
-922,922,Center Ave + Morello Ave,Center Avenue and Morello Avenue,37.986593,-122.10471,0,
-914,914,Center Ave + Pacheco Blvd,Center Avenue and Pacheco Boulevard,37.983418,-122.068094,0,
-916,916,Center Ave + Raymond Dr,Center Avenue and Raymond Drive,37.983501,-122.074753,0,
-937,937,Center Ave + Redwood Dr,Center Avenue and Redwood Drive,37.983648,-122.090473,0,
-919,919,Center Ave + Redwood Dr,Center Avenue and Redwood Drive,37.9838,-122.091319,0,
-932,932,Center Ave + Snow Dr,Center Avenue and Snow Drive,37.987156,-122.105049,0,
-929,929,Center Ave + Veterans Ct,Center Avenue and Veterans Court,37.99247,-122.112797,0,
-427,427,Center Ave + Veterans Dr,Center Avenue and Veterans Drive,37.99268,-122.113055,0,
-923,923,Center Ave + Rolling Hill Way,Center Avenue and Rolling Hill Way,37.988988,-122.106619,0,
-925,925,Center Ave + Veterans Clinic Driveway,Center Avenue and Veterans Clinic Driveway,37.992361,-122.114784,0,
-936,936,Center Ave + Vine Hill Way,Center Avenue and Vine Hill Way,37.984546,-122.098592,0,
-1436,1436,Chilpancingo Pkwy + Contra Costa Blvd,Chilpancingo Parkway and Contra Costa Boulevard,37.975263,-122.066107,0,
-1435,1435,Chilpancingo Pkwy + Contra Costa Blvd,Chilpancingo Parkway and Contra Costa Boulevard,37.975351,-122.066544,0,
-540,540,Clayton Rd + Hospice Thrift Shoppes,Clayton Road and Hospice Thrift Shoppes,37.953215,-121.960675,0,
-567,567,Clayton Rd + Adelaide St,Clayton Road and Adelaide Street,37.97181,-122.041014,0,
-539,539,Clayton Rd + Alberta Way,Clayton Road and Alberta Way,37.954771,-121.965165,0,
-446,446,Clayton Rd + Atchison Stage Rd,Clayton Road and Atchison Stage Road,37.945398,-121.945634,0,
-538,538,Clayton Rd + Ayers Rd,Clayton Road and Ayers Road,37.955836,-121.968185,0,
-546,546,Clayton Rd + Ayers Rd,Clayton Road and Ayers Road,37.956195,-121.968542,0,
-527,527,Clayton Rd + Babel Ln,Clayton Road and Babel Lane,37.969843,-122.008867,0,
-534,534,Clayton Rd + Bailey Rd,Clayton Road and Bailey Road,37.961293,-121.983085,0,
-550,550,Clayton Rd + Bailey Rd,Clayton Road and Bailey Road,37.961471,-121.983155,0,
-558,558,Clayton Rd + Barbis Way,Clayton Road and Barbis Way,37.970481,-122.010811,0,
-536,536,Clayton Rd + Claycord Ave,Clayton Road and Claycord Avenue,37.958816,-121.976252,0,
-548,548,Clayton Rd + Claycord Ave,Clayton Road and Claycord Avenue,37.95892,-121.975994,0,
-523,523,Clayton Rd + Coventry Rd,Clayton Road and Coventry Road,37.972983,-122.019972,0,
-524,524,Clayton Rd + Davis Ave,Clayton Road and Davis Avenue,37.972191,-122.01719,0,
-531,531,Clayton Rd + Denkinger Ct,Clayton Road and Denkinger Court,37.965373,-121.99443,0,
-553,553,Clayton Rd + Denkinger Ct,Clayton Road and Denkinger Court,37.965629,-121.994637,0,
-566,566,Clayton Rd + Detroit Ave,Clayton Road and Detroit Avenue,37.970868,-122.04282,0,
-444,444,Clayton Rd + El Camino Dr,Clayton Road and El Camino Drive,37.94843,-121.950622,0,
-449,449,Clayton Rd + El Camino Dr,Clayton Road and El Camino Drive,37.949101,-121.951535,0,
-519,519,Clayton Rd + Ellis St,Clayton Road and Ellis Street,37.972808,-122.038369,0,
-522,522,Clayton Rd + Fifth Ave,Clayton Road and Fifth Avenue,37.973555,-122.021999,0,
-561,561,Clayton Rd + Fifth St,Clayton Road and Fifth Street,37.973728,-122.022255,0,
-563,563,Clayton Rd + Fry Way,Clayton Road and Fry Way,37.972148,-122.040377,0,
-520,520,Clayton Rd + Galindo St,Clayton Road and Galindo Street,37.974111,-122.034039,0,
-552,552,Clayton Rd + Glazier Dr,Clayton Road and Glazier Drive,37.964206,-121.990723,0,
-525,525,Clayton Rd + Grove Way,Clayton Road and Grove Way,37.97187,-122.016059,0,
-559,559,Clayton Rd + Grove Way,Clayton Road and Grove Way,37.97218,-122.016694,0,
-535,535,Clayton Rd + Indian Ln,Clayton Road and Indian Lane,37.959611,-121.978457,0,
-549,549,Clayton Rd + Indian Ln,Clayton Road and Indian Lane,37.959888,-121.978768,0,
-529,529,Clayton Rd + Loeffler Ln,Clayton Road and Loeffler Lane,37.967606,-122.000999,0,
-445,445,Clayton Rd + Lydia Ln,Clayton Road and Lydia Lane,37.946375,-121.947085,0,
-557,557,Clayton Rd + Maynard St,Clayton Road and Maynard Street,37.969764,-122.008118,0,
-554,554,Clayton Rd + Mendocino Dr,Clayton Road and Mendocino Drive,37.966846,-121.997918,0,
-450,450,Clayton Rd + Mitchell Canyon Rd,Clayton Road and Mitchell Canyon Road,37.943173,-121.941144,0,
-448,448,Clayton Rd + Mitchell Canyon Rd,Clayton Road and Mitchell Canyon Road,37.94421,-121.942681,0,
-565,565,Clayton Rd + Pine St,Clayton Road and Pine Street,37.9697,-122.045324,0,
-564,564,Clayton Rd + Pine St,Clayton Road and Pine Street,37.970506,-122.044112,0,
-544,544,Clayton Rd + Schenone Ct,Clayton Road and Schenone Court,37.95356,-121.961092,0,
-547,547,Clayton Rd + Silverleaf Ln,Clayton Road and Silverleaf Lane,37.95824,-121.974167,0,
-560,560,Clayton Rd + Sixth St,Clayton Road and Sixth Street,37.973041,-122.01986,0,
-2068,2068,Clayton Rd + Sutter St,Clayton Road and Sutter Street,37.973173,-122.037854,0,
-551,551,Clayton Rd + Thornwood Dr,Clayton Road and Thornwood Drive,37.962873,-121.987,0,
-542,542,Clayton Rd + Washington Blvd,Clayton Road and Washington Boulevard,37.951183,-121.955674,0,
-451,451,Clayton Rd + Washington Blvd,Clayton Road and Washington Boulevard,37.951751,-121.956145,0,
-555,555,Clayton Rd + West St,Clayton Road and West Street,37.96791,-122.001511,0,
-533,533,Clayton Rd + Wharton Way,Clayton Road and Wharton Way,37.962485,-121.986424,0,
-532,532,Clayton Rd + Bel Air Dr,Clayton Road and Bel Air Drive,37.964101,-121.990994,0,
-530,530,Clayton Rd + Cape Cod Way,Clayton Road and Cape Cod Way,37.966435,-121.997292,0,
-447,447,Clayton Rd + Clayton Library,Clayton Road and Clayton Library,37.94229,-121.934787,0,
-1439,1439,Cleaveland Rd + Boyd Rd,Cleaveland Road and Boyd Road,37.943765,-122.063882,0,
-1440,1440,Cleaveland Rd + Crescent Plz,Cleaveland Road and Crescent Plaza,37.944948,-122.06414,0,
-1442,1442,Cleaveland Rd + Crescent Plz,Cleaveland Road and Crescent Plaza,37.94543,-122.06437,0,
-1441,1441,Cleaveland Rd + Trelany Rd,Cleaveland Road and Trelany Road,37.94688,-122.064299,0,
-1967,1967,Cleaveland Rd + W Hookston Rd,Cleaveland Road and West Hookston Road,37.940741,-122.06392,0,
-528,528,Clayton Rd + Farm Bureau Rd,Clayton Road and Farm Bureau Road,37.968786,-122.00515,0,
-556,556,Clayton Rd + Farm Bureau Rd,Clayton Road and Farm Bureau Road,37.9692,-122.006085,0,
-543,543,Clayton Rd + Kirker Pass Rd,Clayton Road and Kirker Pass Road,37.95246,-121.958052,0,
-537,537,Clayton Rd + Newhall Pkwy,Clayton Road and Newhall Pkwy,37.958001,-121.973987,0,
-500,500,Clayton Rd + Peacock Creek Dr,Clayton Road and Peacock Creek Drive,37.938988,-121.92674,0,
-521,521,Clayton Rd + San Carlos Ave,Clayton Road and San Carlos Avenue,37.97398,-122.023747,0,
-545,545,Clayton Rd + Terry Lynn Ln,Clayton Road and Terry Lynn Lane,37.954998,-121.965264,0,
-562,562,Clayton Rd + The Alameda,Clayton Road and The Alameda,37.97458,-122.025179,0,
-541,541,Clayton Rd + Ygnacio Valley Rd,Clayton Road and Ygnacio Valley Road,37.952598,-121.958965,0,
-1448,1448,Contra Costa Blvd + Chipotle Mexican Grill,Contra Costa Boulevard and Chipotle Mexican Grill,37.979121,-122.066584,0,
-1447,1447,Contra Costa Blvd + S And G Carpet And More,Contra Costa Boulevard and S and G Carpet and More,37.978745,-122.066245,0,
-1446,1446,Contra Costa Blvd + Golf Club Rd,Contra Costa Boulevard and Golf Club Road,37.972355,-122.063664,0,
-604,604,Contra Costa Blvd + Golf Club Rd,Contra Costa Boulevard and Golf Club Road,37.970988,-122.063564,0,
-603,603,Contra Costa Blvd + Firestone,Contra Costa Boulevard and Firestone,37.970003,-122.063127,0,
-1455,1455,Contra Costa Blvd + Safeway,Contra Costa Boulevard and Safeway,37.949268,-122.059967,0,
-1452,1452,Contra Costa Blvd + Beth Dr,Contra Costa Boulevard and Beth Drive,37.955253,-122.060047,0,
-1966,1966,Contra Costa Blvd + Boyd Rd,Contra Costa Boulevard and Boyd Road,37.942611,-122.060644,0,
-1449,1449,Contra Costa Blvd + Cottonwood Dr,Contra Costa Boulevard and Cottonwood Drive,37.973385,-122.064199,0,
-1453,1453,Contra Costa Blvd + Dexter Dr,Contra Costa Boulevard and Dexter Drive,37.95782,-122.060682,0,
-1459,1459,Contra Costa Blvd + Doris Dr,Contra Costa Boulevard and Doris Drive,37.952983,-122.060325,0,
-1458,1458,Contra Costa Blvd + Doray Dr,Contra Costa Boulevard and Doray Drive,37.95505,-122.060305,0,
-1457,1457,Contra Costa Blvd + Ellinwood Dr,Contra Costa Boulevard and Ellinwood Drive,37.957851,-122.06096,0,
-1454,1454,Contra Costa Blvd + Harriet Dr,Contra Costa Boulevard and Harriet Drive,37.960286,-122.061319,0,
-1456,1456,Contra Costa Blvd + Harriet Dr,Contra Costa Boulevard and Harriet Drive,37.959873,-122.061517,0,
-1451,1451,Contra Costa Blvd + East Vivian Dr,Contra Costa Boulevard and East Vivian Drive,37.95206,-122.060059,0,
-602,602,Contra Costa Blvd + Viking Dr,Contra Costa Boulevard and Viking Drive,37.967821,-122.062769,0,
-1460,1460,Contra Costa Blvd + Vivian Dr,Contra Costa Boulevard and Vivian Drive,37.951421,-122.060325,0,
-1450,1450,Contra Costa Blvd + Viking Dr,Contra Costa Boulevard and Viking Drive,37.967781,-122.062967,0,
-1461,1461,Contra Costa Blvd + Woodsworth Ln,Contra Costa Boulevard and Woodsworth Lane,37.949668,-122.060326,0,
-1445,1445,Coggins Dr + Park Vista Apartments,Coggins Drive and Park Vista Apartments,37.933166,-122.05655,0,
-1444,1444,Coggins Dr + Villa Montanaro,Coggins Drive and Villa Montanaro,37.93337,-122.05641,0,
-2086,2086,Coggins Dr + Buskirk Ave,Coggins Drive and Buskirk Avenue,37.933358,-122.058715,0,
-568,568,Colfax St + Pacheco St,Colfax Street and Pacheco Street,37.979181,-122.032987,0,
-1032,1032,Court St + Marina Vista,Court Street and Marina Vista,38.019406,-122.135149,0,
-572,572,Concord Blvd + Mira Vista Ter,Concord Boulevard and Mira Vista Terrace,37.973934,-122.036734,0,
-569,569,Concord Ave + Concord Airport Plaza Building A,Concord Avenue and Concord Airport Plaza Building A,37.980708,-122.05339,0,
-1952,1952,Concord Ave + Concord Honda,Concord Avenue and Concord Honda,37.979643,-122.046377,0,
-570,570,Concord Ave + Commerce Ave,Concord Avenue and Commerce Avenue,37.979225,-122.045225,0,
-571,571,Concord Blvd + Grant St,Concord Boulevard and Grant Street,37.97612,-122.032586,0,
-1031,1031,Court St + Green St,Court Street and Green Street,38.017246,-122.133156,0,
-1003,1003,Court St + Ward St,Court Street and Ward Street,38.017661,-122.133599,0,
-1624,1624,Crow Canyon Rd + Deerwood Rd,Crow Canyon Road and Deerwood Road,37.773565,-121.987954,0,
-1636,1636,Crow Canyon Rd + Crow Canyon Pl,Crow Canyon Road and Crow Canyon Place,37.778704,-121.971052,0,
-1635,1635,Crow Canyon Rd + Crow Canyon Pl,Crow Canyon Road and Crow Canyon Place,37.779108,-121.970729,0,
-1623,1623,Crow Canyon Rd + Old Crow Canyon Rd,Crow Canyon Road and Old Crow Canyon Road,37.774405,-121.983762,0,
-1743,1743,Creekside Dr + Creekside Oaks,Creekside Drive and Creekside Oaks,37.88627,-122.052655,0,
-1622,1622,Crow Canyon Rd + Twin Creeks Dr,Crow Canyon Road and Twin Creeks Drive,37.77506,-121.980782,0,
-1739,1739,Creekside Dr + The Retreat,Creekside Drive and The Retreat,37.886177,-122.052636,0,
-1464,1464,Crescent Plz + Cleaveland Rd,Crescent Plaza and Cleaveland Road,37.945211,-122.063822,0,
-1463,1463,Crescent Plz + Cleaveland Rd,Crescent Plaza and Cleaveland Road,37.945289,-122.063981,0,
-1465,1465,Crescent Plz + Crescent Dr,Crescent Plaza and Crescent Drive,37.945191,-122.061477,0,
-1462,1462,Crescent Plz + Crescent Dr,Crescent Plaza and Crescent Drive,37.945306,-122.062114,0,
-1741,1741,Creekside Dr + End,Creekside Drive and End,37.882167,-122.049752,0,
-1742,1742,Creekside Dr + Near Ct,Creekside Drive and Near Court,37.883981,-122.050849,0,
-1740,1740,Creekside Dr + Near Ct,Creekside Drive and Near Court,37.8838,-122.050911,0,
-1744,1744,Creekside Dr + Quail Ct,Creekside Drive and Quail Court,37.88749,-122.05506,0,
-1738,1738,Creekside Dr + Quail Ct,Creekside Drive and Quail Court,37.887383,-122.0549,0,
-970,970,Danville Blvd + Alamo Plaza,Danville Boulevard and Alamo Plaza,37.851368,-122.033219,0,
-952,952,Danville Blvd + Alamo Plaza,Danville Boulevard and Alamo Plaza,37.851508,-122.033444,0,
-959,959,Danville Blvd + Del Amigo Rd,Danville Boulevard and Del Amigo Road,37.828548,-122.00815,0,
-964,964,Danville Blvd + El Portal,Danville Boulevard and El Portal,37.834918,-122.017172,0,
-946,946,Danville Blvd + Horse Trail Ct,Danville Boulevard and Horse Trail Court,37.875013,-122.047809,0,
-967,967,Danville Blvd + La Serena Ave,Danville Boulevard and La Serena Avenue,37.844185,-122.027702,0,
-954,954,Danville Blvd + La Serena Ave,Danville Boulevard and La Serena Avenue,37.843906,-122.027588,0,
-969,969,Danville Blvd + Las Trampas Rd,Danville Boulevard and Las Trampas Road,37.847615,-122.03092,0,
-953,953,Danville Blvd + Las Trampas Rd,Danville Boulevard and Las Trampas Road,37.847789,-122.031243,0,
-955,955,Danville Blvd + Alamo Womens Club,Danville Boulevard and Alamo Womens Club,37.845207,-122.028939,0,
-965,965,Danville Blvd + Camille Ave,Danville Boulevard and Camille Avenue,37.837894,-122.02108,0,
-957,957,Danville Blvd + Camille Ave,Danville Boulevard and Camille Avenue,37.83745,-122.020609,0,
-2100,2100,Danville Blvd + El Cerro Blvd,Danville Boulevard and El Cerro Boulevard,37.828238,-122.007337,0,
-963,963,Danville Blvd + Hartford Rd,Danville Boulevard and Hartford Road,37.832228,-122.014112,0,
-958,958,Danville Blvd + Hartford Rd,Danville Boulevard and Hartford Road,37.832013,-122.013874,0,
-966,966,Danville Blvd + Hemme Ave,Danville Boulevard and Hemme Avenue,37.841566,-122.025139,0,
-956,956,Danville Blvd + Hemme Ave,Danville Boulevard and Hemme Avenue,37.841345,-122.025019,0,
-974,974,Danville Blvd + Hillgrade Ave,Danville Boulevard and Hillgrade Avenue,37.870285,-122.045144,0,
-948,948,Danville Blvd + Hillgrade Ave,Danville Boulevard and Hillgrade Avenue,37.869418,-122.04453,0,
-961,961,Danville Blvd + La Gonda Way,Danville Boulevard and La Gonda Way,37.825728,-122.004059,0,
-973,973,Danville Blvd + Livorna Rd,Danville Boulevard and Livorna Road,37.862043,-122.04002,0,
-949,949,Danville Blvd + Livorna Rd,Danville Boulevard and Livorna Road,37.861871,-122.03992,0,
-960,960,Danville Blvd + Railroad Ave,Danville Boulevard and Railroad Avenue,37.825171,-122.00364,0,
-972,972,Danville Blvd + Ridgewood Rd,Danville Boulevard and Ridgewood Road,37.856976,-122.03694,0,
-950,950,Danville Blvd + Ridgewood Rd,Danville Boulevard and Ridgewood Road,37.856953,-122.0369,0,
-971,971,Danville Blvd + St Alphonsus Ct,Danville Boulevard and Saint Alphonsus Court,37.853793,-122.034854,0,
-951,951,Danville Blvd + St Alphonsus Ct,Danville Boulevard and Saint Alphonsus Court,37.85344,-122.034655,0,
-968,968,Danville Blvd + South Ave,Danville Boulevard and South Avenue,37.845293,-122.028894,0,
-978,978,Danville Blvd + Wayne Ave,Danville Boulevard and Wayne Avenue,37.834863,-122.017132,0,
-1075,1075,Danville Park And Ride,Danville Park and Ride,37.811989,-121.991816,0,
-616,616,David Ave + Bancroft Rd,David Avenue and Bancroft Road,37.934685,-122.046199,0,
-947,947,Danville Blvd + Via Robles,Danville Boulevard and Via Robles,37.871465,-122.04588,0,
-615,615,David Ave + Mohr Ln,David Avenue and Mohr Lane,37.936095,-122.043179,0,
-435,435,Delta Fair Blvd + Kaiser Delta Fair Medical Offices,Delta Fair Boulevard and Kaiser Delta Fair Medical Offices,38.004128,-121.842777,0,
-434,434,Delta Fair Blvd + Somersville Towne Center,Delta Fair Boulevard and Somersville Towne Center,38.003773,-121.842042,0,
-623,623,Detroit Ave + Laguna St,Detroit Avenue and Laguna Street,37.967905,-122.040934,0,
-622,622,Detroit Ave + Lynn Ave,Detroit Avenue and Lynn Avenue,37.965623,-122.03845,0,
-620,620,Detroit Ave + Monument Blvd,Detroit Avenue and Monument Boulevard,37.960696,-122.034039,0,
-617,617,Detroit Ave + Sunshine Dr,Detroit Avenue and Sunshine Drive,37.965313,-122.03837,0,
-621,621,Detroit Ave + Walters Way,Detroit Avenue and Walters Way,37.96283,-122.035907,0,
-618,618,Detroit Ave + Walters Way,Detroit Avenue and Walters Way,37.962341,-122.035729,0,
-2009,2009,Diamond Blvd + The Veranda,Diamond Boulevard and The Veranda,37.973268,-122.057464,0,
-2012,2012,Diamond Blvd + Golden Corral,Diamond Boulevard and Golden Corral,37.97385,-122.057702,0,
-2011,2011,Diamond Blvd + Hilton Concord,Diamond Boulevard and Hilton Concord,37.970566,-122.05496,0,
-1961,1961,Diamond Blvd + Burnett Ave,Diamond Boulevard and Burnett Avenue,37.976273,-122.059889,0,
-1960,1960,Diamond Blvd + Galaxy Way,Diamond Boulevard and Galaxy Way,37.975248,-122.058934,0,
-2008,2008,Diamond Blvd + Galaxy Way,Diamond Boulevard and Galaxy Way,37.97438,-122.058396,0,
-2010,2010,Diamond Blvd + Willow Way,Diamond Boulevard and Willow Way,37.970988,-122.055635,0,
-2235,2235,Dougherty Rd + Camp Parks Blvd,Dougherty Road and Camp Parks Boulevard,37.715729,-121.910086,0,
-2056,2056,Dougherty Rd + Iron Horse Trail Apts,Dougherty Road and Iron Horse Trail Apartments,37.708751,-121.91017,0,
-2162,2162,Dougherty Rd + Old Ranch Rd,Dougherty Road and Old Ranch Road,37.739893,-121.913745,0,
-2161,2161,Dougherty Rd + Old Ranch Rd,Dougherty Road and Old Ranch Road,37.739956,-121.914044,0,
-2057,2057,Dougherty Rd + Park Sierra,Dougherty Road and Park Sierra,37.711771,-121.910389,0,
-2050,2050,Dougherty Rd So + Dougherty Rd No,Dougherty Road South and Dougherty Road North,37.749163,-121.914442,0,
-2189,2189,Dougherty Rd + Mariposa Cir,Dougherty Road and Mariposa Circle,37.714711,-121.910369,0,
-2028,2028,Dougherty Rd + Sierra Ln,Dougherty Road and Sierra Lane,37.705973,-121.91009,0,
-2092,2092,Dublin Blvd + Scarlett Ct,Dublin Boulevard and Scarlett Court,37.70568,-121.90709,0,
-2173,2173,Diablo Valley College,Diablo Valley College,37.971055,-122.069027,0,S6
-2168,2168,Diablo Valley College,Diablo Valley College,37.97044,-122.069187,0,S6
-2169,2169,Diablo Valley College,Diablo Valley College,37.970403,-122.068987,0,S6
-2170,2170,Diablo Valley College,Diablo Valley College,37.970583,-122.068987,0,S6
-2171,2171,Diablo Valley College,Diablo Valley College,37.970741,-122.068967,0,S6
-2172,2172,Diablo Valley College,Diablo Valley College,37.970908,-122.068987,0,S6
-S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,
-624,624,East St + Bacon St,East Street and Bacon Street,37.982618,-122.03392,0,
-625,625,East St + Bacon St,East Street and Bacon Street,37.982508,-122.03398,0,
-627,627,East St + Sunset Ave,East Street and Sunset Avenue,37.97675,-122.02961,0,
-626,626,East St + Willow Pass Rd,East Street and Willow Pass Road,37.978331,-122.03092,0,
-2113,2113,E Branch Pkwy + Sherwood Way,East Branch Parkway and Sherwood Way,37.751433,-121.89797,0,
-2104,2104,E Branch Pkwy + Sherwood Way,East Branch Parkway and Sherwood Way,37.751296,-121.89805,0,
-2112,2112,E Branch Pkwy + Windemere Pkwy,East Branch Parkway and Windemere Parkway,37.749211,-121.89042,0,
-2103,2103,E Branch Pkwy + Windemere Ranch School,East Branch Parkway and Windemere Ranch School,37.753463,-121.905004,0,
-2114,2114,E Branch Pkwy + Windemere Ranch School,East Branch Parkway and Windemere Ranch School,37.753415,-121.905302,0,
-1420,1420,Ellinwood Way + Contra Costa Employment Human Services,Ellinwood Way and Contra Costa Employment Human Services,37.959333,-122.053789,0,
-1466,1466,Ellinwood Dr + Longbrook Way,Ellinwood Drive and Longbrook Way,37.958805,-122.05802,0,
-1034,1034,Escobar St + Castro St,Escobar Street and Castro Street,38.017077,-122.138355,0,
-2214,2214,Estudillo St + Victory Ct,Estudillo Street and Victory Court,38.001401,-122.12861,0,
-1646,1646,Executive Pkwy + Bishop Dr And Camino Ramon,Executive Parkway between Bishop Drive and Camino Ramon,37.768968,-121.964549,0,
-1643,1643,Executive Pkwy + Camino Ramon And Bishop Dr,Executive Parkway between Camino Ramon and Bishop Drive,37.769286,-121.964032,0,
-1644,1644,Executive Pkwy + Bishop Dr,Executive Parkway and Bishop Drive,37.767315,-121.96888,0,
-436,436,Fairview Dr + Potomac Ct,Fairview Drive and Potomac Court,38.001631,-121.844764,0,
-437,437,Fairview Dr + Potomac Ct,Fairview Drive and Potomac Court,38.00141,-121.845102,0,
-1651,1651,Fostoria Way + Camino Ramon,Fostoria Way and Camino Ramon,37.782056,-121.971165,0,
-1652,1652,Fostoria Way + Camino Ramon,Fostoria Way and Camino Ramon,37.781338,-121.972914,0,
-1650,1650,Fostoria Way + Crow Canyon Pl,Fostoria Way and Crow Canyon Place,37.78102,-121.973192,0,
-630,630,Fry Way + Clayton Rd,Fry Way and Clayton Road,37.972526,-122.040814,0,
-629,629,Fry Way + Clayton Rd,Fry Way and Clayton Road,37.972274,-122.040856,0,
-632,632,Galaxy Way + Meridian Park Blvd,Galaxy Way and Meridian Park Boulevard,37.976075,-122.055835,0,
-631,631,Galaxy Way + Meridian Park Blvd,Galaxy Way and Meridian Park Boulevard,37.976075,-122.056152,0,
-634,634,Gateway Blvd + Clayton Rd,Gateway Boulevard and Clayton Road,37.971255,-122.042722,0,
-635,635,Gateway Blvd + Willow Pass Rd,Gateway Boulevard and Willow Pass Road,37.971786,-122.043488,0,
-2070,2070,Glacier Dr + Muir Rd,Glacier Drive and Muir Road,37.990604,-122.086991,0,
-1467,1467,Golf Club Rd + College Dr,Golf Club Road and College Drive,37.971621,-122.065481,0,
-638,638,Grant St + Bonifacio St,Grant Street and Bonifacio Street,37.97981,-122.034854,0,
-2284,2284,Grant St + Clayton Rd,Grant Street and Clayton Road,37.975582,-122.0317,0,
-641,641,Grant St + Fairfield Ave,Grant Street and Fairfield Avenue,37.987475,-122.039582,0,
-643,643,Grant St + Gill Dr,Grant Street and Gill Drive,37.984256,-122.037555,0,
-640,640,Grant St + Karren St,Grant Street and Karren Street,37.985686,-122.03851,0,
-642,642,Grant St + Mildred St,Grant Street and Mildred Street,37.986485,-122.039185,0,
-637,637,Grant St + Pacheco St,Grant Street and Pacheco Street,37.978775,-122.034264,0,
-1488,1488,Gregory Ln + Contra Costa Blvd,Gregory Lane and Contra Costa Boulevard,37.947885,-122.061359,0,
-1474,1474,Gregory Ln + Contra Costa Blvd,Gregory Lane and Contra Costa Boulevard,37.94807,-122.061219,0,
-1482,1482,Gregory Ln + Brandon Rd,Gregory Lane and Brandon Road,37.947861,-122.077214,0,
-1480,1480,Gregory Ln + Brandon Rd,Gregory Lane and Brandon Road,37.947973,-122.078325,0,
-1487,1487,Gregory Ln + Cleaveland Rd,Gregory Lane and Cleaveland Road,37.947861,-122.063802,0,
-1475,1475,Gregory Ln + Cleaveland Rd,Gregory Lane and Cleaveland Road,37.948008,-122.064657,0,
-1484,1484,Gregory Ln + Kahrs Ave,Gregory Lane and Kahrs Avenue,37.947901,-122.072822,0,
-1478,1478,Gregory Ln + Kahrs Ave,Gregory Lane and Kahrs Avenue,37.948013,-122.073875,0,
-1486,1486,Gregory Ln + Moiso Ln,Gregory Lane and Moiso Lane,37.947916,-122.066842,0,
-1476,1476,Gregory Ln + Moiso Ln,Gregory Lane and Moiso Lane,37.948068,-122.066922,0,
-1485,1485,Gregory Ln + Price Ln,Gregory Lane and Price Lane,37.947953,-122.070657,0,
-1479,1479,Gregory Ln + Helen Rd And Brandon Rd,Gregory Lane between Helen Road and Brandon Road,37.947996,-122.0762,0,
-644,644,Grant St + High School Ave,Grant Street and High School Avenue,37.984061,-122.036007,0,
-639,639,Grant St + High School Ave,Grant Street and High School Avenue,37.984013,-122.03529,0,
-1481,1481,Gregory Ln + Pleasant Hill Rd,Gregory Lane and Pleasant Hill Road,37.94783,-122.081684,0,
-1483,1483,Gregory Ln + Rolling Green Cir,Gregory Lane and Rolling Green Circle,37.947861,-122.075087,0,
-1304,1304,Howe Rd + Buena Vida Ct,Howe Road and Buena Vida Court,37.997276,-122.119934,0,
-1303,1303,Howe Rd + Contra Costa Housing Choice Voucher Office,Howe Road and Contra Costa Housing Choice Voucher Office,37.999391,-122.11685,0,
-1302,1302,Howe Rd + Parkway Dr,Howe Road and Parkway Drive,38.001005,-122.113929,0,
-647,647,John Glenn Dr + Burnett Ave,John Glenn Drive and Burnett Avenue,37.977915,-122.054365,0,
-645,645,John Glenn Dr + Concord Ave,John Glenn Drive and Concord Avenue,37.979549,-122.055161,0,
-646,646,John Glenn Dr + Concord Ave,John Glenn Drive and Concord Avenue,37.97958,-122.055497,0,
-2087,2087,John Muir Medical Center Walnut Creek,John Muir Medical Center Walnut Creek,37.912265,-122.040377,0,
-2181,2181,John Muir Medical Center Walnut Creek,John Muir Medical Center Walnut Creek,37.912608,-122.041729,0,
-1959,1959,Kirker Pass Rd + Allegro Ave,Kirker Pass Road and Allegro Avenue,37.953726,-121.954932,0,
-443,443,Kirker Pass Rd + Castlewood Dr,Kirker Pass Road and Castlewood Drive,37.995415,-121.897097,0,
-442,442,Kirker Pass Rd + Castlewood Dr,Kirker Pass Road and Castlewood Drive,37.995851,-121.897554,0,
-650,650,Kirker Pass Rd + Clayton Rd,Kirker Pass Road and Clayton Road,37.953373,-121.956005,0,
-648,648,Kirker Pass Rd + Olive Dr,Kirker Pass Road and Olive Drive,37.954863,-121.953542,0,
-649,649,Kirker Pass Rd + Olive Dr,Kirker Pass Road and Olive Drive,37.955105,-121.953642,0,
-657,657,Laguna St + Ellis Park,Laguna Street and Ellis Park,37.970336,-122.035589,0,
-656,656,Laguna St + Detroit Ave,Laguna Street and Detroit Avenue,37.968293,-122.040575,0,
-655,655,Laguna St + Ellis St,Laguna Street and Ellis Street,37.969668,-122.03698,0,
-665,665,Landana Dr + Beechwood Dr,Landana Drive and Beechwood Drive,37.983083,-121.998862,0,
-664,664,Landana Dr + Cottonwood Dr,Landana Drive and Cottonwood Drive,37.980763,-121.996755,0,
-662,662,Landana Dr + Cottonwood Dr,Landana Drive and Cottonwood Drive,37.980826,-121.996974,0,
-667,667,Landana Dr + Larkspur Dr,Landana Drive and Larkspur Drive,37.989401,-122.004535,0,
-2187,2187,Landana Dr + Mulberry Dr,Landana Drive and Mulberry Drive,37.978721,-121.994192,0,
-660,660,Landana Dr + Sandalwood Dr,Landana Drive and Sandalwood Drive,37.98463,-121.999617,0,
-661,661,Landana Dr + Silverwood Dr,Landana Drive and Silverwood Drive,37.983303,-121.99904,0,
-666,666,Landana Dr + Village Rd,Landana Drive and Village Road,37.987081,-122.001019,0,
-659,659,Landana Dr + Village Rd,Landana Drive and Village Road,37.987033,-122.001039,0,
-658,658,Landana Dr + Willow Pass Rd,Landana Drive and Willow Pass Road,37.989823,-122.00535,0,
-1991,1991,Lennon Ln + N Wiget Ln,Lennon Lane and North Wiget Lane,37.927635,-122.029807,0,
-1981,1981,Locust St + Mt Diablo Blvd,Locust Street and Mount Diablo Boulevard,37.897126,-122.061417,0,
-1759,1759,Locust St + Olympic Blvd,Locust Street and Olympic Boulevard,37.895978,-122.061417,0,
-453,453,Marsh Creek Rd + El Molino Dr,Marsh Creek Road and El Molino Drive,37.93391,-121.92825,0,
-668,668,Market St + Clayton Rd And Meadow Ln,Market Street between Clayton Road and Meadow Lane,37.96773,-122.047769,0,
-454,454,Marsh Creek Rd + Bigelow St,Marsh Creek Road and Bigelow Street,37.932405,-121.923959,0,
-452,452,Marsh Creek Rd + Greystone Rd,Marsh Creek Road and Greystone Road,37.935328,-121.932224,0,
-499,499,Marsh Creek Rd + High St,Marsh Creek Road and High Street,37.940065,-121.933515,0,
-669,669,Market St + Clayton Rd,Market Street and Clayton Road,37.969226,-122.046982,0,
-671,671,Mason Cir + Commercial Support Services,Mason Circle and Commercial Support Services,38.009393,-122.040517,0,
-672,672,Mason Cir + Bates Ave,Mason Circle and Bates Avenue,38.012371,-122.039324,0,
-670,670,Mason Cir + Bates Ave,Mason Circle and Bates Avenue,38.011026,-122.041172,0,
-1791,1791,Mt Diablo Blvd + Locust St,Mount Diablo Boulevard and Locust Street,37.897316,-122.06098,0,
-1205,1205,Mt Diablo Blvd + Moraga Rd,Mount Diablo Boulevard and Moraga Road,37.891888,-122.119492,0,
-1196,1196,Mt Diablo Blvd + Moraga Rd,Mount Diablo Boulevard and Moraga Road,37.892088,-122.119254,0,
-681,681,Meadow Ln + Blackfield Dr,Meadow Lane and Blackfield Drive,37.964181,-122.04588,0,
-675,675,Meadow Ln + Gelbke Ln,Meadow Lane and Gelbke Lane,37.960705,-122.04284,0,
-678,678,Meadow Ln + Lodge Dr,Meadow Lane and Lodge Drive,37.958268,-122.040537,0,
-674,674,Meadow Ln + Mayette Ave,Meadow Lane and Mayette Avenue,37.96302,-122.044945,0,
-677,677,Meadow Ln + Monument Blvd,Meadow Lane and Monument Boulevard,37.957267,-122.039978,0,
-679,679,Meadow Ln + Robin Ln,Meadow Lane and Robin Lane,37.95935,-122.04147,0,
-676,676,Meadow Ln + Robin Ln,Meadow Lane and Robin Lane,37.958936,-122.04131,0,
-680,680,Meadow Ln + Sunshine Dr,Meadow Lane and Sunshine Drive,37.96133,-122.04326,0,
-673,673,Meadow Ln + William Way,Meadow Lane and William Way,37.965889,-122.047753,0,
-686,686,Michigan Blvd + Washington Blvd,Michigan Boulevard and Washington Boulevard,37.94598,-121.960122,0,
-1781,1781,Mitchell Dr + Oak Grove Rd,Mitchell Drive and Oak Grove Road,37.932018,-122.019734,0,
-1782,1782,Mitchell Dr + Oak Grove Rd,Mitchell Drive and Oak Grove Road,37.931991,-122.020012,0,
-1778,1778,Mitchell Dr + Park And Ride Lot,Mitchell Drive and Park And Ride Lot,37.929713,-122.023927,0,
-1779,1779,Mitchell Dr + Park And Ride Lot,Mitchell Drive and Park And Ride Lot,37.929813,-122.023967,0,
-687,687,Michigan Blvd + Round Tree Way,Michigan Boulevard and Round Tree Way,37.946674,-121.961831,0,
-1780,1780,Mitchell Dr + N Wiget Ln,Mitchell Drive and North Wiget Lane,37.928995,-122.025535,0,
-695,695,Mira Vista Ter + Salvio St,Mira Vista Terrace and Salvio Street,37.975665,-122.037575,0,
-694,694,Mira Vista Ter + Willow Pass Rd,Mira Vista Terrace and Willow Pass Road,37.975215,-122.037629,0,
-688,688,Michigan Blvd + Ygnacio Valley Rd,Michigan Boulevard and Ygnacio Valley Road,37.947336,-121.963199,0,
-1339,1339,Moraga Rd + Alta Mesa Dr,Moraga Road and Alta Mesa Drive,37.83774,-122.125692,0,
-1354,1354,Moraga Rd + Alta Mesa Dr,Moraga Road and Alta Mesa Drive,37.837761,-122.126053,0,
-1357,1357,Moraga Way + Camino Ricardo,Moraga Way and Camino Ricardo,37.837171,-122.134514,0,
-1384,1384,Moraga Way + Casa Vieja,Moraga Way and Casa Vieja,37.862245,-122.168647,0,
-1473,1473,Monument Blvd + Contra Costa Blvd,Monument Boulevard and Contra Costa Boulevard,37.945251,-122.05953,0,
-697,697,Mohr Ln + Del Rio Cir,Mohr Lane and Del Rio Circle,37.946041,-122.047729,0,
-705,705,Mohr Ln + Del Rio Cir,Mohr Lane and Del Rio Circle,37.945851,-122.045524,0,
-699,699,Mohr Ln + Del Rio Ct,Mohr Lane and Del Rio Court,37.94378,-122.045105,0,
-698,698,Mohr Ln + Del Rio Cir,Mohr Lane and Del Rio Circle,37.945728,-122.045484,0,
-706,706,Mohr Ln + Del Rio Cir,Mohr Lane and Del Rio Circle,37.946182,-122.048066,0,
-1392,1392,Moraga Way + El Corte,Moraga Way and El Corte,37.845118,-122.149732,0,
-704,704,Mohr Ln + Hidden Creek Town Homes,Mohr Lane and Hidden Creek Town Homes,37.94462,-122.04443,0,
-701,701,Mohr Ln + Bentley St,Mohr Lane and Bentley Street,37.939076,-122.045544,0,
-707,707,Mohr Ln + Monument Blvd,Mohr Lane and Monument Boulevard,37.947506,-122.050515,0,
-696,696,Mohr Ln + Monument Blvd,Mohr Lane and Monument Boulevard,37.947396,-122.05059,0,
-702,702,Mohr Ln + Nuala St,Mohr Lane and Nuala Street,37.939565,-122.045504,0,
-703,703,Mohr Ln + Wicket Ct,Mohr Lane and Wicket Court,37.941589,-122.045121,0,
-700,700,Mohr Ln + Wicket Ct,Mohr Lane and Wicket Court,37.941571,-122.045185,0,
-2118,2118,Monument Blvd + Monument Ct And Systron Dr,Monument Boulevard between Monument Court and Systron Drive,37.963088,-122.031615,0,
-1783,1783,Montego + San Marco Apartments,Montego and San Marco Apartments,37.908693,-122.047867,0,
-2176,2176,Monument Blvd + Studio 6 Concord,Monument Boulevard and Studio Six Concord,37.950898,-122.046635,0,
-1786,1786,Montego + Satellite Senior Homes,Montego and Satellite Senior Homes,37.910731,-122.041589,0,
-2117,2117,Monument Blvd + Detroit Ave,Monument Boulevard and Detroit Avenue,37.959576,-122.034219,0,
-2116,2116,Monument Blvd + Detroit Ave,Monument Boulevard and Detroit Avenue,37.959925,-122.034099,0,
-718,718,Monument Blvd + Lacey Ln,Monument Boulevard and Lacey Lane,37.95356,-122.04282,0,
-712,712,Monument Blvd + Lacey Ln,Monument Boulevard and Lacey Lane,37.953595,-122.043119,0,
-710,710,Monument Blvd + Meadow Ln,Monument Boulevard and Meadow Lane,37.957036,-122.038192,0,
-715,715,Monument Blvd + Mohr Ln,Monument Boulevard and Mohr Lane,37.94769,-122.051305,0,
-714,714,Monument Blvd + Mohr Ln,Monument Boulevard and Mohr Lane,37.948249,-122.050759,0,
-708,708,Monument Blvd + Oakmead Ave,Monument Boulevard and Oakmead Avenue,37.968421,-122.03229,0,
-717,717,Monument Blvd + Reganti Dr,Monument Boulevard and Reganti Drive,37.952443,-122.04439,0,
-1785,1785,Montego + Tampico,Montego and Tampico,37.910224,-122.043778,0,
-1784,1784,Montego + Tampico,Montego and Tampico,37.910087,-122.045647,0,
-1788,1788,Montego + Tampico,Montego and Tampico,37.91032,-122.04306,0,
-713,713,Monument Blvd + Victory Ln,Monument Boulevard and Victory Lane,37.950759,-122.04728,0,
-711,711,Monument Blvd + Virginia Ln,Monument Boulevard and Virginia Lane,37.954366,-122.042007,0,
-2115,2115,Monument Blvd + Walters Way,Monument Boulevard and Walters Way,37.963358,-122.031774,0,
-719,719,Monument Blvd + Oak Grove Rd,Monument Boulevard and Oak Grove Road,37.95681,-122.038132,0,
-1383,1383,Moraga Way + Mcdonnell Nursery,Moraga Way and McDonnell Nursery,37.865405,-122.174727,0,
-1401,1401,Moraga Way + Holy Shepherd Lutheran Church,Moraga Way and Holy Shepherd Lutheran Church,37.86041,-122.165209,0,
-1399,1399,Moraga Way + Ardor Dr,Moraga Way and Ardor Drive,37.857898,-122.157839,0,
-1305,1305,Morello Ave + Arnold Dr,Morello Avenue and Arnold Drive,37.994798,-122.100439,0,
-1312,1312,Morello Ave + Arnold Dr,Morello Avenue and Arnold Drive,37.994655,-122.100479,0,
-1342,1342,Moraga Rd + Ascot Dr,Moraga Road and Ascot Drive,37.854798,-122.124857,0,
-1351,1351,Moraga Rd + Ascot Dr,Moraga Road and Ascot Drive,37.85491,-122.125015,0,
-1403,1403,Moraga Way + Brookside Dr,Moraga Way and Brookside Drive,37.865583,-122.174647,0,
-1186,1186,Moraga Rd + Brook St,Moraga Road and Brook Street,37.888661,-122.11836,0,
-1344,1344,Moraga Rd + Buckingham Dr,Moraga Road and Buckingham Drive,37.864931,-122.124082,0,
-1349,1349,Moraga Rd + Buckingham Dr,Moraga Road and Buckingham Drive,37.864716,-122.12426,0,
-1345,1345,Moraga Rd + Campolindo Dr,Moraga Road and Campolindo Drive,37.868221,-122.125215,0,
-1348,1348,Moraga Rd + Campolindo Dr,Moraga Road and Campolindo Drive,37.868015,-122.125274,0,
-1340,1340,Moraga Rd + Corliss Dr,Moraga Road and Corliss Drive,37.846848,-122.12593,0,
-1353,1353,Moraga Rd + Corliss Dr,Moraga Road and Corliss Drive,37.84692,-122.126168,0,
-1394,1394,Moraga Way + Coral Dr,Moraga Way and Coral Drive,37.844718,-122.148739,0,
-1341,1341,Moraga Rd + Devin Dr,Moraga Road and Devin Drive,37.851215,-122.125175,0,
-1352,1352,Moraga Rd + Devin Dr,Moraga Road and Devin Drive,37.850704,-122.125466,0,
-1405,1405,Moraga Way + Eastwood Dr,Moraga Way and Eastwood Drive,37.84341,-122.146275,0,
-1391,1391,Moraga Way + El Camino Moraga,Moraga Way and El Camino Moraga,37.847836,-122.152514,0,
-1393,1393,Moraga Way + Estabueno,Moraga Way and Estabueno,37.843541,-122.146732,0,
-1308,1308,Morello Ave + Gilrix Ct,Morello Avenue and Gilrix Court,38.008093,-122.10179,0,
-1402,1402,Moraga Way + Glorietta Blvd,Moraga Way and Glorietta Boulevard,37.862403,-122.168824,0,
-1398,1398,Moraga Way + Hall Dr,Moraga Way and Hall Drive,37.856365,-122.155175,0,
-1358,1358,Moraga Way + Hardie Dr,Moraga Way and Hardie Drive,37.841278,-122.142327,0,
-1188,1188,Moraga Rd + Herman Dr,Moraga Road and Herman Drive,37.8853,-122.11836,0,
-1397,1397,Moraga Way + Ivy Dr,Moraga Way and Ivy Drive,37.854806,-122.152772,0,
-1389,1389,Moraga Way + Ivy Dr,Moraga Way and Ivy Drive,37.85416,-122.152394,0,
-1343,1343,Moraga Rd + Kendall Cir,Moraga Road and Kendall Circle,37.857716,-122.12414,0,
-1350,1350,Moraga Rd + Kendall Cir,Moraga Road and Kendall Circle,37.858045,-122.124222,0,
-1385,1385,Moraga Way + Los Cerros,Moraga Way and Los Cerros,37.860433,-122.165547,0,
-1307,1307,Morello Ave + Marie Ave,Morello Avenue and Marie Avenue,38.003931,-122.10179,0,
-1310,1310,Morello Ave + Marie Ave,Morello Avenue and Marie Avenue,38.004036,-122.10183,0,
-1185,1185,Moraga Rd + Mt Diablo Blvd,Moraga Road and Mount Diablo Boulevard,37.89112,-122.118729,0,
-1306,1306,Morello Ave + Midhill Rd,Morello Avenue and Midhill Road,37.997901,-122.100419,0,
-1359,1359,Moraga Way + Miramonte Dr,Moraga Way and Miramonte Drive,37.841066,-122.142102,0,
-1338,1338,Moraga Rd + Moraga Way,Moraga Road and Moraga Way,37.83412,-122.127142,0,
-1184,1184,Moraga Rd + Moraga Blvd,Moraga Road and Moraga Boulevard,37.889938,-122.11836,0,
-1355,1355,Moraga Rd + Moraga Way,Moraga Road and Moraga Way,37.834518,-122.127175,0,
-1386,1386,Moraga Way + Oak Dr,Moraga Way and Oak Drive,37.85878,-122.161375,0,
-1187,1187,Moraga Rd + O'conner Dr,Moraga Road and O'Conner Drive,37.886731,-122.118102,0,
-1183,1183,Moraga Rd + Oliver Ct,Moraga Road and Oliver Court,37.883961,-122.118619,0,
-1404,1404,Moraga Way + Orchard Rd,Moraga Way and Orchard Road,37.871226,-122.177289,0,
-1382,1382,Moraga Way + Orchard Rd,Moraga Way and Orchard Road,37.871246,-122.177567,0,
-2129,2129,Moraga Way + Orchard Rd,Moraga Way and Orchard Road,37.859663,-122.1635,0,
-1309,1309,Morello Ave + Pacheco Blvd,Morello Avenue and Pacheco Boulevard,38.010183,-122.10179,0,
-2144,2144,Moraga Rd + Rheem Blvd,Moraga Road and Rheem Boulevard,37.861076,-122.125075,0,
-1360,1360,Moraga Way + St Andrews Dr,Moraga Way and Saint Andrews Drive,37.836993,-122.134592,0,
-1356,1356,Moraga Way + School St,Moraga Way and School Street,37.835271,-122.130002,0,
-1396,1396,Moraga Way + Southwaite Ct,Moraga Way and Southwaite Court,37.85203,-122.151719,0,
-1390,1390,Moraga Way + Southwaite Ct,Moraga Way and Southwaite Court,37.851603,-122.151977,0,
-1189,1189,Moraga Rd + Tanglewood Dr,Moraga Road and Tanglewood Drive,37.88329,-122.118937,0,
-1489,1489,Morello Ave + Taylor Blvd,Morello Avenue and Taylor Boulevard,37.961293,-122.078762,0,
-1490,1490,Morello Ave + Taylor Blvd,Morello Avenue and Taylor Boulevard,37.961646,-122.07908,0,
-1361,1361,Moraga Way + Viader Dr,Moraga Way and Viader Drive,37.83484,-122.129427,0,
-1395,1395,Moraga Way + Whitehall Dr,Moraga Way and Whitehall Drive,37.847058,-122.151937,0,
-1388,1388,Moraga Way + Woodland Rd,Moraga Way and Woodland Road,37.85619,-122.155215,0,
-1182,1182,Moraga Rd + Silver Springs Rd,Moraga Road and Silver Springs Road,37.881788,-122.11981,0,
-1387,1387,Moraga Way + Valley View Dr,Moraga Way and Valley View Drive,37.857651,-122.157699,0,
-1346,1346,Moraga Rd + Via Granada Dr,Moraga Road and Via Granada Drive,37.872361,-122.123824,0,
-1347,1347,Moraga Rd + Via Granada Dr,Moraga Road and Via Granada Drive,37.872378,-122.123982,0,
-1311,1311,Morello Ave + Village Oaks Dr,Morello Avenue and Village Oaks Drive,37.997388,-122.10028,0,
-2083,2083,Montego + Ygnacio Valley Rd,Montego and Ygnacio Valley Road,37.90859,-122.049557,0,
-1313,1313,Muir Rd + Center Ave,Muir Road and Center Avenue,37.994628,-122.118691,0,
-1314,1314,Muir Rd + Center Ave,Muir Road and Center Avenue,37.995013,-122.118539,0,
-1319,1319,Muir Rd + Fountainhead Ct,Muir Road and Fountainhead Court,37.990415,-122.083432,0,
-1316,1316,Muir Rd + Fountainhead Ct,Muir Road and Fountainhead Court,37.99055,-122.084167,0,
-1318,1318,Muir Rd + Glacier Dr,Muir Road and Glacier Drive,37.990308,-122.086352,0,
-1320,1320,Muir Rd + Sweetwater Dr,Muir Road and Sweetwater Drive,37.991221,-122.077809,0,
-1315,1315,Muir Rd + Sweetwater Dr,Muir Road and Sweetwater Drive,37.99123,-122.078524,0,
-1813,1813,N California Blvd + California Plaza,North California Boulevard and California Plaza,37.908458,-122.065909,0,
-1810,1810,N California Blvd + Bonanza St,North California Boulevard and Bonanza Street,37.89988,-122.063622,0,
-1807,1807,N California Blvd + Bonanza St,North California Boulevard and Bonanza Street,37.898975,-122.063599,0,
-1811,1811,N California Blvd + Cole Ave,North California Boulevard and Cole Avenue,37.902165,-122.064497,0,
-1805,1805,N California Blvd + Cole Ave,North California Boulevard and Cole Avenue,37.902492,-122.064949,0,
-1812,1812,N California Blvd + Lacassie Ave,North California Boulevard and Lacassie Avenue,37.903522,-122.065293,0,
-1809,1809,N California Blvd + Mt Diablo Blvd,North California Boulevard and Mount Diablo Boulevard,37.897928,-122.063067,0,
-1806,1806,N California Blvd + Trinity Ave,North California Boulevard and Trinity Avenue,37.901203,-122.064492,0,
-1824,1824,N Civic Dr + Brio Dr,North Civic Drive and Brio Drive,37.908748,-122.058755,0,
-2191,2191,N Civic Dr + Brio Dr,North Civic Drive and Brio Drive,37.908896,-122.058457,0,
-1818,1818,N Civic Dr + Deodora Way,North Civic Drive and Deodora Way,37.915063,-122.05945,0,
-1821,1821,N Civic Dr + Deodora Way,North Civic Drive and Deodora Way,37.914975,-122.059649,0,
-1817,1817,N Civic Dr + Parkside Dr,North Civic Drive and Parkside Drive,37.912686,-122.059809,0,
-1822,1822,N Civic Dr + Parkside Dr,North Civic Drive and Parkside Drive,37.912305,-122.060127,0,
-1816,1816,N Civic Dr + Pine St,North Civic Drive and Pine Street,37.910668,-122.05949,0,
-1823,1823,N Civic Dr + Pine St,North Civic Drive and Pine Street,37.910406,-122.05955,0,
-1819,1819,N Civic Dr + Walden Rd,North Civic Drive and Walden Road,37.916935,-122.059143,0,
-1820,1820,N Civic Dr + Walden Rd,North Civic Drive and Walden Road,37.916763,-122.059352,0,
-1814,1814,N Civic Dr + Ygnacio Valley Rd,North Civic Drive and Ygnacio Valley Road,37.907278,-122.058597,0,
-1825,1825,N Civic Dr + Ygnacio Valley Rd,North Civic Drive and Ygnacio Valley Road,37.907155,-122.058855,0,
-1795,1795,Newell Ave + Kaiser Medical Center,Newell Avenue and Kaiser Medical Center,37.892771,-122.059947,0,
-1799,1799,Newell Ave + S Main St,Newell Avenue and South Main Street,37.893245,-122.057892,0,
-1764,1764,N Main St + Arroyo Way,North Main Street and Arroyo Way,37.905526,-122.063802,0,
-1761,1761,N Main St + Bonanza St,North Main Street and Bonanza Street,37.899928,-122.06094,0,
-1763,1763,N Main St + Civic Dr,North Main Street and Civic Drive,37.901645,-122.061806,0,
-1760,1760,N Main St + Duncan St,North Main Street and Duncan Street,37.898493,-122.060305,0,
-1832,1832,N Main St + Geary Rd,North Main Street and Geary Road,37.925633,-122.062987,0,
-1830,1830,N Main St + Lesnick Ln,North Main Street and Lesnick Lane,37.923635,-122.063464,0,
-1833,1833,N Main St + Lesnick Ln,North Main Street and Lesnick Lane,37.923781,-122.063644,0,
-2119,2119,N Main St + Parkside Dr,North Main Street and Parkside Drive,37.912401,-122.065332,0,
-1837,1837,N Main St + Parkside Dr,North Main Street and Parkside Drive,37.911193,-122.06551,0,
-1831,1831,N Main St + N Main Pet Lodge,North Main Street and North Main Pet Lodge,37.925028,-122.062967,0,
-1834,1834,N Main St + Second Ave,North Main Street and Second Avenue,37.921551,-122.064419,0,
-1828,1828,N Main St + Sos Dr,North Main Street and Sos Drive,37.918918,-122.065114,0,
-1835,1835,N Main St + Third Ave,North Main Street and Third Avenue,37.919688,-122.065054,0,
-1829,1829,N Main St + Auto Center Dr,North Main Street and Auto Center Drive,37.922378,-122.06392,0,
-1827,1827,N Main St + San Luis Rd,North Main Street and San Luis Road,37.917575,-122.06561,0,
-1836,1836,N Main St + Third Ave And San Luis Rd,North Main Street between Third Avenue and San Luis Road,37.918175,-122.06557,0,
-1660,1660,Norris Canyon Rd + Camino Ramon,Norris Canyon Road and Camino Ramon,37.774371,-121.965324,0,
-1659,1659,Norris Canyon Rd + Iron Horse Trail,Norris Canyon Road and Iron Horse Trail,37.775234,-121.963395,0,
-1841,1841,N Wiget Ln + Mitchell Dr,North Wiget Lane and Mitchell Drive,37.928065,-122.026112,0,
-1842,1842,N Wiget Ln + Mitchell Dr,North Wiget Lane and Mitchell Drive,37.927881,-122.026172,0,
-1992,1992,N Wiget Ln + Mitchell Dr,North Wiget Lane and Mitchell Drive,37.929138,-122.027244,0,
-1840,1840,N Wiget Ln + Shadelands Dr,North Wiget Lane and Shadelands Drive,37.926529,-122.024689,0,
-1843,1843,N Wiget Ln + Shadelands Dr,North Wiget Lane and Shadelands Drive,37.926773,-122.025101,0,
-1839,1839,N Wiget Ln + Ygnacio Valley Rd,North Wiget Lane and Ygnacio Valley Road,37.925243,-122.023767,0,
-1844,1844,N Wiget Ln + Ygnacio Valley Rd,North Wiget Lane and Ygnacio Valley Road,37.9251,-122.023887,0,
-1858,1858,Oak Rd + Charter Oak Cir,Oak Road and Charter Oak Circle,37.920078,-122.058795,0,
-741,741,Oak Grove Rd + Chalomar Rd,Oak Grove Road and Chalomar Road,37.947813,-122.033304,0,
-738,738,Oak Grove Rd + David Ave,Oak Grove Road and David Avenue,37.943701,-122.029747,0,
-736,736,Oak Grove Rd + Gilly Ln,Oak Grove Road and Gilly Lane,37.951255,-122.036742,0,
-737,737,Oak Grove Rd + Junction Dr,Oak Grove Road and Junction Drive,37.946303,-122.032132,0,
-2209,2209,Oak Grove Rd + Mitchell Dr,Oak Grove Road and Mitchell Drive,37.932535,-122.019437,0,
-744,744,Oak Grove Rd + Monument Blvd,Oak Grove Road and Monument Boulevard,37.956241,-122.038709,0,
-735,735,Oak Grove Rd + Monument Blvd,Oak Grove Road and Monument Boulevard,37.95549,-122.038659,0,
-743,743,Oak Grove Rd + Pear Dr,Oak Grove Road and Pear Drive,37.953181,-122.037259,0,
-2197,2197,Oak Grove Rd + Peach Willow Ln,Oak Grove Road and Peach Willow Lane,37.93261,-122.019317,0,
-739,739,Oak Grove Rd + Risdon Rd,Oak Grove Road and Risdon Road,37.944535,-122.030264,0,
-740,740,Oak Grove Rd + Rockne Ln,Oak Grove Road and Rockne Lane,37.946303,-122.031894,0,
-1857,1857,Oak Grove Rd + Shadelands Dr,Oak Grove Road and Shadelands Drive,37.9299,-122.016834,0,
-1845,1845,Oak Grove Rd + Shadelands Dr,Oak Grove Road and Shadelands Drive,37.930131,-122.01721,0,
-1983,1983,Oak Grove Rd + Smith Ln,Oak Grove Road and Smith Lane,37.941488,-122.027464,0,
-1982,1982,Oak Grove Rd + Smith Ln,Oak Grove Road and Smith Lane,37.941233,-122.027502,0,
-1988,1988,Oak Grove Rd + Treat Blvd,Oak Grove Road and Treat Boulevard,37.93943,-122.025515,0,
-1987,1987,Oak Grove Rd + Treat Blvd,Oak Grove Road and Treat Boulevard,37.93879,-122.025277,0,
-742,742,Oak Grove Rd + Whitman Rd,Oak Grove Road and Whitman Road,37.949013,-122.034377,0,
-1863,1863,Oakland Blvd + Planned Parenthood-Walnut Creek Health Center,Oakland Boulevard and Planned Parenthood Walnut Creek Health Center,37.897833,-122.070259,0,
-1509,1509,Oak Rd + I 680 Nb On Ramp,Oak Road and Interstate Six Eighty Northbound On Ramp,37.931665,-122.058994,0,
-1862,1862,Oakland Blvd + Almond Ave,Oakland Boulevard and Almond Avenue,37.900368,-122.069882,0,
-745,745,Oak St + Galindo St,Oak Street and Galindo Street,37.972136,-122.03233,0,
-746,746,Oak St + Galindo St,Oak Street and Galindo Street,37.972256,-122.03247,0,
-1860,1860,Oakland Blvd + Mt Diablo Blvd,Oakland Boulevard and Mount Diablo Boulevard,37.897448,-122.07012,0,
-2188,2188,Oakland Blvd + Trinity Ave,Oakland Boulevard and Trinity Avenue,37.90118,-122.069285,0,
-1493,1493,Oak Park Blvd + Hook Ave,Oak Park Boulevard and Hook Avenue,37.933398,-122.062909,0,
-2283,2283,Oak Park Blvd + Monticello Ave,Oak Park Boulevard and Monticello Avenue,37.933539,-122.067179,0,
-1503,1503,Oak Park Blvd + Patterson Blvd,Oak Park Boulevard and Patterson Boulevard,37.933683,-122.072345,0,
-1496,1496,Oak Park Blvd + Patterson Blvd,Oak Park Boulevard and Patterson Boulevard,37.933803,-122.072802,0,
-1504,1504,Oak Park Blvd + Monte Cresta Dr,Oak Park Boulevard and Monte Cresta Drive,37.933688,-122.069942,0,
-1495,1495,Oak Park Blvd + Monte Cresta Dr,Oak Park Boulevard and Monte Cresta Drive,37.933771,-122.069942,0,
-1507,1507,Oak Park Blvd + Pleasant Valley Dr,Oak Park Boulevard and Pleasant Valley Drive,37.93333,-122.062114,0,
-1505,1505,Oak Park Blvd + Via Del Sol,Oak Park Boulevard and Via Del Sol,37.93312,-122.064657,0,
-1859,1859,Oak Rd + Walden Park,Oak Road and Walden Park,37.921131,-122.058339,0,
-753,753,Olivera Rd + Ups Customer Center Concord,Olivera Road and United Parcel Service Customer Center Concord,37.998685,-122.05039,0,
-756,756,Olivera Rd + Grant St,Olivera Road and Grant Street,37.997683,-122.042285,0,
-757,757,Olivera Rd + Hillsborough Dr,Olivera Road and Hillsborough Drive,37.996531,-122.036602,0,
-749,749,Olivera Rd + Hillsborough Dr,Olivera Road and Hillsborough Drive,37.996785,-122.0368,0,
-750,750,Olivera Rd + Northwood Dr,Olivera Road and Northwood Drive,37.997905,-122.042344,0,
-754,754,Olivera Rd + Peralta Rd,Olivera Road and Peralta Road,37.998493,-122.047829,0,
-752,752,Olivera Rd + Peralta Rd,Olivera Road and Peralta Road,37.998645,-122.047364,0,
-755,755,Olivera Rd + Terraza Del Sol,Olivera Road and Terraza Del Sol,37.998203,-122.045007,0,
-758,758,Olivera Rd + Thunderbird Dr,Olivera Road and Thunderbird Drive,37.99601,-122.034179,0,
-748,748,Olivera Rd + Thunderbird Dr,Olivera Road and Thunderbird Drive,37.996086,-122.034188,0,
-759,759,Olivera Rd + Welch Ct,Olivera Road and Welch Court,37.995621,-122.03227,0,
-747,747,Olivera Rd + Welch Ct,Olivera Road and Welch Court,37.995678,-122.032181,0,
-2074,2074,Old Orchard Rd + Arnold Dr,Old Orchard Road and Arnold Drive,37.99664,-122.110608,0,
-1513,1513,Old Quarry Rd + Chilpancingo Pkwy,Old Quarry Road and Chilpancingo Parkway,37.974366,-122.067974,0,
-1510,1510,Old Quarry Rd + Chilpancingo Pkwy,Old Quarry Road and Chilpancingo Parkway,37.974378,-122.068114,0,
-2023,2023,Olivera Rd + Terraza Del Sol And Peralta Rd,Olivera Road between Terraza Del Sol and Peralta Road,37.998486,-122.046119,0,
-1407,1407,Orinda Way + Orinda Community Center,Orinda Way and Orinda Community Center,37.882383,-122.187899,0,
-1409,1409,Orinda Way + Avenida De Orinda,Orinda Way and Avenida De Orinda,37.88538,-122.191794,0,
-1408,1408,Orinda Way + Irwin Way,Orinda Way and Irwin Way,37.884215,-122.190005,0,
-1406,1406,Orinda Way + Orinda Library,Orinda Way and Orinda Library,37.881538,-122.186787,0,
-1010,1010,Pacheco Blvd + Ace Truckbox Center Martinez,Pacheco Boulevard and Ace Truckbox Center Martinez,38.011606,-122.104354,0,
-1021,1021,Pacheco Blvd + Contra Costa Health Services Discovery House,Pacheco Boulevard and Contra Costa Health Services Discovery House,38.00369,-122.08508,0,
-1004,1004,Pacheco Blvd + Arreba St,Pacheco Boulevard and Arreba Street,38.014305,-122.126287,0,
-1029,1029,Pacheco Blvd + Arreba St,Pacheco Boulevard and Arreba Street,38.0144,-122.126307,0,
-1014,1014,Pacheco Blvd + Arthur Rd,Pacheco Boulevard and Arthur Road,38.00626,-122.090569,0,
-1022,1022,Pacheco Blvd + Arthur Rd,Pacheco Boulevard and Arthur Road,38.006878,-122.09128,0,
-2127,2127,Pacheco Blvd + Blum Rd,Pacheco Boulevard and Blum Road,37.99454,-122.074432,0,
-1007,1007,Pacheco Blvd + Bush St,Pacheco Boulevard and Bush Street,38.01283,-122.120585,0,
-1028,1028,Pacheco Blvd + Bush St,Pacheco Boulevard and Bush Street,38.012885,-122.120804,0,
-1015,1015,Pacheco Blvd + Carolos Dr,Pacheco Boulevard and Carolos Drive,37.990395,-122.073319,0,
-1013,1013,Pacheco Blvd + Camino Del Sol,Pacheco Boulevard and Camino Del Sol,38.00826,-122.09569,0,
-1023,1023,Pacheco Blvd + Camino Del Sol,Pacheco Boulevard and Camino Del Sol,38.008366,-122.095412,0,
-1018,1018,Pacheco Blvd + Center Ave,Pacheco Boulevard and Center Avenue,37.982876,-122.067359,0,
-1017,1017,Pacheco Blvd + Center Ave,Pacheco Boulevard and Center Avenue,37.982941,-122.067597,0,
-1026,1026,Pacheco Blvd + Howe Rd,Pacheco Boulevard and Howe Road,38.012428,-122.111336,0,
-2126,2126,Pacheco Blvd + Hwy 4 West Entrance,Pacheco Boulevard and Highway Four West Entrance,37.993558,-122.074174,0,
-1012,1012,Pacheco Blvd + Morello Ave,Pacheco Boulevard and Morello Avenue,38.010271,-122.100915,0,
-1011,1011,Pacheco Blvd + Morello Ave,Pacheco Boulevard and Morello Avenue,38.010728,-122.102089,0,
-1024,1024,Pacheco Blvd + Morello Ave,Pacheco Boulevard and Morello Avenue,38.010982,-122.10228,0,
-1020,1020,Pacheco Blvd + N Buchanan Cir,Pacheco Boulevard and North Buchanan Circle,37.990745,-122.073259,0,
-765,765,Parkside Dr + Concord Civic Center,Parkside Drive and Concord Civic Center,37.980938,-122.025337,0,
-1008,1008,Pacheco Blvd + Peach St,Pacheco Boulevard and Peach Street,38.012353,-122.11683,0,
-1025,1025,Pacheco Blvd + Refinery Rd,Pacheco Boulevard and Refinery Road,38.012127,-122.105263,0,
-1019,1019,Pacheco Blvd + S Buchanan Cir,Pacheco Boulevard and South Buchanan Circle,37.987876,-122.071054,0,
-1027,1027,Pacheco Blvd + Shell Ave,Pacheco Boulevard and Shell Avenue,38.012962,-122.118264,0,
-2125,2125,Pacheco Blvd + Little Valley Rd,Pacheco Boulevard and Little Valley Road,38.002903,-122.082459,0,
-1016,1016,Pacheco Blvd + Pacheco Manor Dr,Pacheco Boulevard and Pacheco Manor Drive,37.988655,-122.071929,0,
-1514,1514,Patterson Blvd + Santa Barbara Rd,Patterson Boulevard and Santa Barbara Road,37.936068,-122.072305,0,
-1519,1519,Patterson Blvd + Santa Barbara Rd,Patterson Boulevard and Santa Barbara Road,37.936186,-122.072345,0,
-1009,1009,Pacheco Blvd + Santa Fe Ave,Pacheco Boulevard and Santa Fe Avenue,38.012266,-122.111445,0,
-1515,1515,Patterson Blvd + Roberta Rd,Patterson Boulevard and Roberta Road,37.939295,-122.07016,0,
-1518,1518,Patterson Blvd + Roberta Ave,Patterson Boulevard and Roberta Avenue,37.938825,-122.070279,0,
-1516,1516,Patterson Blvd + Soule Ave,Patterson Boulevard and Soule Avenue,37.941301,-122.069584,0,
-1517,1517,Patterson Blvd + Soule Ave,Patterson Boulevard and Soule Avenue,37.941249,-122.06971,0,
-764,764,Parkside Dr + Willow Pass Rd,Parkside Drive and Willow Pass Road,37.980628,-122.025059,0,
-771,771,Peralta Rd + Dalis Dr,Peralta Road and Dalis Drive,37.99973,-122.047669,0,
-927,927,Pine St + Douglas Dr,Pine Street and Douglas Drive,37.995943,-122.121002,0,
-2221,2221,Pine St + Sentinel Dr,Pine Street and Sentinel Drive,37.99758,-122.122592,0,
-2216,2216,Pine St + Sentinel Dr,Pine Street and Sentinel Drive,37.99725,-122.122565,0,
-1030,1030,Pine St + Susana St,Pine Street and Susana Street,38.015735,-122.130631,0,
-1528,1528,Pleasant Hill Rd + Devon Ave,Pleasant Hill Road and Devon Avenue,37.956126,-122.090704,0,
-1531,1531,Pleasant Hill Rd + Linda Ln,Pleasant Hill Road and Linda Lane,37.952136,-122.084882,0,
-1526,1526,Pleasant Hill Rd + Mangini Rd,Pleasant Hill Road and Mangini Road,37.95246,-122.085022,0,
-1525,1525,Pleasant Hill Rd + Mercury Way,Pleasant Hill Road and Mercury Way,37.951278,-122.083869,0,
-1532,1532,Pleasant Hill Rd + Strand Ave,Pleasant Hill Road and Strand Avenue,37.950675,-122.08371,0,
-1527,1527,Pleasant Hill Rd + Taylor Blvd,Pleasant Hill Road and Taylor Boulevard,37.953703,-122.086829,0,
-1530,1530,Pleasant Hill Rd + Taylor Blvd,Pleasant Hill Road and Taylor Boulevard,37.95393,-122.087624,0,
-1529,1529,Pleasant Hill Rd + Paso Nogal,Pleasant Hill Road and Paso Nogal,37.957275,-122.091875,0,
-1524,1524,Pleasant Hill Rd + Valley View Rd,Pleasant Hill Road and Valley View Road,37.948986,-122.082717,0,
-778,778,Port Chicago Hwy + Arnold Industrial Way,Port Chicago Highway and Arnold Industrial Way,38.011765,-122.023152,0,
-780,780,Port Chicago Hwy + Arnold Industrial Way,Port Chicago Highway and Arnold Industrial Way,38.011431,-122.02335,0,
-779,779,Port Chicago Hwy + Bates Ave,Port Chicago Highway and Bates Avenue,38.014463,-122.02476,0,
-775,775,Port Chicago Hwy + Concord Blvd,Port Chicago Highway and Concord Boulevard,37.97776,-122.029192,0,
-776,776,Port Chicago Hwy + Olivera Rd,Port Chicago Highway and Olivera Road,37.995505,-122.030562,0,
-782,782,Port Chicago Hwy + Olivera Rd,Port Chicago Highway and Olivera Road,37.995911,-122.030522,0,
-781,781,Port Chicago Hwy + Panoramic Dr,Port Chicago Highway and Panoramic Drive,38.004295,-122.024292,0,
-1867,1867,Pringle Ave + N Main St,Pringle Avenue and North Main Street,37.907716,-122.065054,0,
-2224,2224,Railroad Ave + Church St,Railroad Avenue and Church Street,37.8202,-121.99904,0,
-1123,1123,Railroad Ave + Love Ln,Railroad Avenue and Love Lane,37.823765,-122.003264,0,
-1118,1118,Railroad Ave + Prospect Ave,Railroad Avenue and Prospect Avenue,37.82088,-122.000324,0,
-1998,1998,Railroad Ave + Linda Mesa Ave,Railroad Avenue and Linda Mesa Avenue,37.822568,-122.00227,0,
-1117,1117,Railroad Ave + Love Ln And Linda Mesa Ave,Railroad Avenue between Love Lane and Linda Mesa Avenue,37.823518,-122.003284,0,
-2261,2261,Rossmoor Shopping Center,Rossmoor Shopping Center,37.878198,-122.072783,0,
-1873,1873,Rossmoor Pkwy + Tice Valley Blvd,Rossmoor Parkway and Tice Valley Boulevard,37.877221,-122.071372,0,
-2225,2225,Safeway Camino Tassajara,,37.798152,-121.918409,0,
-784,784,Salvio St + Colfax St,Salvio Street and Colfax Street,37.978469,-122.032799,0,
-783,783,Salvio St + Date St,Salvio Street and Date Street,37.980671,-122.028437,0,
-786,786,Salvio St + Galindo St,Salvio Street and Galindo Street,37.97652,-122.036702,0,
-785,785,Salvio St + Galindo St,Salvio Street and Galindo Street,37.976715,-122.036522,0,
-787,787,Salvio St + Grant St,Salvio Street and Grant Street,37.977901,-122.033742,0,
-1880,1880,S Broadway + Mt Diablo Blvd,South Broadway and Mount Diablo Boulevard,37.89725,-122.057404,0,
-1882,1882,S Broadway + Newell Ave,South Broadway and Newell Avenue,37.894184,-122.055443,0,
-1886,1886,S California Blvd + Botelho Dr,South California Boulevard and Botelho Drive,37.894773,-122.061974,0,
-1889,1889,S California Blvd + Botelho Dr,South California Boulevard and Botelho Drive,37.8944,-122.061875,0,
-1808,1808,S California Blvd + Newell Ave,South California Boulevard and Newell Avenue,37.892946,-122.061199,0,
-1737,1737,S California Blvd + Olympic Blvd,South California Boulevard and Olympic Boulevard,37.896458,-122.062987,0,
-1888,1888,S California Blvd + Mt Diablo Blvd And Olympic Blvd,South California Boulevard between Mount Diablo Boulevard and Olympic Boulevard,37.896546,-122.063385,0,
-1993,1993,Shadelands Dr + N Via Monte,Shadelands Drive and North Via Monte,37.929161,-122.019019,0,
-2196,2196,Shadelands Dr + Lennon Ln,Shadelands Drive and Lennon Lane,37.925661,-122.027502,0,
-1994,1994,Shadelands Dr + N Wiget Ln,Shadelands Drive and North Wiget Lane,37.926948,-122.024185,0,
-1362,1362,St Mary's Rd + Moraga Library,Saint Mary's Road and Moraga Library,37.841046,-122.123049,0,
-1365,1365,St Mary's Rd + Moraga Library,Saint Mary's Road and Moraga Library,37.841161,-122.123069,0,
-1363,1363,St Mary's Rd + Carter Dr,Saint Mary's Road and Carter Drive,37.842488,-122.117904,0,
-1364,1364,St Mary's Rd + Carter Dr,Saint Mary's Road and Carter Drive,37.8426,-122.117942,0,
-1322,1322,St Mary's College,Saint Mary's College,37.842095,-122.110135,0,
-1893,1893,S Main St + Creekside Dr,South Main Street and Creekside Drive,37.887685,-122.056034,0,
-1054,1054,S Main St + Crest Ave,South Main Street and Crest Avenue,37.881105,-122.051007,0,
-1891,1891,S Main St + Creekside Dr,South Main Street and Creekside Drive,37.886918,-122.055755,0,
-1894,1894,S Main St + Lilac Dr,South Main Street and Lilac Drive,37.890506,-122.057504,0,
-1826,1826,S Main St + Newell Ave,South Main Street and Newell Avenue,37.893599,-122.058271,0,
-1892,1892,S Main St + Rudgear Rd,South Main Street and Rudgear Road,37.87926,-122.050054,0,
-1055,1055,S Main St + Rudgear Rd,South Main Street and Rudgear Road,37.879363,-122.050272,0,
-1890,1890,S Main St + Kaiser Medical Center,South Main Street and Kaiser Medical Center,37.890998,-122.057862,0,
-802,802,Solano Way + Avon Ave,Solano Way and Avon Avenue,37.992711,-122.049715,0,
-799,799,Solano Way + Grant St,Solano Way and Grant Street,37.98964,-122.041947,0,
-800,800,Solano Way + Grant St,Solano Way and Grant Street,37.989751,-122.042047,0,
-803,803,Solano Way + Hilltop Rd,Solano Way and Hilltop Road,37.994401,-122.05198,0,
-796,796,Solano Way + Hilltop Rd,Solano Way and Hilltop Road,37.994345,-122.05198,0,
-801,801,Solano Way + Hillside Ave,Solano Way and Hillside Avenue,37.990808,-122.045722,0,
-795,795,Solano Way + Marsh Dr,Solano Way and Marsh Drive,37.998767,-122.053109,0,
-804,804,Solano Way + Olivera Rd,Solano Way and Olivera Road,37.998576,-122.052894,0,
-797,797,Solano Way + Solano Ct,Solano Way and Solano Court,37.992636,-122.049655,0,
-798,798,Solano Way + Westgate Ave,Solano Way and Westgate Avenue,37.990641,-122.045344,0,
-433,433,Somersville Rd + Buchanan Rd,Somersville Road and Buchanan Road,37.998401,-121.843889,0,
-1695,1695,San Ramon Transit Center,San Ramon Transit Center,37.770486,-121.960337,0,S7
-1697,1697,San Ramon Transit Center,San Ramon Transit Center,37.770443,-121.96032,0,S7
-1699,1699,San Ramon Transit Center,San Ramon Transit Center,37.770211,-121.960297,0,S7
-1700,1700,San Ramon Transit Center,San Ramon Transit Center,37.770466,-121.960417,0,S7
-2052,2052,San Ramon Transit Center,San Ramon Transit Center,37.770546,-121.960511,0,S7
-S7,S7,San Ramon Transit Center,San Ramon Transit Center,37.770184,-121.960345,1,
-1667,1667,San Ramon Valley Blvd + Courtyard Center,San Ramon Valley Boulevard and Courtyard Center,37.774718,-121.976192,0,
-1680,1680,San Ramon Valley Blvd + Twin Canyon Shopping Center,San Ramon Valley Boulevard and Twin Canyon Shopping Center,37.7726,-121.974245,0,
-1125,1125,San Ramon Valley Blvd + Danville Town And Country Shopping Center,San Ramon Valley Boulevard and Danville Town and Country Shopping Center,37.81523,-121.996397,0,
-1130,1130,San Ramon Valley Blvd + Bank Of America,San Ramon Valley Boulevard and Bank of America,37.815338,-121.996354,0,
-1673,1673,San Ramon Valley Blvd + Fostoria Way,San Ramon Valley Boulevard and Fostoria Way,37.78089,-121.978357,0,
-1674,1674,San Ramon Valley Blvd + Hooper Dr,San Ramon Valley Boulevard and Hooper Drive,37.784938,-121.980145,0,
-1664,1664,San Ramon Valley Blvd + Hooper Dr,San Ramon Valley Boulevard and Hooper Drive,37.784973,-121.980364,0,
-1126,1126,San Ramon Valley Blvd + Livery-Mercantile,San Ramon Valley Boulevard and Livery-Mercantile,37.81337,-121.9959,0,
-1665,1665,San Ramon Valley Blvd + Purdue Rd,San Ramon Valley Boulevard and Purdue Road,37.782446,-121.979232,0,
-1128,1128,San Ramon Valley Blvd + Ridgeland Dr,San Ramon Valley Boulevard and Ridgeland Drive,37.789965,-121.98247,0,
-1127,1127,San Ramon Valley Blvd + Ridgeland Dr,San Ramon Valley Boulevard and Ridgeland Drive,37.789488,-121.98245,0,
-1131,1131,San Ramon Valley Blvd + Sonora Ave,San Ramon Valley Boulevard and Sonora Avenue,37.817366,-121.996417,0,
-1124,1124,San Ramon Valley Blvd + Sonora Ave,San Ramon Valley Boulevard and Sonora Avenue,37.817636,-121.996655,0,
-1129,1129,San Ramon Valley + Sycamore Square,San Ramon Valley Boulevard and Sycamore Square,37.812686,-121.995544,0,
-2026,2026,Sunset Dr + Bishop Dr,Sunset Drive and Bishop Drive,37.763086,-121.960857,0,
-1681,1681,Sunset Dr + Bishop Dr,Sunset Drive and Bishop Drive,37.763128,-121.961137,0,
-879,879,Sun Valley Blvd + Contra Costa Blvd,Sun Valley Boulevard and Contra Costa Boulevard,37.963383,-122.060524,0,
-858,858,Sun Valley Blvd + Santa Monica Dr,Sun Valley Boulevard and Santa Monica Drive,37.962945,-122.060842,0,
-1540,1540,Taylor Blvd + Apollo Way,Taylor Boulevard and Apollo Way,37.95819,-122.083372,0,
-1543,1543,Taylor Blvd + Apollo Way,Taylor Boulevard and Apollo Way,37.957903,-122.083969,0,
-1899,1899,Tice Valley Blvd + Del Valle Theatre,Tice Valley Boulevard and Del Valle Theatre,37.87721,-122.073459,0,
-1063,1063,Tice Valley Blvd + Byron Park,Tice Valley Boulevard and Byron Park,37.881848,-122.076557,0,
-1065,1065,Tice Valley Blvd + Olympic Blvd,Tice Valley Boulevard and Olympic Boulevard,37.88408,-122.077809,0,
-1064,1064,Tice Valley Blvd + Westborough Ln,Tice Valley Boulevard and Westborough Lane,37.883901,-122.07751,0,
-1898,1898,Tice Valley Blvd + Rolling Hills Dr,Tice Valley Boulevard and Rolling Hills Drive,37.879951,-122.075425,0,
-840,840,Treat Blvd + Bel Air Dr,Treat Boulevard and Bel Air Drive,37.962325,-121.994014,0,
-812,812,Treat Blvd + Bel Air Dr,Treat Boulevard and Bel Air Drive,37.962376,-121.994192,0,
-830,830,Treat Blvd + Arkell Rd,Treat Boulevard and Arkell Road,37.932571,-122.036702,0,
-823,823,Treat Blvd + Arkell Rd,Treat Boulevard and Arkell Road,37.93325,-122.035907,0,
-833,833,Treat Blvd + Blarney Ave,Treat Boulevard and Blarney Avenue,37.941273,-122.020927,0,
-819,819,Treat Blvd + Blarney Ave,Treat Boulevard and Blarney Avenue,37.941,-122.02172,0,
-828,828,Treat Blvd + Candelero Dr,Treat Boulevard and Candelero Drive,37.927715,-122.044847,0,
-825,825,Treat Blvd + Candelero Dr,Treat Boulevard and Candelero Drive,37.92754,-122.045504,0,
-829,829,Treat Blvd + Carriage Dr,Treat Boulevard and Carriage Drive,37.930826,-122.039682,0,
-824,824,Treat Blvd + Carriage Dr,Treat Boulevard and Carriage Drive,37.931022,-122.039902,0,
-826,826,Treat Blvd + Cherry Ln,Treat Boulevard and Cherry Lane,37.926586,-122.050789,0,
-835,835,Treat Blvd + Citrus Ave,Treat Boulevard and Citrus Avenue,37.945056,-122.015324,0,
-838,838,Treat Blvd + Cowell Rd,Treat Boulevard and Cowell Road,37.955666,-122.001117,0,
-814,814,Treat Blvd + Cowell Rd,Treat Boulevard and Cowell Road,37.955143,-122.002297,0,
-837,837,Treat Blvd + Kingswood Dr,Treat Boulevard and Kingswood Drive,37.95048,-122.005429,0,
-813,813,Treat Blvd + Lancelot Dr,Treat Boulevard and Lancelot Drive,37.958759,-121.997559,0,
-836,836,Treat Blvd + Navaronne Way,Treat Boulevard and Navaronne Way,37.946773,-122.012164,0,
-816,816,Treat Blvd + Navaronne Way,Treat Boulevard and Navaronne Way,37.946739,-122.012993,0,
-839,839,Treat Blvd + Pembroke Dr,Treat Boulevard and Pembroke Drive,37.95795,-121.998261,0,
-815,815,Treat Blvd + Thompson Rd,Treat Boulevard and Thompson Road,37.9523,-122.00529,0,
-831,831,Treat Blvd + Winton Dr,Treat Boulevard and Winton Drive,37.93451,-122.032907,0,
-822,822,Treat Blvd + Winton Dr,Treat Boulevard and Winton Drive,37.934661,-122.033165,0,
-2084,2084,Trinity Ave + St Pauls Episcopal Church,Trinity Avenue and Saint Pauls Episcopal Church,37.90141,-122.068352,0,
-2085,2085,Trinity Ave + St Pauls Episcopal Church,Trinity Avenue and Saint Pauls Episcopal Church,37.901341,-122.068074,0,
-827,827,Treat Blvd + Jones St And Cherry Ln,Treat Boulevard between Jones Street and Cherry Lane,37.926464,-122.052483,0,
-832,832,Treat Blvd + Oak Grove Rd,Treat Boulevard and Oak Grove Road,37.938308,-122.025575,0,
-820,820,Treat Blvd + Oak Grove Rd,Treat Boulevard and Oak Grove Road,37.938865,-122.02492,0,
-2198,2198,Treat Blvd + Oak Grove Plaza Driveway,Treat Boulevard and Oak Grove Plaza Driveway,37.937888,-122.026827,0,
-821,821,Treat Blvd + Royal Anne Ln,Treat Boulevard and Royal Anne Lane,37.936625,-122.02935,0,
-817,817,Treat Blvd + San Miguel Rd,Treat Boulevard and San Miguel Road,37.945533,-122.015025,0,
-834,834,Treat Blvd + San Simeon Dr,Treat Boulevard and San Simeon Drive,37.942903,-122.018522,0,
-818,818,Treat Blvd + San Simeon Dr,Treat Boulevard and San Simeon Drive,37.942973,-122.0188,0,
-633,633,UFCW And Employers Plaza,United Food and Commercial Workers and Employers Plaza,37.973667,-122.060784,0,
-1249,1249,VA Clinic,Veterans Administration Clinic,37.994031,-122.114485,0,
-1547,1547,Viking Dr + Valley View Middle,Viking Drive and Valley View Middle,37.965901,-122.068232,0,
-1546,1546,Viking Dr + College Park High,Viking Drive and College Park High,37.965846,-122.070994,0,
-1548,1548,Viking Dr + Diablo Valley College,Viking Drive and Diablo Valley College,37.96591,-122.070637,0,
-1549,1549,Viking Dr + Norse Dr,Viking Drive and Norse Drive,37.965823,-122.075207,0,
-1544,1544,Viking Dr + Odin Dr,Viking Drive and Odin Drive,37.96463,-122.078316,0,
-1550,1550,Viking Dr + Odin Dr,Viking Drive and Odin Drive,37.964706,-122.078425,0,
-1545,1545,Viking Dr + Stubbs Rd,Viking Drive and Stubbs Road,37.965766,-122.07459,0,
-2215,2215,Vista Way + Pine St,Vista Way and Pine Street,37.99949,-122.122888,0,
-2222,2222,Vista Way + Pine St,Vista Way and Pine Street,37.999535,-122.12287,0,
-2195,2195,N Via Monte + Ygnacio Valley Rd And Shadelands Dr,North Via Monte between Ygnacio Valley Road and Shadelands Drive,37.927166,-122.019257,0,
-853,853,Washington Blvd + Clayton Rd,Washington Boulevard and Clayton Road,37.95083,-121.95678,0,
-854,854,Washington Blvd + Kelrose Ct,Washington Boulevard and Kelrose Court,37.94934,-121.956622,0,
-844,844,West St + Forestview Ave,West Street and Forestview Avenue,37.976603,-121.992027,0,
-1551,1551,W Hookston Rd + Hookston Senior Homes,West Hookston Road and Hookston Senior Homes,37.940559,-122.062851,0,
-852,852,West St + El Dorado Middle School,West Street and El Dorado Middle School,37.976781,-121.991789,0,
-847,847,West St + Chestnut Ave,West Street and Chestnut Avenue,37.972513,-121.996994,0,
-846,846,West St + Clayton Way,West Street and Clayton Way,37.9734,-121.9959,0,
-850,850,West St + Denver St,West Street and Denver Street,37.971846,-121.997749,0,
-845,845,West St + Glendale Ave,West Street and Glendale Avenue,37.974961,-121.993974,0,
-849,849,West St + Salem St,West Street and Salem Street,37.970695,-121.99912,0,
-848,848,West St + Wesley Ct,West Street and Wesley Court,37.970018,-121.999974,0,
-851,851,West St + Wilson Ln,West Street and Wilson Lane,37.974298,-121.994709,0,
-2107,2107,Windemere Pkwy + Albion Rd,Windemere Parkway and Albion Road,37.761191,-121.888275,0,
-2110,2110,Windemere Pkwy + Bethany Rd,Windemere Parkway and Bethany Road,37.760476,-121.88742,0,
-2111,2111,Windemere Pkwy + Bethany Rd,Windemere Parkway and Bethany Road,37.757433,-121.887044,0,
-2105,2105,Windemere Pkwy + E Branch Pkwy,Windemere Parkway and East Branch Parkway,37.749633,-121.889605,0,
-2109,2109,Windemere Pkwy + Harcourt Way,Windemere Parkway and Harcourt Way,37.762725,-121.895189,0,
-2108,2108,Windemere Pkwy + Harcourt Way,Windemere Parkway and Harcourt Way,37.762776,-121.894115,0,
-2106,2106,Windemere Pkwy + Longleaf Cir,Windemere Parkway and Longleaf Circle,37.758088,-121.886269,0,
-868,868,Willow Pass Rd + Ashdale Dr,Willow Pass Road and Ashdale Drive,37.988905,-122.00684,0,
-869,869,Willow Pass Rd + Ashdale Dr,Willow Pass Road and Ashdale Drive,37.988678,-122.00734,0,
-859,859,Willow Pass Rd + Diamond Blvd,Willow Pass Road and Diamond Boulevard,37.96901,-122.051544,0,
-863,863,Willow Pass Rd + Esperanza Dr,Willow Pass Road and Esperanza Drive,37.980751,-122.021185,0,
-874,874,Willow Pass Rd + Esperanza Dr,Willow Pass Road and Esperanza Drive,37.98076,-122.02194,0,
-860,860,Willow Pass Rd + Franquette Ave,Willow Pass Road and Franquette Avenue,37.96994,-122.050112,0,
-866,866,Willow Pass Rd + Granada Dr,Willow Pass Road and Granada Drive,37.986143,-122.010674,0,
-873,873,Willow Pass Rd + N Sixth St,Willow Pass Road and North Sixth Street,37.981999,-122.018649,0,
-864,864,Willow Pass Rd + Sixth St,Willow Pass Road and Sixth Street,37.981517,-122.019364,0,
-878,878,Willow Pass Rd + Waterworld Pkwy,Willow Pass Road and Waterworld Pkwy,37.969375,-122.051415,0,
-872,872,Willow Pass Rd + East Olivera Rd,Willow Pass Road and East Olivera Road,37.983609,-122.015209,0,
-865,865,Willow Pass Rd + Farm Bureau Rd,Willow Pass Road and Farm Bureau Road,37.983047,-122.016053,0,
-867,867,Willow Pass Rd + San Vincente Dr,Willow Pass Road and San Vincente Drive,37.987308,-122.009025,0,
-870,870,Willow Pass Rd + San Vincente Dr,Willow Pass Road and San Vincente Drive,37.987236,-122.009384,0,
-2141,2141,Ygnacio Valley Rd + Diablo Creek Dentistry,Ygnacio Valley Road and Diablo Creek Dentistry,37.92129,-122.032787,0,
-1933,1933,Ygnacio Valley Rd + Chase Bank,Ygnacio Valley Road and Chase Bank,37.91883,-122.037794,0,
-1936,1936,Ygnacio Valley Rd + Bancroft Rd,Ygnacio Valley Road and Bancroft Road,37.92038,-122.035749,0,
-1930,1930,Ygnacio Valley Rd + Civic Dr,Ygnacio Valley Road and Civic Drive,37.906563,-122.059967,0,
-1938,1938,Ygnacio Valley Rd + Homestead Ave,Ygnacio Valley Road and Homestead Avenue,37.90919,-122.051842,0,
-1937,1937,Ygnacio Valley Rd + Kinross Dr,Ygnacio Valley Road and Kinross Drive,37.913036,-122.044152,0,
-1935,1935,Ygnacio Valley Rd + Lennon Ln,Ygnacio Valley Road and Lennon Lane,37.923755,-122.027703,0,
-2095,2095,Ygnacio Valley Rd + Marchbanks Dr,Ygnacio Valley Road and Marchbanks Drive,37.911325,-122.046674,0,
-881,881,Ygnacio Valley Rd + Michigan Blvd,Ygnacio Valley Road and Michigan Boulevard,37.947635,-121.963139,0,
-880,880,Ygnacio Valley Rd + Michigan Blvd,Ygnacio Valley Road and Michigan Boulevard,37.947631,-121.963615,0,
-1931,1931,Ygnacio Valley Rd + Walnut Blvd,Ygnacio Valley Road and Walnut Boulevard,37.907997,-122.055153,0,
-2143,2143,Ygnacio Valley Rd + Walnut Blvd,Ygnacio Valley Road and Walnut Boulevard,37.908013,-122.055477,0,
-1934,1934,Ygnacio Valley Rd + Wimbledon Rd,Ygnacio Valley Road and Wimbledon Road,37.92266,-122.02949,0,
-1939,1939,Ygnacio Valley Rd + N Civic Dr,Ygnacio Valley Road and North Civic Drive,37.907211,-122.057892,0,
-882,882,Ygnacio Valley Rd + Park Highlands,Ygnacio Valley Road and Park Highlands,37.950019,-121.960549,0,
+stop_id,stop_name,stop_lat,stop_lon,stop_code,wheelchair_boarding
+1003,Arnold Industrial Way + Industrial Way,38.009045,-122.031975,479,2
+1016,Center Ave + Raymond Dr,37.983502,-122.074753,916,2
+1024,Center Ave + Kaiser Dr,37.991405,-122.110687,924,2
+1027,Center Ave + Public Health Services California,37.992557,-122.118545,926,2
+1037,Howe Rd + Buena Vida Ct,37.997276,-122.119934,1304,2
+1074,Muir Rd + Center Ave,37.994629,-122.118690,1313,2
+1080,Industrial Way + Pike Ct,38.011677,-122.034195,2005,2
+1108,Bishop Ranch 15,37.773609,-121.960892,1555,2
+1121,Hartz Ave + Prospect Ave,37.821751,-122.000160,1115,2
+1131,Boulevard Way + Nicholson Rd,37.895149,-122.072579,906,2
+1133,Boulevard Way + Saranap Ave,37.893719,-122.076897,908,2
+1135,Boulevard Way + Olympic Blvd,37.885418,-122.077957,910,2
+1140,Castlehill Rd + Garland Ct,37.881855,-122.054871,911,2
+1141,Castlehill Rd + Arbol Grande,37.882160,-122.052742,912,2
+1144,Tice Valley Blvd + Tice Valley Ln,37.875809,-122.066994,1069,2
+1155,Walnut Creek BART,37.905319,-122.067444,1950,
+1162,Montego + Tampico,37.910088,-122.045647,1784,2
+1163,Montego + Tampico,37.910225,-122.043778,1785,2
+1168,Ygnacio Valley Rd + Walnut Blvd,37.907997,-122.055153,1931,2
+1175,Walnut Blvd + Ygnacio Valley Rd,37.907627,-122.054726,1924,2
+1179,Newell Ave + S Main St,37.893246,-122.057892,1799,2
+124,Canyon Rd + De La Cruz Way,37.828899,-122.131134,1337,2
+1242,San Miguel Dr + Blackwood Dr,37.891327,-122.049049,1875,2
+1245,Parkside Dr + San Juan Ave,37.910343,-122.068642,1865,
+1246,Buena Vista Ave + Parkside Dr,37.910618,-122.070519,1722,
+1249,Buena Vista Ave + San Luis Rd,37.917423,-122.073608,1725,
+1250,Buena Vista Ave + Third Ave,37.919659,-122.073830,1726,
+1251,Buena Vista Ave + Second Ave,37.922020,-122.073593,1727,
+1269,Viking Dr + Odin Dr,37.964630,-122.078316,1544,2
+1273,Walnut Blvd + Ygnacio Valley Rd,37.909317,-122.054962,1923,2
+1278,Mountain View Blvd + Mynah Ct,37.886753,-122.034584,1001,2
+1281,Concord Blvd + Grant St,37.976120,-122.032585,571,2
+1284,Gateway Blvd + Willow Pass Rd,37.971787,-122.043487,635,2
+1287,Clayton Rd + Ellis St,37.972809,-122.038368,519,2
+1292,Clayton Rd + Mitchell Canyon Rd,37.944210,-121.942680,448,2
+1304,Michigan Blvd + Washington Blvd,37.945980,-121.960121,686,2
+1305,Michigan Blvd + Round Tree Way,37.946674,-121.961830,687,2
+1310,Clayton Rd + Silverleaf Ln,37.958241,-121.974167,547,2
+1312,Clayton Rd + Indian Ln,37.959888,-121.978767,549,2
+1313,Clayton Rd + Bailey Rd,37.961472,-121.983154,550,2
+1315,Clayton Rd + Glazier Dr,37.964207,-121.990723,552,2
+1316,Clayton Rd + Denkinger Ct,37.965629,-121.994636,553,2
+1317,Clayton Rd + Mendocino Dr,37.966847,-121.997917,554,2
+1318,Clayton Rd + West St,37.967911,-122.001511,555,2
+1320,Clayton Rd + Maynard St,37.969765,-122.008118,557,2
+1321,Clayton Rd + Barbis Way,37.970482,-122.010811,558,2
+1323,Clayton Rd + Sixth St,37.973042,-122.019859,560,2
+1324,Clayton Rd + Fifth St,37.973728,-122.022255,561,2
+1357,Clayton Rd + Washington Blvd,37.951183,-121.955673,542,2
+1375,Ygnacio Valley Rd + Park Highlands,37.950020,-121.960548,882,2
+1385,Pennsylvania Blvd + Colorado Dr,37.947578,-121.956604,770,2
+1391,Monument Blvd + Mohr Ln,37.948250,-122.050758,714,2
+1393,Crescent Plz + Cleaveland Rd,37.945290,-122.063980,1463,2
+1395,Contra Costa Blvd + East Vivian Dr,37.952061,-122.060059,1451,2
+1413,Diablo Rd + Green Valley Shopping Center,37.823036,-121.992462,1102,2
+1414,Sycamore Valley Rd + Brookside Dr,37.811264,-121.986801,1133,2
+1428,Crow Canyon Rd + Shoreline Dr,37.783379,-121.939400,1630,2
+1431,Crow Canyon Rd + Alcosta Blvd,37.781536,-121.964790,1633,2
+1432,Crow Canyon Rd + Camino Ramon,37.779872,-121.968856,1634,2
+1463,Danville Blvd + Alamo Plaza,37.851368,-122.033218,970,2
+147,Pleasant Hill Rd + Condit Rd,37.891918,-122.094185,1217,
+1479,Alcosta Blvd + Terra Alta Dr,37.757359,-121.940590,1571,2
+1482,Alcosta Blvd + Bollinger Canyon Rd,37.765663,-121.951592,1574,2
+149,Mt Diablo Blvd + Carol Ln,37.896122,-122.103272,2097,2
+1494,Bishop Ranch 2600,37.766575,-121.963341,1554,2
+1495,San Ramon Transit Center,37.770546,-121.960510,2052,2
+1496,Concord BART,37.974537,-122.029068,890,2
+1499,Willow Pass Rd + Sixth St,37.981518,-122.019363,864,2
+1500,Willow Pass Rd + Farm Bureau Rd,37.983047,-122.016052,865,2
+1514,Treat Blvd + Lancelot Dr,37.958759,-121.997559,813,2
+1515,Treat Blvd + Cowell Rd,37.955143,-122.002296,814,2
+1517,Treat Blvd + Navaronne Way,37.946739,-122.012993,816,2
+1525,Treat Blvd + Carriage Dr,37.931023,-122.039902,824,2
+153,Mt Diablo Blvd + Second St,37.892868,-122.113525,1194,2
+1533,Walnut Creek BART,37.905128,-122.067566,1951,
+1538,N Civic Dr + Walden Rd,37.916935,-122.059143,1819,2
+155,Happy Valley Rd + Mt Diablo Blvd,37.891716,-122.125839,1179,2
+1560,Willow Pass Rd + Ashdale Dr,37.988678,-122.007340,869,2
+1566,Walnut Creek BART,37.905445,-122.066918,1944,
+1579,Alhambra Ave + Roanoke Dr,37.962383,-122.096184,1276,2
+161,St Mary's Rd + Lafayette Community Center,37.864716,-122.100067,1227,2
+162,St Mary's Rd + Rohrer Dr,37.858856,-122.101738,1228,2
+1621,Pacheco Blvd + Camino Del Sol,38.008260,-122.095690,1013,2
+1622,Pacheco Blvd + Arthur Rd,38.006260,-122.090569,1014,2
+1664,Danville Blvd + Hillgrade Ave,37.870285,-122.045143,974,2
+1677,Deer Hill Rd + Happy Valley Rd,37.894230,-122.126022,1168,2
+17,N Main St + Civic Dr,37.901646,-122.061806,1763,2
+1710,UFCW and Employers Plaza,37.973667,-122.060783,633,2
+174,Mt Diablo Blvd + Lafayette Cir,37.891487,-122.122482,1204,
+1757,San Miguel Dr + Mountain View Blvd,37.886086,-122.037071,1043,2
+1777,Concord Blvd + Yvonne Dr,37.959450,-121.957069,578,
+183,Pleasant Hill Rd + Old Tunnel Rd,37.894821,-122.095574,1219,
+193,Pleasant Hill Rd + Hwy 24,37.897629,-122.096062,1218,2
+194,Rohrer Dr + Merriewood Dr,37.861160,-122.091675,1221,2
+198,Happy Valley Rd + Upper Happy Valley Rd,37.906471,-122.152878,1174,2
+200,Upper Happy Valley Rd + N Peardale Dr,37.899898,-122.150955,1246,2
+201,Upper Happy Valley Rd + Rahara Dr,37.898125,-122.150909,1247,2
+202,Upper Happy Valley Rd + Los Arabis Dr,37.895161,-122.151306,1248,2
+203,El Nido Ranch Rd + Upper Happy Valley Rd,37.893406,-122.153664,1170,2
+21,Creekside Dr + End,37.882168,-122.049751,1741,2
+2166,Locust St + Bonanza St,37.899558,-122.062292,1757,2
+2167,Locust St + Peets Coffee,37.898298,-122.061735,1758,2
+2168,Mt Diablo Blvd + Locust St,37.897317,-122.060980,1791,2
+2170,Broadway Plz + Macys,37.895385,-122.057940,1720,
+2171,Broadway Plz + S Main St,37.894377,-122.058298,1721,2
+2172,Bothelho Dr + Locust St,37.894948,-122.060822,1715,2
+2173,Locust St + Olympic Blvd,37.895978,-122.061417,1759,2
+2174,Locust St + Mt Diablo Blvd,37.897127,-122.061417,1981,2
+2175,N Main St + Duncan St,37.898493,-122.060305,1760,2
+2176,N Main St + Bonanza St,37.899928,-122.060940,1761,2
+2177,N Main St + Arroyo Way,37.905527,-122.063802,1764,2
+2178,Pringle Ave + N Main St,37.907717,-122.065053,1867,2
+2182,Contra Costa Blvd + Golf Club Rd,37.970988,-122.063563,604,2
+2183,Contra Costa Blvd + Viking Dr,37.967782,-122.062967,1450,2
+2184,Sun Valley Blvd + Santa Monica Dr,37.962945,-122.060842,858,2
+2185,Willow Pass Rd + Diamond Blvd,37.969010,-122.051543,859,2
+2186,Willow Pass Rd + Franquette Ave,37.969940,-122.050112,860,2
+2187,Gateway Blvd + Clayton Rd,37.971255,-122.042722,634,2
+2189,Clayton Rd + Galindo St,37.974112,-122.034038,520,2
+2190,Oak St + Galindo St,37.972137,-122.032330,745,2
+2191,Concord BART,37.972663,-122.029838,883,2
+2192,Clayton Rd + San Carlos Ave,37.973980,-122.023747,521,2
+2193,Clayton Rd + Fifth Ave,37.973555,-122.021998,522,2
+2194,Clayton Rd + Coventry Rd,37.972983,-122.019972,523,2
+2195,Clayton Rd + Davis Ave,37.972192,-122.017190,524,2
+2196,Clayton Rd + Grove Way,37.971870,-122.016058,525,2
+2198,Clayton Rd + Babel Ln,37.969843,-122.008867,527,2
+2199,Clayton Rd + Farm Bureau Rd,37.968787,-122.005150,528,2
+2200,Clayton Rd + Loeffler Ln,37.967607,-122.000998,529,2
+2201,Clayton Rd + Cape Cod Way,37.966435,-121.997292,530,2
+2202,Clayton Rd + Bel Air Dr,37.964102,-121.990993,532,2
+2203,Clayton Rd + Wharton Way,37.962485,-121.986423,533,2
+2204,Clayton Rd + Bailey Rd,37.961293,-121.983085,534,2
+2205,Clayton Rd + Indian Ln,37.959612,-121.978457,535,2
+2206,Clayton Rd + Claycord Ave,37.958817,-121.976252,536,2
+2207,Clayton Rd + Ayers Rd,37.955837,-121.968185,538,2
+2208,Clayton Rd + Alberta Way,37.954772,-121.965165,539,2
+2209,Clayton Rd + Hospice Thrift Shoppes,37.953215,-121.960675,540,2
+2210,Clayton Rd + Ygnacio Valley Rd,37.952598,-121.958965,541,2
+2212,Clayton Rd + El Camino Dr,37.948430,-121.950622,444,2
+2215,Center St + Easley Dr,37.941153,-121.931945,498,2
+2217,Marsh Creek Rd + Greystone Rd,37.935328,-121.932223,452,2
+2218,Mountaire Pkwy + Mountaire Cir,37.933247,-121.931348,460,
+2219,Mountaire Cir + Mountaire Pkwy,37.929102,-121.931667,456,
+2220,Mountaire Cir + Mt Hamilton Ct,37.928185,-121.933573,457,
+2221,Mountaire Cir + Mt Washington Way,37.930473,-121.936673,458,
+2222,Mountaire Cir + Mt Scott Ct,37.933398,-121.935322,459,
+2223,Mountaire Pkwy + Marsh Creek Rd,37.933835,-121.931090,461,
+2224,Marsh Creek Rd + El Molino Dr,37.933910,-121.928250,453,2
+2225,Marsh Creek Rd + Bigelow St,37.932405,-121.923958,454,2
+2226,Clayton Rd + Peacock Creek Dr,37.938988,-121.926740,500,2
+2227,Clayton Rd + Clayton Library,37.942290,-121.934787,447,2
+223,Mt Diablo Blvd + Happy Valley Rd,37.891129,-122.125069,1203,
+2230,Clayton Rd + Kirker Pass Rd,37.952460,-121.958052,543,2
+2231,Clayton Rd + Schenone Ct,37.953560,-121.961092,544,2
+2232,Clayton Rd + Terry Lynn Ln,37.954998,-121.965263,545,2
+2233,Clayton Rd + Ayers Rd,37.956195,-121.968542,546,2
+2234,Clayton Rd + Claycord Ave,37.958920,-121.975993,548,2
+2235,Clayton Rd + Thornwood Dr,37.962873,-121.987000,551,2
+2236,Clayton Rd + Farm Bureau Rd,37.969200,-122.006085,556,2
+2237,Clayton Rd + Grove Way,37.972180,-122.016693,559,2
+2238,Clayton Rd + The Alameda,37.974580,-122.025178,562,2
+2239,Clayton Rd + Denkinger Ct,37.965373,-121.994430,531,2
+2240,Clayton Rd + Newhall Pkwy,37.958002,-121.973987,537,2
+2243,Clayton Rd + Atchison Stage Rd,37.945398,-121.945633,446,2
+2244,Clayton Rd + Mitchell Canyon Rd,37.943173,-121.941143,450,2
+2245,Marsh Creek Rd + High St,37.940065,-121.933515,499,2
+2253,Ayers Rd + Clayton Rd,37.957105,-121.968443,486,
+2254,Ayers Rd + Sutherland Dr,37.958170,-121.967807,487,
+2255,Ayers Rd + Olive Dr,37.961022,-121.965960,488,
+2256,Concord Blvd + Ayers Rd,37.962732,-121.964330,599,
+2257,Concord Blvd + Meadow Pine Ct,37.961885,-121.962562,573,
+2258,Concord Blvd + Mariposa Ct,37.961277,-121.961290,574,
+2259,Concord Blvd + Yvonne Ct,37.959497,-121.957377,575,
+2260,Concord Blvd + Cantrell Ct,37.957978,-121.954138,576,
+2261,Kirkwood Dr + Kirker Pass Rd,37.958010,-121.946388,651,
+2262,Kirkwood Dr + Preston Ct,37.957783,-121.943647,652,
+2263,Kirkwood Dr + Yardley Ct,37.957700,-121.942237,653,
+2264,Kirkwood Dr + Jamison Ct,37.956838,-121.940052,654,
+2265,1887 Camino Estrada,37.954887,-121.942475,518,
+2266,Camino Estrada + Sepulveda Ct,37.953853,-121.945753,515,
+2267,Camino Estrada + Pamplona Ct,37.952757,-121.946925,516,
+2268,Camino Estrada + Concord Blvd,37.951597,-121.947918,517,
+2269,Oakhurst Dr + Yolanda Cir,37.951207,-121.946112,462,
+2270,Oakhurst Dr + Indian Wells Way,37.950858,-121.941422,463,
+2271,Oakhurst Dr + Indian Wells Way,37.948215,-121.934647,464,
+2272,Oakhurst Dr + Indianhead Way,37.945717,-121.932342,465,
+2274,Washington Blvd + Kelrose Ct,37.949340,-121.956622,854,2
+2275,Pennsylvania Blvd + Washington Blvd,37.947893,-121.956860,766,2
+2276,Pennsylvania Blvd + Highlands Park,37.943025,-121.955648,767,2
+2277,Pine Hollow Rd + Pine Hollow School,37.941273,-121.954595,772,2
+2278,Pine Hollow Rd + Redlands Way,37.941242,-121.951992,773,2
+2279,Michigan Blvd + El Camino Dr,37.942743,-121.950522,682,2
+228,Marchbanks Dr + Crosby Ct,37.914208,-122.048889,1771,
+2280,Michigan Blvd + Maryland Dr,37.943280,-121.952310,683,2
+2281,Michigan Blvd + Pennsylvania Blvd,37.944003,-121.954595,684,2
+2282,Michigan Blvd + Nebraska Ave,37.944690,-121.956303,685,
+2283,Marsh Creek Rd + Clayton Rd,37.932308,-121.923540,455,
+2284,Oakhurst Dr + Indianhead Way,37.945863,-121.932203,466,
+2285,Oakhurst Dr + Eagle Peak Ave,37.948613,-121.935005,467,
+2286,Oakhurst Dr + Eagle Peak Ave,37.951080,-121.941422,468,
+2287,Oakhurst Dr + Yolanda Cir,37.951263,-121.946687,469,
+2288,Concord Blvd + Alicante Ct,37.954338,-121.950760,581,
+2290,Concord Blvd + Kirker Pass Rd,37.957287,-121.952408,577,
+2291,Concord Blvd + Lodato Way,37.961102,-121.960575,579,
+2292,Concord Blvd + Princeton Ct,37.962008,-121.962542,580,
+2293,Ayers Rd + Clayton Rd,37.956537,-121.968900,491,
+2297,Kirker Pass Rd + Olive Dr,37.954863,-121.953542,648,2
+2300,Michigan Blvd + New Hampshire Dr,37.947098,-121.962940,689,
+2301,Michigan Blvd + Kentucky Dr,37.945947,-121.960535,690,
+2302,Michigan Blvd + Louisiana Dr,37.945175,-121.957952,691,
+2310,Washington Blvd + Pennsylvania Blvd,37.948045,-121.956760,855,2
+2314,Clayton Rd + Fry Way,37.972148,-122.040377,563,2
+2315,Sun Valley Blvd + Contra Costa Blvd,37.963383,-122.060523,879,2
+232,Heather Dr + N San Carlos Dr,37.918369,-122.040276,1750,
+2324,Alberta Way + Clayton Rd,37.953353,-121.965065,476,
+2331,Washington Blvd + Kelrose Ct,37.948918,-121.956303,856,2
+2339,Mt Diablo St + Oakland Ave,37.970917,-122.029132,720,
+2340,Mt Diablo St + San Carlos Ave,37.969907,-122.025475,721,
+2341,Mt Diablo St + Fifth St,37.969475,-122.023967,722,
+2342,Mt Diablo St + Coventry Rd,37.968993,-122.022237,723,
+2343,Coventry Rd + Cowell Rd,37.966272,-122.023330,606,
+2344,Cowell Rd + Quail Ct,37.964087,-122.016337,607,
+2345,Cowell Rd + St Francis Dr,37.963080,-122.012780,608,
+2346,Cowell Rd + Mcmullin Dr,37.961920,-122.008827,609,
+2347,Cowell Rd + Kaski Ln,37.958142,-122.004257,610,
+2348,Treat Blvd + Cowell Rd,37.955667,-122.001117,838,2
+2349,Turtle Creek Rd + Sussex Way,37.958762,-121.993715,841,
+2350,Turtle Creek Rd + Big Pine Ln,37.955900,-121.992403,842,
+2351,Turtle Creek Rd + Bent Tree Ln,37.954823,-121.990595,843,
+2352,N Larwin Ave + Rising Dawn Ln,37.952897,-121.990198,726,
+2353,N Larwin Ave + N Prairie Willow Ct,37.952630,-121.991987,727,
+2354,N Larwin Ave + N Red Maple Ct,37.951982,-121.994053,728,
+2355,S Larwin Ave + Wildberry Ct,37.948652,-121.993715,729,
+2356,S Larwin Ave + Leatherwood Ct,37.947953,-121.990138,730,
+2357,S Larwin Ave + Oakbrook Ct,37.948258,-121.986622,731,
+2358,S Larwin Ave + Deerberry Ct,37.948493,-121.983463,732,
+2359,S Larwin Ave + Juneberry Ct,37.948748,-121.980960,733,
+2360,S Larwin Ave + Kenneth Rd,37.950563,-121.977860,734,
+2362,Concord Blvd + Ayers Rd,37.963252,-121.964807,600,
+2363,Concord Blvd + Concord Ct,37.966292,-121.968980,601,
+2364,Concord Blvd + Bailey Rd,37.969573,-121.973450,582,
+2365,Concord Blvd + Thornwood Dr,37.971890,-121.976528,583,
+2366,Concord Blvd + Jefferson St,37.973003,-121.978038,584,
+2367,Concord Blvd + Crestwood Cir,37.973997,-121.980007,585,
+2368,Concord Blvd + Dave Brubeck Park,37.975677,-121.985668,587,2
+2369,Concord Blvd + Mendocino Dr,37.976138,-121.987198,588,2
+2370,Concord Blvd + Sattler Dr,37.978013,-121.995325,590,
+2371,Concord Blvd + Margo Dr,37.977958,-121.998127,591,
+2373,Concord Blvd + Alray Dr,37.977795,-122.006243,596,
+2374,Concord Blvd + Farm Bureau  Rd,37.977740,-122.010673,592,
+2375,3425 Concord Blvd,37.977672,-122.014608,593,
+2376,Concord Blvd + Sixth St,37.977612,-122.018363,597,
+2377,Concord Blvd + Fifth St,37.977482,-122.020648,594,
+2378,Concord Blvd + Parkside Dr,37.977457,-122.024045,598,
+2379,Concord Blvd + Second St,37.977410,-122.027005,595,
+2389,Alhambra Ave + J St,37.997325,-122.132467,1267,2
+2390,Alhambra Ave + Muir Lodge,37.995582,-122.132307,1266,2
+2391,Alhambra Ave + Walnut Ave,37.992338,-122.130817,1268,2
+2394,Pacheco Blvd + Center Ave,37.982942,-122.067597,1017,2
+2395,Contra Costa Blvd + Chipotle Mexican Grill,37.979122,-122.066583,1448,2
+2410,Court St + Marina Vista,38.019407,-122.135148,1032,2
+2443,Concord BART,37.973905,-122.029270,887,
+2454,Concord BART,37.974112,-122.029132,888,2
+2459,Buskirk Ave + The Crossroads,37.943288,-122.056610,1984,2
+2461,Walnut Creek BART,37.905773,-122.067198,1942,
+2472,Riviera Ave + Short St,37.909170,-122.067278,1871,
+2474,N Main St + Sos Dr,37.918918,-122.065113,1828,2
+2476,N Main St + Lesnick Ln,37.923635,-122.063463,1830,2
+2481,Monument Blvd + Mohr Ln,37.947690,-122.051305,715,2
+2483,Monument Blvd + Reganti Dr,37.952443,-122.044390,717,2
+2484,Monument Blvd + Lacey Ln,37.953560,-122.042820,718,2
+2485,Monument Blvd + Oak Grove Rd,37.956810,-122.038132,719,2
+2490,N Main St + Geary Rd,37.925633,-122.062987,1832,2
+2493,N Main St + Third Ave,37.919688,-122.065053,1835,2
+253,N Wiget Ln + Shadelands Dr,37.926773,-122.025101,1843,2
+255,Ygnacio Valley Rd + Lennon Ln,37.923756,-122.027702,1935,2
+262,Treat Blvd + Jones St and Cherry Ln,37.926464,-122.052483,827,2
+265,Bancroft Rd + La Corso Cir,37.923988,-122.037834,1705,
+269,N Wiget Ln + Shadelands Dr,37.926529,-122.024689,1840,2
+2742,Viking Dr + Diablo Valley College,37.965910,-122.070637,1548,2
+2743,Viking Dr + Norse Dr,37.965823,-122.075207,1549,2
+2744,Viking Dr + Odin Dr,37.964707,-122.078425,1550,2
+2745,Morello Ave + Taylor Blvd,37.961647,-122.079080,1490,2
+2746,Taylor Blvd + Apollo Way,37.957903,-122.083968,1543,2
+2747,Pleasant Hill Rd + Taylor Blvd,37.953930,-122.087623,1530,2
+2748,Pleasant Hill Rd + Linda Ln,37.952137,-122.084882,1531,2
+2749,Pleasant Hill Rd + Strand Ave,37.950675,-122.083710,1532,2
+2760,Buena Vista Ave + Geary Rd,37.926042,-122.073557,1729,
+2761,Buena Vista Ave + First Ave,37.923837,-122.073657,1730,
+2762,Buena Vista Ave + Second Ave,37.922005,-122.073637,1731,
+2763,Buena Vista Ave + Third Ave,37.919783,-122.073875,1732,
+2764,Buena Vista Ave + San Luis Rd,37.917447,-122.073657,1733,
+2765,Buena Vista Ave + Alvarado Ave,37.913820,-122.072603,1734,
+2766,Buena Vista Ave + Sandy Ln,37.912123,-122.071570,1735,
+2767,Buena Vista Ave + Parkside Dr,37.909977,-122.070200,1736,
+2768,Parkside Dr + San Juan Ave,37.910732,-122.068332,1866,
+2769,Riviera Ave + Short St,37.909213,-122.067398,1870,2
+2774,S California Blvd + Mt Diablo Blvd and Olympic Blvd,37.896547,-122.063385,1888,2
+2775,S California Blvd + Botelho Dr,37.894400,-122.061875,1889,2
+2776,Newell Ave + Kaiser Medical Center,37.892772,-122.059947,1795,2
+2778,San Miguel Dr + El Mirador,37.892798,-122.051742,1876,
+2779,San Miguel Dr + Blackwood Dr,37.891253,-122.049000,1877,
+2780,San Miguel Dr + Norris Rd,37.890522,-122.045742,1047,
+2781,San Miguel Dr + Shady Glen Rd,37.888997,-122.043298,1048,
+2782,San Miguel Dr + Hillview Ter,37.887593,-122.040317,1049,
+2783,San Miguel Dr + Mountain View Blvd,37.886040,-122.037198,1050,
+2784,San Miguel Dr + St Lukes Lutheran Church,37.882917,-122.035390,1051,2
+2785,San Miguel Dr + Milton Ave,37.881192,-122.037833,1052,2
+2786,Rudgear Rd + Youngs Ct,37.879567,-122.036940,1874,2
+2787,Stewart Ave + Rudgear Rd,37.879408,-122.035112,1896,2
+2788,Trotter Way + Stewart Ave,37.875672,-122.031675,1901,2
+2789,Trotter Way + Lariat Ln,37.872907,-122.031913,1902,2
+2790,Trotter Way + Bridle Ln,37.870650,-122.030105,1903,2
+2791,Trotter Way + Dapplegray Ln,37.869398,-122.029608,1904,2
+2793,Dapplegray Ln + Stewart Ave,37.875175,-122.027622,1746,2
+2794,Dapplegray Ln + Westmoreland Cir,37.877440,-122.027225,1747,2
+2795,Dapplegray Ln + Rudgear Rd,37.879173,-122.028098,1748,2
+2796,Palmer Rd + Hillendale Ct,37.880083,-122.029708,1864,2
+2797,Palmer Rd + Sylvan Rd,37.882213,-122.030800,1040,2
+2798,Palmer Rd + Hawthorne Dr,37.884947,-122.032290,1041,2
+2799,Palmer Rd + Mountain View Blvd,37.886723,-122.033323,1042,2
+2800,San Miguel Dr + Hillview Ter,37.887780,-122.040635,1044,2
+2801,San Miguel Dr + Shady Glen Rd,37.889020,-122.043258,1045,2
+2802,San Miguel Dr + Adeline Dr,37.890495,-122.045622,1046,2
+2803,Newell Ave + San Miguel Dr,37.893263,-122.052138,1797,2
+2804,Newell Ave + S Broadway,37.893788,-122.054662,1798,2
+2805,S California Blvd + Newell Ave,37.892947,-122.061198,1808,2
+2806,S California Blvd + Botelho Dr,37.894773,-122.061973,1886,2
+2807,S California Blvd + Olympic Blvd,37.896458,-122.062987,1737,2
+2808,N California Blvd + Mt Diablo Blvd,37.897928,-122.063067,1809,2
+281,Walnut Ave + Wiget Ln,37.914959,-122.019867,1906,
+2810,N California Blvd + Cole Ave,37.902165,-122.064497,1811,2
+2811,Buena Vista Ave + School Ln,37.911607,-122.071193,1723,
+2812,Buena Vista Ave + Alvarado Ave,37.914125,-122.072822,1724,
+2813,Buena Vista Ave + First Ave,37.924287,-122.073597,1728,
+2824,Pleasant Hill Rd + Valley View Rd,37.948987,-122.082717,1524,2
+2826,Pleasant Hill Rd + Mangini Rd,37.952460,-122.085022,1526,2
+2827,Pleasant Hill Rd + Taylor Blvd,37.953703,-122.086828,1527,2
+2828,Taylor Blvd + Apollo Way,37.958190,-122.083372,1540,2
+2829,Morello Ave + Taylor Blvd,37.961293,-122.078762,1489,2
+2830,Viking Dr + Stubbs Rd,37.965767,-122.074590,1545,2
+2831,Viking Dr + College Park High,37.965847,-122.070993,1546,2
+2832,Viking Dr + Valley View Middle,37.965902,-122.068232,1547,2
+2835,Old Quarry Rd + Chilpancingo Pkwy,37.974378,-122.068113,1510,2
+2836,Old Quarry Rd + Camelback Rd,37.972113,-122.069225,1511,
+2837,Walnut Blvd + Sierra Dr,37.903353,-122.052497,1925,2
+2838,Walnut Blvd + Homestead Ave,37.900560,-122.050112,1926,2
+2839,Walnut Blvd + Walker Ave,37.898387,-122.048125,1927,2
+2840,Walnut Blvd + Fraser Dr,37.894423,-122.040933,1928,2
+2841,Walnut Blvd + Golden Hill Pl,37.891038,-122.032310,1929,2
+2845,N Civic Dr + Ygnacio Valley Rd,37.908633,-122.058557,1815,
+2846,Walnut Creek BART,37.905392,-122.066682,1945,
+2847,Creekside Dr + Near Ct,37.883982,-122.050848,1742,2
+2848,Creekside Dr + Creekside Oaks,37.886270,-122.052655,1743,2
+2849,Creekside Dr + Quail Ct,37.887490,-122.055060,1744,2
+2850,S Main St + Creekside Dr,37.887685,-122.056033,1893,2
+2851,S Main St + Lilac Dr,37.890507,-122.057503,1894,2
+2852,S Main St + Newell Ave,37.892637,-122.058120,1895,2
+2853,S Broadway + Newell Ave,37.893923,-122.055000,1883,2
+2857,N Broadway + Lincoln Ave,37.901513,-122.060583,1716,2
+2858,N Broadway + S Carlback Ave,37.904247,-122.061080,1803,2
+2859,N Broadway + Arroyo Way,37.905248,-122.061198,1804,2
+286,Walnut Ave + Desert Cir,37.920338,-122.033340,1911,
+2860,Walnut Creek BART,37.905535,-122.067040,1943,
+2861,N Broadway + Ygnacio Valley Rd,37.906187,-122.061477,1800,2
+2862,N Broadway + Carlback Ave,37.903865,-122.061278,1801,2
+2863,N Broadway + Civic Dr,37.901775,-122.060842,1802,2
+2865,S Broadway + Mt Diablo Blvd,37.897250,-122.057403,1880,2
+2866,S Main St + Kaiser Medical Center,37.890998,-122.057862,1890,2
+2867,Creekside Dr + Quail Ct,37.887383,-122.054900,1738,2
+2868,Lilac Dr + Newell Ave,37.890165,-122.064457,977,2
+2870,Concord Blvd + Gross Ln,37.977870,-122.001575,428,
+2872,N Main St + Parkside Dr,37.911193,-122.065510,1837,2
+2874,Waterworld,37.973082,-122.052178,471,
+301,Contra Costa Blvd + Woodsworth Ln,37.949669,-122.060326,1461,2
+302,Gregory Ln + Contra Costa Blvd,37.948071,-122.061218,1474,2
+304,Cleaveland Rd + Crescent Plz,37.945431,-122.064369,1442,2
+308,Patterson Blvd + Soule Ave,37.941250,-122.069710,1517,2
+3159,Mitchell Dr + Park And Ride Lot,37.929713,-122.023927,1778,2
+3160,Mitchell Dr + Oak Grove Rd,37.932018,-122.019733,1781,2
+3161,Oak Grove Rd + Shadelands Dr,37.930132,-122.017210,1845,2
+3162,Shadelands Dr + N Via Monte,37.929162,-122.019018,1993,2
+3163,Shadelands Dr + N Wiget Ln,37.926948,-122.024185,1994,2
+3164,N Wiget Ln + Ygnacio Valley Rd,37.925100,-122.023887,1844,2
+3165,Ygnacio Valley Rd + Bancroft Rd,37.920380,-122.035748,1936,2
+3172,Oakland Blvd + Almond Ave,37.900368,-122.069882,1862,2
+3173,Oakland Blvd + Planned Parenthood-Walnut Creek Health Center,37.897833,-122.070258,1863,2
+3174,Boulevard Way + Rule Ct,37.894733,-122.074312,907,2
+3175,Boulevard Way + Kinney Dr,37.890817,-122.080213,909,2
+3176,Tice Valley Blvd + Olympic Blvd,37.884080,-122.077808,1065,2
+3177,Tice Valley Blvd + Del Valle Theatre,37.877210,-122.073458,1899,2
+3179,Tice Valley Blvd + Grace Presbyterian Church,37.876455,-122.069483,1897,2
+3180,Rossmoor Pkwy + Tice Valley Blvd,37.877222,-122.071372,1873,2
+3181,Rossmoor Shopping Center,37.878872,-122.073238,1701,
+3183,Rolling Hills Dr + Tice Valley Blvd,37.879610,-122.074472,1872,
+3184,Tice Valley Blvd + Rolling Hills Dr,37.879952,-122.075425,1898,2
+3185,Tice Valley Blvd + Byron Park,37.881848,-122.076557,1063,2
+3186,Tice Valley Blvd + Westborough Ln,37.883902,-122.077510,1064,2
+3187,Boulevard Way + Olympic Blvd,37.885397,-122.077710,901,2
+3189,Boulevard Way + Saranap Ave,37.893502,-122.077013,903,2
+3190,Boulevard Way + Palana Ct,37.894563,-122.074153,904,2
+3191,Boulevard Way + Nicholson Rd,37.895783,-122.071848,905,2
+3192,Oakland Blvd + Mt Diablo Blvd,37.897448,-122.070120,1860,2
+3199,Montego + San Marco Apartments,37.908693,-122.047867,1783,2
+3202,Ygnacio Valley Rd + Chase Bank,37.918830,-122.037793,1933,2
+3203,Ygnacio Valley Rd + Wimbledon Rd,37.922660,-122.029490,1934,2
+3204,N Wiget Ln + Ygnacio Valley Rd,37.925243,-122.023767,1839,2
+3205,Lennon Ln + N Wiget Ln,37.927635,-122.029807,1991,2
+3206,N Wiget Ln + Mitchell Dr,37.929138,-122.027243,1992,2
+3208,Ygnacio Valley Rd + Civic Dr,37.906563,-122.059967,1930,2
+3211,Ygnacio Valley Rd + Homestead Ave,37.909190,-122.051842,1938,2
+3217,Tice Valley Blvd + Montecillo Dr,37.874795,-122.065232,1066,2
+3218,Tice Valley Blvd + Castle Hill Ranch Rd,37.875533,-122.057107,1067,2
+3219,Meadow Rd + Meadow Crest Ln,37.879627,-122.056550,1000,2
+3220,S Main St + Crest Ave,37.881105,-122.051007,1054,2
+3221,Crest Ave + Avalon Ct,37.878550,-122.053093,943,2
+3222,Tice Valley Blvd + Crest Ave,37.875137,-122.052577,1068,2
+3224,S Main St + Rudgear Rd,37.879363,-122.050272,1055,2
+3225,Danville Blvd + Horse Trail Ct,37.875013,-122.047808,946,2
+3226,Danville Blvd + Via Robles,37.871465,-122.045880,947,2
+3227,Danville Blvd + Hillgrade Ave,37.869418,-122.044530,948,2
+3228,Hillgrade Ave + Iron Horse Trail,37.868382,-122.046477,975,2
+3229,Crest Ave + Kell Ct,37.871003,-122.050788,944,2
+3230,Crest Ave + Crest Ct,37.874098,-122.051622,945,2
+3235,Heather Dr + N San Carlos Dr,37.918385,-122.040517,1751,
+3236,Marchbanks Dr + Heather Dr,37.917455,-122.043158,1765,
+3237,Marchbanks Dr + Sand Wedge Pl,37.918012,-122.045622,1766,
+3238,Marchbanks Dr + Kinross Dr,37.917067,-122.048860,1767,
+3239,Marchbanks Dr + Crosby Ct,37.913792,-122.048842,1768,
+3240,Marchbanks Dr + Player Ct,37.912508,-122.047490,1769,
+3244,Locust St + Civic Dr,37.901052,-122.063027,1755,2
+3246,S Broadway + Mt Diablo Blvd,37.897770,-122.057662,1885,2
+3248,Mt Diablo Blvd + Moraga Rd,37.891888,-122.119492,1205,2
+3249,Moraga Rd + Brook St,37.888662,-122.118360,1186,2
+325,Boyd Rd + Campbell Ln,37.943474,-122.065506,1426,2
+3250,Moraga Rd + O'Conner Dr,37.886732,-122.118102,1187,2
+3251,Moraga Rd + Herman Dr,37.885300,-122.118360,1188,2
+3252,Moraga Rd + Tanglewood Dr,37.883290,-122.118937,1189,2
+3253,Moraga Rd + Via Granada Dr,37.872378,-122.123982,1347,2
+3254,Moraga Rd + Campolindo Dr,37.868015,-122.125273,1348,2
+3255,Moraga Rd + Buckingham Dr,37.864717,-122.124260,1349,2
+3256,Moraga Rd + Kendall Cir,37.858045,-122.124222,1350,2
+3257,St Mary's Rd + Moraga Library,37.841047,-122.123048,1362,2
+3258,St Mary's Rd + Carter Dr,37.842488,-122.117903,1363,2
+3259,St Mary's College,37.842095,-122.110135,1322,2
+3260,St Mary's Rd + Carter Dr,37.842600,-122.117942,1364,2
+3261,St Mary's Rd + Moraga Library,37.841162,-122.123068,1365,2
+3262,Moraga Way + School St,37.835272,-122.130002,1356,2
+3263,Moraga Way + Camino Ricardo,37.837172,-122.134513,1357,2
+3264,Moraga Way + Eastwood Dr,37.843410,-122.146275,1405,2
+3265,Moraga Way + Coral Dr,37.844718,-122.148738,1394,2
+3266,Moraga Way + Whitehall Dr,37.847058,-122.151937,1395,2
+3267,Moraga Way + Southwaite Ct,37.852030,-122.151718,1396,2
+3268,Moraga Way + Ivy Dr,37.854807,-122.152772,1397,2
+3269,Moraga Way + Hall Dr,37.856365,-122.155175,1398,2
+3270,Moraga Way + Ardor Dr,37.857898,-122.157838,1399,2
+3272,Moraga Way + Orchard Rd,37.859663,-122.163500,2129,2
+3273,Moraga Way + Holy Shepherd Lutheran Church,37.860410,-122.165208,1401,2
+3274,Moraga Way + Brookside Dr,37.865583,-122.174647,1403,2
+3275,Moraga Way + Orchard Rd,37.871227,-122.177288,1404,2
+3276,Camino Pablo + Moraga Way,37.877512,-122.180747,1372,2
+3278,Camino Pablo + Brookwood Rd,37.877370,-122.181382,1371,2
+3279,Moraga Way + Orchard Rd,37.871247,-122.177567,1382,2
+3280,Moraga Way + McDonnell Nursery,37.865405,-122.174727,1383,2
+3281,Moraga Way + Casa Vieja,37.862245,-122.168647,1384,2
+3282,Moraga Way + Los Cerros,37.860433,-122.165547,1385,2
+3283,Moraga Way + Oak Dr,37.858780,-122.161375,1386,2
+3284,Moraga Way + Valley View Dr,37.857652,-122.157698,1387,2
+3285,Moraga Way + Woodland Rd,37.856190,-122.155215,1388,2
+3286,Moraga Way + Ivy Dr,37.854160,-122.152393,1389,2
+3287,Moraga Way + Southwaite Ct,37.851603,-122.151977,1390,2
+3288,Moraga Way + El Camino Moraga,37.847837,-122.152513,1391,2
+3289,Moraga Way + El Corte,37.845118,-122.149732,1392,2
+3290,Moraga Way + Estabueno,37.843542,-122.146732,1393,2
+3291,Moraga Way + Miramonte Dr,37.841067,-122.142102,1359,2
+3292,Moraga Way + St Andrews Dr,37.836993,-122.134592,1360,2
+3293,Moraga Way + Viader Dr,37.834840,-122.129427,1361,2
+3295,Moraga Rd + Alta Mesa Dr,37.837740,-122.125692,1339,2
+3296,Moraga Rd + Corliss Dr,37.846848,-122.125930,1340,2
+3297,Moraga Rd + Devin Dr,37.851215,-122.125175,1341,2
+3298,Moraga Rd + Ascot Dr,37.854798,-122.124857,1342,2
+3300,Moraga Rd + Buckingham Dr,37.864932,-122.124082,1344,2
+3301,Moraga Rd + Campolindo Dr,37.868222,-122.125215,1345,2
+3302,Moraga Rd + Via Granada Dr,37.872362,-122.123823,1346,2
+3303,Moraga Rd + Silver Springs Rd,37.881788,-122.119810,1182,2
+3304,Moraga Rd + Oliver Ct,37.883962,-122.118618,1183,2
+3305,Moraga Rd + Moraga Blvd,37.889938,-122.118360,1184,2
+3306,Mt Diablo Blvd + Moraga Rd,37.892088,-122.119253,1196,2
+3308,Canyon Rd + Country Club Dr,37.833238,-122.128333,1335,2
+3309,Canyon Rd + Sanders Dr,37.831203,-122.130162,1336,2
+3310,Camino Pablo + Joaquin Moraga School,37.826268,-122.129605,1321,2
+3316,Ivy Dr + Descanso Dr,37.853297,-122.146692,1374,2
+3317,Camino Pablo + Dickenson Dr,37.823220,-122.125015,1323,2
+3318,Camino Pablo + Hodges Dr,37.820217,-122.121260,1324,2
+3319,Camino Pablo + Shuey Dr,37.817082,-122.118857,1325,2
+3321,Camino Pablo + Larch Ave,37.815687,-122.118022,1327,2
+3322,Camino Pablo + Shuey Dr,37.816740,-122.118618,1328,2
+3323,Camino Pablo + Hodges Dr,37.820427,-122.121300,1329,2
+3324,Camino Pablo + Dickenson Dr,37.823248,-122.125055,1330,2
+3325,Camino Pablo + Duarte Ct,37.825927,-122.128970,1331,2
+3327,Moraga Rd + Moraga Way,37.834120,-122.127142,1338,2
+3340,Miramonte High School,37.840350,-122.145440,1367,2
+3355,Marchbanks Dr + Ygnacio Valley Rd,37.911968,-122.046735,1770,
+3356,Marchbanks Dr + Kinross Dr,37.917475,-122.048325,1772,
+3357,Marchbanks Dr + Sand Wedge Pl,37.917968,-122.045423,1773,
+3358,Heather Dr + Marchbanks Dr,37.917010,-122.041847,1749,
+3359,Walnut Ave + Desert Cir,37.920047,-122.033165,1912,
+3360,Walnut Ave + Warwick Dr,37.919077,-122.031515,1913,
+3361,Walnut Ave + Blackstone Dr,37.916458,-122.027145,1914,
+3362,Walnut Ave + Las Lomas Way,37.915647,-122.025357,1915,
+3363,Walnut Ave + Autumn Dr,37.915273,-122.022992,1916,
+3364,Walnut Ave + Wiget Ln,37.914650,-122.018998,1917,
+3365,Walnut Ave + Cheyenne Dr,37.914392,-122.017330,1918,
+3366,Walnut Ave + Snyder Ln,37.914220,-122.014270,1919,
+3367,Walnut Ave + Oak Grove Rd,37.914253,-122.008667,1920,
+3368,Oak Grove Rd + Arbolado Dr,37.918425,-122.009918,1852,
+3369,Oak Grove Rd + Valley Vista Rd,37.921922,-122.010952,1853,
+3371,Treat Blvd + Candelero Dr,37.927715,-122.044847,828,2
+3372,Bancroft Rd + Pomar Way,37.927687,-122.041252,1704,
+3373,Bancroft Rd + Stratton Cir,37.921703,-122.035748,1706,
+3374,N Wiget Ln + Mitchell Dr,37.928065,-122.026112,1841,2
+3375,Oak Grove Rd + Encina Camino,37.926122,-122.013555,1846,
+3376,Oak Grove Rd + Diablo Shadow Dr,37.925077,-122.012602,1847,
+3377,Oak Grove Rd + Deerpark Dr,37.923578,-122.011468,1848,
+3378,Oak Grove Rd + Cedro Ln,37.921267,-122.011012,1849,
+3379,Oak Grove Rd + Arbolado Dr,37.917538,-122.010377,1850,
+3380,Oak Grove Rd + Walnut Ave,37.915453,-122.008707,1851,
+3381,Walnut Ave + Rock Creek Ct,37.914375,-122.008687,1999,
+3382,Walnut Ave + Hurlstone Ct,37.914388,-122.011170,1905,
+3383,Walnut Ave + Dover Dr,37.915488,-122.023390,1907,
+3384,Walnut Ave + Las Lomas Way,37.915795,-122.025357,1908,
+3385,Walnut Ave + Blackstone Dr,37.916700,-122.027303,1909,
+3386,Walnut Ave + Warwick Dr,37.919252,-122.031575,1910,
+3388,Oak Grove Rd + Deerpark Dr,37.923408,-122.011270,1854,
+3389,Oak Grove Rd + Diablo Shadow Dr,37.924922,-122.012283,1855,
+3391,Oak Grove Rd + Shadelands Dr,37.929900,-122.016833,1857,2
+3392,Mitchell Dr + Oak Grove Rd,37.931992,-122.020012,1782,2
+3393,Mitchell Dr + Park And Ride Lot,37.929813,-122.023967,1779,2
+3395,Bancroft Rd + Stratton Rd,37.922637,-122.036383,1707,
+3396,Bancroft Rd + Banbury Rd,37.924325,-122.037893,1708,
+3397,Bancroft Rd + Amberwood Ln,37.927035,-122.040357,1709,
+3398,Treat Blvd + Candelero Dr,37.927540,-122.045503,825,2
+3399,Treat Blvd + Cherry Ln,37.926587,-122.050788,826,2
+3402,Port Chicago Hwy + Panoramic Dr,38.004820,-122.023727,777,2
+3404,Arnold Industrial Way + Concord Adult Homeless Shelter,38.006393,-122.037933,482,2
+3406,Morello Ave + Muir Rd,37.990415,-122.101412,1977,2
+3407,Morello Ave + Center Ave,37.986195,-122.103757,1978,2
+3408,Center Ave + Morello Ave,37.986593,-122.104710,922,2
+3409,Center Ave + Rolling Hill Way,37.988988,-122.106618,923,2
+3410,Center Ave + Veterans Dr,37.992680,-122.113055,427,2
+3411,Center Ave + Veterans Clinic Driveway,37.992362,-122.114783,925,2
+3412,VA Clinic,37.994032,-122.114485,1249,2
+3413,Muir Rd + Center Ave,37.995013,-122.118538,1314,2
+3417,Pacheco Blvd + Bush St,38.012885,-122.120803,1028,2
+3418,Pacheco Blvd + Arreba St,38.014400,-122.126307,1029,2
+3419,Martinez Amtrak,38.018577,-122.139182,1039,2
+342,Boyd Rd + Cleaveland Rd,37.943432,-122.063652,1427,2
+3421,Court St + Ward St,38.017662,-122.133598,1003,2
+3422,Pacheco Blvd + Arreba St,38.014305,-122.126287,1004,2
+3423,Pacheco Blvd + Bush St,38.012830,-122.120585,1007,2
+3424,Pacheco Blvd + Peach St,38.012353,-122.116830,1008,2
+3425,Pacheco Blvd + Santa Fe Ave,38.012267,-122.111445,1009,2
+3429,Howe Rd + Parkway Dr,38.001005,-122.113928,1302,2
+343,W Hookston Rd + Hookston Senior Homes,37.940559,-122.062851,1551,2
+3430,Howe Rd + Contra Costa Housing Choice Voucher Office,37.999392,-122.116850,1303,2
+3431,Pine St + Douglas Dr,37.995943,-122.121002,927,2
+3432,Center Ave + Muir Station,37.992447,-122.118658,928,2
+3433,Center Ave + Veterans Ct,37.992470,-122.112797,929,2
+3434,Center Ave + Kaiser Dr,37.990840,-122.110213,930,2
+3435,Center Ave + Granite Ct,37.989378,-122.107392,931,2
+3436,Center Ave + Snow Dr,37.987157,-122.105048,932,2
+3437,Morello Ave + Center Ave,37.986247,-122.103538,1975,2
+3438,Morello Ave + Muir Rd,37.990912,-122.100837,1976,2
+3441,Port Chicago Hwy + Arnold Industrial Way,38.011432,-122.023350,780,2
+3443,Old Quarry Rd + Chilpancingo Pkwy,37.974367,-122.067973,1513,2
+3444,Contra Costa Blvd + S and G Carpet and More,37.978745,-122.066245,1447,2
+3445,Center Ave + Pacheco Blvd,37.983418,-122.068093,914,2
+3446,Center Ave + Blackwood Dr,37.983473,-122.070160,915,2
+3447,Center Ave + Mono Dr,37.983852,-122.081305,917,2
+3448,Center Ave + Glacier Dr,37.983815,-122.088657,918,2
+3449,Center Ave + Redwood Dr,37.983800,-122.091318,919,2
+3452,Center Ave + Vine Hill Way,37.984547,-122.098592,936,2
+3453,Center Ave + Redwood Dr,37.983648,-122.090473,937,2
+3454,Center Ave + Lyle Ct,37.983967,-122.086093,938,2
+3455,Center Ave + Hidden Lakes Dr,37.983330,-122.079220,939,2
+3456,Center Ave + Flame Dr,37.983330,-122.073875,940,2
+3457,Center Ave + Blackwood Dr,37.983347,-122.069862,941,2
+3458,Chilpancingo Pkwy + Contra Costa Blvd,37.975352,-122.066543,1435,2
+346,Salvio St + Colfax St,37.978470,-122.032799,784,2
+347,Salvio St + Galindo St,37.976715,-122.036522,785,2
+3479,Port Chicago Hwy + Arnold Industrial Way,38.011765,-122.023152,778,2
+348,Mira Vista Ter + Willow Pass Rd,37.975216,-122.037628,694,2
+3480,Bates Ave + Port Chicago Hwy,38.015138,-122.025953,492,2
+3484,Pacheco Blvd + Center Ave,37.982877,-122.067358,1018,2
+349,Fry Way + Clayton Rd,37.972275,-122.040855,629,2
+3503,Contra Costa Blvd + Harriet Dr,37.959873,-122.061517,1456,2
+3504,Ellinwood Dr + Longbrook Way,37.958805,-122.058020,1466,2
+3509,Contra Costa Blvd + Ellinwood Dr,37.957852,-122.060960,1457,2
+3510,Contra Costa Blvd + Doray Dr,37.955050,-122.060305,1458,2
+3511,Contra Costa Blvd + Doris Dr,37.952983,-122.060325,1459,2
+3512,Contra Costa Blvd + Vivian Dr,37.951422,-122.060325,1460,2
+3513,Contra Costa Blvd + Boyd Rd,37.942612,-122.060643,1966,2
+3515,Boyd Rd + Sequoia Elementary School,37.943542,-122.068868,1428,2
+3516,Patterson Blvd + Roberta Ave,37.938825,-122.070278,1518,2
+3517,Patterson Blvd + Santa Barbara Rd,37.936187,-122.072345,1519,2
+3518,Oak Park Blvd + Patterson Blvd,37.933683,-122.072345,1503,2
+3519,Oak Park Blvd + Monte Cresta Dr,37.933688,-122.069942,1504,2
+352,Meadow Ln + William Way,37.965889,-122.047752,673,2
+3520,Oak Park Blvd + Via Del Sol,37.933120,-122.064657,1505,2
+3521,Oak Park Blvd + Pleasant Valley Dr,37.933330,-122.062113,1507,2
+3522,Coggins Dr + Park Vista Apartments,37.933167,-122.056550,1445,2
+3524,Coggins Dr + Villa Montanaro,37.933370,-122.056410,1444,2
+3525,Oak Park Blvd + Hook Ave,37.933398,-122.062908,1493,2
+3527,Oak Park Blvd + Monte Cresta Dr,37.933772,-122.069942,1495,2
+3528,Oak Park Blvd + Patterson Blvd,37.933803,-122.072802,1496,2
+3529,Patterson Blvd + Santa Barbara Rd,37.936068,-122.072305,1514,2
+353,Meadow Ln + Mayette Ave,37.963020,-122.044945,674,2
+3530,Patterson Blvd + Roberta Rd,37.939295,-122.070160,1515,2
+3531,Patterson Blvd + Soule Ave,37.941302,-122.069583,1516,2
+3532,Boyd Rd + Patterson Rd,37.943527,-122.069067,1425,2
+3536,Cleaveland Rd + Boyd Rd,37.943765,-122.063882,1439,2
+3537,Cleaveland Rd + Crescent Plz,37.944948,-122.064140,1440,2
+3538,Gregory Ln + Cleaveland Rd,37.947862,-122.063802,1487,2
+3539,Gregory Ln + Contra Costa Blvd,37.947885,-122.061358,1488,2
+3540,Contra Costa Blvd + Safeway,37.949268,-122.059967,1455,2
+3541,Contra Costa Blvd + Beth Dr,37.955253,-122.060047,1452,2
+3542,Contra Costa Blvd + Dexter Dr,37.957820,-122.060682,1453,2
+3543,Contra Costa Blvd + Harriet Dr,37.960287,-122.061318,1454,2
+3544,Contra Costa Blvd + Sun Valley Blvd and Viking Dr,37.965338,-122.062312,605,2
+3545,Contra Costa Blvd + Viking Dr,37.967822,-122.062768,602,2
+3548,Cleaveland Rd + Boyd Rd,37.943728,-122.064100,1443,
+3555,Golf Club Rd + College Dr,37.971520,-122.064775,1470,
+3558,Clayton Rd + El Camino Dr,37.949102,-121.951535,449,2
+3559,Washington Blvd + Clayton Rd,37.950830,-121.956780,853,2
+356,Meadow Ln + Monument Blvd,37.957268,-122.039978,677,2
+3567,Washington Blvd + Clayton Rd,37.951128,-121.956183,857,2
+3568,Clayton Rd + Washington Blvd,37.951752,-121.956145,451,2
+357,Oak Grove Rd + Monument Blvd,37.955490,-122.038658,735,2
+3574,Concord BART,37.973460,-122.029588,886,2
+3575,Port Chicago Hwy + Concord Blvd,37.977760,-122.029192,775,2
+3576,Clayton Rd + Pine St,37.970507,-122.044112,564,2
+3577,Market St + Clayton Rd and Meadow Ln,37.967730,-122.047768,668,2
+3578,Meadow Ln + Gelbke Ln,37.960705,-122.042840,675,2
+3579,Meadow Ln + Robin Ln,37.958937,-122.041310,676,2
+3580,Oak Grove Rd + Gilly Ln,37.951255,-122.036742,736,2
+3581,Oak Grove Rd + Junction Dr,37.946303,-122.032132,737,2
+3582,Oak Grove Rd + David Ave,37.943702,-122.029747,738,2
+3585,David Ave + Mohr Ln,37.936095,-122.043178,615,2
+3586,David Ave + Bancroft Rd,37.934685,-122.046198,616,2
+3587,Bancroft Rd + Minert Rd,37.933592,-122.046675,1713,2
+3589,Bancroft Rd + Gil Port Ln,37.930350,-122.043298,1710,2
+3590,Bancroft Rd + Faith Christian Fellowship,37.932317,-122.045105,1711,2
+3591,Minert Rd + Bancroft Rd,37.934148,-122.045940,1774,2
+3592,Minert Rd + Normandy Ln,37.937857,-122.038807,1775,2
+3593,Minert Rd + Weaver Ln,37.939573,-122.035450,1776,2
+3594,Minert Rd + Litkin Dr,37.942195,-122.030323,1777,2
+3595,Oak Grove Rd + Risdon Rd,37.944535,-122.030263,739,2
+3596,Oak Grove Rd + Rockne Ln,37.946303,-122.031893,740,2
+3597,Oak Grove Rd + Chalomar Rd,37.947813,-122.033303,741,2
+3598,Oak Grove Rd + Whitman Rd,37.949013,-122.034377,742,2
+3599,Oak Grove Rd + Pear Dr,37.953182,-122.037258,743,2
+3601,Meadow Ln + Lodge Dr,37.958268,-122.040537,678,2
+3603,Meadow Ln + Blackfield Dr,37.964182,-122.045880,681,2
+3604,Clayton Rd + Pine St,37.969700,-122.045323,565,2
+3605,Clayton Rd + Detroit Ave,37.970868,-122.042820,566,2
+3606,Fry Way + Clayton Rd,37.972527,-122.040813,630,2
+3607,Mira Vista Ter + Salvio St,37.975665,-122.037575,695,2
+3608,Salvio St + Galindo St,37.976520,-122.036702,786,2
+3609,Salvio St + Grant St,37.977902,-122.033742,787,2
+3610,East St + Willow Pass Rd,37.978332,-122.030920,626,2
+3616,Oak Grove Rd + Smith Ln,37.941233,-122.027502,1982,2
+3617,Oak Grove Rd + Treat Blvd,37.938790,-122.025277,1987,2
+3618,Treat Blvd + Royal Anne Ln,37.936625,-122.029350,821,2
+3619,Treat Blvd + Winton Dr,37.934662,-122.033165,822,2
+3620,Treat Blvd + Arkell Rd,37.933250,-122.035907,823,2
+3622,Treat Blvd + Carriage Dr,37.930827,-122.039682,829,2
+3623,Treat Blvd + Arkell Rd,37.932572,-122.036702,830,2
+3624,Treat Blvd + Winton Dr,37.934510,-122.032907,831,2
+3625,Oak Grove Rd + Treat Blvd,37.939430,-122.025515,1988,2
+3626,Oak Grove Rd + Smith Ln,37.941488,-122.027463,1983,2
+3630,Monument Blvd + Oakmead Ave,37.968422,-122.032290,708,2
+3631,Systron Dr + Monument Blvd,37.964087,-122.030860,810,2
+3632,San Miguel Rd + Sunny Acres Mobile Home and RV Park,37.962437,-122.029728,789,2
+3633,San Miguel Rd + Tioga Rd,37.960137,-122.028555,790,2
+3634,San Miguel Rd + Galloway Dr,37.957628,-122.026985,792,2
+3635,San Miguel Rd + Tioga Rd,37.960315,-122.028655,793,2
+3636,San Miguel Rd + Sunny Acres Mobile Home and RV Prk,37.962680,-122.029867,794,2
+3637,Systron Dr + Monument Blvd,37.964248,-122.031038,811,2
+3642,Oak St + Galindo St,37.972257,-122.032470,746,2
+3643,Laguna St + Ellis Park,37.970337,-122.035588,657,2
+3644,Laguna St + Detroit Ave,37.968293,-122.040575,656,2
+3645,Detroit Ave + Sunshine Dr,37.965313,-122.038370,617,2
+3646,Detroit Ave + Walters Way,37.962342,-122.035728,618,2
+3648,Monument Blvd + Meadow Ln,37.957037,-122.038192,710,2
+3649,Monument Blvd + Virginia Ln,37.954367,-122.042007,711,2
+3650,Monument Blvd + Lacey Ln,37.953595,-122.043118,712,2
+3651,Mohr Ln + Monument Blvd,37.947397,-122.050590,696,2
+3652,Mohr Ln + Del Rio Cir,37.946042,-122.047728,697,2
+3653,Mohr Ln + Del Rio Cir,37.945728,-122.045483,698,2
+3654,Mohr Ln + Del Rio Ct,37.943780,-122.045105,699,2
+3655,Mohr Ln + Wicket Ct,37.941572,-122.045185,700,2
+3656,Mohr Ln + Bentley St,37.939077,-122.045543,701,2
+3658,Bancroft Rd + Minert Rd,37.933740,-122.046477,1712,2
+3659,Mohr Ln + Nuala St,37.939565,-122.045503,702,2
+3660,Mohr Ln + Hidden Creek Town Homes,37.944620,-122.044430,704,2
+3661,Mohr Ln + Del Rio Cir,37.945852,-122.045523,705,2
+3665,Detroit Ave + Monument Blvd,37.960697,-122.034038,620,2
+3666,Detroit Ave + Walters Way,37.962830,-122.035907,621,2
+3668,Detroit Ave + Laguna St,37.967905,-122.040933,623,2
+3669,Laguna St + Ellis St,37.969668,-122.036980,655,2
+368,Bancroft Rd + Countrywood Ct,37.930203,-122.043526,1714,2
+3682,Grant St + Concord Blvd,37.976110,-122.032092,636,2
+3683,Grant St + Bonifacio St,37.979810,-122.034853,638,2
+3691,Willow Pass Rd + Granada Dr,37.986143,-122.010673,866,2
+3692,Willow Pass Rd + San Vincente Dr,37.987308,-122.009025,867,2
+3693,Willow Pass Rd + Ashdale Dr,37.988905,-122.006840,868,2
+3694,Landana Dr + Willow Pass Rd,37.989823,-122.005350,658,2
+3695,Landana Dr + Village Rd,37.987033,-122.001038,659,2
+3696,Landana Dr + Sandalwood Dr,37.984630,-121.999617,660,2
+3697,Landana Dr + Silverwood Dr,37.983303,-121.999040,661,2
+3698,Landana Dr + Cottonwood Dr,37.980827,-121.996973,662,2
+3699,West St + Forestview Ave,37.976603,-121.992027,844,2
+370,Pleasant Hill BART,37.928300,-122.055800,1074,2
+3700,West St + Glendale Ave,37.974962,-121.993973,845,2
+3701,West St + Clayton Way,37.973400,-121.995900,846,2
+3702,West St + Chestnut Ave,37.972513,-121.996993,847,2
+3703,West St + Wesley Ct,37.970018,-121.999973,848,2
+3707,Treat Blvd + Bel Air Dr,37.962377,-121.994192,812,2
+3708,Treat Blvd + Thompson Rd,37.952300,-122.005290,815,2
+3709,Treat Blvd + San Miguel Rd,37.945533,-122.015025,817,2
+3710,Treat Blvd + San Simeon Dr,37.942973,-122.018800,818,2
+3711,Treat Blvd + Blarney Ave,37.941000,-122.021720,819,2
+3712,Treat Blvd + Oak Grove Rd,37.938865,-122.024920,820,2
+3713,Oak Rd + Charter Oak Cir,37.920078,-122.058795,1858,2
+3714,N Civic Dr + Walden Rd,37.916763,-122.059352,1820,2
+3715,N Civic Dr + Deodora Way,37.914975,-122.059648,1821,2
+3716,N Civic Dr + Parkside Dr,37.912305,-122.060127,1822,2
+3717,N Civic Dr + Pine St,37.910407,-122.059550,1823,2
+3718,N Civic Dr + Brio Dr,37.908748,-122.058755,1824,2
+3719,N Civic Dr + Ygnacio Valley Rd,37.907155,-122.058855,1825,2
+3721,N Civic Dr + Ygnacio Valley Rd,37.907278,-122.058597,1814,2
+3722,N Civic Dr + Pine St,37.910668,-122.059490,1816,2
+3723,N Civic Dr + Parkside Dr,37.912687,-122.059808,1817,2
+3724,N Civic Dr + Deodora Way,37.915063,-122.059450,1818,2
+3725,Oak Rd + Walden Park,37.921132,-122.058338,1859,2
+3726,Treat Blvd + Oak Grove Rd,37.938308,-122.025575,832,2
+3727,Treat Blvd + Blarney Ave,37.941273,-122.020927,833,2
+3728,Treat Blvd + San Simeon Dr,37.942903,-122.018522,834,2
+3729,Treat Blvd + Citrus Ave,37.945057,-122.015323,835,2
+3730,Treat Blvd + Navaronne Way,37.946773,-122.012163,836,2
+3731,Treat Blvd + Kingswood Dr,37.950480,-122.005428,837,2
+3734,Treat Blvd + Bel Air Dr,37.962325,-121.994013,840,2
+3738,West St + Salem St,37.970695,-121.999120,849,2
+3739,West St + Denver St,37.971847,-121.997748,850,2
+3740,West St + Wilson Ln,37.974298,-121.994708,851,2
+3741,West St + El Dorado Middle School,37.976782,-121.991788,852,2
+3743,Landana Dr + Cottonwood Dr,37.980763,-121.996755,664,2
+3744,Landana Dr + Beechwood Dr,37.983083,-121.998862,665,2
+3745,Landana Dr + Village Rd,37.987082,-122.001018,666,2
+3746,Landana Dr + Larkspur Dr,37.989402,-122.004535,667,2
+3747,Willow Pass Rd + San Vincente Dr,37.987237,-122.009383,870,2
+3751,Willow Pass Rd + Esperanza Dr,37.980760,-122.021940,874,2
+3752,Parkside Dr + Concord Civic Center,37.980938,-122.025337,765,2
+3753,Salvio St + Date St,37.980672,-122.028437,783,2
+3761,Port Chicago Hwy + Olivera Rd,37.995912,-122.030522,782,2
+3765,Peralta Rd + Dalis Dr,37.999730,-122.047668,771,2
+3766,Solano Way + Hilltop Rd,37.994345,-122.051980,796,2
+3767,Solano Way + Solano Ct,37.992637,-122.049655,797,2
+3768,Solano Way + Westgate Ave,37.990642,-122.045343,798,2
+3769,Solano Way + Grant St,37.989640,-122.041947,799,2
+3770,Grant St + Mildred St,37.986485,-122.039185,642,2
+3771,Grant St + Gill Dr,37.984257,-122.037555,643,2
+3772,Grant St + High School Ave,37.984062,-122.036007,644,2
+3773,East St + Bacon St,37.982508,-122.033980,625,2
+3774,Colfax St + Pacheco St,37.979182,-122.032987,568,2
+3776,East St + Bacon St,37.982618,-122.033920,624,2
+3777,Grant St + High School Ave,37.984013,-122.035290,639,2
+3778,Grant St + Karren St,37.985687,-122.038510,640,2
+3779,Grant St + Fairfield Ave,37.987475,-122.039582,641,2
+3780,Solano Way + Grant St,37.989752,-122.042047,800,2
+3781,Solano Way + Hillside Ave,37.990808,-122.045722,801,2
+3782,Solano Way + Avon Ave,37.992712,-122.049715,802,2
+3783,Solano Way + Hilltop Rd,37.994402,-122.051980,803,2
+3784,Solano Way + Olivera Rd,37.998577,-122.052893,804,2
+3785,Olivera Rd + UPS Customer Center Concord,37.998685,-122.050390,753,2
+3786,Olivera Rd + Peralta Rd,37.998493,-122.047828,754,2
+3787,Olivera Rd + Terraza Del Sol,37.998203,-122.045007,755,2
+3788,Olivera Rd + Grant St,37.997683,-122.042285,756,2
+3789,Olivera Rd + Hillsborough Dr,37.996532,-122.036602,757,2
+3790,Olivera Rd + Thunderbird Dr,37.996010,-122.034178,758,2
+3791,Olivera Rd + Welch Ct,37.995622,-122.032270,759,2
+3792,Port Chicago Hwy + Olivera Rd,37.995505,-122.030562,776,2
+3794,Concord BART,37.974280,-122.029110,889,2
+3799,Concord Ave + Concord Honda,37.979643,-122.046377,1952,2
+3804,John Glenn Dr + Concord Ave,37.979580,-122.055497,646,2
+3805,John Glenn Dr + Burnett Ave,37.977915,-122.054365,647,2
+3806,Galaxy Way + Meridian Park Blvd,37.976075,-122.056152,631,2
+3807,Diamond Blvd + Galaxy Way,37.975248,-122.058933,1960,2
+3810,Pacheco Blvd + S Buchanan Cir,37.987877,-122.071053,1019,2
+3811,Pacheco Blvd + N Buchanan Cir,37.990745,-122.073258,1020,2
+3812,Muir Rd + Sweetwater Dr,37.991230,-122.078523,1315,2
+3813,Muir Rd + Fountainhead Ct,37.990550,-122.084167,1316,2
+3815,Arnold Dr + Milano Way,37.991698,-122.087187,1284,2
+3816,Arnold Dr + Holiday Hills Dr,37.991373,-122.090545,1285,2
+3817,Arnold Dr + Fig Tree Ln,37.991162,-122.093962,1286,2
+3818,Arnold Dr + Muir Parkway Offices,37.992883,-122.098532,1287,2
+3819,Morello Ave + Arnold Dr,37.994798,-122.100438,1305,2
+3820,Morello Ave + Midhill Rd,37.997902,-122.100418,1306,2
+3821,Morello Ave + Marie Ave,38.003932,-122.101790,1307,2
+3822,Morello Ave + Gilrix Ct,38.008093,-122.101790,1308,2
+3823,Morello Ave + Pacheco Blvd,38.010183,-122.101790,1309,2
+3826,Pacheco Blvd + Ace Truckbox Center Martinez,38.011607,-122.104353,1010,2
+3827,Pacheco Blvd + Morello Ave,38.010728,-122.102088,1011,2
+3828,Morello Ave + Marie Ave,38.004037,-122.101830,1310,2
+3829,Morello Ave + Village Oaks Dr,37.997388,-122.100280,1311,2
+3831,Arnold Dr + Muir Parkway Offices,37.991595,-122.097837,1280,2
+3832,Arnold Dr + Fig Tree Ln,37.991063,-122.094062,1281,2
+3833,Arnold Dr + Holiday Hills Dr,37.991357,-122.089848,1282,2
+3834,Arnold Dr + Glacier Dr,37.991692,-122.086730,1283,2
+3835,Muir Rd + Glacier Dr,37.990308,-122.086352,1318,2
+3836,Muir Rd + Fountainhead Ct,37.990415,-122.083432,1319,2
+3837,Muir Rd + Sweetwater Dr,37.991222,-122.077808,1320,2
+3838,Pacheco Blvd + Carolos Dr,37.990395,-122.073318,1015,2
+3839,Pacheco Blvd + Pacheco Manor Dr,37.988655,-122.071928,1016,2
+384,Meadow Ln + Robin Ln,37.959350,-122.041470,679,2
+3840,Pacheco Blvd + Aspen Dr,37.986998,-122.070438,2096,
+3841,Diamond Blvd + Burnett Ave,37.976273,-122.059888,1961,2
+385,Meadow Ln + Sunshine Dr,37.961330,-122.043260,680,2
+3850,Concord Ave + Commerce Ave,37.979225,-122.045225,570,2
+3854,Galaxy Way + Meridian Park Blvd,37.976075,-122.055835,632,2
+3855,Concord Ave + Concord Airport Plaza Building A,37.980708,-122.053390,569,2
+3859,S Main St + Creekside Dr,37.886918,-122.055755,1891,2
+3860,Danville Blvd + Livorna Rd,37.861872,-122.039920,949,2
+3861,Danville Blvd + Ridgewood Rd,37.856953,-122.036900,950,2
+3862,Danville Blvd + St Alphonsus Ct,37.853440,-122.034655,951,2
+3863,Danville Blvd + Alamo Plaza,37.851508,-122.033443,952,2
+3867,Danville Blvd + Hemme Ave,37.841345,-122.025018,956,2
+3868,Danville Blvd + Camille Ave,37.837450,-122.020608,957,2
+3869,Danville Blvd + Wayne Ave,37.834863,-122.017132,978,2
+387,Market St + Clayton Rd,37.969227,-122.046982,669,2
+3870,Danville Blvd + Hartford Rd,37.832013,-122.013873,958,2
+3871,Danville Blvd + Del Amigo Rd,37.828548,-122.008150,959,2
+3873,Railroad Ave + Love Ln and Linda Mesa Ave,37.823518,-122.003283,1117,2
+3874,Railroad Ave + Prospect Ave,37.820880,-122.000323,1118,2
+3876,San Ramon Valley Blvd + Sonora Ave,37.817637,-121.996655,1124,2
+3877,San Ramon Valley Blvd + Danville Town and Country Shopping Center,37.815230,-121.996397,1125,2
+3878,San Ramon Valley Blvd + Livery-Mercantile,37.813370,-121.995900,1126,2
+3881,Camino Ramon + San Thomas Way,37.804118,-121.989343,1077,2
+3882,Camino Ramon + El Capitan Dr,37.799617,-121.987238,1078,2
+3883,Camino Ramon + Saint Patricks Dr,37.796053,-121.984517,1079,2
+3884,Camino Ramon + Greenbrook Dr,37.792985,-121.982708,1080,2
+3885,San Ramon Valley Blvd + Ridgeland Dr,37.789488,-121.982450,1127,2
+3886,San Ramon Valley Blvd + Hooper Dr,37.784973,-121.980363,1664,2
+3887,San Ramon Valley Blvd + Purdue Rd,37.782447,-121.979232,1665,2
+3888,Fostoria Way + Crow Canyon Pl,37.781020,-121.973192,1650,2
+3889,Camino Ramon + Fostoria Way,37.781763,-121.970490,1611,2
+3890,Camino Ramon + Crow Canyon Rd,37.780238,-121.969655,1612,2
+3891,Camino Ramon + Crow Canyon Rd,37.778040,-121.968205,1613,2
+3892,Camino Ramon + Norris Canyon Rd,37.774747,-121.965105,1614,2
+3893,San Ramon Transit Center,37.770212,-121.960297,1699,2
+3894,Executive Pkwy + Camino Ramon and Bishop Dr,37.769287,-121.964032,1643,2
+3895,Executive Pkwy + Bishop Dr,37.767315,-121.968880,1644,2
+3896,San Ramon Valley Blvd + Twin Canyon Shopping Center,37.772600,-121.974245,1680,2
+3897,San Ramon Valley Blvd + Courtyard Center,37.774718,-121.976192,1667,2
+3898,Crow Canyon Rd + Twin Creeks Dr,37.775060,-121.980782,1622,2
+3899,Crow Canyon Rd + Old Crow Canyon Rd,37.774405,-121.983762,1623,2
+3900,Crow Canyon Rd + Deerwood Rd,37.773565,-121.987953,1624,2
+3901,Bollinger Canyon Rd + Crow Canyon Rd,37.772302,-121.995960,1580,2
+3902,Bollinger Canyon Rd + Anza Ct,37.769720,-121.993655,1581,2
+3903,Bollinger Canyon Rd + Dos Rios Dr,37.767570,-121.988648,1582,2
+3904,Bollinger Canyon Rd + Marsh Dr,37.766457,-121.986762,1583,2
+3905,Bollinger Canyon Rd + Ascension Dr,37.765300,-121.984715,1584,2
+3906,Bollinger Canyon Rd + Paddock Dr,37.760222,-121.979013,1586,2
+3907,Bollinger Canyon Rd + Morgan Dr,37.759265,-121.977045,1587,2
+3908,Bollinger Canyon Rd + Talavera Dr,37.759337,-121.970867,1588,2
+3909,San Ramon Valley Blvd + Bollinger Canyon Rd,37.759050,-121.967985,1668,2
+3910,San Ramon Valley Blvd + Harness Dr,37.757537,-121.965900,1679,2
+3911,San Ramon Valley Blvd + Barnwood Dr,37.754575,-121.962562,1669,2
+3912,San Ramon Valley Blvd + Morgan Dr,37.751218,-121.960475,1670,2
+3913,Montevideo Dr + San Ramon Valley Blvd,37.747300,-121.957118,1653,2
+3914,Tareyton Ave + Bridgeport Ave,37.742937,-121.954018,1683,
+3915,Tareyton Ave + Pownal Ave,37.739842,-121.951853,1684,
+3916,Tareyton Ave + Pine Valley Rd,37.737310,-121.949965,1685,
+3917,Alcosta Blvd + San Ramon Valley Blvd,37.722930,-121.941740,1557,
+3918,Alcosta Blvd + Davona Dr,37.724202,-121.936573,1558,
+3919,Alcosta Blvd + Elmwood Dr,37.728327,-121.933673,1559,
+3920,Village Pkwy + Elmwood Dr,37.727435,-121.930693,1689,2
+3921,Village Pkwy + Kimball Ave,37.725842,-121.929322,1149,2
+3922,Village Pkwy + Davona Dr,37.721650,-121.926580,1150,2
+3923,Village Pkwy + Brighton Dr,37.718273,-121.926838,1151,2
+3924,Dublin Blvd + Clark Ave,37.705562,-121.920858,1979,2
+3925,Dublin Blvd + Civic Plz,37.704317,-121.915752,1147,2
+3926,Dublin Blvd + Dublin Ct,37.703690,-121.912295,1148,2
+3929,Dublin Blvd + Clark Ave and Village Pkwy,37.705852,-121.921475,1980,
+3930,Village Pkwy + Lewis Ave,37.707933,-121.925170,2091,
+3931,Village Pkwy + Amador Valley Blvd,37.710612,-121.927117,1154,
+3932,Village Pkwy + Brighton Dr,37.719012,-121.926580,1156,
+3933,Village Pkwy + Davona Dr,37.721082,-121.926402,1157,
+3934,Village Pkwy + Shavano Way,37.726028,-121.929183,1158,
+3935,Village Pkwy + Alcosta Blvd,37.729065,-121.931905,1690,
+3936,Alcosta Blvd + Davona Blvd,37.724435,-121.936793,1563,
+3937,Alcosta Blvd + San Ramon Valley Blvd,37.723128,-121.942157,1556,
+3938,Tareyton Ave + Pine Valley Rd,37.737807,-121.950263,1686,
+3939,Tareyton Ave + Pownal Ave,37.740077,-121.951972,1687,
+3940,Tareyton Ave + Bridgeport Ave,37.743310,-121.954217,1688,
+3941,Montevideo Dr + San Ramon Valley Blvd,37.747348,-121.957475,1657,2
+3942,San Ramon Valley Blvd + Morgan Dr,37.751445,-121.960437,1678,2
+3944,San Ramon Valley Blvd + Bollinger Crossing,37.757985,-121.966555,1672,2
+3945,Bollinger Canyon Rd + San Ramon Valley Blvd,37.759432,-121.968682,1589,2
+3946,Bollinger Canyon Rd + Talavera Dr,37.759615,-121.970967,1590,2
+3947,Bollinger Canyon Rd + Andora Ln,37.759518,-121.977363,1591,2
+3948,Bollinger Canyon Rd + Marsh Dr,37.760342,-121.978755,2098,2
+3949,Bollinger Canyon Rd + Aranda Dr,37.762242,-121.981000,1592,2
+3950,Bollinger Canyon Rd + Norris Canyon Rd,37.763732,-121.982728,1593,2
+3951,Bollinger Canyon Rd + Ascension Dr,37.765210,-121.984337,1594,2
+3952,Bollinger Canyon Rd + Marsh Dr,37.766552,-121.986363,1595,2
+3953,Bollinger Canyon Rd + Dos Rios Dr,37.767688,-121.988490,1596,2
+3954,Bollinger Canyon Rd + Fountainhead Dr,37.769878,-121.993537,1597,2
+3955,Crow Canyon Rd + Bollinger Canyon Rd,37.772623,-121.995403,1625,2
+3956,Crow Canyon Rd + Park Pl,37.773300,-121.988808,1626,2
+3957,Crow Canyon Rd + Old Crow Canyon Rd,37.774317,-121.983007,1627,2
+3958,Crow Canyon Rd + Twin Creeks Dr,37.774968,-121.980423,1628,2
+3959,San Ramon Valley Blvd + Crow Canyon Rd,37.775310,-121.977820,1675,2
+3960,San Ramon Valley Blvd + Regal Crow Canyon,37.772178,-121.974225,1676,2
+3961,Executive Pkwy + Bishop Dr,37.767180,-121.968820,1645,
+3962,Executive Pkwy + Bishop Dr and Camino Ramon,37.768968,-121.964548,1646,2
+3965,Camino Ramon + Crow Canyon Rd,37.778755,-121.968423,1618,2
+3966,Camino Ramon + Crow Canyon Rd,37.780612,-121.969695,1619,2
+3967,Fostoria Way + Camino Ramon,37.782057,-121.971165,1651,2
+3968,Fostoria Way + Camino Ramon,37.781338,-121.972913,1652,2
+3969,San Ramon Valley Blvd + Fostoria Way,37.780890,-121.978357,1673,2
+3971,San Ramon Valley Blvd + Ridgeland Dr,37.789965,-121.982470,1128,2
+3972,Camino Ramon + Baldwin Dr,37.794570,-121.983443,1081,2
+3973,Camino Ramon + Saint Patricks Dr,37.796375,-121.984675,1082,2
+3974,Camino Ramon + El Capitan Dr,37.800487,-121.987675,1083,2
+3975,Camino Ramon + San Thomas Way,37.804687,-121.989583,1084,2
+3976,Camino Ramon + Sycamore Valley Rd,37.810293,-121.990953,1085,2
+3977,San Ramon Valley + Sycamore Square,37.812687,-121.995543,1129,2
+3978,San Ramon Valley Blvd + Sonora Ave,37.817367,-121.996417,1131,2
+3980,Railroad Ave + Linda Mesa Ave,37.822568,-122.002270,1998,2
+3981,Railroad Ave + Love Ln,37.823765,-122.003263,1123,2
+3982,Danville Blvd + La Gonda Way,37.825728,-122.004058,961,2
+3983,Danville Blvd + El Cerro Blvd,37.828238,-122.007337,2100,2
+3984,Danville Blvd + Hartford Rd,37.832228,-122.014112,963,2
+3985,Danville Blvd + El Portal,37.834918,-122.017172,964,2
+3986,Danville Blvd + Hemme Ave,37.841567,-122.025138,966,2
+3987,Danville Blvd + South Ave,37.845293,-122.028893,968,2
+3988,Danville Blvd + Las Trampas Rd,37.847615,-122.030920,969,2
+3989,Danville Blvd + St Alphonsus Ct,37.853793,-122.034853,971,2
+399,Geary Rd + Pioneer Ave,37.926483,-122.064198,2013,
+3990,Danville Blvd + Ridgewood Rd,37.856977,-122.036940,972,2
+3991,Danville Blvd + Livorna Rd,37.862043,-122.040020,973,2
+3992,S Main St + Rudgear Rd,37.879260,-122.050053,1892,2
+400,Geary Rd + Lexington Pl,37.926392,-122.070862,2123,
+4000,Alcosta Blvd + Village Pkwy,37.729498,-121.931627,1564,
+4001,Alcosta Blvd + Fircrest Ln,37.731425,-121.927992,1560,
+4002,Fircrest Ln + Sunrise Villa San Ramon,37.729045,-121.925785,1647,
+4003,Fircrest Ln + Craydon Cir,37.728187,-121.924772,1648,
+4004,Tangerine St + Craydon Cir,37.729295,-121.923203,1682,
+4005,Wisteria St + Tangerine St,37.731763,-121.924117,1691,
+4006,Fircrest Ln + Dogwood Pl,37.729323,-121.926103,1649,
+4010,Broadmoor Dr + Montevideo Dr,37.752438,-121.950105,1604,2
+4011,Broadmoor Dr + Saint Denis Dr,37.748782,-121.948455,1605,2
+4012,Broadmoor Dr + Millbridge Dr,37.745193,-121.947005,1606,2
+4013,Broadmoor Dr + Pine Valley Rd,37.739262,-121.941143,1607,2
+4014,Broadmoor Dr + Chestnut Ct,37.736178,-121.939972,1608,2
+4015,Broadmoor Dr + Northland Ave,37.731430,-121.937310,1609,2
+4016,Broadmoor Dr + Belle Meade Dr,37.730145,-121.934070,1610,2
+4019,Pine Valley Rd + Broadmoor Dr,37.739322,-121.941918,1663,2
+4020,Broadmoor Dr + California High,37.747007,-121.947462,1602,2
+4021,Broadmoor Dr + St Denis Dr,37.748845,-121.948395,1603,2
+4032,Orinda Way + Orinda Community Center,37.882383,-122.187898,1407,2
+4033,Orinda Way + Irwin Way,37.884215,-122.190005,1408,2
+4034,Orinda Way + Avenida De Orinda,37.885380,-122.191793,1409,2
+4035,Camino Pablo + Miner Rd,37.888448,-122.194317,1369,2
+4036,Miner Rd + Camino Don Miguel,37.896995,-122.192070,1376,2
+4037,Miner Rd + Camino Sobrante,37.900782,-122.190898,1377,2
+4038,Miner Rd + Lombardy Ln,37.902193,-122.190083,1378,2
+4039,Miner Rd + Valley View Rd,37.903965,-122.183845,1379,2
+4040,Miner Rd + Tiger Tail Ct,37.905780,-122.182355,1380,2
+4041,Miner Rd + Sycamore Rd,37.906405,-122.179157,1381,2
+4042,Honey Hill Rd + Miner Rd,37.902848,-122.170792,1373,2
+4044,Via Las Cruces + Las Vegas Rd,37.899077,-122.172342,1418,2
+4045,Saint Stephens Dr + De Soto Ct,37.896618,-122.172043,1416,2
+4046,Saint Stephens Dr + Via Floreado,37.894563,-122.171945,1415,2
+4047,Saint Stephens Dr + E Altarinda Dr,37.892878,-122.171725,1414,2
+4048,Orindawoods Dr + Ironbark Cir,37.893033,-122.175520,1410,2
+4049,Orindawoods Dr + Village Gate Rd,37.885300,-122.182415,1412,2
+4050,Altarinda Rd + Orinda Masonic Center,37.882487,-122.184600,1368,2
+4051,Santa Maria Way + Orinda Way,37.881008,-122.186012,1413,2
+4058,Mason Cir + Bates Ave,38.011027,-122.041172,670,2
+4059,Mason Cir + Commercial Support Services,38.009393,-122.040517,671,2
+4060,Mason Cir + Bates Ave,38.012372,-122.039323,672,2
+4069,Bates Ave + Folsom Ct,38.014182,-122.031635,497,2
+4073,Port Chicago Hwy + Bates Ave,38.014463,-122.024760,779,2
+4075,North Concord Martinez BART,38.002180,-122.024085,898,2
+4077,St Mary's Rd + Cattle Chute Rd,37.853960,-122.103697,1231,2
+4078,St Mary's Rd + Driftwood Dr,37.857617,-122.101968,1232,2
+4079,St Mary's Rd + Rohrer Dr,37.859007,-122.101730,1233,2
+4080,St Mary's Rd + Lafayette Community Center,37.864768,-122.099962,1234,2
+4081,St Mary's Rd + Glenside Dr,37.871982,-122.098233,1235,2
+4082,St Mary's Rd + Glenside Dr,37.880922,-122.103280,1236,2
+4083,St Mary's Rd + Hope Ln,37.883457,-122.110035,1237,2
+4084,St Mary's Rd + Avalon Ave,37.885022,-122.115220,1238,2
+4086,Olympic Blvd + Bridgefield Rd,37.884312,-122.083372,1214,
+4087,Pleasant Hill Rd + Olympic Blvd,37.886635,-122.092968,1216,
+4089,Camino Diablo + Stanley Blvd,37.903885,-122.094180,1167,2
+4090,Stanley Blvd + Acalanes High School,37.902972,-122.096365,1239,2
+4091,Mt Diablo Blvd + Mt Diablo Ct,37.896797,-122.097935,1190,2
+4092,Mt Diablo Blvd + Hampton Rd,37.895092,-122.106042,1191,2
+4093,Mt Diablo Blvd + Stuart St,37.894210,-122.108465,1192,2
+4094,Mt Diablo Blvd + Brown Ave,37.893662,-122.109975,1193,2
+4095,Mt Diablo Blvd + First St,37.892402,-122.116810,1195,2
+4097,Mt Diablo Blvd + Golden Gate Way,37.892063,-122.117823,1206,2
+4098,Mt Diablo Blvd + First St,37.892338,-122.115837,1213,2
+4099,Mt Diablo Blvd + Second St,37.892695,-122.113233,1207,2
+4100,Mt Diablo Blvd + Golden Gate Way,37.893037,-122.111387,1208,2
+4101,Mt Diablo Blvd + Willow Dr,37.894245,-122.107870,1209,2
+4102,Mt Diablo Blvd + Hampton Dr,37.894805,-122.106300,1210,2
+4103,Mt Diablo Blvd + Carol Ln,37.895902,-122.103200,1211,2
+4104,Mt Diablo Blvd + Mt Diablo Ct,37.896570,-122.097935,1212,2
+4105,Acalanes Ave + Nogales St,37.901283,-122.094320,1164,2
+4108,St Mary's Rd + Acampo Dr,37.884550,-122.113948,1222,2
+4109,St Mary's Rd + Hope Ln,37.883370,-122.109915,1223,2
+4110,St Mary's Rd + Glenside Dr,37.881152,-122.103915,1224,2
+4111,St Mary's Rd + Saint Mary's Ballfields,37.876797,-122.100538,1225,2
+4112,St Mary's Rd + Woodview Dr,37.871322,-122.098492,1226,2
+4114,St Mary's Rd + Driftwood Dr,37.857327,-122.102048,1229,2
+4115,St Mary's Rd + Cattle Chute Rd,37.854227,-122.103697,1230,2
+4127,Happy Valley Rd + Rose Ln,37.900988,-122.133380,1175,2
+4128,Happy Valley Rd + Franklin Ln,37.902257,-122.136480,1176,2
+4129,Happy Valley Rd + Panorama Dr,37.905395,-122.142460,1177,2
+4131,El Nido Ranch Rd + Lizann Dr,37.893883,-122.162110,1171,2
+4132,Hidden Valley Rd + Blackthorn Dr,37.892390,-122.163640,1180,2
+4133,Hidden Valley Rd + Crest Rd,37.890507,-122.158117,1181,2
+4134,Acalanes Rd + Hidden Valley Rd,37.886803,-122.156010,1166,2
+4135,Acalanes Rd + Valente Dr,37.888193,-122.154620,1165,2
+4136,Mt Diablo Blvd + Acalanes Rd,37.889933,-122.153407,1197,2
+4137,Mt Diablo Blvd + Paulson Ct,37.889655,-122.149910,1198,2
+4138,Mt Diablo Blvd + Lafayette Reservoir Recreational Area,37.887990,-122.139440,1199,2
+4139,Mt Diablo Blvd + Village Center,37.888282,-122.134017,1200,2
+4140,Mt Diablo Blvd + Gallagher,37.889775,-122.130618,1201,2
+4141,Mt Diablo Blvd + Mountain View Dr,37.890848,-122.127082,1202,2
+4144,El Nido Ranch Rd + Upper Happy Valley Rd,37.893128,-122.152672,1169,2
+4145,Upper Happy Valley Rd + Los Arabis Dr,37.895640,-122.151083,1240,2
+4146,Upper Happy Valley Rd + S Peardale Dr,37.899050,-122.150825,1242,2
+4147,Upper Happy Valley Rd + Rahara Dr,37.901052,-122.150845,1241,2
+4148,Upper Happy Valley Rd + Canyon Rd,37.904398,-122.153010,1243,2
+4149,Upper Happy Valley Rd + Happy Valley Rd,37.906348,-122.152970,1244,2
+4150,Happy Valley Rd + Panorama Dr,37.905360,-122.142678,1178,2
+4151,Happy Valley Rd + Palo Alto Dr,37.902518,-122.137075,1172,2
+4152,Happy Valley Rd + Rose Ln,37.900583,-122.132665,1173,2
+4157,Stone Valley Rd + Alamo Ranch Rd,37.851867,-122.025475,1056,2
+4159,Stone Valley Rd + Stonecreek Pl,37.847075,-121.996000,1058,2
+4160,Stone Valley Rd + Monte Vista High,37.844627,-121.983762,1132,2
+4161,Green Valley Rd + Compo Via,37.842230,-121.978813,1111,2
+4162,Green Valley Rd + Donna Ln,37.839012,-121.978517,1112,2
+4163,Diablo Rd + Green Valley Rd,37.834955,-121.978715,1099,2
+4165,Diablo Rd + Arroyo Dr,37.825697,-121.987457,1101,2
+4166,Diablo Rd + El Pintado,37.823045,-121.997053,1103,2
+4168,Sycamore Valley Rd + Greenbrook Dr,37.812400,-121.975437,1134,2
+4169,Camino Tassajara + Sycamore Valley Rd,37.816052,-121.967708,1086,2
+417,Geary Rd + Hall Ln,37.926311,-122.067184,2017,
+4170,Camino Tassajara + Messian Pl,37.815047,-121.963417,1087,2
+4171,Camino Tassajara + Shady Creek Dr,37.811045,-121.955985,1088,2
+4172,Camino Tassajara + Sherburne Hills Dr,37.807327,-121.949468,1089,2
+4173,Camino Tassajara + Creekside Ave,37.804958,-121.944860,1090,2
+4174,Camino Tassajara + Wood Ranch Dr,37.800853,-121.932720,1098,2
+4175,Camino Tassajara + Tassajara Village,37.798833,-121.919805,1091,2
+4176,Tassajara Ranch Dr + Center Way,37.797337,-121.917302,1138,2
+4177,Tassajara Ranch Dr + Blackstone Dr,37.795385,-121.918653,1139,2
+4178,Tassajara Ranch Dr + Blackstone Dr,37.793160,-121.920740,1140,2
+418,Geary Rd + Pioneer Ave,37.926327,-122.064331,2018,
+4180,Crow Canyon Rd + Dougherty Rd,37.788535,-121.927355,1629,2
+4181,Crow Canyon Rd + Canyon Crest Dr,37.785912,-121.943408,1631,2
+4182,Crow Canyon Rd + Canyon Crest Dr,37.788375,-121.947085,1632,2
+4183,Annabel Ln + End,37.773467,-121.971363,1578,2
+4197,Crow Canyon Rd + Canyon Crest Dr,37.787875,-121.945793,1641,2
+4198,Crow Canyon Rd + Canyon Crest Dr,37.785013,-121.943012,1642,2
+4199,Crow Canyon Rd + Shoreline Dr,37.783178,-121.937925,1640,2
+4200,Crow Canyon Rd + Dougherty Rd,37.788980,-121.925945,1639,2
+4201,Tassajara Ranch Dr + Blackstone Dr,37.793155,-121.921157,1141,2
+4202,Tassajara Ranch Dr + Mountain Ridge Dr,37.795127,-121.918673,1142,2
+4203,Tassajara Ranch Dr + Zenith Ridge Dr,37.797078,-121.917402,1143,2
+4204,Camino Tassajara + Tassajara Ranch Dr,37.798918,-121.917818,1092,2
+4228,Montevideo Dr + Broadmoor Dr,37.752763,-121.949807,1654,2
+4229,Montevideo Dr +  Canal,37.753717,-121.947183,1655,2
+4230,Alcosta Blvd + Montevideo Dr,37.753983,-121.938680,1570,2
+4231,Alcosta Blvd + Canyon Hills Dr,37.759845,-121.944045,1572,2
+4232,Alcosta Blvd + Canyon Woods Dr,37.762797,-121.947522,1573,2
+4233,Alcosta Blvd + Overlook Dr,37.768428,-121.954693,1575,2
+4234,Alcosta Blvd + Woodland Dr,37.770923,-121.956680,1576,2
+4244,Chilpancingo Pkwy + Contra Costa Blvd,37.975263,-122.066107,1436,2
+4245,Contra Costa Blvd + Cottonwood Dr,37.973385,-122.064198,1449,2
+4246,Crescent Plz + Cleaveland Rd,37.945212,-122.063822,1464,2
+425,San Miguel Rd + Galloway Dr,37.958283,-122.027702,791,2
+4268,Kirker Pass Rd + Olive Dr,37.955105,-121.953642,649,2
+4269,Kirker Pass Rd + Clayton Rd,37.953373,-121.956005,650,2
+4288,Crescent Plz + Crescent Dr,37.945307,-122.062113,1462,2
+4289,Contra Costa Blvd + Firestone,37.970003,-122.063127,603,2
+4290,Contra Costa Blvd + Golf Club Rd,37.972355,-122.063663,1446,2
+4314,N Main St + Third Ave and San Luis Rd,37.918175,-122.065570,1836,2
+4318,Alhambra Ave + Walnut Ave,37.992402,-122.130777,1255,2
+4319,Alhambra Ave + G St,38.000213,-122.131830,1257,2
+432,Concord BART,37.973259,-122.029686,885,2
+4320,Alhambra Ave + C St,38.005045,-122.130997,1258,2
+4321,Alhambra Ave + Bertola St,38.007413,-122.130578,1259,2
+4322,Alhambra Ave + Allen Dr,38.009350,-122.131373,1260,2
+4323,Alhambra Ave + Jones St,38.012753,-122.134612,1261,2
+4324,Alhambra Ave + Mellus St,38.014435,-122.136222,1262,2
+4325,Alhambra Ave + Main St,38.016372,-122.138048,1263,2
+4329,Berrellesa St + Jones St,38.011885,-122.134950,1290,2
+4330,Berrellesa St + Robinson St,38.010040,-122.133202,1291,2
+4331,Berrellesa St + Soto St,38.008080,-122.131373,1292,2
+4332,Alhambra Ave + Contra Costa Regional Medical Center,38.005765,-122.131075,1264,2
+4337,Airport Plaza,37.979308,-122.054047,472,2
+4340,San Ramon Transit Center,37.770467,-121.960417,1700,2
+4345,Bishop Ranch 1,37.760938,-121.956760,1693,
+4346,Camino Ramon + Norris Canyon Rd,37.775473,-121.965702,1617,2
+4354,Fairview Dr + Potomac Ct,38.001410,-121.845102,437,2
+4355,Somersville Rd + Buchanan Rd,37.998402,-121.843888,433,2
+4356,Buchanan Rd + Mcfaul Dr,37.998042,-121.875360,430,2
+4357,Buchanan Rd + Suzanne Dr,37.998042,-121.880785,431,2
+4358,Buchanan Rd + Harbor Dr,37.998065,-121.887778,441,2
+4359,Kirker Pass Rd + Castlewood Dr,37.995852,-121.897553,442,2
+4360,Ygnacio Valley Rd + Michigan Blvd,37.947632,-121.963615,880,2
+4361,Mitchell Dr + N Wiget Ln,37.928995,-122.025535,1780,2
+4362,Ygnacio Valley Rd + Kinross Dr,37.913037,-122.044152,1937,2
+4373,Ygnacio Valley Rd + Michigan Blvd,37.947635,-121.963138,881,2
+4374,Kirker Pass Rd + Allegro Ave,37.953727,-121.954932,1959,2
+4376,Kirker Pass Rd + Castlewood Dr,37.995415,-121.897097,443,2
+4377,Buchanan Rd + Campbell Dr,37.997977,-121.886527,440,2
+4378,Buchanan Rd + Inverness Dr,37.997977,-121.881877,439,2
+4379,Buchanan Rd + Loveridge Rd,37.997965,-121.872937,438,2
+4380,Buchanan Rd + Somersville Rd,37.997938,-121.846273,432,2
+4381,Fairview Dr + Potomac Ct,38.001632,-121.844763,436,2
+4384,Chevron San Ramon,37.759638,-121.959482,1692,
+4385,Bishop Ranch 3,37.767493,-121.958092,1694,
+4386,Bishop Ranch 6,37.772100,-121.964410,1615,
+4387,Norris Canyon Rd + Iron Horse Trail,37.775163,-121.963317,1659,2
+4388,Norris Canyon Rd + Camino Ramon,37.774372,-121.965323,1660,2
+4389,Bishop Ranch 8,37.768118,-121.968502,1553,2
+4417,Crow Canyon Pl + Crow Canyon Rd,37.779412,-121.972277,1621,
+442,Monument Blvd + Victory Ln,37.950760,-122.047279,713,2
+4448,Alhambra Ave + Franklin Canyon Rd,37.989077,-122.129287,1269,2
+4449,Alhambra Ave + Alhambra Valley Rd,37.983955,-122.126228,2099,2
+4450,Alhambra Ave + Forest Way,37.982012,-122.115420,1271,2
+4451,Alhambra Ave + Lindsey Dr,37.975582,-122.109300,1272,2
+4452,Alhambra Ave + Wildcroft Dr,37.970552,-122.105207,1273,2
+4453,Alhambra Ave + Glenview Dr,37.969332,-122.101552,1274,2
+4454,Alhambra Ave + Benham Dr,37.965815,-122.098352,1275,2
+4455,Alhambra Ave + Starbucks,37.959322,-122.093763,1277,2
+4456,Alhambra Ave + Devon Ave,37.955527,-122.090247,1278,2
+4458,Gregory Ln + Pleasant Hill Rd,37.947830,-122.081683,1481,2
+4459,Gregory Ln + Brandon Rd,37.947862,-122.077213,1482,2
+4460,Gregory Ln + Rolling Green  Cir,37.947862,-122.075087,1483,2
+4461,Gregory Ln + Kahrs Ave,37.947902,-122.072822,1484,2
+4462,Gregory Ln + Price Ln,37.947953,-122.070657,1485,2
+4463,Gregory Ln + Moiso Ln,37.947917,-122.066842,1486,2
+4464,Cleaveland Rd + Trelany Rd,37.946880,-122.064298,1441,2
+4465,Crescent Plz + Crescent Dr,37.945192,-122.061477,1465,2
+4466,Monument Blvd + Contra Costa Blvd,37.945252,-122.059530,1473,2
+4468,Buskirk Ave + Mayhew Way,37.936958,-122.059868,1434,2
+4471,Buskirk Ave + Mayhew Way,37.936513,-122.059748,1429,2
+4473,Buskirk Ave + Lamkin Ln,37.944612,-122.055517,1431,2
+4474,Gregory Ln + Kahrs Ave,37.948013,-122.073875,1478,2
+4475,Gregory Ln + Helen Rd and Brandon Rd,37.947997,-122.076200,1479,2
+4476,Gregory Ln + Brandon Rd,37.947973,-122.078325,1480,2
+4478,Pleasant Hill Rd + Mercury Way,37.951278,-122.083868,1525,2
+4481,Pleasant Hill Rd + Devon Ave,37.956127,-122.090703,1528,2
+4482,Pleasant Hill Rd + Paso Nogal,37.957275,-122.091875,1529,2
+4483,Alhambra Ave + Rockridge Dr,37.959997,-122.094080,1421,2
+4484,Alhambra Ave + Shetland Dr,37.964455,-122.097280,1422,2
+4485,Alhambra Ave + Heritage Oaks Dr,37.967862,-122.099643,1424,2
+4486,Alhambra Ave + Elderwood Dr,37.969837,-122.102247,1423,2
+4487,Alhambra Ave + Wildcroft Dr,37.971103,-122.105683,1250,2
+4488,Alhambra Ave + Macalvey Dr,37.975148,-122.108663,1251,2
+4489,Alhambra Ave + John Muir Rd,37.982985,-122.116552,1252,2
+4490,Alhambra Ave + Phylis Ter,37.983458,-122.124400,1253,2
+4491,Alhambra Ave + Alhambra Way,37.986950,-122.128135,1254,2
+4493,N Main St + San Luis Rd,37.917575,-122.065610,1827,2
+4494,N Main St + Auto Center Dr,37.922378,-122.063920,1829,2
+4498,N Main St + Lesnick Ln,37.923782,-122.063643,1833,2
+4499,N Main St + Second Ave,37.921552,-122.064418,1834,2
+4507,Michigan Blvd + Ygnacio Valley Rd,37.947337,-121.963198,688,2
+4510,Pacheco Blvd + Contra Costa Health Services Discovery House,38.003690,-122.085080,1021,2
+4511,Pacheco Blvd + Arthur Rd,38.006878,-122.091280,1022,2
+4512,Pacheco Blvd + Camino Del Sol,38.008367,-122.095412,1023,2
+452,Mohr Ln + Wicket Ct,37.941589,-122.045120,703,2
+4536,San Ramon Transit Center,37.770475,-121.960257,1696,2
+4543,Diablo Rd + El Cerro Blvd,37.829455,-121.987457,1100,2
+4547,Upper Happy Valley Rd + Oleander Dr,37.903035,-122.153128,1245,2
+4549,Via Las Cruces + Honey Hill Rd,37.899793,-122.170275,1417,2
+455,Mohr Ln + Del Rio Cir,37.946182,-122.048065,706,2
+4551,Morello Ave + Arnold Dr,37.994655,-122.100478,1312,2
+4554,Berrellesa St + Mellus St,38.013882,-122.136897,1289,2
+4555,N California Blvd + California Plaza,37.908458,-122.065908,1813,2
+4558,Gregory Ln + Cleaveland Rd,37.948008,-122.064657,1475,2
+456,Mohr Ln + Monument Blvd,37.947506,-122.050514,707,2
+4560,Willow Pass Rd + Esperanza Dr,37.980752,-122.021185,863,2
+4563,Detroit Ave + Lynn Ave,37.965623,-122.038450,622,2
+4564,Oak Grove Rd + Monument Blvd,37.956242,-122.038708,744,2
+4568,Clayton Rd + Lydia Ln,37.946375,-121.947085,445,2
+4569,Clayton Rd + Adelaide St,37.971810,-122.041013,567,2
+4594,Parkside Dr + Willow Pass Rd,37.980628,-122.025058,764,2
+46,S Broadway + Newell Ave,37.894184,-122.055443,1882,2
+4663,Marchbanks Dr + Ygnacio Valley Rd,37.911872,-122.046775,2004,
+4664,Pennsylvania Blvd + Michigan Blvd,37.944377,-121.954615,769,2
+4667,Stone Valley Rd + Miranda Ave,37.852192,-122.016018,1057,2
+4669,Arnold Industrial Way + Laura Alice Way,38.003118,-122.047390,483,2
+4672,Bollinger Canyon Rd + Dougherty Rd,37.749720,-121.913448,2029,2
+4673,Bollinger Canyon Rd + E Branch Pkwy,37.753865,-121.908620,2030,2
+4674,Bollinger Canyon Rd + Harcourt Way,37.759737,-121.904905,2031,2
+4675,Bollinger Canyon Rd + Windemere Pkwy,37.763803,-121.903872,2002,2
+4676,Bollinger Canyon Rd + Albion Rd,37.767140,-121.905500,2032,2
+4677,Bollinger Canyon Rd + Bluehart Way,37.770240,-121.909355,2033,2
+4678,Bollinger Canyon Rd + Monarch Rd,37.771733,-121.912215,2034,2
+4679,Bollinger Canyon Rd + Briar Oaks Dr,37.773868,-121.918713,2035,2
+4680,Bollinger Canyon Rd + N Wedgewood Rd,37.773857,-121.922368,2036,2
+4681,Bollinger Canyon Rd + Gale Ridge Rd,37.772393,-121.932342,2037,2
+4682,Bollinger Canyon Rd + Chanterella Dr,37.772178,-121.940170,2038,2
+4683,Bollinger Canyon Rd + Canyon Lakes Dr,37.771598,-121.945653,2039,2
+4684,Bollinger Canyon Rd + Alcosta Blvd,37.765590,-121.952488,2003,2
+4690,Bollinger Canyon Rd + Market Pl,37.764637,-121.953403,2000,2
+4691,Bollinger Canyon Rd + Canyon View Cir,37.771468,-121.945098,2040,2
+4692,Bollinger Canyon Rd + Chanterella Dr,37.771802,-121.938680,2041,2
+4693,Bollinger Canyon Rd + Gale Ridge Rd,37.772298,-121.930792,2042,2
+4694,Bollinger Canyon Rd + S Wedgewood Rd,37.773403,-121.920700,2043,2
+4695,Bollinger Canyon Rd + Stoneleaf Rd,37.773088,-121.917520,2044,2
+4696,Bollinger Canyon Rd + S Monarch Rd,37.770685,-121.911402,2045,2
+4697,Bollinger Canyon Rd + Main Branch Rd,37.769218,-121.908698,2046,2
+4698,Bollinger Canyon Rd + Albion Rd,37.765957,-121.905023,2047,2
+4699,Bollinger Canyon Rd + Windemere Pkwy,37.762642,-121.904348,2001,2
+4700,Bollinger Canyon Rd + Harcourt Way,37.758823,-121.905858,2048,2
+4701,Bollinger Canyon Rd + Watermill Rd,37.754413,-121.908680,2049,2
+4702,Dougherty Rd So + Dougherty Rd  No,37.749163,-121.914442,2050,2
+4705,Buchanan Rd + Ventura Dr,37.997922,-121.867313,2024,2
+4706,Buchanan Rd + Ventura Dr,37.998045,-121.868982,2025,2
+4718,Olivera Rd + Terraza Del Sol and Peralta Rd,37.998487,-122.046118,2023,2
+4719,Olivera Rd + Hillsborough Dr,37.996785,-122.036800,749,2
+4720,Olivera Rd + Northwood Dr,37.997905,-122.042343,750,2
+476,North Concord Martinez BART,38.002251,-122.024201,897,2
+477,Port Chicago Hwy + Panoramic Dr,38.004295,-122.024292,781,2
+4780,Dublin Pleasanton BART,37.702902,-121.899440,1160,2
+4781,Dougherty Rd + Iron Horse Trail Apts,37.708752,-121.910170,2056,2
+4785,Orinda Way + Orinda Library,37.881370,-122.186587,1406,2
+4787,Dougherty Rd + Park Sierra,37.711772,-121.910388,2057,2
+4788,Dougherty Rd + Sierra Ln,37.705973,-121.910090,2028,2
+4789,Berrellesa St + Marina Vista Ave and Escobar St,38.016708,-122.139658,2067,2
+479,Olivera Rd + Welch Ct,37.995678,-122.032181,747,2
+480,Olivera Rd + Thunderbird Dr,37.996086,-122.034187,748,2
+4802,Clayton Rd + Sutter St,37.973173,-122.037853,2068,2
+4806,Camino Ramon + Rose Garden,37.809412,-121.991073,2069,2
+4812,Dougherty Rd + Monarch Rd,37.778382,-121.922727,2080,2
+4813,Dougherty Rd + Red Willow Rd,37.787422,-121.925508,2077,2
+4814,Dougherty Rd + Red Willow Rd,37.786500,-121.925328,2076,2
+4831,Trinity Ave + St Pauls Episcopal Church,37.901410,-122.068352,2084,2
+4832,Trinity Ave + St Pauls Episcopal Church,37.901342,-122.068073,2085,2
+4838,Bollinger Canyon Rd + Bishop Ranch 1,37.762607,-121.956622,2082,2
+484,Olivera Rd + Peralta Rd,37.998646,-122.047363,752,2
+4846,Montego + Satellite Senior Homes,37.910732,-122.041588,1786,2
+4847,John Muir Medical Center Walnut Creek,37.912265,-122.040377,2087,2
+4851,Montego + Tampico,37.910320,-122.043060,1788,2
+4853,Delta Fair Blvd + Somersville Towne Center,38.003773,-121.842042,434,2
+486,Solano Way + Marsh Dr,37.998768,-122.053108,795,2
+4862,Danville Blvd + Railroad Ave,37.825172,-122.003640,960,2
+4868,Alberta Way + Skyler Ct,37.949038,-121.967588,2093,
+4871,Dublin Blvd + Scarlett Ct,37.705680,-121.907090,2092,2
+4878,Coggins Dr + Buskirk Ave,37.933358,-122.058715,2086,2
+4879,Danville Blvd + La Serena Ave,37.844185,-122.027702,967,2
+4891,Geary Rd + Buena Vista Ave,37.926273,-122.072822,2015,
+49,Creekside Dr + The Retreat,37.886177,-122.052635,1739,2
+4901,Mt Diablo Blvd + Lafayette Cemetery,37.896728,-122.100220,2101,2
+4908,Pike Ln + Arnold Industrial Way,38.009500,-122.030702,2022,2
+4911,Windemere Pkwy + Harcourt Way,37.762725,-121.895188,2109,2
+4912,Windemere Pkwy + Bethany Rd,37.760477,-121.887420,2110,2
+4913,Windemere Pkwy + Bethany Rd,37.757433,-121.887043,2111,2
+4914,E Branch Pkwy + Windemere Pkwy,37.749212,-121.890420,2112,2
+4915,E Branch Pkwy + Sherwood Way,37.751433,-121.897970,2113,2
+4916,E Branch Pkwy + Windemere Ranch School,37.753415,-121.905302,2114,2
+4917,E Branch Pkwy + Windemere Ranch School,37.753463,-121.905003,2103,2
+4918,E Branch Pkwy + Sherwood Way,37.751297,-121.898050,2104,2
+4919,Windemere Pkwy + E Branch Pkwy,37.749633,-121.889605,2105,2
+4920,Windemere Pkwy + Longleaf Cir,37.758088,-121.886268,2106,2
+4921,Windemere Pkwy + Albion Rd,37.761192,-121.888275,2107,2
+4922,Windemere Pkwy + Harcourt Way,37.762777,-121.894115,2108,2
+4924,Diamond Blvd + Willow Way,37.970988,-122.055635,2010,2
+4925,Crow Canyon Pl + Fostoria Way,37.779618,-121.972893,2021,
+4930,Diamond Blvd + The Veranda,37.973268,-122.057463,2009,2
+4931,Diamond Blvd + Hilton Concord,37.970567,-122.054960,2011,2
+4932,Diamond Blvd + Golden Corral,37.973850,-122.057702,2012,2
+4935,Ygnacio Valley Rd + N Via Monte,37.925875,-122.018880,2019,
+4937,Ygnacio Valley Rd + Via Monte,37.925525,-122.018958,2020,
+497,Grant St + Pacheco St,37.978775,-122.034264,637,2
+4975,Pacheco Blvd + Morello Ave,38.010272,-122.100915,1012,2
+4993,Ygnacio Valley Rd + Diablo Creek Dentistry,37.921290,-122.032787,2141,2
+4994,Ygnacio Valley Rd + Walnut Blvd,37.908013,-122.055477,2143,2
+4995,Parkside Dr + N Civic Dr and Pimlico Dr,37.911845,-122.060643,2122,2
+4996,Parkside Dr + N Broadway,37.911793,-122.062470,2121,2
+4998,Moraga Rd + Ascot Dr,37.854910,-122.125015,1351,2
+50,Creekside Dr + Near Ct,37.883800,-122.050911,1740,2
+5000,Tampico + Ygnacio Valley Rd,37.911133,-122.045722,2142,
+5002,Geary Rd + Lexington Pl,37.926325,-122.071053,2124,
+5003,N Main St + Parkside Dr,37.912402,-122.065332,2119,2
+5006,Monument Blvd + Detroit Ave,37.959925,-122.034098,2116,2
+5008,Gregory Ln + Moiso Ln,37.948068,-122.066922,1476,2
+5009,Monument Blvd + Walters Way,37.963358,-122.031773,2115,2
+5010,Monument Blvd + Detroit Ave,37.959577,-122.034218,2117,2
+5011,Monument Blvd + Monument Ct and Systron Dr,37.963088,-122.031615,2118,2
+5013,Pacheco Blvd + Blum Rd,37.994540,-122.074432,2127,2
+5014,Pacheco Blvd + Little Valley Rd,38.002903,-122.082458,2125,2
+5015,Pacheco Blvd + Hwy 4 West Entrance,37.993558,-122.074173,2126,2
+5017,Dublin Blvd + Dougherty Rd,37.704463,-121.910865,2133,
+5018,Buchanan Rd + Meadows Ave,37.997913,-121.863002,2131,2
+5019,Buchanan Rd + Meadows Ave,37.998073,-121.864552,2132,2
+5020,Dublin Pleasanton BART,37.703045,-121.899818,2140,2
+5030,Cleaveland Rd + W Hookston Rd,37.940742,-122.063920,1967,2
+5033,Concord BART,37.974300,-122.029210,894,2
+5034,Concord BART,37.974560,-122.029210,895,2
+5038,Moraga Rd + Rheem Blvd,37.861077,-122.125075,2144,2
+5039,Camino Tassajara + Jasmine Way,37.799588,-121.903037,2146,2
+5040,Camino Tassajara + Lawrence Rd,37.799605,-121.898168,2147,2
+5041,Camino Tassajara + Monterosso St,37.799533,-121.892248,2148,2
+5042,Camino Tassajara + Creekview Pl,37.798770,-121.888037,2149,2
+5043,Camino Tassajara + Charbray St,37.799247,-121.881420,2145,2
+5044,Lusitano St + Charbray St,37.795310,-121.882493,2152,2
+5045,Camino Tassajara + Blackhawk Dr,37.799482,-121.882692,2153,2
+5046,Camino Tassajara + Knollview Dr,37.799220,-121.888970,2154,2
+5047,Camino Tassajara + Shadow Creek Dr,37.799812,-121.893460,2155,2
+5048,Camino Tassajara + Oak Gate Dr,37.799860,-121.899440,2156,2
+5058,Pleasant Hill BART,37.928720,-122.055218,2138,2
+5061,Pleasant Hill BART,37.928255,-122.055835,2135,2
+5062,Pleasant Hill BART,37.928462,-122.055715,1073,2
+5063,Pleasant Hill BART,37.928582,-122.055417,2137,2
+5064,Pleasant Hill BART,37.928622,-122.055477,1072,2
+5065,Pleasant Hill BART,37.928375,-122.055617,2136,2
+5066,Dublin Pleasanton BART Unloading,37.701623,-121.898030,2158,2
+5068,Ellinwood Way + Contra Costa Employment Human Services,37.959333,-122.053788,1420,2
+5070,Arnold Industrial Way + Lowes Home Improvement,38.004272,-122.041987,2159,2
+5072,Montego + Ygnacio Valley Rd,37.908590,-122.049557,2083,2
+5075,Diablo Valley College,37.970583,-122.068987,2170,2
+5079,Diablo Valley College,37.970702,-122.069107,2166,2
+5080,Diablo Valley College,37.970908,-122.068987,2172,2
+5082,Diablo Valley College,37.971055,-122.069027,2173,2
+5087,Walnut Blvd + Scots Ln,37.892947,-122.035847,2175,2
+5090,Diablo Valley College,37.970403,-122.068987,2169,2
+5092,Diablo Valley College,37.970440,-122.069187,2168,2
+5093,Diablo Valley College,37.970742,-122.068967,2171,2
+5094,Monument Blvd + Studio 6 Concord,37.950898,-122.046635,2176,2
+5095,Dublin Blvd + Sierra Ct,37.704873,-121.916905,1145,
+5097,Olympic Blvd + Panoramic Way,37.885193,-122.077073,2177,
+5098,Olympic Blvd + Crawford Ct,37.887757,-122.071768,2179,
+5099,Olympic Blvd + Pleasant Hill Rd,37.886060,-122.092273,1215,
+5100,Olympic Blvd + Bridgefield Rd,37.884370,-122.083630,1002,
+5101,Pleasant Hill Rd + Condit Rd,37.891928,-122.094320,1220,
+5103,Olympic Blvd + Newell Ave,37.888130,-122.071312,2180,
+5104,Olympic Blvd + Boulevard Way,37.884745,-122.078365,2178,
+5109,John Muir Medical Center Walnut Creek,37.912608,-122.041728,2181,2
+5114,San Ramon Valley Blvd + Valley Vista Senior Housing,37.734037,-121.949112,2184,
+5115,Dougherty Rd + Old Ranch Rd,37.739893,-121.913745,2162,2
+5116,Dougherty Rd + Old Ranch Rd,37.739957,-121.914043,2161,2
+5117,Tahiti Dr + Bahama Ct and Barbados Dr,37.782232,-121.957615,2185,2
+5119,Landana Dr + Mulberry Dr,37.978722,-121.994192,2187,2
+5120,Pleasanton Ace Train Station,37.659113,-121.882373,2094,2
+5122,Dougherty Rd + Mariposa Cir,37.714712,-121.910368,2189,2
+5123,Oakland Blvd + Trinity Ave,37.901180,-122.069285,2188,2
+5124,Willow Pass Rd + East Olivera Rd,37.983609,-122.015209,872,2
+5125,Willow Pass Rd + N Sixth St,37.981999,-122.018649,873,2
+5126,N Civic Dr + Brio Dr,37.908897,-122.058457,2191,2
+5128,Oak Rd + I 680 NB On Ramp,37.931665,-122.058993,1509,2
+5129,Crow Canyon Rd + Crow Canyon Pl,37.779108,-121.970728,1635,2
+5130,N Wiget Ln + Mitchell Dr,37.927882,-122.026172,1842,2
+5131,Crow Canyon Rd + Crow Canyon Pl,37.778577,-121.970967,1636,2
+5132,Camino Ramon + Bishop Ranch 7,37.771455,-121.962760,1616,2
+5134,Miner Rd + Gardiner Ct,37.903526,-122.173289,2192,2
+5143,Shadelands Dr + Lennon Ln,37.925662,-122.027502,2196,2
+5144,Newell Ave + S Broadway,37.893590,-122.054443,2194,
+5145,N Via Monte + Ygnacio Valley Rd and Shadelands Dr,37.927167,-122.019257,2195,2
+5146,Oak Grove Rd + Peach Willow Ln,37.932610,-122.019317,2197,2
+5147,Treat Blvd + Oak Grove Plaza Driveway,37.937888,-122.026827,2198,2
+5151,Oak Grove Rd + Mitchell Dr,37.932535,-122.019437,2209,2
+5152,Buskirk Ave + Generations Church Of Pleasant Hill,37.939307,-122.059212,2210,2
+5154,Walnut Creek BART,37.906007,-122.067040,1941,
+5156,San Ramon Valley Blvd + Hooper Dr,37.784938,-121.980145,1674,2
+5158,Estudillo St + Victory Ct,38.001401,-122.128610,2214,2
+5159,Vista Way + Pine St,37.999490,-122.122888,2215,2
+516,North Concord Martinez BART,38.002411,-122.024216,896,2
+5160,Pine St + Sentinel Dr,37.997250,-122.122565,2216,2
+5161,Arnold Dr + Morello Ave,37.993992,-122.102783,2217,
+5162,Arnold Dr + Walmart,37.996047,-122.109857,2218,
+5163,Arnold Dr + Ex Thera Medial Corporation Inc,37.997028,-122.116373,2219,
+5164,Howe Rd + Pine St,37.996725,-122.120823,2220,
+5165,Pine St + Sentinel Dr,37.997580,-122.122592,2221,2
+5166,Vista Way + Pine St,37.999535,-122.122870,2222,2
+5167,Green St + Las Juntas St,38.017002,-122.134115,2223,
+5168,Railroad Ave + Church St,37.820200,-121.999040,2224,2
+5169,Antioch BART,37.995637,-121.778125,2193,2
+5170,Delta Fair Blvd + Kaiser Delta Fair Medical Offices,38.004128,-121.842777,435,2
+5172,Orindawoods Dr + Woodhall-Orindawoods Clubhouse,37.888997,-122.180050,2229,2
+5173,Broadway Plz + Fountain,37.896613,-122.058715,1719,2
+5175,Boulevard Way + Iris Ln,37.891761,-122.079155,902,2
+5176,Moraga Rd + Kendall Cir,37.857716,-122.124140,1343,2
+5177,Buskirk Ave + The Crossroads,37.941186,-122.058728,1433,2
+5180,Golf Club Rd + College Dr,37.971621,-122.065481,1467,2
+5181,N California Blvd + Bonanza St,37.899880,-122.063622,1810,2
+5182,Lafayette BART,37.893571,-122.125128,1162,2
+5185,Old Orchard Rd + Arnold Dr,37.996640,-122.110608,2074,2
+5190,Pacheco Transit Center,37.995229,-122.073488,2212,2
+5192,Ygnacio Valley Rd + Marchbanks Dr,37.911325,-122.046674,2095,2
+5194,Danville Park and Ride,37.811989,-121.991816,1075,2
+5213,Bates Ave + Commercial Cir,38.014259,-122.031516,2251,2
+5216,Dougherty Rd + Camp Parks Blvd,37.715729,-121.910086,2235,2
+5217,Sunset Dr + Bishop Dr,37.763086,-121.960857,2026,2
+5219,Walnut Creek BART,37.905800,-122.068000,2247,2
+5221,N Civic Dr + Brio Dr,37.908441,-122.058496,2190,2
+5228,Arnold Industrial Way + Concord Adult Homeless Shelter,38.006900,-122.037200,484,2
+5229,Arnold Industrial Way + Industrial Way,38.008766,-122.032547,480,2
+5232,Pleasant Hill BART,37.928780,-122.055218,1071,2
+5240,East St + Sunset Ave,37.976750,-122.029610,627,2
+5241,Sunset Dr + Bishop Dr,37.763128,-121.961137,1681,2
+5275,Walnut Creek BART,37.905340,-122.068250,2239,2
+5276,Walnut Creek BART,37.905560,-122.068110,2241,2
+5277,Walnut Creek BART,37.905620,-122.068290,2242,2
+5278,Walnut Creek BART,37.905690,-122.068460,2243,2
+5279,Walnut Creek BART,37.905750,-122.068650,2244,2
+5280,Walnut Creek BART,37.905690,-122.068030,2246,2
+5282,Walnut Creek BART,37.905820,-122.068400,2248,2
+5283,Walnut Creek BART,37.905880,-122.068580,2249,2
+5284,Walnut Creek BART,37.905940,-122.068750,2250,2
+5288,Bishop Ranch 1,37.760090,-121.955590,2257,2
+5289,N Main St + N Main Pet Lodge,37.925030,-122.062900,1831,2
+5290,San Ramon Transit Center,37.770490,-121.960340,1695,2
+5291,Rossmoor Shopping Center,37.878198,-122.072783,2261,2
+53,Lilac Dr + Lancaster Rd,37.890118,-122.060646,1752,2
+5374,Concord Blvd + Mira Vista Ter,37.973934,-122.036734,572,2
+5375,Tice Valley Blvd + Chives Way,37.876164,-122.068633,2265,2
+5376,S Main St + Newell Ave,37.893599,-122.058271,1826,2
+5377,Oak Park Blvd + Monticello Ave,37.933539,-122.067179,2283,2
+5379,Grant St + Clayton Rd,37.975582,-122.031700,2284,2
+5380,Martinez Amtrak Unloading,38.019091,-122.139522,2285,2
+5381,Arnold Industrial Way + Peralta Rd,38.002870,-122.047414,481,2
+56,Moraga Rd + Mt Diablo Blvd,37.891121,-122.118729,1185,2
+564,Diamond Blvd + Galaxy Way,37.974381,-122.058395,2008,2
+570,Old Quarry Rd + Camelback Rd,37.972450,-122.069008,1512,
+578,Glacier Dr + Muir Rd,37.990604,-122.086990,2070,2
+587,Pacheco Blvd + Morello Ave,38.010982,-122.102280,1024,2
+588,Pacheco Blvd + Refinery Rd,38.012127,-122.105263,1025,2
+589,Pacheco Blvd + Howe Rd,38.012428,-122.111336,1026,2
+590,Pacheco Blvd + Shell Ave,38.012962,-122.118263,1027,2
+593,Pine St + Susana St,38.015736,-122.130630,1030,2
+594,Court St + Green St,38.017246,-122.133156,1031,2
+597,Escobar St + Castro St,38.017139,-122.138420,1034,2
+6,N California Blvd + Lacassie Ave,37.903523,-122.065292,1812,2
+630,John Glenn Dr + Concord Ave,37.979549,-122.055160,645,2
+639,Walnut Creek BART,37.905384,-122.067184,1949,
+640,N California Blvd + Cole Ave,37.902493,-122.064949,1805,2
+641,N California Blvd + Trinity Ave,37.901203,-122.064491,1806,2
+642,N California Blvd + Bonanza St,37.898975,-122.063599,1807,2
+656,Danville Blvd + Las Trampas Rd,37.847790,-122.031242,953,2
+657,Danville Blvd + Alamo Womens Club,37.845207,-122.028938,955,2
+658,Danville Blvd + La Serena Ave,37.843906,-122.027588,954,2
+66,Moraga Rd + Devin Dr,37.850704,-122.125465,1352,2
+67,Moraga Rd + Corliss Dr,37.846920,-122.126167,1353,2
+68,Moraga Rd + Alta Mesa Dr,37.837761,-122.126053,1354,2
+685,San Ramon Transit Center,37.770443,-121.960319,1697,2
+69,Moraga Rd + Moraga Way,37.834519,-122.127174,1355,2
+696,Bollinger Canyon Rd + Norris Canyon Rd,37.763477,-121.982750,1585,2
+716,Village Pkwy + Tamarack Dr,37.714516,-121.927162,1152,2
+717,Village Pkwy + Amador Valley Blvd,37.709717,-121.926857,1153,2
+72,Moraga Way + Hardie Dr,37.841278,-122.142326,1358,2
+721,Dublin Pleasanton BART,37.703056,-121.899712,1159,
+727,Village Pkwy + Tamarack Dr,37.715187,-121.926895,1155,
+731,Alcosta Blvd + Belle Meade Dr,37.728500,-121.933945,1562,
+773,San Ramon Valley Blvd + Bank of America,37.815338,-121.996353,1130,2
+783,Danville Blvd + Camille Ave,37.837894,-122.021080,965,2
+795,Alcosta Blvd + Fircrest Ln,37.731640,-121.928108,1561,
+8,Locust St + Civic Dr,37.900192,-122.062607,1756,
+807,Concord BART,37.974697,-122.028976,891,
+818,Treat Blvd + Pembroke Dr,37.957951,-121.998261,839,2
+83,Moraga Way + Glorietta Blvd,37.862404,-122.168823,1402,2
+831,Cal State East Bay,37.944817,-121.978050,475,
+845,Concord Blvd + Denkinger Rd,37.974815,-121.982834,586,
+848,Concord Blvd + West St,37.977169,-121.990669,589,2
+860,Concord BART,37.974155,-122.029290,893,2
+87,Orinda BART,37.877960,-122.184319,1366,2
+877,Ayers Rd + Concord Blvd,37.962769,-121.964867,489,
+878,Ayers Rd + Olive Dr,37.960842,-121.966263,490,
+915,Miner Rd + Camino Lenada,37.890499,-122.194107,1375,2
+929,Orindawoods Dr + Ironbark Cir,37.890141,-122.177773,1411,2
+950,Alhambra Ave + F St,38.000912,-122.131920,1265,2
+959,Concord BART,37.973847,-122.029373,892,2
+961,Willow Pass Rd + Waterworld Pkwy,37.969376,-122.051415,878,2
+964,Alhambra Ave + Fresh Start Cafe,37.995804,-122.132324,1256,2
+984,Ygnacio Valley Rd + N Civic Dr,37.907211,-122.057892,1939,2
+985,Walnut Creek BART,37.905319,-122.066536,1946,
