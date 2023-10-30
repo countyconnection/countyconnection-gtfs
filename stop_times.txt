@@ -1,4 +1,4 @@
-Trip Id,Arrival Time,Departure Time,Stop Id,Stop Sequence,Timepoint
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,timepoint
 545247,6:05:00,6:05:00,1778,1,1
 545247,,,1781,2,0
 545247,,,1845,3,0
