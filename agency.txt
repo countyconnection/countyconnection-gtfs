@@ -1,2 +1,2 @@
-agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-County Connection,http://www.countyconnection.com/,America/Los_Angeles,EN,925-676-7500
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+2,CCCTA,http://bustracker.cccta.org/bustime/home.jsp,America/Los_Angeles,EN,X,,

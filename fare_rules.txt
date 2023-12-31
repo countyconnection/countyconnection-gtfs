@@ -41,8 +41,6 @@ fare_id,route_id,origin_id,destination_id,contains_id
 1,635,,,
 1,636,,,
 2,7,,,
-1,712,,,
-1,715,,,
 1,9,,,
 1,91X,,,
 1,92X,,,

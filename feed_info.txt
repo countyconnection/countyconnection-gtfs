@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+CCCTA,http://bustracker.cccta.org/bustime/home.jsp,EN,20240114,20240608,S1000050
