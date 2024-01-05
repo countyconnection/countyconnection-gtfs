@@ -1389,7 +1389,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5063,2137,Pleasant Hill BART,,37.928582,-122.055417,,,0,S4,,1
 5064,1072,Pleasant Hill BART,,37.928622,-122.055477,,,0,S4,,1
 5065,2136,Pleasant Hill BART,,37.928375,-122.055617,,,0,S4,,1
-5066,2158,Dublin Pleasanton BART Unloading,,37.701623,-121.89803,,,0,,,1
+5066,2158,Dublin Pleasanton BART,,37.701623,-121.89803,,,0,S2,,1
 5068,1420,Ellinwood Way + Contra Costa Employment Human Services,,37.959333,-122.053788,,,0,,,1
 5072,2083,Montego + Ygnacio Valley Rd,,37.90859,-122.049557,,,0,,,1
 5075,2170,Diablo Valley College,,37.970583,-122.068987,,,0,S6,,1
@@ -1488,11 +1488,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5376,1826,S Main St + Newell Ave,,37.893599,-122.058271,,,0,,,1
 5377,2283,Oak Park Blvd + Monticello Ave,,37.933539,-122.067179,,,0,,,1
 5379,2284,Grant St + Clayton Rd,,37.975582,-122.0317,,,0,,,1
-5380,2285,Martinez Amtrak Unloading,,38.019091,-122.139522,,,0,S8,,1
+5380,2285,Martinez Amtrak,,38.019091,-122.139522,,,0,S8,,1
 5381,481,Arnold Industrial Way + Peralta Rd,,38.00287,-122.047414,,,0,,,0
 5384,2286,Camino Ramon + Bishop Dr,,37.764917,-121.958529,,,0,,,1
 5385,2287,Galindo St + Cowell Rd,,37.968896,-122.031856,,,0,,,1
-5386,2288,North Concord BART Unloading,,38.002858,-122.024113,,,0,,,1
+5386,2288,North Concord BART,,38.002858,-122.024113,,,0,,,1
 S1,S1,Concord BART,Concord BART,37.973646,-122.029524,,,1,,,1
 S2,S2,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702643,-121.899066,,,1,,,1
 S3,S3,North Concord Martinez BART,North Concord Martinez BART,38.002694,-122.024608,,,1,,,1
