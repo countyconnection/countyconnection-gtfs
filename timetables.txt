@@ -18,12 +18,12 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 17,11,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,11,1,Pleasant Hill BART,0
 18,14,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,14,0,Walnut Creek BART via Pleasant Hill BART,1
 19,14,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,14,1,Concord BART via Pleasant Hill BART,1
-20,15,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,15,0,Pleasant Hill BART,0
+20,15,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,15,0,,0
 21,15,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,15,1,,0
 22,16,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,16,0,Martinez Amtrak via Downtown Pleasant Hill,0
 23,16,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,16,1,Concord BART via Downtown Pleasant Hill,0
-24,17,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,17,0,North Concord BART John Muir Concord,0
-25,17,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,17,1,Concord BART John Muir Concord,0
+24,17,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,17,0,North Concord BART John Muir Concord,1
+25,17,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,17,1,Concord BART John Muir Concord,1
 26,18,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,18,0,Pleasant Hill BART,0
 27,18,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,18,1,,0
 28,19,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,19,0,,0
@@ -32,8 +32,8 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 31,20,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,20,1,,1
 32,21,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,21,0,San Ramon Transit Center,1
 33,21,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,21,1,,1
-34,28,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,28,0,,0
-35,28,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,28,1,,0
+34,28,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,28,0,,1
+35,28,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,28,1,,1
 36,35,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,35,0,Dublin BART Via Bollinger Canyon,0
 37,35,1,20241110,20250111,1,1,1,1,1,0,0,,,vertical,35,1,San Ramon Via Bollinger Canyon,0
 38,91X,0,20241110,20250111,1,1,1,1,1,0,0,,,vertical,91x,0,,0
