@@ -996,12 +996,12 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 562698,6,WKDY_WIN24,Orinda BART Via Saint Marys College,,1,61055,47086,1,1
 562699,6,WKDY_WIN24,Orinda BART Via Saint Marys College,,1,61055,47086,1,1
 562700,6,WKDY_WIN24,Orinda BART Via Saint Marys College,,1,61055,47086,1,1
-562701,6,WKDY_WIN24,Orinda BART Via Orinda Village,,1,61011,47087,1,1
-562702,6,WKDY_WIN24,Orinda BART Via Orinda Village,,1,61021,47087,1,1
-562703,6,WKDY_WIN24,Orinda BART Via Orinda Village,,1,61041,47087,1,1
-562704,6,WKDY_WIN24,Orinda BART Via Orinda Village,,1,61021,47087,1,1
-562705,6,WKDY_WIN24,Orinda BART Via Orinda Village,,1,61041,47087,1,1
-562706,6,WKDY_WIN24,Orinda BART Via Orinda Village,,1,61055,47087,1,1
+562701,6,WKDY_WIN24,Orinda BART Via Orinda Village,,0,61011,47087,1,1
+562702,6,WKDY_WIN24,Orinda BART Via Orinda Village,,0,61021,47087,1,1
+562703,6,WKDY_WIN24,Orinda BART Via Orinda Village,,0,61041,47087,1,1
+562704,6,WKDY_WIN24,Orinda BART Via Orinda Village,,0,61021,47087,1,1
+562705,6,WKDY_WIN24,Orinda BART Via Orinda Village,,0,61041,47087,1,1
+562706,6,WKDY_WIN24,Orinda BART Via Orinda Village,,0,61055,47087,1,1
 562707,6,WKDY_WIN24,Orinda BART Via Saint Marys College,,1,61011,47086,1,1
 562708,6,SAT_WIN24,Lafayette BART Via St Marys College,,0,62011,47085,1,1
 562709,6,SAT_WIN24,Lafayette BART Via St Marys College,,0,62011,47085,1,1

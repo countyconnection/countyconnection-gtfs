@@ -26304,6 +26304,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562524,20:02:46,20:02:46,2003,24,35 San Ramon TC Via Bollinger Canyon,0,0,0
 562524,20:04:37,20:04:37,2286,25,35 San Ramon TC Via Bollinger Canyon,0,0,0
 562524,20:07:00,20:07:00,2052,26,35 San Ramon TC Via Bollinger Canyon,1,0,1
+562525,6:52:00,6:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562525,6:55:41,6:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562525,6:56:12,6:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562525,6:56:48,6:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26322,6 +26323,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562525,7:11:11,7:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562525,7:12:19,7:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562525,7:15:00,7:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562526,7:12:00,7:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562526,7:15:41,7:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562526,7:16:12,7:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562526,7:16:48,7:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26340,6 +26342,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562526,7:31:11,7:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562526,7:32:19,7:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562526,7:35:00,7:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562527,7:32:00,7:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562527,7:35:41,7:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562527,7:36:12,7:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562527,7:36:48,7:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26358,6 +26361,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562527,7:51:11,7:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562527,7:52:19,7:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562527,7:55:00,7:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562528,7:52:00,7:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562528,7:55:41,7:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562528,7:56:12,7:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562528,7:56:48,7:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26376,6 +26380,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562528,8:11:11,8:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562528,8:12:19,8:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562528,8:15:00,8:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562529,8:12:00,8:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562529,8:15:41,8:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562529,8:16:12,8:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562529,8:16:48,8:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26394,6 +26399,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562529,8:31:11,8:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562529,8:32:19,8:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562529,8:35:00,8:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562530,8:32:00,8:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562530,8:35:41,8:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562530,8:36:12,8:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562530,8:36:48,8:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26412,6 +26418,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562530,8:51:11,8:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562530,8:52:19,8:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562530,8:55:00,8:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562531,8:52:00,8:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562531,8:55:41,8:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562531,8:56:12,8:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562531,8:56:48,8:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26430,6 +26437,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562531,9:11:11,9:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562531,9:12:19,9:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562531,9:15:00,9:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562532,9:12:00,9:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562532,9:15:41,9:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562532,9:16:12,9:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562532,9:16:48,9:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26448,6 +26456,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562532,9:31:11,9:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562532,9:32:19,9:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562532,9:35:00,9:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562533,9:32:00,9:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562533,9:35:41,9:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562533,9:36:12,9:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562533,9:36:48,9:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26466,6 +26475,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562533,9:51:11,9:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562533,9:52:19,9:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562533,9:55:00,9:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562534,9:52:00,9:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562534,9:55:41,9:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562534,9:56:12,9:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562534,9:56:48,9:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26484,6 +26494,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562534,10:11:11,10:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562534,10:12:19,10:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562534,10:15:00,10:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562535,10:12:00,10:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562535,10:15:41,10:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562535,10:16:12,10:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562535,10:16:48,10:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26502,6 +26513,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562535,10:31:11,10:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562535,10:32:19,10:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562535,10:35:00,10:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562536,10:32:00,10:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562536,10:35:41,10:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562536,10:36:12,10:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562536,10:36:48,10:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26520,6 +26532,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562536,10:51:11,10:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562536,10:52:19,10:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562536,10:55:00,10:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562537,10:52:00,10:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562537,10:55:41,10:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562537,10:56:12,10:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562537,10:56:48,10:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26538,6 +26551,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562537,11:11:11,11:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562537,11:12:19,11:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562537,11:15:00,11:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562538,11:12:00,11:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562538,11:15:41,11:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562538,11:16:12,11:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562538,11:16:48,11:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26556,6 +26570,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562538,11:31:11,11:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562538,11:32:19,11:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562538,11:35:00,11:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562539,11:32:00,11:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562539,11:35:41,11:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562539,11:36:12,11:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562539,11:36:48,11:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26574,6 +26589,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562539,11:51:11,11:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562539,11:52:19,11:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562539,11:55:00,11:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562540,11:52:00,11:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562540,11:55:41,11:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562540,11:56:12,11:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562540,11:56:48,11:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26592,6 +26608,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562540,12:11:11,12:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562540,12:12:19,12:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562540,12:15:00,12:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562541,12:12:00,12:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562541,12:15:41,12:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562541,12:16:12,12:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562541,12:16:48,12:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26610,6 +26627,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562541,12:31:11,12:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562541,12:32:19,12:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562541,12:35:00,12:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562542,12:32:00,12:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562542,12:35:41,12:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562542,12:36:12,12:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562542,12:36:48,12:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26628,6 +26646,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562542,12:51:11,12:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562542,12:52:19,12:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562542,12:55:00,12:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562543,12:52:00,12:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562543,12:55:41,12:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562543,12:56:12,12:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562543,12:56:48,12:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26646,6 +26665,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562543,13:11:11,13:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562543,13:12:19,13:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562543,13:15:00,13:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562544,13:12:00,13:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562544,13:15:41,13:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562544,13:16:12,13:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562544,13:16:48,13:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26664,6 +26684,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562544,13:31:11,13:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562544,13:32:19,13:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562544,13:35:00,13:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562545,13:32:00,13:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562545,13:35:41,13:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562545,13:36:12,13:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562545,13:36:48,13:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26682,6 +26703,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562545,13:51:11,13:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562545,13:52:19,13:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562545,13:55:00,13:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562546,13:52:00,13:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562546,13:55:41,13:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562546,13:56:12,13:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562546,13:56:48,13:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26700,6 +26722,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562546,14:11:11,14:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562546,14:12:19,14:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562546,14:15:00,14:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562547,14:12:00,14:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562547,14:15:41,14:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562547,14:16:12,14:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562547,14:16:48,14:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26718,6 +26741,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562547,14:31:11,14:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562547,14:32:19,14:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562547,14:35:00,14:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562548,14:32:00,14:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562548,14:35:41,14:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562548,14:36:12,14:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562548,14:36:48,14:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26736,6 +26760,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562548,14:51:11,14:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562548,14:52:19,14:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562548,14:55:00,14:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562549,14:52:00,14:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562549,14:55:41,14:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562549,14:56:12,14:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562549,14:56:48,14:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26754,6 +26779,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562549,15:11:11,15:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562549,15:12:19,15:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562549,15:15:00,15:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562550,15:12:00,15:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562550,15:15:41,15:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562550,15:16:12,15:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562550,15:16:48,15:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26772,6 +26798,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562550,15:31:11,15:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562550,15:32:19,15:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562550,15:35:00,15:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562551,15:32:00,15:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562551,15:35:41,15:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562551,15:36:12,15:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562551,15:36:48,15:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26790,6 +26817,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562551,15:51:11,15:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562551,15:52:19,15:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562551,15:55:00,15:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562552,15:52:00,15:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562552,15:55:41,15:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562552,15:56:12,15:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562552,15:56:48,15:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26808,6 +26836,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562552,16:11:11,16:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562552,16:12:19,16:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562552,16:15:00,16:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562553,16:12:00,16:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562553,16:15:41,16:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562553,16:16:12,16:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562553,16:16:48,16:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26826,6 +26855,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562553,16:31:11,16:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562553,16:32:19,16:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562553,16:35:00,16:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562554,16:32:00,16:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562554,16:35:41,16:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562554,16:36:12,16:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562554,16:36:48,16:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26844,6 +26874,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562554,16:51:11,16:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562554,16:52:19,16:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562554,16:55:00,16:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562555,16:52:00,16:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562555,16:55:41,16:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562555,16:56:12,16:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562555,16:56:48,16:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26862,6 +26893,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562555,17:11:11,17:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562555,17:12:19,17:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562555,17:15:00,17:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562556,17:12:00,17:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562556,17:15:41,17:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562556,17:16:12,17:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562556,17:16:48,17:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26880,6 +26912,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562556,17:31:11,17:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562556,17:32:19,17:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562556,17:35:00,17:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562557,17:32:00,17:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562557,17:35:41,17:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562557,17:36:12,17:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562557,17:36:48,17:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26898,6 +26931,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562557,17:51:11,17:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562557,17:52:19,17:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562557,17:55:00,17:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562558,17:52:00,17:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562558,17:55:41,17:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562558,17:56:12,17:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562558,17:56:48,17:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26916,6 +26950,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562558,18:11:11,18:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562558,18:12:19,18:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562558,18:15:00,18:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562559,18:12:00,18:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562559,18:15:41,18:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562559,18:16:12,18:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562559,18:16:48,18:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26934,6 +26969,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562559,18:31:11,18:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562559,18:32:19,18:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562559,18:35:00,18:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562560,18:32:00,18:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562560,18:35:41,18:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562560,18:36:12,18:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562560,18:36:48,18:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26952,6 +26988,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562560,18:51:11,18:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562560,18:52:19,18:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562560,18:55:00,18:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562561,18:52:00,18:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562561,18:55:41,18:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562561,18:56:12,18:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562561,18:56:48,18:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26970,6 +27007,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562561,19:11:11,19:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562561,19:12:19,19:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562561,19:15:00,19:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562562,19:12:00,19:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562562,19:15:41,19:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562562,19:16:12,19:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562562,19:16:48,19:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -26988,6 +27026,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562562,19:31:11,19:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562562,19:32:19,19:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562562,19:35:00,19:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562563,19:32:00,19:32:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562563,19:35:41,19:35:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562563,19:36:12,19:36:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562563,19:36:48,19:36:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27006,6 +27045,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562563,19:51:11,19:51:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562563,19:52:19,19:52:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562563,19:55:00,19:55:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562564,19:52:00,19:52:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562564,19:55:41,19:55:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562564,19:56:12,19:56:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562564,19:56:48,19:56:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27024,6 +27064,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562564,20:11:11,20:11:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562564,20:12:19,20:12:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562564,20:15:00,20:15:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562565,20:12:00,20:12:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562565,20:15:41,20:15:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562565,20:16:12,20:16:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562565,20:16:48,20:16:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27042,6 +27083,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562565,20:31:11,20:31:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562565,20:32:19,20:32:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562565,20:35:00,20:35:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562566,9:28:00,9:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562566,9:31:41,9:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562566,9:32:12,9:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562566,9:32:48,9:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27060,6 +27102,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562566,9:47:11,9:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562566,9:48:19,9:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562566,9:51:00,9:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562567,9:48:00,9:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562567,9:51:41,9:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562567,9:52:12,9:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562567,9:52:48,9:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27078,6 +27121,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562567,10:07:11,10:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562567,10:08:19,10:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562567,10:11:00,10:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562568,10:08:00,10:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562568,10:11:41,10:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562568,10:12:12,10:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562568,10:12:48,10:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27096,6 +27140,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562568,10:27:11,10:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562568,10:28:19,10:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562568,10:31:00,10:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562569,10:28:00,10:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562569,10:31:41,10:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562569,10:32:12,10:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562569,10:32:48,10:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27114,6 +27159,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562569,10:47:11,10:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562569,10:48:19,10:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562569,10:51:00,10:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562570,10:48:00,10:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562570,10:51:41,10:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562570,10:52:12,10:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562570,10:52:48,10:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27132,6 +27178,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562570,11:07:11,11:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562570,11:08:19,11:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562570,11:11:00,11:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562571,11:08:00,11:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562571,11:11:41,11:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562571,11:12:12,11:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562571,11:12:48,11:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27150,6 +27197,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562571,11:27:11,11:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562571,11:28:19,11:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562571,11:31:00,11:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562572,11:28:00,11:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562572,11:31:41,11:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562572,11:32:12,11:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562572,11:32:48,11:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27168,6 +27216,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562572,11:47:11,11:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562572,11:48:19,11:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562572,11:51:00,11:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562573,11:48:00,11:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562573,11:51:41,11:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562573,11:52:12,11:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562573,11:52:48,11:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27186,6 +27235,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562573,12:07:11,12:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562573,12:08:19,12:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562573,12:11:00,12:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562574,12:08:00,12:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562574,12:11:41,12:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562574,12:12:12,12:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562574,12:12:48,12:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27204,6 +27254,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562574,12:27:11,12:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562574,12:28:19,12:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562574,12:31:00,12:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562575,12:28:00,12:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562575,12:31:41,12:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562575,12:32:12,12:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562575,12:32:48,12:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27222,6 +27273,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562575,12:47:11,12:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562575,12:48:19,12:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562575,12:51:00,12:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562576,12:48:00,12:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562576,12:51:41,12:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562576,12:52:12,12:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562576,12:52:48,12:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27240,6 +27292,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562576,13:07:11,13:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562576,13:08:19,13:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562576,13:11:00,13:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562577,13:08:00,13:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562577,13:11:41,13:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562577,13:12:12,13:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562577,13:12:48,13:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27258,6 +27311,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562577,13:27:11,13:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562577,13:28:19,13:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562577,13:31:00,13:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562578,13:28:00,13:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562578,13:31:41,13:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562578,13:32:12,13:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562578,13:32:48,13:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27276,6 +27330,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562578,13:47:11,13:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562578,13:48:19,13:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562578,13:51:00,13:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562579,13:48:00,13:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562579,13:51:41,13:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562579,13:52:12,13:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562579,13:52:48,13:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27294,6 +27349,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562579,14:07:11,14:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562579,14:08:19,14:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562579,14:11:00,14:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562580,14:08:00,14:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562580,14:11:41,14:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562580,14:12:12,14:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562580,14:12:48,14:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27312,6 +27368,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562580,14:27:11,14:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562580,14:28:19,14:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562580,14:31:00,14:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562581,14:28:00,14:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562581,14:31:41,14:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562581,14:32:12,14:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562581,14:32:48,14:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27330,6 +27387,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562581,14:47:11,14:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562581,14:48:19,14:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562581,14:51:00,14:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562582,14:48:00,14:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562582,14:51:41,14:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562582,14:52:12,14:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562582,14:52:48,14:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27348,6 +27406,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562582,15:07:11,15:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562582,15:08:19,15:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562582,15:11:00,15:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562583,15:08:00,15:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562583,15:11:41,15:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562583,15:12:12,15:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562583,15:12:48,15:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27366,6 +27425,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562583,15:27:11,15:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562583,15:28:19,15:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562583,15:31:00,15:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562584,15:28:00,15:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562584,15:31:41,15:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562584,15:32:12,15:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562584,15:32:48,15:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27384,6 +27444,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562584,15:47:11,15:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562584,15:48:19,15:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562584,15:51:00,15:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562585,15:48:00,15:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562585,15:51:41,15:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562585,15:52:12,15:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562585,15:52:48,15:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27402,6 +27463,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562585,16:07:11,16:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562585,16:08:19,16:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562585,16:11:00,16:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562586,16:08:00,16:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562586,16:11:41,16:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562586,16:12:12,16:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562586,16:12:48,16:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27420,6 +27482,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562586,16:27:11,16:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562586,16:28:19,16:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562586,16:31:00,16:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562587,16:28:00,16:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562587,16:31:41,16:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562587,16:32:12,16:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562587,16:32:48,16:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27438,6 +27501,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562587,16:47:11,16:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562587,16:48:19,16:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562587,16:51:00,16:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562588,16:48:00,16:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562588,16:51:41,16:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562588,16:52:12,16:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562588,16:52:48,16:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27456,6 +27520,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562588,17:07:11,17:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562588,17:08:19,17:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562588,17:11:00,17:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562589,17:08:00,17:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562589,17:11:41,17:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562589,17:12:12,17:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562589,17:12:48,17:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27474,6 +27539,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562589,17:27:11,17:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562589,17:28:19,17:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562589,17:31:00,17:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562590,17:28:00,17:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562590,17:31:41,17:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562590,17:32:12,17:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562590,17:32:48,17:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27492,6 +27558,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562590,17:47:11,17:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562590,17:48:19,17:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562590,17:51:00,17:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562591,17:48:00,17:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562591,17:51:41,17:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562591,17:52:12,17:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562591,17:52:48,17:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27510,6 +27577,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562591,18:07:11,18:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562591,18:08:19,18:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562591,18:11:00,18:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562592,18:08:00,18:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562592,18:11:41,18:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562592,18:12:12,18:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562592,18:12:48,18:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27528,6 +27596,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562592,18:27:11,18:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562592,18:28:19,18:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562592,18:31:00,18:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562593,18:28:00,18:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562593,18:31:41,18:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562593,18:32:12,18:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562593,18:32:48,18:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27546,6 +27615,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562593,18:47:11,18:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562593,18:48:19,18:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562593,18:51:00,18:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562594,9:28:00,9:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562594,9:31:41,9:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562594,9:32:12,9:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562594,9:32:48,9:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27564,6 +27634,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562594,9:47:11,9:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562594,9:48:19,9:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562594,9:51:00,9:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562595,9:48:00,9:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562595,9:51:41,9:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562595,9:52:12,9:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562595,9:52:48,9:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27582,6 +27653,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562595,10:07:11,10:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562595,10:08:19,10:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562595,10:11:00,10:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562596,10:08:00,10:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562596,10:11:41,10:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562596,10:12:12,10:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562596,10:12:48,10:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27600,6 +27672,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562596,10:27:11,10:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562596,10:28:19,10:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562596,10:31:00,10:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562597,10:28:00,10:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562597,10:31:41,10:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562597,10:32:12,10:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562597,10:32:48,10:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27618,6 +27691,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562597,10:47:11,10:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562597,10:48:19,10:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562597,10:51:00,10:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562598,10:48:00,10:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562598,10:51:41,10:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562598,10:52:12,10:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562598,10:52:48,10:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27636,6 +27710,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562598,11:07:11,11:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562598,11:08:19,11:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562598,11:11:00,11:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562599,11:08:00,11:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562599,11:11:41,11:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562599,11:12:12,11:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562599,11:12:48,11:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27654,6 +27729,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562599,11:27:11,11:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562599,11:28:19,11:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562599,11:31:00,11:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562600,11:28:00,11:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562600,11:31:41,11:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562600,11:32:12,11:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562600,11:32:48,11:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27672,6 +27748,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562600,11:47:11,11:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562600,11:48:19,11:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562600,11:51:00,11:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562601,11:48:00,11:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562601,11:51:41,11:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562601,11:52:12,11:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562601,11:52:48,11:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27690,6 +27767,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562601,12:07:11,12:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562601,12:08:19,12:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562601,12:11:00,12:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562602,12:08:00,12:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562602,12:11:41,12:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562602,12:12:12,12:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562602,12:12:48,12:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27708,6 +27786,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562602,12:27:11,12:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562602,12:28:19,12:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562602,12:31:00,12:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562603,12:28:00,12:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562603,12:31:41,12:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562603,12:32:12,12:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562603,12:32:48,12:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27726,6 +27805,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562603,12:47:11,12:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562603,12:48:19,12:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562603,12:51:00,12:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562604,12:48:00,12:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562604,12:51:41,12:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562604,12:52:12,12:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562604,12:52:48,12:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27744,6 +27824,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562604,13:07:11,13:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562604,13:08:19,13:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562604,13:11:00,13:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562605,13:08:00,13:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562605,13:11:41,13:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562605,13:12:12,13:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562605,13:12:48,13:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27762,6 +27843,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562605,13:27:11,13:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562605,13:28:19,13:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562605,13:31:00,13:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562606,13:28:00,13:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562606,13:31:41,13:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562606,13:32:12,13:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562606,13:32:48,13:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27780,6 +27862,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562606,13:47:11,13:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562606,13:48:19,13:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562606,13:51:00,13:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562607,13:48:00,13:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562607,13:51:41,13:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562607,13:52:12,13:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562607,13:52:48,13:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27798,6 +27881,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562607,14:07:11,14:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562607,14:08:19,14:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562607,14:11:00,14:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562608,14:08:00,14:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562608,14:11:41,14:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562608,14:12:12,14:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562608,14:12:48,14:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27816,6 +27900,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562608,14:27:11,14:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562608,14:28:19,14:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562608,14:31:00,14:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562609,14:28:00,14:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562609,14:31:41,14:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562609,14:32:12,14:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562609,14:32:48,14:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27834,6 +27919,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562609,14:47:11,14:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562609,14:48:19,14:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562609,14:51:00,14:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562610,14:48:00,14:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562610,14:51:41,14:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562610,14:52:12,14:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562610,14:52:48,14:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27852,6 +27938,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562610,15:07:11,15:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562610,15:08:19,15:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562610,15:11:00,15:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562611,15:08:00,15:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562611,15:11:41,15:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562611,15:12:12,15:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562611,15:12:48,15:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27870,6 +27957,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562611,15:27:11,15:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562611,15:28:19,15:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562611,15:31:00,15:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562612,15:28:00,15:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562612,15:31:41,15:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562612,15:32:12,15:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562612,15:32:48,15:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27888,6 +27976,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562612,15:47:11,15:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562612,15:48:19,15:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562612,15:51:00,15:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562613,15:48:00,15:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562613,15:51:41,15:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562613,15:52:12,15:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562613,15:52:48,15:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27906,6 +27995,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562613,16:07:11,16:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562613,16:08:19,16:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562613,16:11:00,16:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562614,16:08:00,16:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562614,16:11:41,16:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562614,16:12:12,16:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562614,16:12:48,16:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27924,6 +28014,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562614,16:27:11,16:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562614,16:28:19,16:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562614,16:31:00,16:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562615,16:28:00,16:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562615,16:31:41,16:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562615,16:32:12,16:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562615,16:32:48,16:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27942,6 +28033,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562615,16:47:11,16:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562615,16:48:19,16:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562615,16:51:00,16:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562616,16:48:00,16:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562616,16:51:41,16:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562616,16:52:12,16:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562616,16:52:48,16:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27960,6 +28052,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562616,17:07:11,17:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562616,17:08:19,17:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562616,17:11:00,17:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562617,17:08:00,17:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562617,17:11:41,17:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562617,17:12:12,17:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562617,17:12:48,17:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27978,6 +28071,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562617,17:27:11,17:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562617,17:28:19,17:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562617,17:31:00,17:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562618,17:28:00,17:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562618,17:31:41,17:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562618,17:32:12,17:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562618,17:32:48,17:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -27996,6 +28090,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562618,17:47:11,17:47:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562618,17:48:19,17:48:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562618,17:51:00,17:51:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562619,17:48:00,17:48:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562619,17:51:41,17:51:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562619,17:52:12,17:52:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562619,17:52:48,17:52:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -28014,6 +28109,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562619,18:07:11,18:07:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562619,18:08:19,18:08:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562619,18:11:00,18:11:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562620,18:08:00,18:08:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562620,18:11:41,18:11:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562620,18:12:12,18:12:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562620,18:12:48,18:12:48,1806,4,4 Broadway Plaza Downtown,0,0,0
@@ -28032,6 +28128,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 562620,18:27:11,18:27:11,1764,22,4 Broadway Plaza Downtown,0,0,0
 562620,18:28:19,18:28:19,1867,23,4 Broadway Plaza Downtown,0,0,0
 562620,18:31:00,18:31:00,2247,24,4 Broadway Plaza Downtown,1,0,1
+562621,18:28:00,18:28:00,2247,1,4 Broadway Plaza Downtown,0,1,1
 562621,18:31:41,18:31:41,1812,2,4 Broadway Plaza Downtown,0,0,0
 562621,18:32:12,18:32:12,1805,3,4 Broadway Plaza Downtown,0,0,0
 562621,18:32:48,18:32:48,1806,4,4 Broadway Plaza Downtown,0,0,0
