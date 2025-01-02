@@ -23,7 +23,8 @@ route_id,direction_id,direction
 21,1,NORTH
 28,0,SOUTH    
 28,1,NORTH
-301,0,LOOP
+301,0,EAST 
+301,1,WEST
 310,0,EAST        
 310,1,WEST
 311,0,EAST        

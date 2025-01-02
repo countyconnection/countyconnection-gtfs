@@ -66,9 +66,9 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 1714,831714,Bancroft Rd + Countrywood Ct,Bancroft Road and Countrywood Court,37.930202,-122.043526,0,,1
 1712,831712,Bancroft Rd + Minert Rd,Bancroft Road and Minert Road,37.93374,-122.046477,0,,1
 1713,831713,Bancroft Rd + Minert Rd,Bancroft Road and Minert Road,37.933591,-122.046675,0,,1
-2193,832193,Antioch BART,Antioch BART,37.9959295,-121.7793495,0,,1
+2193,832193,Antioch BART,Antioch BART,37.995930,-121.779350,0,,1
 492,83492,Bates Ave + Port Chicago Hwy,Bates Avenue and Port Chicago Highway,38.015138,-122.025954,0,,1
-497,83497,Bates Ave + Folsom Ct,Bates Avenue and Folsom Court,38.014181,-122.031635,0,,1
+497,83497,Bates Ave + Commercial Circle,Bates Avenue and Commercial Circle,38.014181,-122.031635,0,,1
 2251,832251,Bates Ave + Commercial Cir,Bates Avenue and Commercial Circle,38.014259,-122.031516,0,,1
 883,83883,Concord BART,Concord BART,37.972663,-122.029838,0,S1,1
 892,83892,Concord BART,Concord BART,37.973846,-122.029374,0,S1,1
@@ -362,6 +362,7 @@ S5,S5,Walnut Creek BART,Walnut Creek BART,37.905511,-122.067784,1,,1
 1445,831445,Coggins Dr + Park Vista Apartments,Coggins Drive and Park Vista Apartments,37.933166,-122.05655,0,,1
 1444,831444,Coggins Dr + Villa Montanaro,Coggins Drive and Villa Montanaro,37.93337,-122.05641,0,,1
 2086,832086,Coggins Dr + Buskirk Ave,Coggins Drive and Buskirk Avenue,37.933358,-122.058715,0,,1
+2290,832290,Concord Ave + John Glenn Dr,Concord Avenue and John Glenn Drive,37.980307,-122.05643,0,,1
 568,83568,Colfax St + Pacheco St,Colfax Street and Pacheco Street,37.979181,-122.032987,0,,1
 1032,831032,Court St + Marina Vista,Court Street and Marina Vista,38.019406,-122.135149,0,,1
 572,83572,Concord Blvd + Mira Vista Ter,Concord Boulevard and Mira Vista Terrace,37.973934,-122.036734,0,,1
@@ -582,6 +583,9 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 1991,831991,Lennon Ln + N Wiget Ln,Lennon Lane and North Wiget Lane,37.927635,-122.029807,0,,1
 1752,831752,Lilac Dr + Lancaster Rd,Lilac Drive and Lancaster Road,37.890117,-122.060646,0,,1
 977,83977,Lilac Dr + Newell Ave,Lilac Drive and Newell Avenue,37.890165,-122.064457,0,,0
+1758,831758,Locust St + Peets Coffee,Locust Street and Peets Coffee,37.898298,-122.061735,0,,0
+1757,831757,Locust St + Bonanza St,Locust Street and Bonanza Street,37.899558,-122.062292,0,,1
+1755,831755,Locust St + Civic Dr,Locust Street and Civic Drive,37.901051,-122.063027,0,,1
 1981,831981,Locust St + Mt Diablo Blvd,Locust Street and Mount Diablo Boulevard,37.897126,-122.061417,0,,1
 1759,831759,Locust St + Olympic Blvd,Locust Street and Olympic Boulevard,37.895978,-122.061417,0,,1
 2152,832152,Lusitano St + Charbray St,Lusitano Street and Charbray Street,37.79531,-121.882494,0,,0
@@ -591,9 +595,6 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 452,83452,Marsh Creek Rd + Greystone Rd,Marsh Creek Road and Greystone Road,37.935328,-121.932224,0,,1
 499,83499,Marsh Creek Rd + High St,Marsh Creek Road and High Street,37.940065,-121.933515,0,,1
 669,83669,Market St + Clayton Rd,Market Street and Clayton Road,37.969226,-122.046982,0,,1
-671,83671,Mason Cir + Commercial Support Services,Mason Circle and Commercial Support Services,38.009393,-122.040517,0,,1
-672,83672,Mason Cir + Bates Ave,Mason Circle and Bates Avenue,38.012371,-122.039324,0,,0
-670,83670,Mason Cir + Bates Ave,Mason Circle and Bates Avenue,38.011026,-122.041172,0,,0
 1208,831208,Mt Diablo Blvd + Golden Gate Way,Mount Diablo Boulevard and Golden Gate Way,37.893036,-122.111387,0,,1
 1206,831206,Mt Diablo Blvd + Golden Gate Way,Mount Diablo Boulevard and Golden Gate Way,37.892063,-122.117824,0,,1
 2101,832101,Mt Diablo Blvd + Lafayette Cemetery,Mount Diablo Boulevard and Lafayette Cemetery,37.896728,-122.10022,0,,1
@@ -677,7 +678,7 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 2118,832118,Monument Blvd + Monument Ct And Systron Dr,Monument Boulevard between Monument Court and Systron Drive,37.963088,-122.031615,0,,1
 1783,831783,Montego + San Marco Apartments,Montego and San Marco Apartments,37.908693,-122.047867,0,,1
 2176,832176,Monument Blvd + Studio 6 Concord,Monument Boulevard and Studio Six Concord,37.950898,-122.046635,0,,1
-1786,831786,Montego + Satellite Senior Homes,Montego and Satellite Senior Homes,37.910731,-122.041589,0,,1
+1786,831786,Montego + Casa Montego Apts,Montego and Casa Montego Apartments,37.910731,-122.041589,0,,1
 1654,831654,Montevideo Dr + Broadmoor Dr,Montevideo Drive and Broadmoor Drive,37.752763,-121.949807,0,,1
 2117,832117,Monument Blvd + Detroit Ave,Monument Boulevard and Detroit Avenue,37.959576,-122.034219,0,,1
 2116,832116,Monument Blvd + Detroit Ave,Monument Boulevard and Detroit Avenue,37.959925,-122.034099,0,,1
@@ -1036,6 +1037,7 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 803,83803,Solano Way + Hilltop Rd,Solano Way and Hilltop Road,37.994401,-122.05198,0,,1
 796,83796,Solano Way + Hilltop Rd,Solano Way and Hilltop Road,37.994345,-122.05198,0,,1
 801,83801,Solano Way + Hillside Ave,Solano Way and Hillside Avenue,37.990808,-122.045722,0,,1
+1053,831053,Solano Way + Imhoff Rd,Solano Way and Imhoff Road,38.001908,-122.053664,0,,0
 795,83795,Solano Way + Marsh Dr,Solano Way and Marsh Drive,37.998767,-122.053109,0,,0
 804,83804,Solano Way + Olivera Rd,Solano Way and Olivera Road,37.998576,-122.052894,0,,1
 797,83797,Solano Way + Solano Ct,Solano Way and Solano Court,37.992636,-122.049655,0,,1
@@ -1121,15 +1123,15 @@ S7,S7,San Ramon Transit Center,San Ramon Transit Center,37.770184,-121.960345,1,
 838,83838,Treat Blvd + Cowell Rd,Treat Boulevard and Cowell Road,37.955666,-122.001117,0,,1
 814,83814,Treat Blvd + Cowell Rd,Treat Boulevard and Cowell Road,37.955143,-122.002297,0,,0
 837,83837,Treat Blvd + Kingswood Dr,Treat Boulevard and Kingswood Drive,37.95048,-122.005429,0,,0
-813,83813,Treat Blvd + Lancelot Dr,Treat Boulevard and Lancelot Drive,37.958759,-121.997559,0,,0
+2291,832291,Treat Blvd + Lancelot Dr,Treat Boulevard and Lancelot Drive,37.957984,-121.998587,0,,1
 836,83836,Treat Blvd + Navaronne Way,Treat Boulevard and Navaronne Way,37.946773,-122.012164,0,,0
 816,83816,Treat Blvd + Navaronne Way,Treat Boulevard and Navaronne Way,37.946739,-122.012993,0,,1
 839,83839,Treat Blvd + Pembroke Dr,Treat Boulevard and Pembroke Drive,37.95795,-121.998261,0,,1
-815,83815,Treat Blvd + Thompson Rd,Treat Boulevard and Thompson Road,37.9523,-122.00529,0,,0
+2292,832292,Treat Blvd + Thompson Rd,Treat Boulevard and Thompson Road,37.951633,-122.005612,0,,1
 831,83831,Treat Blvd + Winton Dr,Treat Boulevard and Winton Drive,37.93451,-122.032907,0,,1
 822,83822,Treat Blvd + Winton Dr,Treat Boulevard and Winton Drive,37.934661,-122.033165,0,,1
-2084,832084,Trinity Ave + St Pauls Episcopal Church,Trinity Avenue and Saint Pauls Episcopal Church,37.90141,-122.068352,0,,1
-2085,832085,Trinity Ave + St Pauls Episcopal Church,Trinity Avenue and Saint Pauls Episcopal Church,37.901341,-122.068074,0,,1
+2084,832084,Trinity Ave + St Pauls Episcopal Church,Trinity Avenue and Saint Pauls Episcopal Church,37.901327,-122.068272,0,,1
+2085,832085,Trinity Ave + St Pauls Episcopal Church,Trinity Avenue and Saint Pauls Episcopal Church,37.901455,-122.067968,0,,1
 827,83827,Treat Blvd + Jones Rd And Cherry Ln,Treat Boulevard between Jones Road and Cherry Lane,37.926464,-122.052483,0,,1
 832,83832,Treat Blvd + Oak Grove Rd,Treat Boulevard and Oak Grove Road,37.938308,-122.025575,0,,1
 820,83820,Treat Blvd + Oak Grove Rd,Treat Boulevard and Oak Grove Road,37.938865,-122.02492,0,,1
