@@ -34,7 +34,7 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 1252,831252,Alhambra Ave + John Muir Rd,Alhambra Avenue and John Muir Road,37.982985,-122.116552,0,,0
 1253,831253,Alhambra Ave + Phylis Ter,Alhambra Avenue and Phylis Terrace,37.983458,-122.1244,0,,0
 1039,831039,Martinez Amtrak,Martinez Amtrak,38.018485,-122.139187,0,S8,1
-2285,832285,Martinez Amtrak Unloading,Martinez Amtrak Unloading,38.019091,-122.139522,0,S8,1
+2285,832285,Martinez Amtrak,Martinez Amtrak,38.019091,-122.139522,0,S8,1
 1578,831578,Annabel Ln + End,Annabel Lane and End,37.773466,-121.971364,0,,0
 1281,831281,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991063,-122.094062,0,,0
 1286,831286,Arnold Dr + Fig Tree Ln,Arnold Drive and Fig Tree Lane,37.991161,-122.093962,0,,0
@@ -70,7 +70,7 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 889,83889,Concord BART,Concord BART,37.97428,-122.02911,0,S1,1
 890,83890,Concord BART,Concord BART,37.974536,-122.029068,0,S1,1
 S1,S1,Concord BART,Concord BART,37.973646,-122.029524,1,,1
-2158,832158,Dublin Pleasanton BART Unloading,Dublin Pleasanton BART Unloading ,37.701623,-121.89803,0,,1
+2158,832158,Dublin Pleasanton BART,Dublin Pleasanton BART ,37.701623,-121.89803,0,,1
 1160,831160,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702901,-121.89944,0,S2,1
 2140,832140,Dublin Pleasanton BART,Dublin Pleasanton BART,37.703045,-121.899819,0,S2,1
 S2,S2,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702643,-121.899066,1,,1
@@ -84,7 +84,7 @@ S2,S2,Dublin Pleasanton BART,Dublin Pleasanton BART,37.702643,-121.899066,1,,1
 2257,832257,Bishop Ranch 1,Bishop Ranch One,37.760049,-121.955669,0,,1
 1553,831553,Bishop Ranch 8,Bishop Ranch Eight,37.768118,-121.968502,0,,1
 1162,831162,Lafayette BART,Lafayette BART,37.893571,-122.125128,0,,1
-2288,832288,North Concord BART Unloading,North Concord BART Unloading,38.002858,-122.024113,0,,1
+2288,832288,North Concord BART,North Concord BART,38.002858,-122.024113,0,,1
 896,83896,North Concord Martinez BART,North Concord Martinez BART,38.00241,-122.024216,0,S3,1
 897,83897,North Concord Martinez BART,North Concord Martinez BART,38.00225,-122.024201,0,S3,1
 S3,S3,North Concord Martinez BART,North Concord Martinez BART,38.002694,-122.024608,1,,1
