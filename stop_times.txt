@@ -32035,6 +32035,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 569145,8:07:31,8:07:31,1403,36,6 Orinda BART via Saint Marys College,0,0,0
 569145,8:09:11,8:09:11,1404,37,6 Orinda BART via Saint Marys College,0,0,0
 569145,8:11:06,8:11:06,1372,38,6 Orinda BART via Saint Marys College,0,0,0
+569145,8:13:00,8:13:00,1366,39,6 Orinda BART via Saint Marys College,0,0,1
 569146,8:05:00,8:05:00,1162,1,6 Orinda BART via Saint Marys College,0,1,1
 569146,8:07:14,8:07:14,1205,2,6 Orinda BART via Saint Marys College,0,0,0
 569146,8:07:39,8:07:39,1185,3,6 Orinda BART via Saint Marys College,0,0,0
