@@ -56,7 +56,7 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent
 484,83484,Arnold Industrial Way and Concord Shelter,Arnold Industrial Way and Concord Shelter,38.0069,-122.0372,0,,0
 480,83480,Arnold Industrial Way and Industrial Way,Arnold Industrial Way and Industrial Way,38.008766,-122.032547,0,,0
 479,83479,Arnold Industrial Way and Industrial Way,Arnold Industrial Way and Industrial Way,38.009044,-122.031975,0,,0
-481,83481,Arnold Industrial Way and Peralta Rd,Arnold Industrial Way and  Peralta Road,38.00287,-122.047414,0,,0
+481,83481,Arnold Industrial Way and Peralta Rd,Arnold Industrial Way and Peralta Road,38.00287,-122.047414,0,,0
 1283,831283,Arnold Dr and Glacier Dr,Arnold Drive and Glacier Drive,37.991691,-122.08673,0,,0
 1284,831284,Arnold Dr and Milano Way,Arnold Drive and Milano Way,37.991698,-122.087187,0,,0
 1287,831287,Arnold Dr and Muir Parkway Offices,Arnold Drive and Muir Parkway Offices,37.992883,-122.098532,0,,0
@@ -441,7 +441,7 @@ S5,S5,Walnut Creek BART,Walnut Creek BART,37.905511,-122.067784,1,,1
 1746,831746,Dapplegray Ln and Stewart Ave,Dapplegray Lane and Stewart Avenue,37.875175,-122.027622,0,,1
 1747,831747,Dapplegray Ln and Westmoreland Cir,Dapplegray Lane and Westmoreland Circle,37.87744,-122.027225,0,,1
 616,83616,David Ave and Bancroft Rd,David Avenue and Bancroft Road,37.934685,-122.046199,0,,1
-947,83947,Danville Blvd and via Robles,Danville Boulevard and Via Robles,37.871465,-122.04588,0,,0
+947,83947,Danville Blvd and Via Robles,Danville Boulevard and Via Robles,37.871465,-122.04588,0,,0
 615,83615,David Ave and Mohr Ln,David Avenue and Mohr Lane,37.936095,-122.043179,0,,1
 435,83435,Delta Fair Blvd and Kaiser Delta Fair Medical Offices,Delta Fair Boulevard and Kaiser Delta Fair Medical Offices,38.004128,-121.842777,0,,1
 434,83434,Delta Fair Blvd and Somersville Towne Center,Delta Fair Boulevard and Somersville Towne Center,38.003773,-121.842042,0,,1
@@ -757,8 +757,8 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 1388,831388,Moraga Way and Woodland Rd,Moraga Way and Woodland Road,37.85619,-122.155215,0,,0
 1182,831182,Moraga Rd and Silver Springs Rd,Moraga Road and Silver Springs Road,37.881788,-122.11981,0,,0
 1387,831387,Moraga Way and Valley View Dr,Moraga Way and Valley View Drive,37.857651,-122.157699,0,,0
-1346,831346,Moraga Rd and via Granada Dr,Moraga Road and Via Granada Drive,37.872361,-122.123824,0,,0
-1347,831347,Moraga Rd and via Granada Dr,Moraga Road and Via Granada Drive,37.872378,-122.123982,0,,1
+1346,831346,Moraga Rd and Via Granada Dr,Moraga Road and Via Granada Drive,37.872361,-122.123824,0,,0
+1347,831347,Moraga Rd and Via Granada Dr,Moraga Road and Via Granada Drive,37.872378,-122.123982,0,,1
 1001,831001,Mountain View Blvd and Mynah Ct,Mountain View Boulevard and Mynah Court,37.886753,-122.034584,0,,0
 1311,831311,Morello Ave and Village Oaks Dr,Morello Avenue and Village Oaks Drive,37.997388,-122.10028,0,,1
 2083,832083,Montego and Ygnacio Valley Rd,Montego and Ygnacio Valley Road,37.90859,-122.049557,0,,1
@@ -857,7 +857,7 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 1504,831504,Oak Park Blvd and Monte Cresta Dr,Oak Park Boulevard and Monte Cresta Drive,37.933688,-122.069942,0,,0
 1495,831495,Oak Park Blvd and Monte Cresta Dr,Oak Park Boulevard and Monte Cresta Drive,37.933771,-122.069942,0,,1
 1507,831507,Oak Park Blvd and Pleasant Valley Dr,Oak Park Boulevard and Pleasant Valley Drive,37.93333,-122.062114,0,,1
-1505,831505,Oak Park Blvd and via Del Sol,Oak Park Boulevard and Via Del Sol,37.93312,-122.064657,0,,1
+1505,831505,Oak Park Blvd and Via Del Sol,Oak Park Boulevard and Via Del Sol,37.93312,-122.064657,0,,1
 1859,831859,Oak Rd and Walden Park,Oak Road and Walden Park,37.921131,-122.058339,0,,1
 753,83753,Olivera Rd and Ups Customer Center Concord,Olivera Road and United Parcel Service Customer Center Concord,37.998685,-122.05039,0,,1
 756,83756,Olivera Rd and Grant St,Olivera Road and Grant Street,37.997683,-122.042285,0,,0
@@ -996,15 +996,15 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 1808,831808,S California Blvd and Newell Ave,South California Boulevard and Newell Avenue,37.892946,-122.061199,0,,1
 1737,831737,S California Blvd and Olympic Blvd,South California Boulevard and Olympic Boulevard,37.896458,-122.062987,0,,1
 1888,831888,S California Blvd and Mt Diablo Blvd And Olympic Blvd,South California Boulevard between Mount Diablo Boulevard and Olympic Boulevard,37.896546,-122.063385,0,,1
-1993,831993,Shadelands Dr and N via Monte,Shadelands Drive and North Via Monte,37.929075,-122.019294,0,,0
+1993,831993,Shadelands Dr and N Via Monte,Shadelands Drive and North Via Monte,37.929075,-122.019294,0,,0
 2196,832196,Shadelands Dr and Lennon Ln,Shadelands Drive and Lennon Lane,37.925661,-122.027502,0,,1
 1994,831994,Shadelands Dr and N Wiget Ln,Shadelands Drive and North Wiget Lane,37.926948,-122.024185,0,,1
-1231,831231,St Mary'S Rd and Cattle Chute Rd,Saint  Mary's Road and Cattle Chute Road,37.85396,-122.103697,0,,0
-1230,831230,St Mary'S Rd and Cattle Chute Rd,Saint  Mary's Road and Cattle Chute Road,37.854226,-122.103697,0,,0
-1224,831224,St Mary'S Rd and Glenside Dr,Saint  Mary's Road and Glenside Drive,37.881151,-122.103915,0,,0
+1231,831231,St Mary'S Rd and Cattle Chute Rd,Saint Mary's Road and Cattle Chute Road,37.85396,-122.103697,0,,0
+1230,831230,St Mary'S Rd and Cattle Chute Rd,Saint Mary's Road and Cattle Chute Road,37.854226,-122.103697,0,,0
+1224,831224,St Mary'S Rd and Glenside Dr,Saint Mary's Road and Glenside Drive,37.881151,-122.103915,0,,0
 1362,831362,St Mary'S Rd and Moraga Library,Saint Mary's Road and Moraga Library,37.841046,-122.123049,0,,1
 1365,831365,St Mary'S Rd and Moraga Library,Saint Mary's Road and Moraga Library,37.841161,-122.123069,0,,0
-1225,831225,St Mary'S Rd and Saint Mary'S Ballfields,Saint  Mary's Road and Saint Mary's Ballfields,37.876796,-122.100539,0,,0
+1225,831225,St Mary'S Rd and Saint Mary'S Ballfields,Saint Mary's Road and Saint Mary's Ballfields,37.876796,-122.100539,0,,0
 1222,831222,St Mary'S Rd and Acampo Dr,Saint Mary's Road and Acampo Drive,37.88455,-122.113949,0,,0
 1238,831238,St Mary'S Rd and Avalon Ave,Saint Mary's Road and Avalon Avenue,37.885021,-122.11522,0,,1
 1363,831363,St Mary'S Rd and Carter Dr,Saint Mary's Road and Carter Drive,37.842488,-122.117904,0,,0
@@ -1013,23 +1013,23 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 1893,831893,S Main St and Creekside Dr,South Main Street and Creekside Drive,37.887685,-122.056034,0,,1
 1054,831054,S Main St and Crest Ave,South Main Street and Crest Avenue,37.881105,-122.051007,0,,1
 1891,831891,S Main St and Creekside Dr,South Main Street and Creekside Drive,37.886918,-122.055755,0,,1
-1232,831232,St Mary'S Rd and Driftwood Dr,Saint  Mary's Road and Driftwood Drive,37.857616,-122.101969,0,,0
-1229,831229,St Mary'S Rd and Driftwood Dr,Saint  Mary's Road and Driftwood Drive,37.857326,-122.102049,0,,0
-1235,831235,St Mary'S Rd and Glenside Dr,Saint  Mary's Road and Glenside Drive,37.871981,-122.098234,0,,1
+1232,831232,St Mary'S Rd and Driftwood Dr,Saint Mary's Road and Driftwood Drive,37.857616,-122.101969,0,,0
+1229,831229,St Mary'S Rd and Driftwood Dr,Saint Mary's Road and Driftwood Drive,37.857326,-122.102049,0,,0
+1235,831235,St Mary'S Rd and Glenside Dr,Saint Mary's Road and Glenside Drive,37.871981,-122.098234,0,,1
 1236,831236,St Mary'S Rd and Glenside Dr,Saint Mary's Road and Glenside Drive,37.880921,-122.10328,0,,0
 1223,831223,St Mary'S Rd and Hope Ln,Saint Mary's Road and Hope Lane,37.88337,-122.109915,0,,0
 1237,831237,St Mary'S Rd and Hope Ln,Saint Mary's Road and Hope Lane,37.883456,-122.110035,0,,0
 1894,831894,S Main St and Lilac Dr,South Main Street and Lilac Drive,37.890506,-122.057504,0,,1
 1826,831826,S Main St and Newell Ave,South Main Street and Newell Avenue,37.893599,-122.058271,0,,1
 1895,831895,S Main St and Newell Ave,South Main Street and Newell Avenue,37.892636,-122.05812,0,,1
-1233,831233,St Mary'S Rd and Rohrer Dr,Saint  Mary's Road and Rohrer Drive,37.859006,-122.10173,0,,0
-1228,831228,St Mary'S Rd and Rohrer Dr,Saint  Mary's Road and Rohrer Drive,37.859012,-122.101763,0,,0
+1233,831233,St Mary'S Rd and Rohrer Dr,Saint Mary's Road and Rohrer Drive,37.859006,-122.10173,0,,0
+1228,831228,St Mary'S Rd and Rohrer Dr,Saint Mary's Road and Rohrer Drive,37.859012,-122.101763,0,,0
 1892,831892,S Main St and Rudgear Rd,South Main Street and Rudgear Road,37.87926,-122.050054,0,,1
 1055,831055,S Main St and Rudgear Rd,South Main Street and Rudgear Road,37.879363,-122.050272,0,,1
-1226,831226,St Mary'S Rd and Woodview Dr,Saint  Mary's Road and Woodview Drive,37.871321,-122.098492,0,,1
+1226,831226,St Mary'S Rd and Woodview Dr,Saint Mary's Road and Woodview Drive,37.871321,-122.098492,0,,1
 1890,831890,S Main St and Kaiser Medical Center,South Main Street and Kaiser Medical Center,37.890998,-122.057862,0,,1
-1234,831234,St Mary'S Rd and Lafayette Community Center,Saint  Mary's Road and Lafayette Community Center,37.864768,-122.099962,0,,1
-1227,831227,St Mary'S Rd and Lafayette Community Center,Saint  Mary's Road and Lafayette Community Center,37.864715,-122.100068,0,,0
+1234,831234,St Mary'S Rd and Lafayette Community Center,Saint Mary's Road and Lafayette Community Center,37.864768,-122.099962,0,,1
+1227,831227,St Mary'S Rd and Lafayette Community Center,Saint Mary's Road and Lafayette Community Center,37.864715,-122.100068,0,,0
 802,83802,Solano Way and Avon Ave,Solano Way and Avon Avenue,37.992711,-122.049715,0,,1
 799,83799,Solano Way and Grant St,Solano Way and Grant Street,37.98964,-122.041947,0,,1
 800,83800,Solano Way and Grant St,Solano Way and Grant Street,37.989751,-122.042047,0,,1
@@ -1073,7 +1073,7 @@ S7,S7,San Ramon Transit Center,San Ramon Transit Center,37.770184,-121.960345,1,
 1129,831129,San Ramon Valley and Sycamore Square,San Ramon Valley Boulevard and Sycamore Square,37.812686,-121.995544,0,,1
 1416,831416,Saint Stephens Dr and De Soto Ct,Saint Stephens Drive and De Soto Court,37.896618,-122.172044,0,,0
 1414,831414,Saint Stephens Dr and E Altarinda Dr,Saint Stephens Drive and East Altarinda Drive,37.892878,-122.171725,0,,0
-1415,831415,Saint Stephens Dr and via Floreado,Saint Stephens Drive and Via Floreado,37.894563,-122.171945,0,,0
+1415,831415,Saint Stephens Dr and Via Floreado,Saint Stephens Drive and Via Floreado,37.894563,-122.171945,0,,0
 1239,831239,Stanley Blvd and Acalanes High School,Stanley Boulevard and Acalanes High School,37.902971,-122.096365,0,,1
 1896,831896,Stewart Ave and Rudgear Rd,Stewart Avenue and Rudgear Road,37.879408,-122.035112,0,,0
 1056,831056,Stone Valley Rd and Alamo Ranch Rd,Stone Valley Road and Alamo Ranch Road,37.851866,-122.025475,0,,1
@@ -1143,12 +1143,12 @@ S7,S7,San Ramon Transit Center,San Ramon Transit Center,37.770184,-121.960345,1,
 817,83817,Treat Blvd and San Miguel Rd,Treat Boulevard and San Miguel Road,37.945533,-122.015025,0,,0
 834,83834,Treat Blvd and San Simeon Dr,Treat Boulevard and San Simeon Drive,37.942903,-122.018522,0,,1
 818,83818,Treat Blvd and San Simeon Dr,Treat Boulevard and San Simeon Drive,37.942973,-122.0188,0,,1
-633,83633,Ufcw And Employers Plaza,United Food and Commercial Workers and Employers Plaza,37.973667,-122.060784,0,,1
+633,83633,UFCW And Employers Plaza,United Food and Commercial Workers and Employers Plaza,37.973667,-122.060784,0,,1
 1248,831248,Upper Happy Valley Rd and Los Arabis Dr,Upper Happy Valley Road and Los Arabis Drive,37.89516,-122.151307,0,,0
 1246,831246,Upper Happy Valley Rd and N Peardale Dr,Upper Happy Valley Road and North Peardale Drive,37.899898,-122.150956,0,,0
 1245,831245,Upper Happy Valley Rd and Oleander Dr,Upper Happy Valley Road and Oleander Drive,37.903035,-122.153129,0,,0
 1247,831247,Upper Happy Valley Rd and Rahara Dr,Upper Happy Valley Road and Rahara Drive,37.898124,-122.15091,0,,0
-1249,831249,Va Clinic,Veterans Administration Clinic,37.994031,-122.114485,0,,1
+1249,831249,VA Clinic,Veterans Administration Clinic,37.994031,-122.114485,0,,1
 1153,831153,Village Pkwy and Amador Valley Blvd,Village Parkway and Amador Valley Boulevard,37.709716,-121.926857,0,,1
 1547,831547,Viking Dr and Valley View Middle,Viking Drive and Valley View Middle,37.965901,-122.068232,0,,1
 1546,831546,Viking Dr and College Park High,Viking Drive and College Park High,37.965846,-122.070994,0,,1
@@ -1164,9 +1164,9 @@ S7,S7,San Ramon Transit Center,San Ramon Transit Center,37.770184,-121.960345,1,
 1152,831152,Village Pkwy and Tamarack Dr,Village Parkway and Tamarack Drive,37.714515,-121.927163,0,,1
 2215,832215,Vista Way and Pine St,Vista Way and Pine Street,37.99949,-122.122888,0,,0
 2222,832222,Vista Way and Pine St,Vista Way and Pine Street,37.999535,-122.12287,0,,0
-1417,831417,via Las Cruces and Honey Hill Rd,Via Las Cruces and Honey Hill Road,37.899793,-122.170275,0,,0
-1418,831418,via Las Cruces and Las Vegas Rd,Via Las Cruces and Las Vegas Road,37.899076,-122.172342,0,,0
-2195,832195,N via Monte and Ygnacio Valley Rd And Shadelands Dr,North Via Monte between Ygnacio Valley Road and Shadelands Drive,37.927166,-122.019257,0,,1
+1417,831417,Via Las Cruces and Honey Hill Rd,Via Las Cruces and Honey Hill Road,37.899793,-122.170275,0,,0
+1418,831418,Via Las Cruces and Las Vegas Rd,Via Las Cruces and Las Vegas Road,37.899076,-122.172342,0,,0
+2195,832195,N Via Monte and Ygnacio Valley Rd And Shadelands Dr,North Via Monte between Ygnacio Valley Road and Shadelands Drive,37.927166,-122.019257,0,,1
 1929,831929,Walnut Blvd and Golden Hill Pl,Walnut Boulevard and Golden Hill Place,37.891038,-122.03231,0,,0
 1928,831928,Walnut Blvd and Fraser Dr,Walnut Boulevard and Fraser Drive,37.894423,-122.040934,0,,1
 1926,831926,Walnut Blvd and Homestead Ave,Walnut Boulevard and Homestead Avenue,37.90056,-122.050112,0,,0
