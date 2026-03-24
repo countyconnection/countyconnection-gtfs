@@ -1,6 +1,6 @@
 route_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
-1,1,Rossmoor/Shadelands,3,https://countyconnection.com/routes/1/,006493,ffffff
-10,10,Concord BART/Clayton Rd,3,https://countyconnection.com/routes/10/,006493,ffffff
+1,1,Rossmoor/Shadelands,3,https://countyconnection.com/routes/1/,006493,000000
+10,10,Concord BART/Clayton Rd,3,https://countyconnection.com/routes/10/,006493,000000
 11,11,Concord BART/Pleasant Hill BART,3,https://countyconnection.com/routes/11/,46A076,ffffff
 14,14,Concord BART/Walnut Creek BART,3,https://countyconnection.com/routes/14/,46A076,ffffff
 15,15,Concord BART/Pleasant Hill BART,3,https://countyconnection.com/routes/15/,006493,ffffff
@@ -42,11 +42,11 @@ route_id,route_short_name,route_long_name,route_type,route_url,route_color,route
 636,636,Broadmoor/Dublin/Pleasanton BART,3,https://countyconnection.com/routes/636/,7A99AC,ffffff
 7,7,Pleasant Hill BART/Shadelands,3,https://countyconnection.com/routes/7/,46A076,ffffff
 9,9,DVC/Walnut Creek BART,3,https://countyconnection.com/routes/9/,006493,ffffff
-91X,91X,Concord Commuter Express,3,https://countyconnection.com/routes/91x/,DE9634,ffffff
-92X,92X,Pleasanton ACE/Mitchell Dr,3,https://countyconnection.com/routes/92x/,DE9634,ffffff
-93X,93X,Walnut Creek BART/Antioch BART,3,https://countyconnection.com/routes/93x/,DE9634,ffffff
-95X,95X,San Ramon/BART Walnut Creek,3,https://countyconnection.com/routes/95x/,DE9634,ffffff
-96X,96X,BART Walnut Creek/Bishop Ranch,3,https://countyconnection.com/routes/96x/,DE9634,ffffff
-97X,97X,Dublin BART/Bishop Ranch,3,https://countyconnection.com/routes/97x/,DE9634,ffffff
-98X,98X,Martinez Amtrak/Walnut Creek BART,3,https://countyconnection.com/routes/98x/,DE9634,ffffff
-99X,99X,Martinez Amtrak/North Concord BART,3,https://countyconnection.com/routes/99x/,46A076,ffffff
+91X,91X,Concord Commuter Express,3,https://countyconnection.com/routes/91x/,DE9634,000000
+92X,92X,Pleasanton ACE/Mitchell Dr,3,https://countyconnection.com/routes/92x/,DE9634,000000
+93X,93X,Walnut Creek BART/Antioch BART,3,https://countyconnection.com/routes/93x/,DE9634,000000
+95X,95X,San Ramon/BART Walnut Creek,3,https://countyconnection.com/routes/95x/,DE9634,000000
+96X,96X,BART Walnut Creek/Bishop Ranch,3,https://countyconnection.com/routes/96x/,DE9634,000000
+97X,97X,Dublin BART/Bishop Ranch,3,https://countyconnection.com/routes/97x/,DE9634,000000
+98X,98X,Martinez Amtrak/Walnut Creek BART,3,https://countyconnection.com/routes/98x/,DE9634,000000
+99X,99X,Martinez Amtrak/North Concord BART,3,https://countyconnection.com/routes/99x/,46A076,000000

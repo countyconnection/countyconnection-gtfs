@@ -234,53 +234,53 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 601962,15,WEEKDAY,Pleasant Hill BART,,1,151035,shp-15-51,1,1
 601963,15,WEEKDAY,Pleasant Hill BART,,1,151045,shp-15-51,1,1
 601964,15,WEEKDAY,Pleasant Hill BART,,1,151035,shp-15-51,1,1
-601965,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161011,shp-16-01,1,1
-601966,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161031,shp-16-01,1,1
-601967,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161022,shp-16-01,1,1
-601968,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161011,shp-16-01,1,1
-601969,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161031,shp-16-01,1,1
-601970,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161022,shp-16-01,1,1
-601971,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161011,shp-16-01,1,1
-601972,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161031,shp-16-01,1,1
-601973,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161021,shp-16-01,1,1
-601974,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161011,shp-16-01,1,1
-601975,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161035,shp-16-01,1,1
-601976,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161021,shp-16-01,1,1
-601977,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161015,shp-16-01,1,1
-601978,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161035,shp-16-01,1,1
-601979,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161025,shp-16-01,1,1
-601980,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161015,shp-16-01,1,1
-601981,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161035,shp-16-01,1,1
-601982,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161025,shp-16-01,1,1
-601983,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161015,shp-16-01,1,1
-601984,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161035,shp-16-01,1,1
-601985,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161025,shp-16-01,1,1
-601986,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161015,shp-16-01,1,1
-601987,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161025,shp-16-01,1,1
-601988,16,WEEKDAY,Martinez Amtrak via Downtown PH,,0,161035,shp-16-01,1,1
-601989,16,WEEKDAY,Concord BART via Downtown PH,,1,161022,shp-16-51,1,1
-601990,16,WEEKDAY,Concord BART via Downtown PH,,1,161011,shp-16-51,1,1
-601991,16,WEEKDAY,Concord BART via Downtown PH,,1,161031,shp-16-51,1,1
-601992,16,WEEKDAY,Concord BART via Downtown PH,,1,161022,shp-16-51,1,1
-601993,16,WEEKDAY,Concord BART via Downtown PH,,1,161011,shp-16-51,1,1
-601994,16,WEEKDAY,Concord BART via Downtown PH,,1,161031,shp-16-51,1,1
-601995,16,WEEKDAY,Concord BART via Downtown PH,,1,161022,shp-16-51,1,1
-601996,16,WEEKDAY,Concord BART via Downtown PH,,1,161011,shp-16-51,1,1
-601997,16,WEEKDAY,Concord BART via Downtown PH,,1,161031,shp-16-51,1,1
-601998,16,WEEKDAY,Concord BART via Downtown PH,,1,161021,shp-16-51,1,1
-601999,16,WEEKDAY,Concord BART via Downtown PH,,1,161015,shp-16-51,1,1
-602000,16,WEEKDAY,Concord BART via Downtown PH,,1,161035,shp-16-51,1,1
-602001,16,WEEKDAY,Concord BART via Downtown PH,,1,161021,shp-16-51,1,1
-602002,16,WEEKDAY,Concord BART via Downtown PH,,1,161015,shp-16-51,1,1
-602003,16,WEEKDAY,Concord BART via Downtown PH,,1,161035,shp-16-51,1,1
-602004,16,WEEKDAY,Concord BART via Downtown PH,,1,161025,shp-16-51,1,1
-602005,16,WEEKDAY,Concord BART via Downtown PH,,1,161015,shp-16-51,1,1
-602006,16,WEEKDAY,Concord BART via Downtown PH,,1,161035,shp-16-51,1,1
-602007,16,WEEKDAY,Concord BART via Downtown PH,,1,161025,shp-16-51,1,1
-602008,16,WEEKDAY,Concord BART via Downtown PH,,1,161015,shp-16-51,1,1
-602009,16,WEEKDAY,Concord BART via Downtown PH,,1,161035,shp-16-51,1,1
-602010,16,WEEKDAY,Concord BART via Downtown PH,,1,161025,shp-16-51,1,1
-602011,16,WEEKDAY,Concord BART via Downtown PH,,1,161015,shp-16-51,1,1
+601965,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161011,shp-16-01,1,1
+601966,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161031,shp-16-01,1,1
+601967,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161022,shp-16-01,1,1
+601968,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161011,shp-16-01,1,1
+601969,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161031,shp-16-01,1,1
+601970,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161022,shp-16-01,1,1
+601971,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161011,shp-16-01,1,1
+601972,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161031,shp-16-01,1,1
+601973,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161021,shp-16-01,1,1
+601974,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161011,shp-16-01,1,1
+601975,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161035,shp-16-01,1,1
+601976,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161021,shp-16-01,1,1
+601977,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161015,shp-16-01,1,1
+601978,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161035,shp-16-01,1,1
+601979,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161025,shp-16-01,1,1
+601980,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161015,shp-16-01,1,1
+601981,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161035,shp-16-01,1,1
+601982,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161025,shp-16-01,1,1
+601983,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161015,shp-16-01,1,1
+601984,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161035,shp-16-01,1,1
+601985,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161025,shp-16-01,1,1
+601986,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161015,shp-16-01,1,1
+601987,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161025,shp-16-01,1,1
+601988,16,WEEKDAY,Martinez Amtrak via Downtown Pleasant Hill,,0,161035,shp-16-01,1,1
+601989,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161022,shp-16-51,1,1
+601990,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161011,shp-16-51,1,1
+601991,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161031,shp-16-51,1,1
+601992,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161022,shp-16-51,1,1
+601993,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161011,shp-16-51,1,1
+601994,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161031,shp-16-51,1,1
+601995,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161022,shp-16-51,1,1
+601996,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161011,shp-16-51,1,1
+601997,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161031,shp-16-51,1,1
+601998,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161021,shp-16-51,1,1
+601999,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161015,shp-16-51,1,1
+602000,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161035,shp-16-51,1,1
+602001,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161021,shp-16-51,1,1
+602002,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161015,shp-16-51,1,1
+602003,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161035,shp-16-51,1,1
+602004,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161025,shp-16-51,1,1
+602005,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161015,shp-16-51,1,1
+602006,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161035,shp-16-51,1,1
+602007,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161025,shp-16-51,1,1
+602008,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161015,shp-16-51,1,1
+602009,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161035,shp-16-51,1,1
+602010,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161025,shp-16-51,1,1
+602011,16,WEEKDAY,Concord BART via Downtown Pleasant Hill,,1,161015,shp-16-51,1,1
 602012,17,WEEKDAY,N Concord BART via John Muir Concord,,0,281041,shp-17-01,1,1
 602013,17,WEEKDAY,N Concord BART via John Muir Concord,,0,281021,shp-17-01,1,1
 602014,17,WEEKDAY,N Concord BART via John Muir Concord,,0,281011,shp-17-01,1,1
@@ -588,52 +588,52 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 602415,311,SATURDAY,Walnut Creek BART via PH BART,,1,3142015,shp-311-51,1,1
 602416,311,SATURDAY,Walnut Creek BART via PH BART,,1,3142011,shp-311-51,1,1
 602417,311,SATURDAY,Walnut Creek BART via PH BART,,1,3142042,shp-311-51,1,1
-602443,314,SATURDAY,DVC via Downtown PH,,0,3142011,shp-314-52,0,0
-602444,314,SATURDAY,DVC via Downtown PH,,0,3142021,shp-314-52,0,0
-602445,314,SATURDAY,DVC via Downtown PH,,0,3142031,shp-314-52,0,0
-602446,314,SATURDAY,DVC via Downtown PH,,0,3142021,shp-314-52,0,0
-602447,314,SATURDAY,DVC via Downtown PH,,0,3142011,shp-314-52,0,0
-602448,314,SATURDAY,DVC via Downtown PH,,0,3142031,shp-314-52,0,0
-602449,314,SATURDAY,DVC via Downtown PH,,0,3142041,shp-314-52,0,0
-602450,314,SATURDAY,DVC via Downtown PH,,0,3142011,shp-314-52,0,0
-602451,314,SATURDAY,DVC via Downtown PH,,0,3142051,shp-314-52,0,0
-602452,314,SATURDAY,DVC via Downtown PH,,0,3142042,shp-314-52,0,0
-602453,314,SATURDAY,DVC via Downtown PH,,0,3142021,shp-314-52,0,0
-602454,314,SATURDAY,DVC via Downtown PH,,0,3142051,shp-314-52,0,0
-602455,314,SATURDAY,DVC via Downtown PH,,0,3142031,shp-314-52,0,0
-602456,314,SATURDAY,DVC via Downtown PH,,0,3142021,shp-314-52,0,0
-602457,314,SATURDAY,DVC via Downtown PH,,0,3142015,shp-314-52,0,0
-602458,314,SATURDAY,DVC via Downtown PH,,0,3142031,shp-314-52,0,0
-602459,314,SATURDAY,DVC via Downtown PH,,0,3142042,shp-314-52,0,0
-602460,314,SATURDAY,DVC via Downtown PH,,0,3142015,shp-314-52,0,0
-602461,314,SATURDAY,DVC via Downtown PH,,0,3142056,shp-314-52,0,0
-602462,314,SATURDAY,DVC via Downtown PH,,0,3142042,shp-314-52,0,0
-602463,314,SATURDAY,DVC via Downtown PH,,0,3142025,shp-314-52,0,0
-602464,314,SATURDAY,DVC via Downtown PH,,0,3142056,shp-314-52,0,0
-602465,314,SATURDAY,Concord BART via Downtown PH,,1,3142011,shp-314-01,0,0
-602466,314,SATURDAY,Concord BART via Downtown PH,,1,3142041,shp-314-01,0,0
-602467,314,SATURDAY,Concord BART via Downtown PH,,1,3142021,shp-314-01,0,0
-602468,314,SATURDAY,Concord BART via Downtown PH,,1,3142051,shp-314-01,0,0
-602469,314,SATURDAY,Concord BART via Downtown PH,,1,3142031,shp-314-01,0,0
-602470,314,SATURDAY,Concord BART via Downtown PH,,1,3142021,shp-314-01,0,0
-602471,314,SATURDAY,Concord BART via Downtown PH,,1,3142011,shp-314-01,0,0
-602472,314,SATURDAY,Concord BART via Downtown PH,,1,3142031,shp-314-01,0,0
-602473,314,SATURDAY,Concord BART via Downtown PH,,1,3142042,shp-314-01,0,0
-602474,314,SATURDAY,Concord BART via Downtown PH,,1,3142011,shp-314-01,0,0
-602475,314,SATURDAY,Concord BART via Downtown PH,,1,3142051,shp-314-01,0,0
-602476,314,SATURDAY,Concord BART via Downtown PH,,1,3142042,shp-314-01,0,0
-602477,314,SATURDAY,Concord BART via Downtown PH,,1,3142021,shp-314-01,0,0
-602478,314,SATURDAY,Concord BART via Downtown PH,,1,3142055,shp-314-01,0,0
-602479,314,SATURDAY,Concord BART via Downtown PH,,1,3142031,shp-314-01,0,0
-602480,314,SATURDAY,Concord BART via Downtown PH,,1,3142021,shp-314-01,0,0
-602481,314,SATURDAY,Concord BART via Downtown PH,,1,3142015,shp-314-01,0,0
-602482,314,SATURDAY,Concord BART via Downtown PH,,1,3142031,shp-314-01,0,0
-602483,314,SATURDAY,Concord BART via Downtown PH,,1,3142042,shp-314-01,0,0
-602484,314,SATURDAY,Concord BART via Downtown PH,,1,3142015,shp-314-01,0,0
-602485,314,SATURDAY,Concord BART via Downtown PH,,1,3142056,shp-314-01,0,0
-602486,314,SATURDAY,Concord BART via Downtown PH,,1,3142042,shp-314-01,0,0
-602487,314,SATURDAY,Concord BART via Downtown PH,,1,3142025,shp-314-01,0,0
-602488,314,SATURDAY,Concord BART via Downtown PH,,1,3142056,shp-314-01,0,0
+602443,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142011,shp-314-52,0,0
+602444,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142021,shp-314-52,0,0
+602445,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142031,shp-314-52,0,0
+602446,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142021,shp-314-52,0,0
+602447,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142011,shp-314-52,0,0
+602448,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142031,shp-314-52,0,0
+602449,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142041,shp-314-52,0,0
+602450,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142011,shp-314-52,0,0
+602451,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142051,shp-314-52,0,0
+602452,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142042,shp-314-52,0,0
+602453,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142021,shp-314-52,0,0
+602454,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142051,shp-314-52,0,0
+602455,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142031,shp-314-52,0,0
+602456,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142021,shp-314-52,0,0
+602457,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142015,shp-314-52,0,0
+602458,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142031,shp-314-52,0,0
+602459,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142042,shp-314-52,0,0
+602460,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142015,shp-314-52,0,0
+602461,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142056,shp-314-52,0,0
+602462,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142042,shp-314-52,0,0
+602463,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142025,shp-314-52,0,0
+602464,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142056,shp-314-52,0,0
+602465,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142011,shp-314-01,0,0
+602466,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142041,shp-314-01,0,0
+602467,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142021,shp-314-01,0,0
+602468,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142051,shp-314-01,0,0
+602469,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142031,shp-314-01,0,0
+602470,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142021,shp-314-01,0,0
+602471,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142011,shp-314-01,0,0
+602472,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142031,shp-314-01,0,0
+602473,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142042,shp-314-01,0,0
+602474,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142011,shp-314-01,0,0
+602475,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142051,shp-314-01,0,0
+602476,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142042,shp-314-01,0,0
+602477,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142021,shp-314-01,0,0
+602478,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142055,shp-314-01,0,0
+602479,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142031,shp-314-01,0,0
+602480,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142021,shp-314-01,0,0
+602481,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142015,shp-314-01,0,0
+602482,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142031,shp-314-01,0,0
+602483,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142042,shp-314-01,0,0
+602484,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142015,shp-314-01,0,0
+602485,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142056,shp-314-01,0,0
+602486,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142042,shp-314-01,0,0
+602487,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142025,shp-314-01,0,0
+602488,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142056,shp-314-01,0,0
 602535,315,SATURDAY,Clayton/Treat,,0,3152011,shp-315-01,1,1
 602536,315,SATURDAY,Clayton/Treat,,0,3152011,shp-315-01,1,1
 602537,315,SATURDAY,Clayton/Treat,,0,3152011,shp-315-01,1,1
@@ -644,15 +644,15 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 602542,315,SATURDAY,Clayton/Treat,,0,3152015,shp-315-01,1,1
 602543,315,SATURDAY,Clayton/Treat,,0,3152015,shp-315-01,1,1
 602544,315,SATURDAY,Clayton/Treat,,0,3152015,shp-315-01,1,1
-602555,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162011,shp-316-01,1,1
-602556,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162021,shp-316-01,1,1
-602557,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162011,shp-316-01,1,1
-602558,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162025,shp-316-01,1,1
-602559,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162011,shp-316-01,1,1
-602560,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162025,shp-316-01,1,1
-602561,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162015,shp-316-01,1,1
-602562,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162025,shp-316-01,1,1
-602563,316,SATURDAY,Martinez Walmart via Downtown PH,,0,3162015,shp-316-01,1,1
+602555,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162011,shp-316-01,1,1
+602556,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162021,shp-316-01,1,1
+602557,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162011,shp-316-01,1,1
+602558,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162025,shp-316-01,1,1
+602559,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162011,shp-316-01,1,1
+602560,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162025,shp-316-01,1,1
+602561,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162015,shp-316-01,1,1
+602562,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162025,shp-316-01,1,1
+602563,316,SATURDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3162015,shp-316-01,1,1
 602564,316,SATURDAY,Pleasant Hill BART via Martinez Amtrak,,1,3162011,shp-316-51,1,1
 602565,316,SATURDAY,Pleasant Hill BART via Martinez Amtrak,,1,3162021,shp-316-51,1,1
 602566,316,SATURDAY,Pleasant Hill BART via Martinez Amtrak,,1,3162011,shp-316-51,1,1
@@ -663,15 +663,15 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 602571,316,SATURDAY,Pleasant Hill BART via Martinez Amtrak,,1,3162025,shp-316-51,1,1
 602572,316,SATURDAY,Pleasant Hill BART via Martinez Amtrak,,1,3162015,shp-316-51,1,1
 602573,316,SATURDAY,Pleasant Hill BART via Martinez Amtrak,,1,3162025,shp-316-51,1,1
-602574,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163011,shp-316-01,1,1
-602575,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163021,shp-316-01,1,1
-602576,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163011,shp-316-01,1,1
-602577,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163025,shp-316-01,1,1
-602578,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163011,shp-316-01,1,1
-602579,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163025,shp-316-01,1,1
-602580,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163015,shp-316-01,1,1
-602581,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163025,shp-316-01,1,1
-602582,316,SUNDAY,Martinez Walmart via Downtown PH,,0,3163015,shp-316-01,1,1
+602574,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163011,shp-316-01,1,1
+602575,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163021,shp-316-01,1,1
+602576,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163011,shp-316-01,1,1
+602577,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163025,shp-316-01,1,1
+602578,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163011,shp-316-01,1,1
+602579,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163025,shp-316-01,1,1
+602580,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163015,shp-316-01,1,1
+602581,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163025,shp-316-01,1,1
+602582,316,SUNDAY,Martinez Walmart via Downtown Pleasant Hill,,0,3163015,shp-316-01,1,1
 602583,316,SUNDAY,Pleasant Hill BART via Martinez Amtrak,,1,3163011,shp-316-51,1,1
 602584,316,SUNDAY,Pleasant Hill BART via Martinez Amtrak,,1,3163021,shp-316-51,1,1
 602585,316,SUNDAY,Pleasant Hill BART via Martinez Amtrak,,1,3163011,shp-316-51,1,1
@@ -1125,10 +1125,10 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 603312,91X,WEEKDAY,UFCW & Employers Plaza,,0,911025,shp-91X-01,1,1
 603313,91X,WEEKDAY,UFCW & Employers Plaza,,0,911025,shp-91X-01,1,1
 603314,91X,WEEKDAY,UFCW & Employers Plaza,,0,911025,shp-91X-01,1,1
-603315,92X,WEEKDAY,ACE Train,,0,921011,shp-92X-51,1,1
-603316,92X,WEEKDAY,ACE Train,,0,921045,shp-92X-52,1,1
-603317,92X,WEEKDAY,ACE Train,,0,921035,shp-92X-52,1,1
-603318,92X,WEEKDAY,ACE Train,,0,921025,shp-92X-52,1,1
+603315,92X,WEEKDAY,Pleasanton ACE Train,,0,921011,shp-92X-51,1,1
+603316,92X,WEEKDAY,Pleasanton ACE Train,,0,921045,shp-92X-52,1,1
+603317,92X,WEEKDAY,Pleasanton ACE Train,,0,921035,shp-92X-52,1,1
+603318,92X,WEEKDAY,Pleasanton ACE Train,,0,921025,shp-92X-52,1,1
 603319,92X,WEEKDAY,Mitchell P&R,,1,921045,shp-92X-01,1,1
 603320,92X,WEEKDAY,Mitchell P&R,,1,921035,shp-92X-01,1,1
 603321,92X,WEEKDAY,Danville P&R,,1,921011,shp-92X-02,1,1
@@ -1158,25 +1158,25 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 603345,95X,WEEKDAY,San Ramon via Danville P&R,,0,951055,shp-95X-03,1,1
 603346,95X,WEEKDAY,San Ramon via Danville P&R,,0,951075,shp-95X-03,1,1
 603347,95X,WEEKDAY,San Ramon via Danville P&R,,0,951035,shp-95X-03,1,1
-603348,96X,WEEKDAY,Bishop Ranch,,0,961011,shp-96X-05,1,1
-603349,96X,WEEKDAY,Bishop Ranch,,0,961021,shp-96X-05,1,1
-603350,96X,WEEKDAY,Bishop Ranch,,0,961011,shp-96X-05,1,1
-603351,96X,WEEKDAY,Bishop Ranch,,0,961021,shp-96X-05,1,1
-603352,96X,WEEKDAY,Bishop Ranch,,0,961055,shp-96X-05,1,1
-603353,96X,WEEKDAY,Bishop Ranch,,0,961035,shp-96X-05,1,1
-603354,96X,WEEKDAY,Bishop Ranch,,0,961035,shp-96X-05,1,1
-603355,96X,WEEKDAY,Bishop Ranch,,0,961035,shp-96X-05,1,1
-603356,96X,WEEKDAY,Bishop Ranch,,0,961021,shp-96X-05,1,1
-603357,96X,WEEKDAY,Bishop Ranch,,0,961011,shp-96X-05,1,1
-603358,96X,WEEKDAY,Bishop Ranch,,0,961045,shp-96X-05,1,1
-603359,96X,WEEKDAY,Bishop Ranch,,0,961035,shp-96X-05,1,1
-603360,96X,WEEKDAY,Bishop Ranch,,0,961045,shp-96X-05,1,1
-603361,97X,WEEKDAY,Bishop Ranch,,0,971011,shp-97X-05,1,1
-603362,97X,WEEKDAY,Bishop Ranch,,0,971011,shp-97X-05,1,1
-603363,97X,WEEKDAY,Bishop Ranch,,0,971011,shp-97X-05,1,1
-603364,97X,WEEKDAY,Bishop Ranch,,0,971025,shp-97X-05,1,1
-603365,97X,WEEKDAY,Bishop Ranch,,0,971025,shp-97X-05,1,1
-603366,97X,WEEKDAY,Bishop Ranch,,0,971025,shp-97X-05,1,1
+603348,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961011,shp-96X-05,1,1
+603349,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961021,shp-96X-05,1,1
+603350,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961011,shp-96X-05,1,1
+603351,96X,WEEKDAY,Bishop Ranch/Walnut Creek BARTh,,0,961021,shp-96X-05,1,1
+603352,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961055,shp-96X-05,1,1
+603353,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961035,shp-96X-05,1,1
+603354,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961035,shp-96X-05,1,1
+603355,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961035,shp-96X-05,1,1
+603356,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961021,shp-96X-05,1,1
+603357,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961011,shp-96X-05,1,1
+603358,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961045,shp-96X-05,1,1
+603359,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961035,shp-96X-05,1,1
+603360,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961045,shp-96X-05,1,1
+603361,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971011,shp-97X-05,1,1
+603362,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971011,shp-97X-05,1,1
+603363,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971011,shp-97X-05,1,1
+603364,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971025,shp-97X-05,1,1
+603365,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971025,shp-97X-05,1,1
+603366,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971025,shp-97X-05,1,1
 603367,98X,WEEKDAY,WC BART,,0,981021,shp-98X-51,1,1
 603368,98X,WEEKDAY,WC BART,,0,981011,shp-98X-51,1,1
 603369,98X,WEEKDAY,WC BART,,0,981021,shp-98X-51,1,1
@@ -1234,10 +1234,10 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 603421,99X,WEEKDAY,N. Concord BART,,1,991065,shp-99X-02,1,1
 603422,99X,WEEKDAY,N. Concord BART via Bates Ave,,1,991055,shp-99X-04,1,1
 603423,99X,WEEKDAY,N. Concord BART,,1,991031,shp-99X-02,1,1
-604187,314,SATURDAY,DVC via Downtown PH,,0,3142035,shp-314-52,1,1
-604188,314,SATURDAY,DVC via Downtown PH,,0,3142025,shp-314-52,1,1
-604189,314,SATURDAY,Concord BART via Downtown PH,,1,3142035,shp-314-01,1,1
-604190,314,SATURDAY,Concord BART via Downtown PH,,1,3142025,shp-314-01,1,1
+604187,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142035,shp-314-52,1,1
+604188,314,SATURDAY,DVC via Downtown Pleasant Hill,,0,3142025,shp-314-52,1,1
+604189,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142035,shp-314-01,1,1
+604190,314,SATURDAY,Concord BART via Downtown Pleasant Hill,,1,3142025,shp-314-01,1,1
 604266,320,SUNDAY,Concord BART via Diamond,,0,3103031,shp-320-01,1,1
 604267,320,SUNDAY,Concord BART via Diamond,,0,3103021,shp-320-01,1,1
 604268,320,SUNDAY,Concord BART via Diamond,,0,3103012,shp-320-01,1,1
@@ -1399,56 +1399,56 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 604499,311,SUNDAY,Walnut Creek BART via PH BART,,1,3143015,shp-311-51,1,1
 604500,311,SUNDAY,Walnut Creek BART via PH BART,,1,3143011,shp-311-51,1,1
 604501,311,SUNDAY,Walnut Creek BART via PH BART,,1,3143042,shp-311-51,1,1
-604502,314,SUNDAY,DVC via Downtown PH,,0,3143011,shp-314-52,0,0
-604503,314,SUNDAY,DVC via Downtown PH,,0,3143021,shp-314-52,0,0
-604504,314,SUNDAY,DVC via Downtown PH,,0,3143031,shp-314-52,0,0
-604505,314,SUNDAY,DVC via Downtown PH,,0,3143021,shp-314-52,0,0
-604506,314,SUNDAY,DVC via Downtown PH,,0,3143011,shp-314-52,0,0
-604507,314,SUNDAY,DVC via Downtown PH,,0,3143031,shp-314-52,0,0
-604508,314,SUNDAY,DVC via Downtown PH,,0,3143041,shp-314-52,0,0
-604509,314,SUNDAY,DVC via Downtown PH,,0,3143011,shp-314-52,0,0
-604510,314,SUNDAY,DVC via Downtown PH,,0,3143051,shp-314-52,0,0
-604511,314,SUNDAY,DVC via Downtown PH,,0,3143042,shp-314-52,0,0
-604512,314,SUNDAY,DVC via Downtown PH,,0,3143021,shp-314-52,0,0
-604513,314,SUNDAY,DVC via Downtown PH,,0,3143051,shp-314-52,0,0
-604514,314,SUNDAY,DVC via Downtown PH,,0,3143031,shp-314-52,0,0
-604515,314,SUNDAY,DVC via Downtown PH,,0,3143021,shp-314-52,0,0
-604516,314,SUNDAY,DVC via Downtown PH,,0,3143015,shp-314-52,0,0
-604517,314,SUNDAY,DVC via Downtown PH,,0,3143031,shp-314-52,0,0
-604518,314,SUNDAY,DVC via Downtown PH,,0,3143042,shp-314-52,0,0
-604519,314,SUNDAY,DVC via Downtown PH,,0,3143015,shp-314-52,0,0
-604520,314,SUNDAY,DVC via Downtown PH,,0,3143056,shp-314-52,0,0
-604521,314,SUNDAY,DVC via Downtown PH,,0,3143042,shp-314-52,0,0
-604522,314,SUNDAY,DVC via Downtown PH,,0,3143025,shp-314-52,0,0
-604523,314,SUNDAY,DVC via Downtown PH,,0,3143056,shp-314-52,0,0
-604524,314,SUNDAY,DVC via Downtown PH,,0,3143035,shp-314-52,1,1
-604525,314,SUNDAY,DVC via Downtown PH,,0,3143025,shp-314-52,1,1
-604526,314,SUNDAY,Concord BART via Downtown PH,,1,3143011,shp-314-01,0,0
-604527,314,SUNDAY,Concord BART via Downtown PH,,1,3143041,shp-314-01,0,0
-604528,314,SUNDAY,Concord BART via Downtown PH,,1,3143021,shp-314-01,0,0
-604529,314,SUNDAY,Concord BART via Downtown PH,,1,3143051,shp-314-01,0,0
-604530,314,SUNDAY,Concord BART via Downtown PH,,1,3143031,shp-314-01,0,0
-604531,314,SUNDAY,Concord BART via Downtown PH,,1,3143021,shp-314-01,0,0
-604532,314,SUNDAY,Concord BART via Downtown PH,,1,3143011,shp-314-01,0,0
-604533,314,SUNDAY,Concord BART via Downtown PH,,1,3143031,shp-314-01,0,0
-604534,314,SUNDAY,Concord BART via Downtown PH,,1,3143042,shp-314-01,0,0
-604535,314,SUNDAY,Concord BART via Downtown PH,,1,3143011,shp-314-01,0,0
-604536,314,SUNDAY,Concord BART via Downtown PH,,1,3143051,shp-314-01,0,0
-604537,314,SUNDAY,Concord BART via Downtown PH,,1,3143042,shp-314-01,0,0
-604538,314,SUNDAY,Concord BART via Downtown PH,,1,3143021,shp-314-01,0,0
-604539,314,SUNDAY,Concord BART via Downtown PH,,1,3143055,shp-314-01,0,0
-604540,314,SUNDAY,Concord BART via Downtown PH,,1,3143031,shp-314-01,0,0
-604541,314,SUNDAY,Concord BART via Downtown PH,,1,3143021,shp-314-01,0,0
-604542,314,SUNDAY,Concord BART via Downtown PH,,1,3143015,shp-314-01,0,0
-604543,314,SUNDAY,Concord BART via Downtown PH,,1,3143031,shp-314-01,0,0
-604544,314,SUNDAY,Concord BART via Downtown PH,,1,3143042,shp-314-01,0,0
-604545,314,SUNDAY,Concord BART via Downtown PH,,1,3143015,shp-314-01,0,0
-604546,314,SUNDAY,Concord BART via Downtown PH,,1,3143056,shp-314-01,0,0
-604547,314,SUNDAY,Concord BART via Downtown PH,,1,3143042,shp-314-01,0,0
-604548,314,SUNDAY,Concord BART via Downtown PH,,1,3143025,shp-314-01,0,0
-604549,314,SUNDAY,Concord BART via Downtown PH,,1,3143056,shp-314-01,0,0
-604550,314,SUNDAY,Concord BART via Downtown PH,,1,3143035,shp-314-01,1,1
-604551,314,SUNDAY,Concord BART via Downtown PH,,1,3143025,shp-314-01,1,1
+604502,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143011,shp-314-52,0,0
+604503,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143021,shp-314-52,0,0
+604504,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143031,shp-314-52,0,0
+604505,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143021,shp-314-52,0,0
+604506,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143011,shp-314-52,0,0
+604507,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143031,shp-314-52,0,0
+604508,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143041,shp-314-52,0,0
+604509,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143011,shp-314-52,0,0
+604510,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143051,shp-314-52,0,0
+604511,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143042,shp-314-52,0,0
+604512,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143021,shp-314-52,0,0
+604513,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143051,shp-314-52,0,0
+604514,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143031,shp-314-52,0,0
+604515,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143021,shp-314-52,0,0
+604516,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143015,shp-314-52,0,0
+604517,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143031,shp-314-52,0,0
+604518,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143042,shp-314-52,0,0
+604519,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143015,shp-314-52,0,0
+604520,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143056,shp-314-52,0,0
+604521,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143042,shp-314-52,0,0
+604522,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143025,shp-314-52,0,0
+604523,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143056,shp-314-52,0,0
+604524,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143035,shp-314-52,1,1
+604525,314,SUNDAY,DVC via Downtown Pleasant Hill,,0,3143025,shp-314-52,1,1
+604526,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143011,shp-314-01,0,0
+604527,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143041,shp-314-01,0,0
+604528,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143021,shp-314-01,0,0
+604529,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143051,shp-314-01,0,0
+604530,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143031,shp-314-01,0,0
+604531,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143021,shp-314-01,0,0
+604532,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143011,shp-314-01,0,0
+604533,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143031,shp-314-01,0,0
+604534,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143042,shp-314-01,0,0
+604535,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143011,shp-314-01,0,0
+604536,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143051,shp-314-01,0,0
+604537,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143042,shp-314-01,0,0
+604538,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143021,shp-314-01,0,0
+604539,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143055,shp-314-01,0,0
+604540,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143031,shp-314-01,0,0
+604541,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143021,shp-314-01,0,0
+604542,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143015,shp-314-01,0,0
+604543,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143031,shp-314-01,0,0
+604544,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143042,shp-314-01,0,0
+604545,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143015,shp-314-01,0,0
+604546,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143056,shp-314-01,0,0
+604547,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143042,shp-314-01,0,0
+604548,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143025,shp-314-01,0,0
+604549,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143056,shp-314-01,0,0
+604550,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143035,shp-314-01,1,1
+604551,314,SUNDAY,Concord BART via Downtown Pleasant Hill,,1,3143025,shp-314-01,1,1
 605546,21,WEEKDAY,San Ramon TC,,0,211011,shp-21-51,1,1
 605547,21,WEEKDAY,San Ramon TC,,0,211051,shp-21-51,1,1
 605548,21,WEEKDAY,San Ramon TC,,0,211011,shp-21-51,1,1

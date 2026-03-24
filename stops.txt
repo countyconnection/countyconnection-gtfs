@@ -997,36 +997,36 @@ S6,S6,Diablo Valley College,Diablo Valley College,37.970927,-122.069136,1,,1
 1993,831993,Shadelands Dr and N via Monte,Shadelands Drive and North Via Monte,37.929075,-122.019294,0,,0
 2196,832196,Shadelands Dr and Lennon Ln,Shadelands Drive and Lennon Lane,37.925661,-122.027502,0,,1
 1994,831994,Shadelands Dr and N Wiget Ln,Shadelands Drive and North Wiget Lane,37.926948,-122.024185,0,,1
-1231,831231,St Mary'S Rd and Cattle Chute Rd,Saint  Mary's Road and Cattle Chute Road,37.85396,-122.103697,0,,0
-1230,831230,St Mary'S Rd and Cattle Chute Rd,Saint  Mary's Road and Cattle Chute Road,37.854226,-122.103697,0,,0
-1224,831224,St Mary'S Rd and Glenside Dr,Saint  Mary's Road and Glenside Drive,37.881151,-122.103915,0,,0
-1362,831362,St Mary'S Rd and Moraga Library,Saint Mary's Road and Moraga Library,37.841046,-122.123049,0,,1
-1365,831365,St Mary'S Rd and Moraga Library,Saint Mary's Road and Moraga Library,37.841161,-122.123069,0,,0
-1225,831225,St Mary'S Rd and Saint Mary'S Ballfields,Saint  Mary's Road and Saint Mary's Ballfields,37.876796,-122.100539,0,,0
-1222,831222,St Mary'S Rd and Acampo Dr,Saint Mary's Road and Acampo Drive,37.88455,-122.113949,0,,0
-1238,831238,St Mary'S Rd and Avalon Ave,Saint Mary's Road and Avalon Avenue,37.885021,-122.11522,0,,1
-1363,831363,St Mary'S Rd and Carter Dr,Saint Mary's Road and Carter Drive,37.842488,-122.117904,0,,0
-1364,831364,St Mary'S Rd and Carter Dr,Saint Mary's Road and Carter Drive,37.8426,-122.117942,0,,0
-1322,831322,St Mary'S College,Saint Mary's College,37.842095,-122.110135,0,,1
+1231,831231,St Mary's Rd and Cattle Chute Rd,Saint  Mary's Road and Cattle Chute Road,37.85396,-122.103697,0,,0
+1230,831230,St Mary's Rd and Cattle Chute Rd,Saint  Mary's Road and Cattle Chute Road,37.854226,-122.103697,0,,0
+1224,831224,St Mary's Rd and Glenside Dr,Saint  Mary's Road and Glenside Drive,37.881151,-122.103915,0,,0
+1362,831362,St Mary's Rd and Moraga Library,Saint Mary's Road and Moraga Library,37.841046,-122.123049,0,,1
+1365,831365,St Mary's Rd and Moraga Library,Saint Mary's Road and Moraga Library,37.841161,-122.123069,0,,0
+1225,831225,St Mary's Rd and Saint Mary's Ballfields,Saint  Mary's Road and Saint Mary's Ballfields,37.876796,-122.100539,0,,0
+1222,831222,St Mary's Rd and Acampo Dr,Saint Mary's Road and Acampo Drive,37.88455,-122.113949,0,,0
+1238,831238,St Mary's Rd and Avalon Ave,Saint Mary's Road and Avalon Avenue,37.885021,-122.11522,0,,1
+1363,831363,St Mary's Rd and Carter Dr,Saint Mary's Road and Carter Drive,37.842488,-122.117904,0,,0
+1364,831364,St Mary's Rd and Carter Dr,Saint Mary's Road and Carter Drive,37.8426,-122.117942,0,,0
+1322,831322,St Mary's College,Saint Mary's College,37.842095,-122.110135,0,,1
 1893,831893,S Main St and Creekside Dr,South Main Street and Creekside Drive,37.887685,-122.056034,0,,1
 1054,831054,S Main St and Crest Ave,South Main Street and Crest Avenue,37.881105,-122.051007,0,,1
 1891,831891,S Main St and Creekside Dr,South Main Street and Creekside Drive,37.886918,-122.055755,0,,1
-1232,831232,St Mary'S Rd and Driftwood Dr,Saint  Mary's Road and Driftwood Drive,37.857616,-122.101969,0,,0
-1229,831229,St Mary'S Rd and Driftwood Dr,Saint  Mary's Road and Driftwood Drive,37.857326,-122.102049,0,,0
-1235,831235,St Mary'S Rd and Glenside Dr,Saint  Mary's Road and Glenside Drive,37.871981,-122.098234,0,,1
-1236,831236,St Mary'S Rd and Glenside Dr,Saint Mary's Road and Glenside Drive,37.880921,-122.10328,0,,0
-1223,831223,St Mary'S Rd and Hope Ln,Saint Mary's Road and Hope Lane,37.88337,-122.109915,0,,0
-1237,831237,St Mary'S Rd and Hope Ln,Saint Mary's Road and Hope Lane,37.883456,-122.110035,0,,0
+1232,831232,St Mary's Rd and Driftwood Dr,Saint  Mary's Road and Driftwood Drive,37.857616,-122.101969,0,,0
+1229,831229,St Mary's Rd and Driftwood Dr,Saint  Mary's Road and Driftwood Drive,37.857326,-122.102049,0,,0
+1235,831235,St Mary's Rd and Glenside Dr,Saint  Mary's Road and Glenside Drive,37.871981,-122.098234,0,,1
+1236,831236,St Mary's Rd and Glenside Dr,Saint Mary's Road and Glenside Drive,37.880921,-122.10328,0,,0
+1223,831223,St Mary's Rd and Hope Ln,Saint Mary's Road and Hope Lane,37.88337,-122.109915,0,,0
+1237,831237,St Mary's Rd and Hope Ln,Saint Mary's Road and Hope Lane,37.883456,-122.110035,0,,0
 1894,831894,S Main St and Lilac Dr,South Main Street and Lilac Drive,37.890506,-122.057504,0,,1
 1895,831895,S Main St and Newell Ave,South Main Street and Newell Avenue,37.892636,-122.05812,0,,1
-1233,831233,St Mary'S Rd and Rohrer Dr,Saint  Mary's Road and Rohrer Drive,37.859006,-122.10173,0,,0
-1228,831228,St Mary'S Rd and Rohrer Dr,Saint  Mary's Road and Rohrer Drive,37.859012,-122.101763,0,,0
+1233,831233,St Mary's Rd and Rohrer Dr,Saint  Mary's Road and Rohrer Drive,37.859006,-122.10173,0,,0
+1228,831228,St Mary's Rd and Rohrer Dr,Saint  Mary's Road and Rohrer Drive,37.859012,-122.101763,0,,0
 1892,831892,S Main St and Rudgear Rd,South Main Street and Rudgear Road,37.87926,-122.050054,0,,1
 1055,831055,S Main St and Rudgear Rd,South Main Street and Rudgear Road,37.879363,-122.050272,0,,1
-1226,831226,St Mary'S Rd and Woodview Dr,Saint  Mary's Road and Woodview Drive,37.871321,-122.098492,0,,1
+1226,831226,St Mary's Rd and Woodview Dr,Saint  Mary's Road and Woodview Drive,37.871321,-122.098492,0,,1
 1890,831890,S Main St and Kaiser Medical Center,South Main Street and Kaiser Medical Center,37.890998,-122.057862,0,,1
-1234,831234,St Mary'S Rd and Lafayette Community Center,Saint  Mary's Road and Lafayette Community Center,37.864768,-122.099962,0,,1
-1227,831227,St Mary'S Rd and Lafayette Community Center,Saint  Mary's Road and Lafayette Community Center,37.864715,-122.100068,0,,0
+1234,831234,St Mary's Rd and Lafayette Community Center,Saint  Mary's Road and Lafayette Community Center,37.864768,-122.099962,0,,1
+1227,831227,St Mary's Rd and Lafayette Community Center,Saint  Mary's Road and Lafayette Community Center,37.864715,-122.100068,0,,0
 802,83802,Solano Way and Avon Ave,Solano Way and Avon Avenue,37.992711,-122.049715,0,,1
 799,83799,Solano Way and Grant St,Solano Way and Grant Street,37.98964,-122.041947,0,,1
 800,83800,Solano Way and Grant St,Solano Way and Grant Street,37.989751,-122.042047,0,,1
