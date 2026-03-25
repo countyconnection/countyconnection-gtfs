@@ -1171,12 +1171,12 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 603358,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961045,shp-96X-05,1,1
 603359,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961035,shp-96X-05,1,1
 603360,96X,WEEKDAY,Bishop Ranch/Walnut Creek BART,,0,961045,shp-96X-05,1,1
-603361,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971011,shp-97X-05,1,1
-603362,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971011,shp-97X-05,1,1
-603363,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971011,shp-97X-05,1,1
-603364,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971025,shp-97X-05,1,1
-603365,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971025,shp-97X-05,1,1
-603366,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,0,971025,shp-97X-05,1,1
+603361,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,,0,971011,shp-97X-05,1,1
+603362,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,,0,971011,shp-97X-05,1,1
+603363,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,,0,971011,shp-97X-05,1,1
+603364,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,,0,971025,shp-97X-05,1,1
+603365,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,,0,971025,shp-97X-05,1,1
+603366,97X,WEEKDAY,Bishop Ranch/Dublin Pleasanton BART,,0,971025,shp-97X-05,1,1
 603367,98X,WEEKDAY,WC BART,,0,981021,shp-98X-51,1,1
 603368,98X,WEEKDAY,WC BART,,0,981011,shp-98X-51,1,1
 603369,98X,WEEKDAY,WC BART,,0,981021,shp-98X-51,1,1
