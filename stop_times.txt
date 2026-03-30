@@ -29564,7 +29564,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602160,14:18:37,14:18:37,602,10,,0,0,0
 602160,14:20:39,14:20:39,1467,11,,0,0,0
 602160,14:22:00,14:22:00,2164,12,,1,0,1
-604341,14:13:00,14:13:00,775,1,Clayton/Treat,0,1,1
+604341,14:13:00,14:13:00,889,1,Clayton/Treat,0,1,1
 604341,14:14:23,14:14:23,775,2,Clayton/Treat,0,0,0
 604341,14:17:00,14:17:00,764,3,Clayton/Treat,0,0,1
 604341,14:17:54,14:17:54,863,4,Clayton/Treat,0,0,0
@@ -29628,7 +29628,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602162,16:18:37,16:18:37,602,10,,0,0,0
 602162,16:20:39,16:20:39,1467,11,,0,0,0
 602162,16:22:00,16:22:00,2164,12,,1,0,1
-604342,15:13:00,15:13:00,775,1,Clayton/Treat,0,1,1
+604342,15:13:00,15:13:00,889,1,Clayton/Treat,0,1,1
 604342,15:14:23,15:14:23,775,2,Clayton/Treat,0,0,0
 604342,15:17:00,15:17:00,764,3,Clayton/Treat,0,0,1
 604342,15:17:54,15:17:54,863,4,Clayton/Treat,0,0,0
@@ -29704,7 +29704,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602164,18:18:37,18:18:37,602,10,,0,0,0
 602164,18:20:39,18:20:39,1467,11,,0,0,0
 602164,18:22:00,18:22:00,2164,12,,1,0,1
-604340,13:13:00,13:13:00,775,1,Clayton/Treat,0,1,1
+604340,13:13:00,13:13:00,889,1,Clayton/Treat,0,1,1
 604340,13:14:23,13:14:23,775,2,Clayton/Treat,0,0,0
 604340,13:17:00,13:17:00,764,3,Clayton/Treat,0,0,1
 604340,13:17:54,13:17:54,863,4,Clayton/Treat,0,0,0
@@ -29919,7 +29919,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602165,19:16:12,19:16:12,602,10,,0,0,0
 602165,19:17:54,19:17:54,1467,11,,0,0,0
 602165,19:19:00,19:19:00,2164,12,,1,0,1
-604343,16:13:00,16:13:00,775,1,Clayton/Treat,0,1,1
+604343,16:13:00,16:13:00,889,1,Clayton/Treat,0,1,1
 604343,16:14:23,16:14:23,775,2,Clayton/Treat,0,0,0
 604343,16:17:00,16:17:00,764,3,Clayton/Treat,0,0,1
 604343,16:17:54,16:17:54,863,4,Clayton/Treat,0,0,0
@@ -30015,7 +30015,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602168,7:33:12,7:33:12,602,10,,0,0,0
 602168,7:34:54,7:34:54,1467,11,,0,0,0
 602168,7:36:00,7:36:00,2164,12,,1,0,1
-604344,17:13:00,17:13:00,775,1,Clayton/Treat,0,1,1
+604344,17:13:00,17:13:00,889,1,Clayton/Treat,0,1,1
 604344,17:14:23,17:14:23,775,2,Clayton/Treat,0,0,0
 604344,17:17:00,17:17:00,764,3,Clayton/Treat,0,0,1
 604344,17:17:54,17:17:54,863,4,Clayton/Treat,0,0,0
@@ -30548,7 +30548,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602155,9:18:37,9:18:37,602,10,,0,0,0
 602155,9:20:39,9:20:39,1467,11,,0,0,0
 602155,9:22:00,9:22:00,2164,12,,1,0,1
-604335,8:13:00,8:13:00,775,1,Clayton/Treat,0,1,1
+604335,8:13:00,8:13:00,889,1,Clayton/Treat,0,1,1
 604335,8:14:23,8:14:23,775,2,Clayton/Treat,0,0,0
 604335,8:17:00,8:17:00,764,3,Clayton/Treat,0,0,1
 604335,8:17:54,8:17:54,863,4,Clayton/Treat,0,0,0
@@ -30797,7 +30797,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602156,10:18:37,10:18:37,602,10,,0,0,0
 602156,10:20:39,10:20:39,1467,11,,0,0,0
 602156,10:22:00,10:22:00,2164,12,,1,0,1
-604338,11:13:00,11:13:00,775,1,Clayton/Treat,0,1,1
+604338,11:13:00,11:13:00,889,1,Clayton/Treat,0,1,1
 604338,11:14:23,11:14:23,775,2,Clayton/Treat,0,0,0
 604338,11:17:00,11:17:00,764,3,Clayton/Treat,0,0,1
 604338,11:17:54,11:17:54,863,4,Clayton/Treat,0,0,0
@@ -30861,7 +30861,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602159,13:18:37,13:18:37,602,10,,0,0,0
 602159,13:20:39,13:20:39,1467,11,,0,0,0
 602159,13:22:00,13:22:00,2164,12,,1,0,1
-604339,12:13:00,12:13:00,775,1,Clayton/Treat,0,1,1
+604339,12:13:00,12:13:00,889,1,Clayton/Treat,0,1,1
 604339,12:14:23,12:14:23,775,2,Clayton/Treat,0,0,0
 604339,12:17:00,12:17:00,764,3,Clayton/Treat,0,0,1
 604339,12:17:54,12:17:54,863,4,Clayton/Treat,0,0,0
@@ -30925,7 +30925,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602158,12:18:37,12:18:37,602,10,,0,0,0
 602158,12:20:39,12:20:39,1467,11,,0,0,0
 602158,12:22:00,12:22:00,2164,12,,1,0,1
-604336,9:13:00,9:13:00,775,1,Clayton/Treat,0,1,1
+604336,9:13:00,9:13:00,889,1,Clayton/Treat,0,1,1
 604336,9:14:23,9:14:23,775,2,Clayton/Treat,0,0,0
 604336,9:17:00,9:17:00,764,3,Clayton/Treat,0,0,1
 604336,9:17:54,9:17:54,863,4,Clayton/Treat,0,0,0
@@ -31010,7 +31010,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 603005,19:39:11,19:39:11,1404,37,Orinda BART,0,0,0
 603005,19:41:06,19:41:06,1372,38,Orinda BART,0,0,0
 603005,19:43:00,19:43:00,1366,39,Orinda BART,0,0,1
-604337,10:13:00,10:13:00,775,1,Clayton/Treat,0,1,1
+604337,10:13:00,10:13:00,889,1,Clayton/Treat,0,1,1
 604337,10:14:23,10:14:23,775,2,Clayton/Treat,0,0,0
 604337,10:17:00,10:17:00,764,3,Clayton/Treat,0,0,1
 604337,10:17:54,10:17:54,863,4,Clayton/Treat,0,0,0
@@ -39529,7 +39529,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602556,11:03:58,11:03:58,1266,56,Walmart (Old Orchard/Arnold),0,0,0
 602556,11:05:00,11:05:00,1268,57,Walmart (Old Orchard/Arnold),0,0,1
 602556,11:12:00,11:12:00,2074,58,Walmart (Old Orchard/Arnold),1,0,1
-602537,10:13:00,10:13:00,775,1,Clayton/Treat,0,1,1
+602537,10:13:00,10:13:00,889,1,Clayton/Treat,0,1,1
 602537,10:14:23,10:14:23,775,2,Clayton/Treat,0,0,0
 602537,10:17:00,10:17:00,764,3,Clayton/Treat,0,0,1
 602537,10:17:54,10:17:54,863,4,Clayton/Treat,0,0,0
@@ -39575,7 +39575,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602537,10:53:15,10:53:15,626,44,Clayton/Treat,0,0,0
 602537,10:54:10,10:54:10,627,45,Clayton/Treat,0,0,0
 602537,10:58:00,10:58:00,889,46,Clayton/Treat,1,0,1
-602536,9:13:00,9:13:00,775,1,Clayton/Treat,0,1,1
+602536,9:13:00,9:13:00,889,1,Clayton/Treat,0,1,1
 602536,9:14:23,9:14:23,775,2,Clayton/Treat,0,0,0
 602536,9:17:00,9:17:00,764,3,Clayton/Treat,0,0,1
 602536,9:17:54,9:17:54,863,4,Clayton/Treat,0,0,0
@@ -39621,7 +39621,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602536,9:53:15,9:53:15,626,44,Clayton/Treat,0,0,0
 602536,9:54:10,9:54:10,627,45,Clayton/Treat,0,0,0
 602536,9:58:00,9:58:00,889,46,Clayton/Treat,1,0,1
-602539,12:13:00,12:13:00,775,1,Clayton/Treat,0,1,1
+602539,12:13:00,12:13:00,889,1,Clayton/Treat,0,1,1
 602539,12:14:23,12:14:23,775,2,Clayton/Treat,0,0,0
 602539,12:17:00,12:17:00,764,3,Clayton/Treat,0,0,1
 602539,12:17:54,12:17:54,863,4,Clayton/Treat,0,0,0
@@ -39667,7 +39667,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602539,12:53:15,12:53:15,626,44,Clayton/Treat,0,0,0
 602539,12:54:10,12:54:10,627,45,Clayton/Treat,0,0,0
 602539,12:58:00,12:58:00,889,46,Clayton/Treat,1,0,1
-602538,11:13:00,11:13:00,775,1,Clayton/Treat,0,1,1
+602538,11:13:00,11:13:00,889,1,Clayton/Treat,0,1,1
 602538,11:14:23,11:14:23,775,2,Clayton/Treat,0,0,0
 602538,11:17:00,11:17:00,764,3,Clayton/Treat,0,0,1
 602538,11:17:54,11:17:54,863,4,Clayton/Treat,0,0,0
@@ -39713,7 +39713,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602538,11:53:15,11:53:15,626,44,Clayton/Treat,0,0,0
 602538,11:54:10,11:54:10,627,45,Clayton/Treat,0,0,0
 602538,11:58:00,11:58:00,889,46,Clayton/Treat,1,0,1
-602540,13:13:00,13:13:00,775,1,Clayton/Treat,0,1,1
+602540,13:13:00,13:13:00,889,1,Clayton/Treat,0,1,1
 602540,13:14:23,13:14:23,775,2,Clayton/Treat,0,0,0
 602540,13:17:00,13:17:00,764,3,Clayton/Treat,0,0,1
 602540,13:17:54,13:17:54,863,4,Clayton/Treat,0,0,0
@@ -39759,7 +39759,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602540,13:53:15,13:53:15,626,44,Clayton/Treat,0,0,0
 602540,13:54:10,13:54:10,627,45,Clayton/Treat,0,0,0
 602540,13:58:00,13:58:00,889,46,Clayton/Treat,1,0,1
-602542,15:13:00,15:13:00,775,1,Clayton/Treat,0,1,1
+602542,15:13:00,15:13:00,889,1,Clayton/Treat,0,1,1
 602542,15:14:23,15:14:23,775,2,Clayton/Treat,0,0,0
 602542,15:17:00,15:17:00,764,3,Clayton/Treat,0,0,1
 602542,15:17:54,15:17:54,863,4,Clayton/Treat,0,0,0
@@ -39805,7 +39805,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602542,15:53:15,15:53:15,626,44,Clayton/Treat,0,0,0
 602542,15:54:10,15:54:10,627,45,Clayton/Treat,0,0,0
 602542,15:58:00,15:58:00,889,46,Clayton/Treat,1,0,1
-602541,14:13:00,14:13:00,775,1,Clayton/Treat,0,1,1
+602541,14:13:00,14:13:00,889,1,Clayton/Treat,0,1,1
 602541,14:14:23,14:14:23,775,2,Clayton/Treat,0,0,0
 602541,14:17:00,14:17:00,764,3,Clayton/Treat,0,0,1
 602541,14:17:54,14:17:54,863,4,Clayton/Treat,0,0,0
@@ -39851,7 +39851,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602541,14:53:15,14:53:15,626,44,Clayton/Treat,0,0,0
 602541,14:54:10,14:54:10,627,45,Clayton/Treat,0,0,0
 602541,14:58:00,14:58:00,889,46,Clayton/Treat,1,0,1
-602544,17:13:00,17:13:00,775,1,Clayton/Treat,0,1,1
+602544,17:13:00,17:13:00,889,1,Clayton/Treat,0,1,1
 602544,17:14:23,17:14:23,775,2,Clayton/Treat,0,0,0
 602544,17:17:00,17:17:00,764,3,Clayton/Treat,0,0,1
 602544,17:17:54,17:17:54,863,4,Clayton/Treat,0,0,0
@@ -39897,7 +39897,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602544,17:53:15,17:53:15,626,44,Clayton/Treat,0,0,0
 602544,17:54:10,17:54:10,627,45,Clayton/Treat,0,0,0
 602544,17:58:00,17:58:00,889,46,Clayton/Treat,1,0,1
-602543,16:13:00,16:13:00,775,1,Clayton/Treat,0,1,1
+602543,16:13:00,16:13:00,889,1,Clayton/Treat,0,1,1
 602543,16:14:23,16:14:23,775,2,Clayton/Treat,0,0,0
 602543,16:17:00,16:17:00,764,3,Clayton/Treat,0,0,1
 602543,16:17:54,16:17:54,863,4,Clayton/Treat,0,0,0
@@ -39943,7 +39943,7 @@ trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_t
 602543,16:53:15,16:53:15,626,44,Clayton/Treat,0,0,0
 602543,16:54:10,16:54:10,627,45,Clayton/Treat,0,0,0
 602543,16:58:00,16:58:00,889,46,Clayton/Treat,1,0,1
-602535,8:13:00,8:13:00,775,1,Clayton/Treat,0,1,1
+602535,8:13:00,8:13:00,889,1,Clayton/Treat,0,1,1
 602535,8:14:23,8:14:23,775,2,Clayton/Treat,0,0,0
 602535,8:17:00,8:17:00,764,3,Clayton/Treat,0,0,1
 602535,8:17:54,8:17:54,863,4,Clayton/Treat,0,0,0
